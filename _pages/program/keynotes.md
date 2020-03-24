@@ -31,7 +31,7 @@ The following speakers have graciously accepted to give keynotes at NAACL 2019.<
 ## Kathleen R. McKeown
 
 <figure>
-  <a href="http://www1.cs.columbia.edu/~kathy/"><img src="/assets/images/keynotes/kathleen.jpg"></a>
+  <a href="http://www1.cs.columbia.edu/~kathy/"><img src="{{ '/assets/images/keynotes/kathleen.jpg' | relative_url }}"></a>
   <figcaption><strong><a href="http://www1.cs.columbia.edu/~kathy/">Kathy McKeown</a></strong>: Henry and Gertrude Rothschild Professor of Computer Science, Founding Director of the Data Science Institute, Columbia University.</figcaption>
 </figure>
 <strong>Title:</strong> TBD <br/>
@@ -39,7 +39,7 @@ The following speakers have graciously accepted to give keynotes at NAACL 2019.<
 
 ## Josh Tenenbaum
 <figure>
-  <a href="https://web.mit.edu/cocosci/josh.html"><img src="/assets/images/keynotes/josh.jpg"></a>
+  <a href="https://web.mit.edu/cocosci/josh.html"><img src="{{ '/assets/images/keynotes/josh.jpg' | relative_url }}"></a>
   <figcaption><strong><a href="https://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a></strong>: Professor, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology.</figcaption>
 </figure>
 
