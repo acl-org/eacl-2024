@@ -1,5 +1,5 @@
 ---
-title: "2021 Annual Conference<br>of the Association for<br>Computational Linguistics"
+title: "2021 Annual Conference<br> of the Association for<br> Computational Linguistics"
 layout: splash
 permalink: /
 header:
@@ -48,7 +48,7 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. The social event will be held on Tuesday, June 4th at the [Minneapolis Institute of Art](https://new.artsmia.org/). We will update this website with more information as it becomes available.
+The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from <strong>June 2nd through 7th, 2019.</strong><br><br> The social event will be held on Tuesday, June 4th at the [Minneapolis Institute of Art](https://new.artsmia.org/). We will update this website with more information as it becomes available.
 
 <h2 id="dates">Important Dates</h2>
 
@@ -121,7 +121,7 @@ The Association for Computational Linguistics (ACL) invites you to participate i
         </tr>        
 </tbody>
 </table>
-<h5>Last updated: March 29, 2019. All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</h5>
+All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").
 
 <h2 id="submitlinks">Submission Links</h2>
 

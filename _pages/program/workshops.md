@@ -1,5 +1,6 @@
 ---
-title: Workshops &amp; Co-located Events
+title: Workshops
+title_class: workshops
 layout: single
 excerpt: "NAACL 2019 Workshops."
 permalink: /program/workshops/
@@ -10,90 +11,78 @@ sidebar:
     nav: program
 ---
 
-Locations for each workshop will be added soon. Please refer to each individual event's website for more details.
+## Two Day Workshops
 
-## June 6 &amp; 7
+### [W2: IWSLT](https://starsem.org/2019/)
+The 17th International Conference on Spoken Language Translation (IWSLT) is an annual scientific conference for the study, development and evaluation of spoken language translation technology: speech-to-text, speech-to-speech translation, simultaneous and consecutive translation, speech dubbing, cross-lingual communication including all multimodal, emotional, para-linguistic, and stylistic aspects and their applications in the field. The conference organizes evaluations and workshop sessions around challenge areas, and presents scientific work and system descriptions.<br/>
+**Organizers:** Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian Stüker and Marco Turchi
 
-### SemEval
-[The 13th International Workshop on Semantic Evaluation](http://alt.qcri.org/semeval2019/) is an ongoing series of evaluations of computational semantic analysis systems; it evolved from the Senseval word sense evaluation series. The evaluations are intended to explore the nature of meaning in language.<br/>
-*Organizers: Jonathan May, Ekaterina Shutova, Aurelie Herbelot, Xiaodan Zhu, Marianna Apidianaki, and Saif M. Mohammad*
+## One Day Workshops
 
-### *SEM
-The [8th Joint Conference on Lexical and Computational Semantics](https://starsem.org/2019/) brings together researchers interested in the semantics of natural languages and its computational modelling. The conference embraces symbolic and probabilistic approaches, and everything in between; theoretical contributions as well as practical applications are welcome in the form of long and short papers.<br/> 
-*General Chair: Rada Mihalcea*, *Program Co-Chairs: Lun-Wei Ku and Ekaterina Shutova*
+### [W1: WiNLP](https://starsem.org/2019/)
+The Fourth Widening NLP Workshop focuses on efforts to promote and support ideas and voices of underrepresented groups in Natural Language Processing.<br/>
+**Organizers:** Samira Shaikh, Rossana da Cunha Silva, Ann Clifton, Erika Doggett and Ryan Georgi
 
-## June 6
+### [W3: NLP4ConvAI](https://starsem.org/2019/)
+NLP for Conversational AI workshop aims at building a ConvAI community where ideas and latest progresses can be shared freely and openly.<br/>
+**Organizers:** Tsung-Hsien Wen, Asli Celikyilmaz, Iñigo Casanueva, Mihail Eric, Anuj Kumar, Alexandros Papangelis, Rushin Shah and Zhou Yu
 
-### CLPsych
-The [6th Annual Computational Linguistics and Clinical Psychology Workshop](http://clpsych.org/) aims to bring together computational linguistics researchers with clinicians to talk about the ways that language technology can be used to improve mental and neurological health.<br/>
-*Organizers: Kate Niederhoffer, Kate Loveys, Philip Resnik, Rebecca Resnik, and Kristy Hollingshead*
+### [W4: BioNLP 2020](https://starsem.org/2019/)
+NLP can help improve health and BioNLP is the best venue for biomedical & clinical language processing researchers to learn how.<br/>
+**Organizers:** Dina Demner-Fushman, Kevin Cohen, Sophia Ananiadou and Jun’ichi Tsujii
 
-### DISRPT
-The [Workshop on Discourse Relation Parsing and Treebanking](https://sites.google.com/view/disrpt2019/) aims to broaden the scope of discussion from previous biennial events on discourse relation studies. The goal is to include participants and program committee members from different discourse theories (especially, but not limited to, RST, SDRT and PDTB) and focus on applied papers with a computational orientation, resource papers and work on discourse parsing, as well as papers that advance the field with novel theoretical contributions and promote cross-framework fertilization.<br/>
-*Organizers: Amir Zeldes, Debopam Das, Erick Galani Maziero, Juliano Antonio, and Mikel Iruskieta*
+### [W6: IWPT](https://starsem.org/2019/)
+The 16th International Conference on Parsing Technologies. All things related to the analysis of language structure, with a shared task on Multilingual Parsing to Enhanced Universal Dependencies.<br/>
+**Organizers:** Yuji Matsumoto, Stephan Oepen, Kenji Sagae, Anders Søgaard, Weiwei Sun and Reut Tsarfaty
 
-### ESSP
-The [Workshop on Extracting Structured Knowledge from Scientific Publications](https://scientific-knowledge.github.io) focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.<br/>
-*Organizers: Vivi Nastase, Benjamin Roth, Laura Dietz, and Andrew McCallum*
+### [7: FLP](https://starsem.org/2019/)
+The 2nd Workshop on Figurative Language Processing aims to discuss computational approaches to figurative language (e.g., metaphors, puns, sarcasm). Shared tasks: one on metaphor and one on sarcasm detection.<br/>
+**Organizers:** Beata Beigman Klebanov, Ekaterina Shutova, Patricia Lichtenstein, Smaranda Muresan, Anna Feldman, Chee Wee (Ben) Leong and Debanjan Ghosh
 
-### NeuralGen
-The [Workshop on Methods for Optimizing and Evaluating Neural Language Generation](https://neuralgen2019.github.io) aims to discuss new methods for language generation that address some of the recurring problems in existing language generation techniques (eg. bland, repetitive language) as well as novel techniques for robustly evaluating and interpreting model output.<br/>
-*Organizers: Antoine Bosselut, Marjan Ghazvininejad, Srinivasan Iyer, Urvashi Khandelwal, Hannah Rashkin, Asli Celikyilmaz, and Thomas Wolf*
+### [W8: NUSE](https://starsem.org/2019/)
+The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH & beyond to discuss methods/fiction/news/social media.<br/>
+**Organizers:** Claire Bonial, Tommaso Caselli, Snigdha Chaturvedi, Elizabeth Clark, Ruihong Huang, Ben Miller, Mohit Iyyer, Alejandro Jaimes, Heng Ji, Lara Martin, Teruko Mitamura, Nanyun Peng and Joel Tetreault
 
-### NLP+CSS
-The [3rd Workshop on NLP and Computational Social Science](https://sites.google.com/site/nlpandcss/home) is a cross-disciplinary workshop that aims to advance the joint computational analysis of social sciences and language by explicitly involving social scientists, NLP researchers, and industry partners.<br/>
-*Organizers: Svitlana Volkova, David Jurgens, Oren Tsur, Dirk Hovy, and David Bamman*
+### [W9: ALVR](https://starsem.org/2019/)
+Workshop on Advances in Language and Vision Research. Promoting the frontier of language and vision research and bringing researchers together to discuss real-world solutions in this area.<br/>
+**Organizers:** Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang
 
-### RepEval
-The [3rd Workshop on Evaluating Vector Space Representations for NLP](https://repeval2019.github.io) aims to encourage interdisciplinary dialogue by welcoming diverse perspectives on the issues surrounding vector-space representations: submissions may focus on properties of embedding space, performance analysis for various downstream tasks, as well as approaches based on linguistic and psychological data.<br/>
-*Organizers: Anna Rogers, Aleksandr Drozd, Anna Rumshisky, and Yoav Goldberg*
+### [W10: RepL4NLP](https://starsem.org/2019/)
+The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel.<br/>
+**Organizers:** Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein
 
-### SiVL
-The [Workshop on Shortcomings in Vision and Language](https://sites.google.com/view/sivl2019/) aims to bring together researchers at the intersection of vision and language to discuss shortcomings of modern approaches, tasks, datasets, and evaluation metrics for problems including image and video captioning, visual question answering, visual dialog, activity recognition, image retrieval and referring expressions.<br/>
-*Organizers: Kushal Kafle, Spandana Gella, Stefan Lee, Moin Nabi, Raffaella Bernardi, Christopher Kanan, and Raquel Fernandez*
+### [W11: NLI](https://starsem.org/2019/)
+Natural Language Interfaces: Challenges and Promises. This multidisciplinary workshop retrospectively and prospectively discusses the challenges and promises of natural language interfaces.<br/>
+**Organizers:** Ahmed Hassan Awadallah, Yu Su, Huan Sun and Scott Wen-tau Yih
 
-### SpLU-RoboNLP
-The [Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics](https://splu-robonlp.github.io/) focuses on spatial language meaning representations, situated language grounding, and their application to robotics, HRI, learning, QA, and reasoning.<br/>
-*Organizers: James F. Allen, Jacob Andreas, Jason Baldridge, Mohit Bansal, Archna Bhatia, Yonatan Bisk, Asli Celikyilmaz, Bonnie J. Dorr, Parisa Kordjamshidi, Matthew Marge, Jesse Thomason.*
+### [W12: WNGT](https://starsem.org/2019/)
+The 4th Workshop on Neural Generation and Translation provides a forum for research in applications of neural models to language generation and translation tasks.<br/>
+**Organizers:** Alexandra Birch, Graham Neubig, Andrew Finch, Hiroaki Hayashi, Kenneth Heafield, Ioannis Konstas, Yusuke Oda and Xian Li
 
-### WASSA
-The [10th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2019/index.htm) aims to continue the line of the previous editions, bringing together researchers in Computational Linguistics working on Subjectivity and Sentiment Analysis and researchers working on interdisciplinary aspects of affect computation from text.<br/>
-*Organizers: Alexandra Balahur, Roman Klinger, Veronique Hoste, Carlo Strapparava, and Orphee De Clercq*
+### [W13: BEA](https://starsem.org/2019/)
+The 15th Workshop on Innovative Use of NLP for Building Educational Applications. The BEA Workshop is a leading venue for NLP innovation in educational applications and one of the largest one-day workshops in ACL.<br/>
+**Organizers:** Ekaterina Kochmar, Jill Burstein, Claudia Leacock, Nitin Madnani, Ildiko Pilan, Helen Yannakoudakis and Torsten Zesch
 
-## June 7
+### [W14: SIGMORPHON](https://starsem.org/2019/)
+SIGMORPHON brings together researchers interested in applying computational techniques to problems in morphology, phonology, and phonetics.<br/>
+**Organizers:** Garrett Nicolai and Kyle Gorman
 
-### Clinical NLP
-[The Clinical Natural Language Processing Workshop](https://clinical-nlp.github.io/2019/) specifically focuses on advancing state-of-the-art in clinical NLP, rather than merely applying existing NLP systems to downstream clinical problems (such as outcome prediction or clinical cohort selection).<br/>
-*Organizers: Anna Rumshisky, Kirk Roberts, Steven Bethard, and Tristan Naumann*
+### [W15: NLPMC](https://starsem.org/2019/)
+NLP for Medical Conversations. Building the clinical decision support systems as cognitive assistants by bridging the gap between NLP research and medical practice.<br/>
+**Organizers:** Parminder Bhatia, Chaitanya Shivade, Mona Diab, Byron Wallace, Rashmi Gangadharaiah, Nan Du, Izhak Shafran and Steven Lin
 
-### CMCL
-The [Workshop on Cognitive Modeling and Computational Linguistics](https://cmclorg.github.io/) The CMCL workshop provides a venue for computational research on cognitive theories of language processing, representation and acquisition.<br/>
-*Organizers: Emmanuele Chersoni, Cassandra L. Jacobs, Alessandro Lenci, Tal Linzen, Laurent Prévot, and Enrico Santus*
+### [W16: ECNLP](https://starsem.org/2019/)
+The Third Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included.<br/>
+**Organizers:** Shervin Malmasi, Eugene Agichtein, Oleg Rokhlenko, Nicola Ueffing and Ido Guy
 
-### CRAC
-The [2nd Workshop on Computational Models of Reference, Anaphora and Coreference](https://sites.google.com/view/crac2019/) aims to provide a forum where work on all aspects of computational work on anaphora resolution and annotation, including both coreference and types of anaphora such as bridging references resolution and discourse deixis, can be presented.<br/>
-*Organizers: Maciej Ogrodniczuk, Sameer Pradhan, Yulia Grishina, and Vincent Ng*
+### [W17: SocialNLP](https://starsem.org/2019/)
+The Eighth International Workshop on Natural Language Processing for Social Media (SocialNLP 2020). Check out social NLP tech from experts, researches and applications, plus resources for you to play in challenge EmotionX from SocialNLP!<br/>
+**Organizers:** Lun-Wei Ku and Cheng-Te Li
 
-### LaTECH-ClFl
-The [3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2019/) will put in the same room two events with a similar research focus and with some tradition: the Workshops on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) and the Workshops on Computational Linguistics for Literature (CLfL). The LaTeCH workshop series has focused on developing technologies for improved information access to data from the humanities and social sciences and the CLfL workshops have focussed on applications of NLP to literary data.<br/>
-*Organizers: Beatrice Alex, Stefania Degaetano-Ortlieb, Anna Kazantseva, Nils Reiter, and Stan Szpakowicz* 
+### [W18: AutoSimTrans](https://starsem.org/2019/)
+The 1st Workshop on Automatic Simultaneous Translation: challenges, recent advances,and future directions.<br/>
+**Organizers:** Hua Wu, Colin Cherry, James Cross, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu
 
-### Narrative Understanding
-The [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/) aims to bring together an interdisciplinary groups of researchers from AI, ML, NLP, Computer Vision and other related fields, as well as scholars from the humanities to discuss methods to improve automatic narrative understanding capabilities.<br/>
-*Organizers: David Bamman, Snigdha Chaturvedi, Elizabeth Clark, Madalina Fiterau, and Mohit Iyyer*
-
-### NLLP
-The [Workshop in Natural Legal Language Processing](https://sites.google.com/view/nllp/) aims to focus attention on the applications of NLP to the wide variety of textual data in the Legal domain. We hope to stimulate interesting discussion within the community on special problems that are unique to legal texts, legal dialogue and legal knowledge resources.<br/>
-*Organizers: Nikolaos Aletras, Elliott Ash, Leslie Barrett, Daniel Chen, Adam Meyers, Daniel Preotiuc-Pietro, David Rosenberg, and Amanda Stent*
-
-### SLPAT
-The [Workshop on Speech and Language Processing for Assistive Technologies](http://www.slpat.org) bring individuals from the areas of Assistive Technologies/Augmentative and Alternative Communication and Speech/NLP together with users to share research findings, and to discuss present and future challenges and the potential for collaboration and progress.<br/>
-*Organizers: Heidi Christensen, Kristy Hollingshead, Emily Prud'hommeaux, Frank Rudzicz, and Keith Vertanen*
-
-### SPNLP
-The [3rd Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/SPNLP19) aims to bring together NLP and ML researchers who have an interest in structured prediction due to recent advances in methods using continuous representations, being able to learn with task-level supervision, or modelling latent linguistic structure.<br/>
-*Organizers: André F. T. Martins, Andreas Vlachos, Sujith Ravi, Zornitsa Kozareva, Julia Kreutzer, Vlad Niculae, and Gerasimos Lampouras*
-
-### VarDial
-The [6th Workshop on NLP for Similar Languages, Varieties and Dialects](https://sites.google.com/view/vardial2019) is the latest in a well-established series of workshops promoting a forum for scholars working on a range of topics related to the study of diatopic linguistic variation from a computational perspective.<br/>
-*Organizers: Marcos Zampieri, Preslav Nakov, Shervin Malmasi, Nikola Ljubešić, Jörg Tiedemann, and Ahmed Ali*
+### [W19: Challenge-HML](https://starsem.org/2019/)
+The Second Grand-Challenge and Workshop on Human Multimodal Language promotes the growth of modeling multimodal language (language, vision, acoustic) as a fundamental research area in NLP.<br/>
+**Organizers:** AmirAli Bagher Zadeh, Louis-Philippe Morency, Paul Pu Liang, Soujanya Poria and Ying Shen

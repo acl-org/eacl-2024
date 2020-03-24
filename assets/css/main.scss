@@ -7,6 +7,7 @@
 @charset "utf-8";
 
 $border-radius: 6px;
+$left-sidebar-width: 200px;
 
 // setting the color for some links and headers
 $gray-headers-color: #2B2D38;
@@ -125,34 +126,55 @@ tr td:nth-child(2) {
   }
 }
 
-.toc {
-  .nav__title {
-     font-size: $type-size-7 !important;
+.sidebar {
+
+  .nav__sub-title {
+    font-size: 14px !important;
   }
+
+  ul{
+    font-size: 22px !important;
+  }
+
   .toc__menu {
-    li {
-      a {
-        font-size: $type-size-7 !important;
-      }  
+    font-size: 18px !important;
+
+    a {
+    border-bottom: none !important;
     }
   }
 }
 
-/*$right-sidebar-width-narrow: 0;
-$right-sidebar-width: 0;
-$right-sidebar-width-wide: 0;*/
-
-.toc__menu {
-  a {
-    border-bottom: none !important;
-  }
+// editing the workshops page
+.page__title__workshops {
+  padding: 0.25rem 0;
+  color: $gray-headers-color;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Roboto";
 }
+#two-day-workshops {
+  margin-top: 30px;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 // overriding the color of the splash image caption
 .page__hero {
+
+  &-caption {
+    display: none;
+  }
+
   &--overlay {
+    height: 200px;
+    display: flex;
+    align-items: center;
+
+      @include breakpoint($small) {
+        height: 349px;
+      }
 
     &::before {
       position: absolute;
@@ -168,12 +190,17 @@ $right-sidebar-width-wide: 0;*/
     .page__title {
       z-index: 2;
       text-align: right;
-      font-size: 38px;
+      font-size: 25px;
       color: #fff;
       margin: 0;
+      line-height: 1.5;
       /*font-weight: 500;*/
       font-family: "Circular";
       /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+
+      @include breakpoint($small) {
+        font-size: 40px;
+      }
     }
     .page__lead {
       display: none;

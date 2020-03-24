@@ -37,15 +37,15 @@
 }
 
 .page {
-  @include breakpoint($large) {
+  @include breakpoint($small) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    /*padding-right: $right-sidebar-width-narrow;*/
+    /*padding-right: $right-sidebar-width-narrow;*/ /* override */
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    /*padding-right: $right-sidebar-width;*/
+    /*padding-right: $right-sidebar-width;*/ /* override */
   }
 
   .page__inner-wrap {
