@@ -8,15 +8,17 @@ header:
 excerpt: "<br/><br/>"
 ---
 
+<!--
 <div class="text-center">
     <img width="30%" src="assets/images/logos/naacl-logo.png"/><br/>
     <span style="font-weight: bold; font-size: smaller;">
     Tutorials : June 2<br/>&nbsp;Main Conference : June 3 &ndash; June 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : June 6 &ndash; June 7</span>
-    <!-- <br/><br/>       
-    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a> -->
+        <br/><br/>       
+    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
     <br/><br/>       
     <a href="/captions/" class="btn btn--primary">Access Live Captions</a>
 </div>
+-->
 
 <h2>News</h2>
 

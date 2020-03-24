@@ -36,6 +36,11 @@
             {% endif %}
 
             <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+
+            {% if page.toc and page.url == child.url %}
+            {% include toc.html sanitize=true html=content h_min=1 h_max=4 class="toc__menu" %}
+            {% endif %}
+
           {% endfor %}
         </ul>
         {% endif %}

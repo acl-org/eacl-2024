@@ -26,10 +26,29 @@ aravind:
     small_excerpt: 'Arvind Narayanan is an Associate Professor of Computer Science at Princeton. His research has shown how state-of-the-art word embeddings reflect racial, gender, and other cultural stereotypes. He leads the Princeton Web Transparency and Accountability Project to uncover how companies collect and use our personal information. His doctoral research showed the fundamental limits of de-identification, for which he received the Privacy Enhancing Technologies Award. Narayanan also co-created a Massive Open Online Course as well as a textbook on Bitcoin and cryptocurrency technologies.'
 ---
 
-The following speakers have graciously accepted to give keynotes at NAACL 2019. The titles and abstracts will be announced soon.
+The following speakers have graciously accepted to give keynotes at NAACL 2019.<br>The titles and abstracts will be announced soon.
 
+## Kathleen R. McKeown
+
+<figure>
+  <a href="http://www1.cs.columbia.edu/~kathy/"><img src="/assets/images/keynotes/kathleen.jpg"></a>
+  <figcaption><strong><a href="http://www1.cs.columbia.edu/~kathy/">Kathy McKeown</a></strong>: Henry and Gertrude Rothschild Professor of Computer Science, Founding Director of the Data Science Institute, Columbia University.</figcaption>
+</figure>
+<strong>Title:</strong> TBD <br/>
+<strong>Abstract:</strong> TBD
+
+## Josh Tenenbaum
+<figure>
+  <a href="https://web.mit.edu/cocosci/josh.html"><img src="/assets/images/keynotes/josh.jpg"></a>
+  <figcaption><strong><a href="https://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a></strong>: Professor, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology.</figcaption>
+</figure>
+
+<strong>Title:</strong> TBD <br/>
+<strong>Abstract:</strong> TBD
+
+<!--
 {% include feature_row id="rada" type="left" %}
 
 {% include feature_row id="kieran" type="left" %}
 
-{% include feature_row id="aravind" type="left" %}
+{% include feature_row id="aravind" type="left" %} -->

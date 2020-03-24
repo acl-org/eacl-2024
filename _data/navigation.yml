@@ -1,11 +1,11 @@
 # main links
 main:
 
-  - title: "Schedule"
-    url: /schedule/
+#  - title: "Schedule"
+#    url: /schedule/
 
-  - title: "LiveCaptions"
-    url: /captions/
+#  - title: "LiveCaptions"
+#    url: /captions/
 
   - title: "Program"
     url: /program/tutorials/
@@ -13,21 +13,20 @@ main:
   - title: "Blog"
     url: /blog
 
-  - title: "Registration"
-    url: /registration
+#  - title: "Registration"
+#    url: /registration
 
-  - title: "Participants"
-    url: "/participants"
-
-  - title: "Organization"
-    url: /organization
+#  - title: "Participants"
+#    url: "/participants"
 
   - title: "Sponsors"
     url: /sponsors/list/
-    
+
   - title: "Calls"
     url: /calls/papers
 
+  - title: "Organization"
+    url: /organization
 
 calls:
   - title: Call for
@@ -54,10 +53,10 @@ program:
         url: /program/workshops/
       - title: "Keynote Speakers"
         url: /program/keynotes/
-      - title: "Accepted Papers"
-        url: /program/accepted/
-      - title: "Careers in NLP Panel"
-        url: /program/careerspanel/
+#      - title: "Accepted Papers"
+#        url: /program/accepted/
+#      - title: "Careers in NLP Panel"
+#        url: /program/careerspanel/
 
 
 # participants:

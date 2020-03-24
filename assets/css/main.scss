@@ -41,6 +41,7 @@ $header-font-family: "Circular";
 $caption-font-family: "Roboto";
 $sans-serif-narrow: "Roboto";
 
+$type-size-3: 40px;
 $type-size-4: 40px;
 $type-size-5: 24px;
 $type-size-6: 22px;
@@ -137,6 +138,15 @@ tr td:nth-child(2) {
   }
 }
 
+/*$right-sidebar-width-narrow: 0;
+$right-sidebar-width: 0;
+$right-sidebar-width-wide: 0;*/
+
+.toc__menu {
+  a {
+    border-bottom: none !important;
+  }
+}
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
