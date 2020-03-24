@@ -9,14 +9,16 @@
 {% else %}
   {% if gallery.size == 2 %}
     {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 3 %}
+  {% elsif gallery.size == 3 %}
     {% assign gallery_layout = 'third' %}
+  {% elsif gallery.size >= 4 %}
+    {% assign gallery_layout = 'fourth' %}
   {% else %}
     {% assign gallery_layout = '' %}
   {% endif %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
+<figure class="{{ gallery_layout }}">
   {% for img in gallery %}
     {% if img.url %}
       <a href=

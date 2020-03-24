@@ -1,5 +1,5 @@
 ---
-title: "2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics"
+title: "2021 Annual Conference<br>of the Association for<br>Computational Linguistics"
 layout: splash
 permalink: /
 header:
@@ -50,15 +50,15 @@ The Association for Computational Linguistics (ACL) invites you to participate i
 
 <h2 id="dates">Important Dates</h2>
 
-<table style="width: 60%">
+<table>
     <tbody>
         <tr>
-            <td style="width: 40%;">Abstract &amp; keywords due<br/>(<i>long, short, &amp; industry track</i>)</td>
+            <td style="width: 50%;">Abstract &amp; keywords due<br/>(<i>long, short, &amp; industry track</i>)</td>
             <td style="width: 30%;">Monday</td>
             <td>December 3, 2018</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
+            <td style="width: 50%;">Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
             <td style="width: 30%;">Monday</td>
             <td>December 10, 2018</td>
         </tr>

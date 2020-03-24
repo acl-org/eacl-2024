@@ -92,7 +92,7 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $type-size-5; /* override */
   }
 
   /* paragraph indents */
@@ -176,7 +176,7 @@
       }
     }
 
-    .page__title,
+    /*.page__title,*/
     .page__meta,
     .page__lead,
     .btn {

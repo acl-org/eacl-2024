@@ -70,7 +70,7 @@
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/ /* override */
   }
 
   li + li:before {
@@ -80,7 +80,7 @@
 
   a {
     padding-right: 10px;
-    font-weight: bold;
+    /*font-weight: bold;*/ /* override */
   }
 
   .social-icons {

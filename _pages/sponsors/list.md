@@ -26,121 +26,83 @@ diamond:
     image_path: /assets/images/logos/asapp-logo.png
     alt: "Asapp Logo"
     title: "Asapp"
-  - image_path: /assets/images/logos/blank-logo.png
 platinum:
-  - url: https://www.twosigma.com
-    image_path: /assets/images/logos/twosigma-logo.png
-    alt: "Two Sigma Logo"
-    title: "Two Sigma"
-  - url: https://www.thomsonreuters.com/en.html
-    image_path: /assets/images/logos/reuters-logo.png
-    alt: "Thomson Reuters Logo"
-    title: "Thomson Reuters"
-  - url: https://www.capitalone.com
-    image_path: /assets/images/logos/capital-one-logo.png
-    alt: "Capital One Logo"
-    title: "Capital One"
-  - url: https://deepmind.com
-    image_path: /assets/images/logos/deepmind-logo.png
-    alt: "DeepMind Logo"
-    title: "DeepMind"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.techatbloomberg.com/nlp/
+    image_path: /assets/images/logos/bloomberg-logo.png
+    alt: "Bloomberg Logo"
+    title: "Bloomberg"
+  - url: https://www.google.com
+    image_path: /assets/images/logos/google-logo.png
+    alt: "Google Logo"
+    title: "Google"
+  - url: https://www.facebook.com
+    image_path: /assets/images/logos/facebook-logo.png
+    alt: "Facebook Logo"
+    title: "Facebook"
+  - url: https://www.amazon.com
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
 gold:
-  - url: https://www.megagon.ai
-    image_path: /assets/images/logos/megagon-logo.png
-    alt: "Megagon Labs Logo"
-    title: "Megagon Labs"
-  - url: https://www.bytedance.com/ai_lab/
-    image_path: /assets/images/logos/bytedance-logo.png
-    alt: "ByteDance Logo"
-    title: "ByteDance"
-  - url: https://investor.vanguard.com/corporate-portal/
-    image_path: /assets/images/logos/vanguard-logo.png
-    alt: "Vanguard Logo"
-    title: "Vanguard"
+  - url: https://www.techatbloomberg.com/nlp/
+    image_path: /assets/images/logos/bloomberg-logo.png
+    alt: "Bloomberg Logo"
+    title: "Bloomberg"
+  - url: https://www.google.com
+    image_path: /assets/images/logos/google-logo.png
+    alt: "Google Logo"
+    title: "Google"
+  - url: https://www.facebook.com
+    image_path: /assets/images/logos/facebook-logo.png
+    alt: "Facebook Logo"
+    title: "Facebook"
+  - url: https://www.amazon.com
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
 silver:
-  - url: http://www.duolingo.com
-    image_path: /assets/images/logos/duolingo-logo.png
-    alt: "Duolingo Logo"
-    title: "Duolingo"
-  - url: http://www.sap.com
-    image_path: /assets/images/logos/sap-logo.png
-    alt: "SAP Logo"
-    title: "SAP"
-  - url: http://www.ebay.com
-    image_path: /assets/images/logos/ebay-logo.png
-    alt: "Ebay Logo"
-    title: "Ebay"
-  - url: https://www.grammarly.com
-    image_path: /assets/images/logos/grammarly-logo.png
-    alt: "Grammarly Logo"
-    title: "Grammarly"
-  - url: https://www.microsoft.com/
-    image_path: /assets/images/logos/microsoft-logo.png
-    alt: "Microsoft Logo"
-    title: "Microsoft"
-  - url: https://www.cisco.com
-    image_path: /assets/images/logos/cisco-logo.png
-    alt: "Cisco Logo"
-    title: "Cisco"
-  - url: https://www.interactions.com
-    image_path: /assets/images/logos/interactions-logo.png
-    alt: "Interactions Logo"
-    title: "Interactions"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.techatbloomberg.com/nlp/
+    image_path: /assets/images/logos/bloomberg-logo.png
+    alt: "Bloomberg Logo"
+    title: "Bloomberg"
+  - url: https://www.google.com
+    image_path: /assets/images/logos/google-logo.png
+    alt: "Google Logo"
+    title: "Google"
+  - url: https://www.facebook.com
+    image_path: /assets/images/logos/facebook-logo.png
+    alt: "Facebook Logo"
+    title: "Facebook"
+  - url: https://www.amazon.com
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
 bronze:
-  - url: http://www.ets.org
-    image_path: /assets/images/logos/ets-logo.png
-    alt: "ETS Logo"
-    title: "ETS"
-  - url: https://www.raytheon.com/ourcompany/bbn
-    image_path: /assets/images/logos/raytheon-bbn-logo.png
-    alt: "Raytheon BBN Logo"
-    title: "Raytheon"
-  - url: https://www.isi.edu
-    image_path: /assets/images/logos/isi-logo.png
-    alt: "USC Information Sciences Institute Logo"
-    title: "USC Information Sciences Institute"
-  - url: https://clinc.com
-    image_path: /assets/images/logos/clinc-logo.png
-    alt: "Clinc Logo"
-    title: "Clinc"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.techatbloomberg.com/nlp/
+    image_path: /assets/images/logos/bloomberg-logo.png
+    alt: "Bloomberg Logo"
+    title: "Bloomberg"
+  - url: https://www.google.com
+    image_path: /assets/images/logos/google-logo.png
+    alt: "Google Logo"
+    title: "Google"
+  - url: https://www.facebook.com
+    image_path: /assets/images/logos/facebook-logo.png
+    alt: "Facebook Logo"
+    title: "Facebook"
+  - url: https://www.amazon.com
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
 supporter:
 socialevent:
-  - url: https://www.capitalgroup.com
-    image_path: /assets/images/logos/capital-group-logo.png
-    alt: "Capital Group Logo"
-    title: "Capital Group"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 dichampion:
-  - url: https://deepmind.com
-    image_path: /assets/images/logos/deepmind-logo.png
-    alt: "DeepMind Logo"
-    title: "DeepMind"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 dially:
   - url: https://www.google.com
     image_path: /assets/images/logos/google-logo.png
     alt: "Google Logo"
     title: "Google"
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 inkind:
-  - url: https://www.grammarly.com
-    image_path: /assets/images/logos/grammarly-logo.png
-    alt: "Grammarly Logo"
-    title: "Grammarly"
-  - url: https://translator.microsoft.com
-    image_path: /assets/images/logos/microsoft-translator-logo.png
-    alt: "Microsoft Translator Logo"
-    title: "Microsoft Translator"
-  - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
 ---
@@ -153,43 +115,43 @@ In addition, Grammarly donated grammar-checking services to our submitting autho
 
 ## Diamond
 
-{% include gallery id="diamond" class="fourth" %}
+{% include gallery id="diamond" %}
 
 ## Platinum
 
-{% include gallery id="platinum" class="fourth" %}
+{% include gallery id="platinum" %}
 
 ## Gold
 
-{% include gallery id="gold" class="fourth" %}
+{% include gallery id="gold" %}
 
 ## Silver
 
-{% include gallery id="silver" class="fourth" %}
+{% include gallery id="silver" %}
 
 ## Bronze
 
-{% include gallery id="bronze" class="fourth" %}
+{% include gallery id="bronze" %}
 
 ## Supporter
 
-<!-- {% include gallery id="supporter" class="fourth" %} -->
+<!-- {% include gallery id="supporter" %} -->
 
 ## Social Event Entertainment
 
-{% include gallery id="socialevent" class="fourth" %}
+{% include gallery id="socialevent" %}
 
 ## Diversity &amp; Inclusion: Champion
 
-{% include gallery id="dichampion" class="fourth" %}
+{% include gallery id="dichampion" %}
 
 ## Diversity &amp; Inclusion: Ally
 
-{% include gallery id="dially" class="fourth" %}
+{% include gallery id="dially" %}
 
 ## In-Kind Donations
 
-{% include gallery id="inkind" class="fourth" %}
+{% include gallery id="inkind" %}
 
 <div class="text-center"> 
 <a href="/sponsors/benefits/"><button class="btn btn--large btn--inverse">Sponsorship Tiers &amp; Pricing</button></a>

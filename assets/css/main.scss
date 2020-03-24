@@ -2,9 +2,140 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// global variables
+
 @charset "utf-8";
 
-$link-color: blue;
+$border-radius: 6px;
+
+// setting the color for some links and headers
+$gray-headers-color: #2B2D38;
+
+// setting the background for header and footer
+$gray-background: #F1F2FA;
+
+// overriding the links color
+$link-color: #5F8BFA;
+$link-color-visited: #5F8BFA;
+
+// changing the text color
+$text-color: #1A3356;
+
+// overriding the default gray color of the background
+$background-color: #FFFFFF;
+
+/* editing the border color everywhere - deleting it from the masthead
+and changing its color to match the design */
+.masthead {
+  border-bottom: none !important;
+}
+$border-color: #E3E6F2;
+td {
+  border-color: $border-color !important;
+}
+
+// changing the fonts
+$sans-serif: Roboto;
+$global-font-family: "Roboto";
+$header-font-family: "Circular";
+$caption-font-family: "Roboto";
+$sans-serif-narrow: "Roboto";
+
+$type-size-4: 40px;
+$type-size-5: 24px;
+$type-size-6: 22px;
+$type-size-7: 18px;
+
+// editing the masthead
+
+.masthead {
+  text-transform: uppercase;
+}
+
+#site-nav, .masthead {
+  background: $gray-background;
+}
+
+.masthead__menu-item {
+  font-size: 14px;
+}
+
+#site-nav .site-title {
+  color: #000000;
+  font-size: 16px;
+}
+$masthead-link-color: $gray-headers-color;
+
+.site-title {
+ font-family: "Akkurat";
+}
+
+// editing the footer
+
+$footer-background-color: $gray-background;
+
+.page__footer {
+  color: $gray-headers-color !important;
+
+  strong {
+    font-weight: 500;
+  }
+}
+
+.social-icons a {
+  color: #8189A9 !important;
+}
+
+.page__footer-follow li {
+  margin-bottom: 42px;
+}
+
+.page__footer-copyright {
+  color: #ACACAE;
+}
+
+// styling the table
+table {
+  font-size: $type-size-5 !important;
+}
+
+tr td:nth-child(2) {
+  color: #A6ADC9;
+}
+
+// editing the sidebar
+.sidebar {
+  .nav__sub-title {
+      color: $gray-headers-color;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  a {
+    color: $gray-headers-color !important;
+  }
+
+  a.active {
+    color: $link-color !important;
+  }
+}
+
+.toc {
+  .nav__title {
+     font-size: $type-size-7 !important;
+  }
+  .toc__menu {
+    li {
+      a {
+        font-size: $type-size-7 !important;
+      }  
+    }
+  }
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -12,16 +143,33 @@ $link-color: blue;
 // overriding the color of the splash image caption
 .page__hero {
   &--overlay {
+
+    &::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      content: "";
+      background-image: linear-gradient(to right, rgba(0,0,0,0), #5ac09d);
+    }
+
     .page__title {
-       font-size: 38px;
-       color: #fff;
-       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+      z-index: 2;
+      text-align: right;
+      font-size: 38px;
+      color: #fff;
+      margin: 0;
+      /*font-weight: 500;*/
+      font-family: "Circular";
+      /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
     }
     .page__lead {
-       font-size: 30px;
-       color: #fff;
-       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-
+      display: none;
+      font-size: 30px;
+      color: #fff;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
   }
 }
