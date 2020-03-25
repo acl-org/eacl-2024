@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: single
-excerpt: "NAACL 2019 Conference Registration."
+excerpt: "ACL 2020 Conference Registration."
 permalink: /registration/
 sidebar: false
 
@@ -9,20 +9,15 @@ sidebar: false
 
 <!-- {% include toc icon="gears" %} -->
 
-Registration is now open! The NAACL 2019 registration fees is shown below and are the same as in 2016 and 2018. Note that both early and late registration ended on April 28, 2019 and May 19, 2019 respectively. You can now only register on site.
+We hope to open registration sometime in the first two weeks of April.  The ACL 2019 registration fees shown below are provided to assist in your travel planning.  We hope to keep the fees at or close to these numbers but the fees may possibly increase slightly. 
 
-<div class="text-center">
-    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Onsite Now</a>
-</div>
- 
 Note that: 
-- Early registration ended April 28, 2019, 11:59 PM (EDT).<br/>
-- Late registration started April 29, 2019 and ended May 19, 2019, 11:59 PM (EDT).<br/>
-- On-site registration begins June 2, 2019.
-- If you have any other questions about registration, please contact [acl@aclweb.org](mailto:acl@aclweb.org).
+- Early registration will end May 24, 2020, 11:59 PM (EDT).
+- Late registration will end June 21, 2020, 11:59 PM (EDT).
+- On-site registration begins July 5, 2020.
+- If you have any other questions about registration, please contact [acl.PatKirby@gmail.com](mailto:acl.PatKirby@gmail.com).
 
-
-## NAACL 2019 Registration Fees
+## ACL 2019 Registration Fees Were
 
 <table style="font-size: medium;">
     <thead>
@@ -42,12 +37,12 @@ Note that:
         </tr>
         <tr>
             <td style="background-color: #F2F3F3; font-weight: bold;">Main Conference</td>
-            <td>$595</td>
-            <td>$690</td>
-            <td>$770</td>
+            <td>$550</td>
+            <td>$625</td>
+            <td>$700</td>
             <td>$295</td>
-            <td>$370</td>
-            <td>$420</td>
+            <td>$345</td>
+            <td>$400</td>
         </tr>        
         <tr>
             <td style="background-color: #F2F3F3; font-weight: bold;">Tutorials</td>
@@ -55,9 +50,9 @@ Note that:
         </tr>        
         <tr>
             <td style="background-color: #F2F3F3;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Main Conference</td>
-            <td>$195</td>
-            <td>$225</td>
-            <td>$225</td>
+            <td>$185</td>
+            <td>$210</td>
+            <td>$210</td>
             <td>$125</td>
             <td>$145</td>
             <td>$145</td>
@@ -77,21 +72,21 @@ Note that:
         </tr>  
         <tr>
             <td style="background-color: #F2F3F3;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Main Conference</td>
+            <td>$135</td>
+            <td>$185</td>
+            <td>$185</td>
+            <td>$110</td>
             <td>$145</td>
-            <td>$195</td>
-            <td>$195</td>
-            <td>$120</td>
-            <td>$155</td>
-            <td>$155</td>
+            <td>$145</td>
         </tr>
         <tr>
             <td style="background-color: #F2F3F3;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;without Main Conference</td>
-            <td>$240</td>
-            <td>$265</td>
-            <td>$265</td>
-            <td>$170</td>
-            <td>$195</td>
-            <td>$195</td>
+            <td>$230</td>
+            <td>$255</td>
+            <td>$255</td>
+            <td>$160</td>
+            <td>$190</td>
+            <td>$190</td>
         </tr>
         <tr>
             <td style="background-color: #F2F3F3; font-weight: bold;">Workshops (2-day)</td>
@@ -99,21 +94,21 @@ Note that:
         </tr>  
         <tr>
             <td style="background-color: #F2F3F3;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Main Conference</td>
-            <td>$275</td>
-            <td>$325</td>
-            <td>$325</td>
+            <td>$225</td>
+            <td>$260</td>
+            <td>$260</td>
+            <td>$170</td>
             <td>$200</td>
-            <td>$240</td>
-            <td>$240</td>
+            <td>$200</td>
         </tr>
         <tr>
             <td style="background-color: #F2F3F3;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;without Main Conference</td>
-            <td>$400</td>
-            <td>$450</td>
-            <td>$450</td>
-            <td>$250</td>
-            <td>$310</td>
-            <td>$310</td>
+            <td>$390</td>
+            <td>$430</td>
+            <td>$430</td>
+            <td>$240</td>
+            <td>$300</td>
+            <td>$300</td>
         </tr>
     </tbody>
 </table>
@@ -128,3 +123,11 @@ Note that:
 - Anyone cancelling within three weeks prior to the conference and all no-shows will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration).
 
 - Anyone cancelling due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid regardless of when the notification is received by the ACL Office.
+
+## Registration Hours
+
+The on-site registration desks will only be open during the following hours:
+- Sunday, July 5th &ndash; Tuesday, July 7th: 7:30am &ndash; 6:00pm
+- Wednesday, July 8th: 8:00am &ndash; 5:30pm
+- Thursday, July 9th &ndash; Friday, July 10th: 8:00am &ndash; 5:00pm
+

@@ -97,6 +97,10 @@ $footer-background-color: $gray-background;
 }
 
 // styling the table
+#dates {
+  margin-bottom: 0;
+}
+
 table {
   font-size: $type-size-5 !important;
 }
@@ -176,7 +180,7 @@ tr td:nth-child(2) {
         height: 349px;
       }
 
-    &::before {
+   /* &::before {
       position: absolute;
       top: 0;
       left: 0;
@@ -185,7 +189,7 @@ tr td:nth-child(2) {
       z-index: -1;
       content: "";
       background-image: linear-gradient(to right, rgba(0,0,0,0), #5ac09d);
-    }
+    } */
 
     .page__title {
       z-index: 2;

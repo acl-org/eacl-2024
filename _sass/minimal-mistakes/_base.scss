@@ -235,11 +235,24 @@ figure {
     margin-bottom: 2em
   }
 
+  &.single {
+  > a,
+  > img {
+    @include breakpoint($small) {
+      width: calc(25% - 0.5em);
+    }
+  }
+    figcaption {
+      width: 100%;
+    }
+  }
+
   &.half {
     > a,
     > img {
       @include breakpoint($small) {
-        width: calc(50% - 0.5em);
+        width: calc(25% - 0.5em);
+        margin-right: 2em;
       }
     }
 
@@ -253,7 +266,13 @@ figure {
     > a,
     > img {
       @include breakpoint($small) {
-        width: 25%;
+        width: calc(25% - 0.5em);
+      }
+    }
+    a:hover {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
+      img {
+        box-shadow: none !important;
       }
     }
 
