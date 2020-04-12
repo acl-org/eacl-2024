@@ -31,6 +31,9 @@ main:
   - title: "Committees"
     url: /committees/organization
 
+  - title: "Kyiv"
+    url: /kyiv
+
 calls:
    - title: Call for
      children:
@@ -75,3 +78,15 @@ sponsors:
         url: /sponsors/list/
       - title: "Tiers &amp; Pricing"
         url: /sponsors/benefits/
+
+kyiv:
+  - title: Program Details
+    children:
+      - title: "About"
+        url: "/kyiv#about"
+      - title: "Conference venue"
+        url: "/kyiv#conference-venue"
+      - title: "How to get there"
+        url: "/kyiv#traveling-to-kyiv"
+      - title: "Where to stay"
+        url: "/kyiv#where-to-stay"

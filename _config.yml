@@ -17,7 +17,7 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL-HLT 2021"
+title                    : "ACL 2021"
 title_separator          : "-"
 name                     : "ACL"
 description              : "Official website for the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "naacl2019"
+    shortname            : "acl2021"
 reCaptcha:
   siteKey                :
   secret                 :
