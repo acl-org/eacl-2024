@@ -48,6 +48,7 @@ $type-size-4: 40px;
 $type-size-5: 24px;
 $type-size-6: 22px;
 $type-size-7: 18px;
+$type-size-8: 14px;
 
 // editing the masthead
 
@@ -60,7 +61,7 @@ $type-size-7: 18px;
 }
 
 .masthead__menu-item {
-  font-size: 14px;
+  font-size: $type-size-8;
 }
 
 #site-nav {
@@ -91,23 +92,36 @@ $masthead-link-color: $gray-headers-color;
 $footer-background-color: $gray-background;
 
 .page__footer {
-  color: $gray-headers-color !important;
+  
+  footer {
+    color: $gray-headers-color !important;
 
-  strong {
-    font-weight: 500;
+    .page__footer-follow {
+      .social-icons {
+        margin-bottom: 26px;
+
+        strong {
+          font-size: 20px;
+          font-weight: 500;
+        }
+
+        a {
+          color: #8189A9 !important;
+        }
+
+        li {
+          font-size: $type-size-7;
+          margin: 0;
+          padding: 0;
+        }
+      }
+    }
+
+    .page__footer-copyright {
+      color: #ACACAE;
+      line-height: 31px;
+    }
   }
-}
-
-.social-icons a {
-  color: #8189A9 !important;
-}
-
-.page__footer-follow li {
-  margin-bottom: 42px;
-}
-
-.page__footer-copyright {
-  color: #ACACAE;
 }
 
 // styling the table
@@ -117,10 +131,21 @@ $footer-background-color: $gray-background;
 
 table {
   font-size: $type-size-5 !important;
-}
+  
+  tr {
 
-tr td:nth-child(2) {
-  color: #A6ADC9;
+    td:nth-child(1) {
+    padding-left: 0;
+    }
+    
+    td:nth-child(2) {
+    color: #A6ADC9;
+    }
+
+    td:nth-child(3) {
+    padding-right: 0;
+    }
+  }
 }
 
 // editing the sidebar
