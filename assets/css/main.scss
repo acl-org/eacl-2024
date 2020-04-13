@@ -143,18 +143,10 @@ tr td:nth-child(2) {
     margin-bottom: 0.5rem;
   }
 
-  .toc__menu {
-    font-size: 18px !important;
-
-    a {
-    border-bottom: none !important;
-    }
-
-    li.active {
-      a {
-        color: $link-color;
-        font-weight: 700;
-      }
+  li.active {
+    >a {
+      color: $link-color;
+      font-weight: 700;
     }
   }
 
@@ -163,11 +155,13 @@ tr td:nth-child(2) {
     font-weight: 700;
   }
 
-  li.active {
+  .toc__menu {
+    font-size: 18px !important;
+
     a {
-      color: $link-color;
+    border-bottom: none !important;
     }
-  }
+  } 
 }
 
 // editing the workshops page
@@ -264,9 +258,7 @@ $page-max-width: 904px;
       color: #fff;
       margin: 0;
       line-height: 1.5;
-      /*font-weight: 500;*/
       font-family: "Circular";
-      /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
 
       @include breakpoint($small) {
         font-size: 40px;
