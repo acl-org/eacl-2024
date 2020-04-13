@@ -232,39 +232,76 @@ figure {
     border-radius: $border-radius;
     display: flex;
     align-items: center;
-    margin-bottom: 2em
+  }
+
+  a:hover {
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+    img {
+      box-shadow: none !important;
+    }
   }
 
   &.single {
   > a,
   > img {
-    @include breakpoint($small) {
-      width: calc(25% - 0.5em);
+    width: calc(30% - 0.5em);
     }
-  }
+
     figcaption {
       width: 100%;
     }
   }
 
-  &.half {
-    > a,
-    > img {
-      @include breakpoint($small) {
-        width: calc(25% - 0.5em);
-        margin-right: 2em;
+  &.half, &.third, &.fourth {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+
+    a {
+      height: 100%;
+      padding: 2vw;
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  
+    @include breakpoint($small) {
+      &.single {
+        > a,
+        > img {
+          width: calc(25% - 0.5em);
+        }
+      }
+
+      figcaption {
+        width: 100%;
+      }
+
+      &.half, &.third, &.fourth {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        justify-content: center;
+        align-items: center;
+
+        a {
+          height: 100%;
+          padding: 2vw;
+        }
+
+        figcaption {
+          width: 100%;
+        }
       }
     }
-
-    figcaption {
-      width: 100%;
-    }
   }
-
+/*
   &.third {
     justify-content: space-between;
     > a,
     > img {
+      width: calc(50% - 0.5em);
       @include breakpoint($small) {
         width: calc(25% - 0.5em);
       }
@@ -285,22 +322,13 @@ figure {
     margin-right: -2em;
     > a,
     > img {
+      width: calc(50% - 0.5em);
       @include breakpoint($small) {
         width: calc(25% - 2em);
         margin-right: 2em;
       }
     }
-    a:hover {
-      box-shadow: 0 0 10px rgba(#000, 0.25);
-      img {
-        box-shadow: none !important;
-      }
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
+    */
 }
 
 /* Figure captions */
