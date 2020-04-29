@@ -252,15 +252,30 @@ figure {
     }
   }
 
-  &.half, &.third, &.fourth {
+  &.multiple {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: center;
     align-items: center;
 
     a {
-      height: 100%;
-      padding: 2vw;
+      padding-top: 100%;
+      position: relative;
+
+      .gallery-item_inner-wrapper {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        img {
+          width: 90%;
+        }
+      }
     }
 
     figcaption {
@@ -275,24 +290,8 @@ figure {
         }
       }
 
-      figcaption {
-        width: 100%;
-      }
-
-      &.half, &.third, &.fourth {
-        display: grid;
+      &.multiple {
         grid-template-columns: repeat(4, 1fr);
-        justify-content: center;
-        align-items: center;
-
-        a {
-          height: 100%;
-          padding: 2vw;
-        }
-
-        figcaption {
-          width: 100%;
-        }
       }
     }
   }
