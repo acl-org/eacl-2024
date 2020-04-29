@@ -3,16 +3,19 @@
    ========================================================================== */
 
 table {
-  display: block;
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: ($type-size-5 / 1.5);
   border-collapse: collapse;
   overflow-x: auto;
 
   & + table {
     margin-top: 1em;
+  }
+
+  @include breakpoint($large) {
+    font-size: $type-size-5;
   }
 }
 

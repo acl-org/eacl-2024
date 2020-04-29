@@ -125,25 +125,27 @@ $footer-background-color: $gray-background;
 }
 
 // styling the table
-#dates {
+#table-dates {
   margin-bottom: 0;
-}
-
-table {
-  font-size: $type-size-5 !important;
   
-  tr {
+  tbody {
+    width: 100%;
 
-    td:nth-child(1) {
-    padding-left: 0;
-    }
-    
-    td:nth-child(2) {
-    color: #A6ADC9;
-    }
+    tr {
 
-    td:nth-child(3) {
-    padding-right: 0;
+      td:nth-child(1) {
+      width: 40%;
+      padding-left: 0;
+      }
+      
+      td:nth-child(2) {
+      color: #A6ADC9;
+      }
+
+      td:nth-child(3) {
+      padding-right: 0;
+      text-align: right;
+      }
     }
   }
 }
