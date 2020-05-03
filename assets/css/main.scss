@@ -6,7 +6,7 @@
 
 @charset "utf-8";
 
-$line-height: 44px;
+$line-height: 1.83em;
 $border-radius: 6px;
 $left-sidebar-width: 200px;
 
@@ -43,49 +43,12 @@ $header-font-family: "Circular";
 $caption-font-family: "Roboto";
 $sans-serif-narrow: "Roboto";
 
-$type-size-3: 40px;
-$type-size-4: 40px;
-$type-size-5: 24px;
-$type-size-6: 22px;
-$type-size-7: 18px;
-$type-size-8: 14px;
-
-// editing the masthead
-
-.masthead {
-  text-transform: uppercase;
-}
-
-#site-nav, .masthead {
-  background: $gray-background;
-}
-
-.masthead__menu-item {
-  font-size: $type-size-8;
-}
-
-#site-nav {
-
-  .site-title {
-    color: #000000;
-    font-size: 16px;
-    font-family: "Akkurat";
-  }
-
-  ul {
-    li:last-child {
-      a {
-        margin-right: 0;
-      }
-    }
-  }
-
-  .greedy-nav__toggle {
-    margin-left: 1rem;
-  }
-}
-
-$masthead-link-color: $gray-headers-color;
+$type-size-3: 1.66em;
+$type-size-4: 1.66em;
+$type-size-5: 1em;
+$type-size-6: 0.92em;
+$type-size-7: 0.75em;
+$type-size-8: 0.58em;
 
 // editing the footer
 
@@ -98,10 +61,10 @@ $footer-background-color: $gray-background;
 
     .page__footer-follow {
       .social-icons {
-        margin-bottom: 26px;
+        margin-bottom: 1.08em;
 
         strong {
-          font-size: 20px;
+          font-size: 1.1em;
           font-weight: 500;
         }
 
@@ -119,33 +82,7 @@ $footer-background-color: $gray-background;
 
     .page__footer-copyright {
       color: #ACACAE;
-      line-height: 31px;
-    }
-  }
-}
-
-// styling the table
-#table-dates {
-  margin-bottom: 0;
-  
-  tbody {
-    width: 100%;
-
-    tr {
-
-      td:nth-child(1) {
-      width: 40%;
-      padding-left: 0;
-      }
-      
-      td:nth-child(2) {
-      color: #A6ADC9;
-      }
-
-      td:nth-child(3) {
-      padding-right: 0;
-      text-align: right;
-      }
+      line-height: 1.3em;
     }
   }
 }
@@ -160,10 +97,6 @@ $footer-background-color: $gray-background;
       margin-bottom: 7px;
       line-height: 16px;
       font-size: 14px !important;
-  }
-  
-  ul{
-    font-size: 22px !important;
   }
 
   li {
@@ -205,9 +138,9 @@ $footer-background-color: $gray-background;
   margin-top: 10px;
 }
 
-h2 {
-  margin-top: 60px !important;
-}
+// h2 {
+//   margin-top: 60px !important;
+// }
 
 // Kyiv headline
 #about {
@@ -251,6 +184,83 @@ $page-max-width: 904px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// editing the masthead
+
+.masthead {
+  text-transform: uppercase;
+}
+
+#site-nav, .masthead {
+  background: $gray-background;
+}
+
+.masthead__menu-item {
+  font-size: $type-size-6;
+
+  @include breakpoint($small) {
+    font-size: $type-size-7;
+  }
+
+  @include breakpoint($large) {
+    font-size: $type-size-8;
+  }
+}
+
+#site-nav {
+
+  .site-title {
+    color: #000000;
+    font-size: 16px;
+    font-family: "Akkurat";
+  }
+
+  ul {
+    li:last-child {
+      a {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .greedy-nav__toggle {
+    margin-left: 1rem;
+  }
+}
+
+$masthead-link-color: $gray-headers-color;
+
+// styling the table
+#table-dates {
+  margin-bottom: 0;
+  
+  tbody {
+    width: 100%;
+
+    tr {
+
+      td:nth-child(1) {
+      padding-left: 0;
+
+        @include breakpoint($small) {
+          width: 40%;
+        }
+      }
+      
+      td:nth-child(2) {
+      color: #A6ADC9;
+      }
+
+      td:nth-child(3) {
+      padding-right: 0;
+      
+        @include breakpoint($small) {
+          text-align: right;
+        }
+      }
+    }
+  }
+}
+
 // overriding the color of the splash image caption
 .page__hero {
 
@@ -259,11 +269,15 @@ $page-max-width: 904px;
   }
 
   &--overlay {
-    height: 200px;
+    height: 250px;
     display: flex;
     align-items: center;
 
       @include breakpoint($small) {
+        height: 300px;
+      }
+
+      @include breakpoint($large) {
         height: 349px;
       }
 
@@ -281,15 +295,11 @@ $page-max-width: 904px;
     .page__title {
       z-index: 2;
       text-align: right;
-      font-size: 25px;
+      font-size: $type-size-4;
       color: #fff;
       margin: 0;
       line-height: 1.5;
       font-family: "Circular";
-
-      @include breakpoint($small) {
-        font-size: 40px;
-      }
     }
     .page__lead {
       display: none;
