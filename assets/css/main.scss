@@ -239,7 +239,7 @@ $masthead-link-color: $gray-headers-color;
     tr {
 
       td:nth-child(1) {
-      padding-left: 0;
+        padding-left: 0;
 
         @include breakpoint($small) {
           width: 40%;
@@ -247,15 +247,13 @@ $masthead-link-color: $gray-headers-color;
       }
       
       td:nth-child(2) {
-      color: #A6ADC9;
+        color: #A6ADC9;
       }
 
       td:nth-child(3) {
-      padding-right: 0;
-      
-        @include breakpoint($small) {
-          text-align: right;
-        }
+        width: 1%;
+        white-space: nowrap;
+        padding-right: 0;
       }
     }
   }
