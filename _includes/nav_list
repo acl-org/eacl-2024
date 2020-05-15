@@ -3,6 +3,7 @@
 <nav class="nav__list">
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <ul class="nav__items">
+
     {% for nav in navigation %}
       <li>
         {% if nav.url %}
@@ -16,6 +17,11 @@
           <a href="{{ nav_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
+        {% endif %}
+
+
+        {% if page.toc and page.toc_only %}
+          {% include toc.html sanitize=true html=content h_min=1 h_max=4 class="toc__menu" %}
         {% endif %}
 
         {% if nav.children != null %}
@@ -38,7 +44,7 @@
             <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
 
             {% if page.toc and page.url == child.url %}
-            {% include toc.html sanitize=true html=content h_min=1 h_max=4 class="toc__menu" %}
+              {% include toc.html sanitize=true html=content h_min=1 h_max=4 class="toc__menu" %}
             {% endif %}
 
           {% endfor %}
