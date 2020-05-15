@@ -28,16 +28,6 @@ srcset="{{ '/assets/images/kyiv/kyiv2-904w.jpg' | relative_url }},
         {{ '/assets/images/kyiv/kyiv2-1356w.jpg' | relative_url }} 1.5x,
         {{ '/assets/images/kyiv/kyiv2-1808w.jpg' | relative_url }} 2x">
 
-## Conference venue
-
-The conference will take place at ArtHall D12 and at the hotels nearby. The venue has a unique location in the historic center of Kyiv, with a stunning view of the city and the river. 
-
-<img 
-src="{{ '/assets/images/kyiv/kyiv3-904w.jpg' | relative_url }}" 
-srcset="{{ '/assets/images/kyiv/kyiv3-904w.jpg' | relative_url }},
-        {{ '/assets/images/kyiv/kyiv3-1356w.jpg' | relative_url }} 1.5x,
-        {{ '/assets/images/kyiv/kyiv3-1808w.jpg' | relative_url }} 2x">
-
 Kyiv boasts a thrilling array of diverse architecture, secret courtyards, quirky street art, and unexpected panoramas.
 
 <img 
