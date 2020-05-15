@@ -14,6 +14,13 @@ Paola Merlo, University of Geneva
 Jorg Tiedemann, University of Helsinki<br />
 Reut Tsarfaty, Open University of Israel
 
+<h3>Local Chairs</h3>
+Viktoria Kolomiets, Grammarly<br />
+Dmytro Lider, Grammarly<br />
+Iryna Kotkalova, Grammarly<br />
+Oleksii Molchanovskyi, Ukrainian Catholic University<br />
+Oles Dobosevych, Ukrainian Catholic University
+
 <h3>Tutorial Chairs</h3>
 Isabelle Augenstein, University of Copenhagen<br/>
 Ivan Habernal, Technische Universitaet Darmstadt
