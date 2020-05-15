@@ -1,8 +1,8 @@
-# NAACL-HLT 2019 official website
+# EACL 2021 official website
 
-This is the code for the official website for the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+This is the code for the official website for the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL).
 
-It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+It's using the modified version of [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 # Table of contents
 
@@ -64,13 +64,13 @@ It will first pull down the jekyll docker image, then install all the dependenci
 If you are going to need to test/build the website frequently, you probably don't want to have to wait for the gems to download and install _every_ time you run the previous command. In that case, it might be better to first build a Docker image from the included [`Dockerfile`](/Dockerfile) using the command:
 
 ```
-docker build -t naacl/website .
+docker build -t eacl/website .
 ```
 
-where `naacl/website` is the docker tag for our image. After that command completes, you can use this newly created image to run the website locally at `http://localhost:4000` using the command:
+where `eacl/website` is the docker tag for our image. After that command completes, you can use this newly created image to run the website locally at `http://localhost:4000` using the command:
 
 ```
-docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll naacl/website
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll eacl/website
 ```
 
 # Forking for a New Conference
@@ -108,7 +108,7 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-The following settings connect the the main domain booked for the conference (e.g. `naacl2019.org`) with the underlying Github Pages build. 
+The following settings connect the the main domain booked for the conference (e.g. `eacl2021.org`) with the underlying Github Pages build. 
 
 On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
 
@@ -117,10 +117,10 @@ A   @   185.199.108.153
 A   @   185.199.109.153 
 A   @   185.199.110.153 
 A   @   185.199.111.153 
-CNAME www   naacl2019.org
+CNAME www   eacl2021.org
 ```
 
-In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2019.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
+In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `eacl2021.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
 
 # License
 
