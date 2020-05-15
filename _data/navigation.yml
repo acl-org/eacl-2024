@@ -35,16 +35,16 @@ main:
     url: /kyiv
 
 calls:
-   - title: Call for
-     children:
-       - title: "Main Conference Papers"
-         url: /calls/papers/
-       - title: "System Demonstrations"
-         url: /calls/demos/
-       - title: "Workshop Proposals"
-         url: /calls/workshops/
-       - title: "Tutorial Proposals"
-         url: /calls/tutorials/
+  - title: Call for papers
+     # children:
+     #   - title: "Conference Papers"
+     #     url: /calls/papers/
+       # - title: "System Demonstrations"
+       #   url: /calls/demos/
+       # - title: "Workshop Proposals"
+       #   url: /calls/workshops/
+       # - title: "Tutorial Proposals"
+       #   url: /calls/tutorials/
 
 program:
   - title: Program Details
@@ -82,8 +82,6 @@ kyiv:
     children:
       - title: "About"
         url: "/kyiv#about"
-      - title: "Conference venue"
-        url: "/kyiv#conference-venue"
       - title: "How to get there"
         url: "/kyiv#traveling-to-kyiv"
       - title: "Where to stay"
