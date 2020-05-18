@@ -87,59 +87,7 @@ $footer-background-color: $gray-background;
   }
 }
 
-// editing the sidebar
-.sidebar {
-  margin-top: 40px;
 
-  .nav__sub-title {
-      color: $gray-headers-color;
-      padding-bottom: 18px;
-      margin-bottom: 7px;
-      line-height: 16px;
-      font-size: 14px !important;
-  }
-
-  li {
-    margin-bottom: 0.5rem;
-  }
-
-  li.active {
-    >a {
-      color: $link-color;
-      font-weight: 700;
-    }
-  }
-
-  a.active {
-    color: $link-color !important;
-    font-weight: 700;
-  }
-
-  .toc__menu {
-    font-size: 18px !important;
-
-    li {
-      a {
-        border-bottom: none !important;
-        font-weight: normal;
-      }
-      >a {
-        padding-left: 0;
-      }
-
-      ul>li a {
-        padding-left: 1.25rem;
-      }
-
-      &.active {
-        >a {
-          color: $link-color;
-          font-weight: 700;
-        }
-      }
-    }
-  } 
-}
 
 // editing the workshops page
 #page-title-workshops {
@@ -195,6 +143,8 @@ $footer-background-color: $gray-background;
   }
 }
 
+
+
 // Setting the maximum width of the page to appropriately match the design
 $page-max-width: 904px;
 
@@ -241,6 +191,64 @@ $page-max-width: 904px;
 
   .greedy-nav__toggle {
     margin-left: 1rem;
+  }
+}
+
+// editing the sidebar
+.sidebar {
+  margin-top: 0;
+
+  .nav__sub-title {
+      color: $gray-headers-color;
+      padding-bottom: 18px;
+      margin-bottom: 7px;
+      line-height: 16px;
+      font-size: 14px !important;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  li.active {
+    >a {
+      color: $link-color;
+      font-weight: 700;
+    }
+  }
+
+  a.active {
+    color: $link-color !important;
+    font-weight: 700;
+  }
+
+  .toc__menu {
+    font-size: 18px !important;
+
+    li {
+      a {
+        border-bottom: none !important;
+        font-weight: normal;
+      }
+      >a {
+        padding-left: 0;
+      }
+
+      ul>li a {
+        padding-left: 1.25rem;
+      }
+
+      &.active {
+        >a {
+          color: $link-color;
+          font-weight: 700;
+        }
+      }
+    }
+  } 
+
+  @include breakpoint($small) {
+    margin-top: 40px;
   }
 }
 
