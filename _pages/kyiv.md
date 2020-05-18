@@ -20,15 +20,15 @@ srcset="{{ '/assets/images/kyiv/kyiv1-904w.jpg' | relative_url }},
 
 Kyiv is a vibrant capital city and the center of the Ukrainian IT industry. It’s a safe and convenient destination with numerous UNESCO heritage landmarks, a rich culture and food scene, easy-to-use public transportation, and great accommodations at any price range.
 
-Kyiv is the country’s largest city, with a population of four million. Sitting on the banks of the Dnipro River, it is one of the oldest cities in Europe, dating back to at least 500 AD
-
 <img 
 src="{{ '/assets/images/kyiv/kyiv2-904w.jpg' | relative_url }}" 
 srcset="{{ '/assets/images/kyiv/kyiv2-904w.jpg' | relative_url }},
         {{ '/assets/images/kyiv/kyiv2-1356w.jpg' | relative_url }} 1.5x,
         {{ '/assets/images/kyiv/kyiv2-1808w.jpg' | relative_url }} 2x">
 
-Kyiv boasts a thrilling array of diverse architecture, secret courtyards, quirky street art, and unexpected panoramas.
+Kyiv is the country’s largest city, with a population of four million. Sitting on the banks of the Dnipro River, it is one of the oldest cities in Europe, dating back to at least 500 AD.
+
+The city boasts a thrilling array of diverse architecture, secret courtyards, quirky street art, and unexpected panoramas.
 
 <img 
 src="{{ '/assets/images/kyiv/kyiv4-904w.jpg' | relative_url }}" 
