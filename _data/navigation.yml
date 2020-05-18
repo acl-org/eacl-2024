@@ -78,11 +78,17 @@ sponsors:
         url: /sponsors/benefits/
 
 kyiv:
-  - title: Program Details
+  - title: "Kyiv:"
     children:
       - title: "About"
         url: "/kyiv#about"
-      - title: "How to get there"
+      - title: "Traveling to Kyiv"
         url: "/kyiv#traveling-to-kyiv"
       - title: "Where to stay"
         url: "/kyiv#where-to-stay"
+      - title: "Getting around"
+        url: "/kyiv#getting-around"
+      - title: "Weather"
+        url: "/kyiv#weather"
+      - title: "Get excited"
+        url: "/kyiv#get-excited"
