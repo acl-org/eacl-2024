@@ -26,17 +26,17 @@ As in previous years, the program of the conference includes poster sessions, tu
         <tr>
             <td>Submission deadline (long and short papers)</td>
             <td>Sunday</td>
-            <td>20 September, 2020</td>
+            <td>20&nbsp;September, 2020</td>
         </tr>
         <tr>
             <td>Tutorials and workshops</td>
             <td>Monday&ndash;Tuesday</td>
-            <td>19&ndash;20 April, 2021</td>
+            <td>19&ndash;20&nbsp;April, 2021</td>
         </tr>  
         <tr>
             <td>Main conference</td>
             <td>Wednesday&ndash;Friday</td>
-            <td>21&ndash;23 April, 2021</td>
+            <td>21&ndash;23&nbsp;April, 2021</td>
         </tr>
     </tbody>
 </table>
