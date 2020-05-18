@@ -7,45 +7,70 @@ sidebar:
     nav: committees 
 ---
 
-<h3>General Chair</h3>
-Paola Merlo, University of Geneva
+<h5>General Chair</h5>
+<p class="comittees">
+	Paola Merlo, University of Geneva
+</p>
 
-<h3>Program Chairs</h3>
-Jorg Tiedemann, University of Helsinki<br />
-Reut Tsarfaty, Open University of Israel
+<h5>Program Chairs</h5>
+<p class="comittees">
+	Jorg Tiedemann, University of Helsinki<br />
+	Reut Tsarfaty, Open University of Israel
+</p>
 
-<h3>Local Chairs</h3>
-Viktoria Kolomiets, Grammarly<br />
-Dmytro Lider, Grammarly<br />
-Iryna Kotkalova, Grammarly<br />
-Oleksii Molchanovskyi, Ukrainian Catholic University<br />
-Oles Dobosevych, Ukrainian Catholic University
+<h5>Local Chairs</h5>
+<p class="comittees">
+	Viktoria Kolomiets, Grammarly<br />
+	Dmytro Lider, Grammarly<br />
+	Iryna Kotkalova, Grammarly<br />
+	Oleksii Molchanovskyi, Ukrainian Catholic University<br />
+	Oles Dobosevych, Ukrainian Catholic University
+</p>
 
-<h3>Tutorial Chairs</h3>
-Isabelle Augenstein, University of Copenhagen<br/>
-Ivan Habernal, Technische Universitaet Darmstadt
+<h5>Tutorial Chairs</h5>
+<p class="comittees">
+	Isabelle Augenstein, University of Copenhagen<br/>
+	Ivan Habernal, Technische Universitaet Darmstadt
+</p>
 
-<h3>Workshop Chairs</h3>
-Jonathan Berant, Tel-Aviv University<br/>
-Verena Rieser, Herriott-Watt University
+<h5>Workshop Chairs</h5>
+<p class="comittees">
+	Jonathan Berant, Tel-Aviv University<br/>
+	Verena Rieser, Herriott-Watt University
+</p>
 
-<h3>Student Research Workshop Chairs</h3>
-Ionut-Teodor Sorodoc, Pompeau Fabra University<br/>
-Madhumita Sushil, University of Antwerp<br/>
-Ece Takmaz, University of Amsterdam
 
-<h3>Faculty Advisors to the Student Research Workshop</h3>
-Eneko Agirre, University of the Basque Country
+<h5>Student Research Workshop Chairs</h5>
+<p class="comittees">
+	Ionut-Teodor Sorodoc, Pompeau Fabra University<br/>
+	Madhumita Sushil, University of Antwerp<br/>
+	Ece Takmaz, University of Amsterdam
+</p>
 
-<h3>Demonstration Chairs</h3>
-Dimitra Gzaika, Napier University<br/>
-Djamé Seddah, University Paris la Sorbonne
+<h5>Faculty Advisors to the Student Research Workshop</h5>
+<p class="comittees">
+	Eneko Agirre, University of the Basque Country
+</p>
 
-<h3>Diversity &amp; Inclusion (D&amp;I) Chairs</h3>
-Aline Villavicencio, University of Sheffield
 
-<h3>Publicity Chair</h3>
-Julie Weeds, University of Sussex
+<h5>Demonstration Chairs</h5>
+<p class="comittees">
+	Dimitra Gzaika, Napier University<br/>
+	Djamé Seddah, University Paris la Sorbonne
+</p>
 
-<h3>Conference App Chair</h3>
-Andrea Cimino, CNR-ILC
+<h5>Diversity &amp; Inclusion (D&amp;I) Chairs</h5>
+<p class="comittees">
+	Aline Villavicencio, University of Sheffield
+</p>
+
+
+<h5>Publicity Chair</h5>
+<p class="comittees">
+	Julie Weeds, University of Sussex
+</p>
+
+<h5>Conference App Chair</h5>
+<p class="comittees">
+	Andrea Cimino, CNR-ILC
+</p>

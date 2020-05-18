@@ -246,6 +246,25 @@ $page-max-width: 904px;
 
 $masthead-link-color: $gray-headers-color;
 
+// Page 'Committees'
+.page__content {
+
+  .comittees {
+    margin: 0.5em 0;
+    line-height: 2.5em;
+    font-weight: 700;
+    font-size: 0.8em;
+
+    @include breakpoint($x-small) {
+      font-size: 0.9em;
+    }
+
+    @include breakpoint($small) {
+      font-size: 1em;
+    }
+  }
+}
+
 // styling the table
 #table-dates {
   margin-bottom: 0;
