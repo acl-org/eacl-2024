@@ -118,8 +118,25 @@ $footer-background-color: $gray-background;
   .toc__menu {
     font-size: 18px !important;
 
-    a {
-    border-bottom: none !important;
+    li {
+      a {
+        border-bottom: none !important;
+        font-weight: normal;
+      }
+      >a {
+        padding-left: 0;
+      }
+
+      ul>li a {
+        padding-left: 1.25rem;
+      }
+
+      &.active {
+        >a {
+          color: $link-color;
+          font-weight: 700;
+        }
+      }
     }
   } 
 }
@@ -251,8 +268,6 @@ $masthead-link-color: $gray-headers-color;
       }
 
       td:nth-child(3) {
-        width: 1%;
-        white-space: nowrap;
         padding-right: 0;
       }
     }
