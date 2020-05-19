@@ -13,7 +13,7 @@ toc_icon: "cog"
 **EACL 2021**<br />
 Kyiv, Ukraine<br />
 April 19-23<br />
-<http://eacl2021.org>
+<https://2021.eacl.org>
 
 The 16th Conference of the European Chapter of the Association for Computational Linguistics invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of natural language processing, including but not limited to the following areas:
 
