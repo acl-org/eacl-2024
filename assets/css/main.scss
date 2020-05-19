@@ -228,7 +228,7 @@ $page-max-width: 904px;
     li {
       a {
         border-bottom: none !important;
-        font-weight: normal;
+        // font-weight: normal;
       }
       >a {
         padding-left: 0;
@@ -284,11 +284,10 @@ $masthead-link-color: $gray-headers-color;
 
       td:nth-child(1) {
         padding-left: 0;
-        width: 40%;
-        
+
         @include breakpoint($small) {
-          width: 45%;
-        }
+          width: 40%;
+        }        
       }
       
       td:nth-child(2) {
@@ -297,6 +296,11 @@ $masthead-link-color: $gray-headers-color;
 
       td:nth-child(3) {
         padding-right: 0;
+
+        @include breakpoint($small) {
+          width: 1%;
+          white-space: nowrap;
+        }        
       }
     }
   }
