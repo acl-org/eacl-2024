@@ -24,7 +24,7 @@ As in previous years, the program of the conference includes poster sessions, tu
 <table id="table-dates">
     <tbody>
         <tr>
-            <td>Submission deadline (long and short papers)</td>
+            <td>Submission deadline<br/>(<i>long and short papers</i>)</td>
             <td>Sunday</td>
             <td>20&nbsp;September, 2020</td>
         </tr>
