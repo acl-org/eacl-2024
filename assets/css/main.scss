@@ -56,35 +56,35 @@ $footer-background-color: $gray-background;
 
 .page__footer {
   
-  footer {
-    color: $gray-headers-color !important;
+  // footer {
+  //   color: $gray-headers-color !important;
 
-    .page__footer-follow {
-      .social-icons {
-        margin-bottom: 1.08em;
+  //   .page__footer-follow {
+  //     .social-icons {
+  //       margin-bottom: 1.08em;
 
-        strong {
-          font-size: 1.1em;
-          font-weight: 500;
-        }
+  //       strong {
+  //         font-size: 1.1em;
+  //         font-weight: 500;
+  //       }
 
-        a {
-          color: #8189A9 !important;
-        }
+  //       a {
+  //         color: #8189A9 !important;
+  //       }
 
-        li {
-          font-size: $type-size-7;
-          margin: 0;
-          padding: 0;
-        }
-      }
-    }
+  //       li {
+  //         font-size: $type-size-7;
+  //         margin: 0;
+  //         padding: 0;
+  //       }
+  //     }
+  //   }
 
     .page__footer-copyright {
       color: #ACACAE;
       line-height: 1.3em;
     }
-  }
+  // }
 }
 
 
