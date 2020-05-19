@@ -416,7 +416,7 @@
 
     a {
       display: block;
-      padding: 0.25em 0;
+      padding: 0; /* override */
 
       @include breakpoint($large) {
         padding-top: 0.125em;
@@ -432,10 +432,10 @@
 
 .nav__list .nav__items {
   margin: 0;
-  font-size: 1.25rem;
+  // font-size: 1.25rem;
 
   a {
-    color: inherit;
+    color: $gray-headers-color; /* override */
   }
 
   .active {

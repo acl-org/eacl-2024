@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: $line-height;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -51,11 +51,11 @@ h4 {
 }
 
 h5 {
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 }
 
 h6 {
-  font-size: $type-size-6;
+  font-size: $type-size-8;
 }
 
 small,
@@ -209,16 +209,16 @@ figure {
   display: -webkit-box;
   display: flex;
   -webkit-box-pack: justify;
-  justify-content: space-between;
+  justify-content: start;
   -webkit-box-align: start;
-  align-items: flex-start;
+  align-items: stretch;
   flex-wrap: wrap;
   margin: 2em 0;
 
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    /*margin-bottom: 1em;*/
   }
 
   img {
@@ -229,15 +229,22 @@ figure {
   }
 
   > a {
-    display: block;
+    border-radius: $border-radius;
+    display: flex;
+    align-items: center;
   }
 
-  &.half {
-    > a,
-    > img {
-      @include breakpoint($small) {
-        width: calc(50% - 0.5em);
-      }
+  a:hover {
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+    img {
+      box-shadow: none !important;
+    }
+  }
+
+  &.single {
+  > a,
+  > img {
+    width: calc(30% - 0.5em);
     }
 
     figcaption {
@@ -245,11 +252,63 @@ figure {
     }
   }
 
+  &.multiple {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+
+    a {
+      padding-top: 100%;
+      position: relative;
+
+      .gallery-item_inner-wrapper {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        img {
+          width: 90%;
+        }
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  
+    @include breakpoint($small) {
+      &.single {
+        > a,
+        > img {
+          width: calc(25% - 0.5em);
+        }
+      }
+
+      &.multiple {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+  }
+/*
   &.third {
+    justify-content: space-between;
     > a,
     > img {
+      width: calc(50% - 0.5em);
       @include breakpoint($small) {
-        width: calc(33.3333% - 0.5em);
+        width: calc(25% - 0.5em);
+      }
+    }
+    a:hover {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
+      img {
+        box-shadow: none !important;
       }
     }
 
@@ -257,6 +316,18 @@ figure {
       width: 100%;
     }
   }
+
+  &.fourth {
+    margin-right: -2em;
+    > a,
+    > img {
+      width: calc(50% - 0.5em);
+      @include breakpoint($small) {
+        width: calc(25% - 2em);
+        margin-right: 2em;
+      }
+    }
+    */
 }
 
 /* Figure captions */

@@ -7,16 +7,16 @@
 {% if include.layout %}
   {% assign gallery_layout = include.layout %}
 {% else %}
-  {% if gallery.size == 2 %}
-    {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 3 %}
-    {% assign gallery_layout = 'third' %}
+  {% if gallery.size == 1 %}
+    {% assign gallery_layout = 'single' %}
+  {% elsif gallery.size >= 2 %}
+    {% assign gallery_layout = 'multiple' %}
   {% else %}
     {% assign gallery_layout = '' %}
   {% endif %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
+<figure class="{{ gallery_layout }}">
   {% for img in gallery %}
     {% if img.url %}
       <a href=
@@ -27,13 +27,15 @@
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >
-        <img src=
-          {% if img.image_path contains "://" %}
-            "{{ img.image_path }}"
-          {% else %}
-            "{{ img.image_path | relative_url }}"
-          {% endif %}
-          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+        <div class="gallery-item_inner-wrapper">
+          <img src=
+            {% if img.image_path contains "://" %}
+              "{{ img.image_path }}"
+            {% else %}
+              "{{ img.image_path | relative_url }}"
+            {% endif %}
+            alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+        </div>
       </a>
     {% else %}
       <img src=

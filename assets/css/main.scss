@@ -2,26 +2,366 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// global variables
+
 @charset "utf-8";
 
-$link-color: blue;
+$line-height: 1.83em;
+$border-radius: 6px;
+$left-sidebar-width: 200px;
+
+// setting the color for some links and headers
+$gray-headers-color: #2B2D38;
+
+// setting the background for header and footer
+$gray-background: #F1F2FA;
+
+// overriding the links color
+$link-color: #5F8BFA;
+$link-color-visited: #5F8BFA;
+
+// changing the text color
+$text-color: #1A3356;
+
+// overriding the default gray color of the background
+$background-color: #FFFFFF;
+
+/* editing the border color everywhere - deleting it from the masthead
+and changing its color to match the design */
+.masthead {
+  border-bottom: none !important;
+}
+$border-color: #E3E6F2;
+td {
+  border-color: $border-color !important;
+}
+
+// changing the fonts
+$sans-serif: Roboto;
+$global-font-family: "Roboto";
+$header-font-family: "Circular";
+$caption-font-family: "Roboto";
+$sans-serif-narrow: "Roboto";
+
+$type-size-3: 1.66em;
+$type-size-4: 1.66em;
+$type-size-5: 1em;
+$type-size-6: 0.92em;
+$type-size-7: 0.6em;
+$type-size-8: 0.58em;
+
+// editing the footer
+
+$footer-background-color: $gray-background;
+
+.page__footer {
+  
+  // footer {
+  //   color: $gray-headers-color !important;
+
+  //   .page__footer-follow {
+  //     .social-icons {
+  //       margin-bottom: 1.08em;
+
+  //       strong {
+  //         font-size: 1.1em;
+  //         font-weight: 500;
+  //       }
+
+  //       a {
+  //         color: #8189A9 !important;
+  //       }
+
+  //       li {
+  //         font-size: $type-size-7;
+  //         margin: 0;
+  //         padding: 0;
+  //       }
+  //     }
+  //   }
+
+    .page__footer-copyright {
+      color: #ACACAE;
+      line-height: 1.3em;
+    }
+  // }
+}
+
+
+
+// editing the workshops page
+#page-title-workshops {
+  margin-top: 43px;
+  padding: 0.25rem 0;
+  color: $gray-headers-color;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Roboto";
+}
+
+#two-day-workshops {
+  margin-top: 10px;
+}
+
+// h2 {
+//   margin-top: 60px !important;
+// }
+
+// Kyiv headline
+#about {
+  margin-bottom: 48px;
+}
+
+#see-you-next-april-in-kyiv {
+  padding-top: 48px;
+  margin-top: 48px;
+  border-bottom: none;
+  border-top: 1px solid $border-color;
+}
+
+.grid {
+  display: grid;
+  margin-bottom: 30px;
+
+  &.kyiv-travel {
+    grid-template-columns: 110px calc(100% - 110px);
+  }
+
+  &.kyiv-comments {
+    grid-template-columns: 60px calc(100% - 60px);
+  }
+
+  em {
+    opacity: 0.6;
+  }
+
+  .grad-strip {
+    width: 6px;
+    height: 100%;
+    border-radius: $border-radius;
+    background-image: linear-gradient(to bottom, #4E72E7, #54B392);
+  }
+}
+
+
+
+// Setting the maximum width of the page to appropriately match the design
+$page-max-width: 904px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// editing the masthead
+
+.masthead {
+  text-transform: uppercase;
+}
+
+#site-nav, .masthead {
+  background: $gray-background;
+}
+
+.masthead__menu-item {
+  font-size: $type-size-6;
+
+  @include breakpoint($small) {
+    font-size: $type-size-7;
+  }
+
+  @include breakpoint($large) {
+    font-size: $type-size-8;
+  }
+}
+
+#site-nav {
+
+  .site-title {
+    color: #000000;
+    font-size: 16px;
+    font-family: "Akkurat";
+  }
+
+  ul {
+    li:last-child {
+      a {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .greedy-nav__toggle {
+    margin-left: 1rem;
+  }
+}
+
+// editing the sidebar
+.sidebar {
+  margin-top: 0;
+
+  .nav__sub-title {
+      color: $gray-headers-color;
+      padding-bottom: 18px;
+      margin-bottom: 7px;
+      line-height: 16px;
+      font-size: 14px !important;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  li.active {
+    >a {
+      color: $link-color;
+      font-weight: 700;
+    }
+  }
+
+  a.active {
+    color: $link-color !important;
+    font-weight: 700;
+  }
+
+  .toc__menu {
+    font-size: 18px !important;
+
+    li {
+      a {
+        border-bottom: none !important;
+        // font-weight: normal;
+      }
+      >a {
+        padding-left: 0;
+      }
+
+      ul>li a {
+        padding-left: 1.25rem;
+      }
+
+      &.active {
+        >a {
+          color: $link-color;
+          font-weight: 700;
+        }
+      }
+    }
+  } 
+
+  @include breakpoint($small) {
+    margin-top: 40px;
+  }
+}
+
+$masthead-link-color: $gray-headers-color;
+
+// Page 'Comittees'
+.page__content {
+
+  .comittees-header {
+    margin-top: 2.25em;
+    font-weight: normal;
+    font-size: 0.75em;
+    font-family: "Roboto";
+  }
+
+  .comittees-members {
+    line-height: 2.25em;
+    font-weight: 700;
+    font-size: 0.8em;
+    font-family: "Circular";
+
+    @include breakpoint($x-small) {
+      font-size: 0.9em;
+    }
+
+    @include breakpoint($small) {
+      font-size: 1em;
+    }
+  }
+}
+
+// styling the table
+#table-dates {
+  margin-bottom: 0;
+  
+  tbody {
+    width: 100%;
+
+    tr {
+
+      td:nth-child(1) {
+        padding-left: 0;
+
+        @include breakpoint($small) {
+          width: 40%;
+        }        
+      }
+      
+      td:nth-child(2) {
+        color: #A6ADC9;
+      }
+
+      td:nth-child(3) {
+        padding-right: 0;
+
+        @include breakpoint($small) {
+          width: 1%;
+          white-space: nowrap;
+        }        
+      }
+    }
+  }
+}
+
 // overriding the color of the splash image caption
 .page__hero {
+
+  &-caption {
+    display: none;
+  }
+
   &--overlay {
+    height: 250px;
+    display: flex;
+    align-items: center;
+
+      @include breakpoint($small) {
+        height: 300px;
+      }
+
+      @include breakpoint($large) {
+        height: 349px;
+      }
+
+   /* &::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      content: "";
+      background-image: linear-gradient(to right, rgba(0,0,0,0), #5ac09d);
+    } */
+
     .page__title {
-       font-size: 38px;
-       color: #fff;
-       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+      z-index: 2;
+      text-align: right;
+      color: #fff;
+      margin: 0;
+      line-height: 1.5;
+      font-family: "Circular";
+      font-size: 1.5em;
+  
+      @include breakpoint($x-small) {
+        font-size: $type-size-4;
+      }
     }
     .page__lead {
-       font-size: 30px;
-       color: #fff;
-       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-
+      display: none;
+      font-size: 30px;
+      color: #fff;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
   }
 }

@@ -17,22 +17,22 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NAACL-HLT 2019"
+title                    : "EACL 2021"
 title_separator          : "-"
-name                     : "NAACL"
-description              : "Official website for the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-url                      : "https://naacl2019.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "naacl-org/naacl-hlt-2019" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "EACL"
+description              : "Official website for the 2021 Conference of the European Chapter of the Association for Computational Linguistics"
+url                      : "https://oleksii-ponomarov.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/eacl-2021" # the subpath of your site, e.g. "/blog"
+repository               : "oleksii-ponomarov/eacl-2021" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "NAACL 2019" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "EACL 2021" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "naacl2019"
+    shortname            : "eacl2021"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -57,12 +57,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : naaclhlt
+  username               : eacl
 facebook:
-  username               : naaclhlt
+  username               : eacl
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/og-image.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -110,10 +110,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/naaclhlt
+      #url: 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/naaclhlt
+      url: https://www.facebook.com/eacl2021
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/naacl-org/naacl-hlt-2019
