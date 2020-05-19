@@ -47,7 +47,7 @@ $type-size-3: 1.66em;
 $type-size-4: 1.66em;
 $type-size-5: 1em;
 $type-size-6: 0.92em;
-$type-size-7: 0.75em;
+$type-size-7: 0.6em;
 $type-size-8: 0.58em;
 
 // editing the footer
@@ -254,14 +254,21 @@ $page-max-width: 904px;
 
 $masthead-link-color: $gray-headers-color;
 
-// Page 'Committees'
+// Page 'Comittees'
 .page__content {
 
-  .comittees {
-    margin: 0.5em 0;
-    line-height: 2.5em;
+  .comittees-header {
+    margin-top: 2.25em;
+    font-weight: normal;
+    font-size: 0.75em;
+    font-family: "Roboto";
+  }
+
+  .comittees-members {
+    line-height: 2.25em;
     font-weight: 700;
     font-size: 0.8em;
+    font-family: "Circular";
 
     @include breakpoint($x-small) {
       font-size: 0.9em;
