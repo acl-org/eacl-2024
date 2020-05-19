@@ -134,7 +134,7 @@ Authors submitting more than one paper to EACL 2021 must ensure that submissions
 
 The deadline for submission of both long and short papers is Friday, 20 September 2020, 23:59 Anywhere on Earth.
  
-For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/>
+For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/papers>
 
 ### Submission Format
 
