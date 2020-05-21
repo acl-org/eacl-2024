@@ -21,7 +21,7 @@ As in previous years, the program of the conference includes poster sessions, tu
 
 <h2 id="dates">Important Dates</h2>
 
-<table id="table-dates">
+<table class="table-dates">
     <tbody>
         <tr>
             <td>Submission deadline<br/>(<i>long and short papers</i>)</td>
