@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "EACL 2020 organizing committee."
+excerpt: "EACL 2021 organizing committee."
 permalink: /committees/organization
 sidebar: 
     nav: committees 
@@ -9,13 +9,13 @@ sidebar:
 
 <h5 class="comittees-header">General Chair</h5>
 <p class="comittees-members">
-	Paola Merlo, University of Geneva
+	<a href="https://www.unige.ch/lettres/linguistique/collaborateurs/profs/home/">Paola Merlo</a>, University of Geneva
 </p>
 
 <h5 class="comittees-header">Program Chairs</h5>
 <p class="comittees-members">
-	Jorg Tiedemann, University of Helsinki<br />
-	Reut Tsarfaty, Open University of Israel
+	<a href="https://blogs.helsinki.fi/tiedeman/">Jorg Tiedemann</a>, University of Helsinki<br />
+	Reut Tsarfaty, Bar Ilan University
 </p>
 
 <h5 class="comittees-header">Local Chairs</h5>
@@ -36,20 +36,20 @@ sidebar:
 <h5 class="comittees-header">Workshop Chairs</h5>
 <p class="comittees-members">
 	<a href="https://www.cs.tau.ac.il/~joberant/">Jonathan Berant</a>, Tel-Aviv University<br/>
-	Verena Rieser, Herriott-Watt University
+	<a href="https://sites.google.com/site/verenateresarieser/">Verena Rieser</a>, Heriot-Watt University
 </p>
 
 
 <h5 class="comittees-header">Student Research Workshop Chairs</h5>
 <p class="comittees-members">
-	Ionut-Teodor Sorodoc, Pompeu Fabra University<br/>
+	<a href="https://sorodoc.github.io/">Ionut-Teodor Sorodoc</a>, Pompeu Fabra University<br/>
 	Madhumita Sushil, University of Antwerp<br/>
-	Ece Takmaz, University of Amsterdam
+	<a href="http://ecekt.github.io/">Ece Takmaz</a>, University of Amsterdam
 </p>
 
 <h5 class="comittees-header">Faculty Advisors to the Student Research Workshop</h5>
 <p class="comittees-members">
-	Eneko Agirre, University of the Basque Country
+	<a href="http://ixa2.si.ehu.eus/eneko">Eneko Agirre</a>, University of the Basque Country
 </p>
 
 
@@ -61,7 +61,7 @@ sidebar:
 
 <h5 class="comittees-header">Diversity &amp; Inclusion (D&amp;I) Chairs</h5>
 <p class="comittees-members">
-	Aline Villavicencio, University of Sheffield
+	<a href="https://sites.google.com/view/alinev">Aline Villavicencio</a>, University&nbsp;of&nbsp;Sheffield and Federal&nbsp;University of Rio&nbsp;Grande&nbsp;do&nbsp;Sul
 </p>
 
 
