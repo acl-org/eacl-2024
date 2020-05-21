@@ -51,7 +51,7 @@ please see the [TACL website](http://www.transacl.org) for details.
 
 Long and Short papers:
 <center>
-<table style="width: 97%">
+<table>
     <tbody>
         <tr>
             <td style="width: 40%;">Submissions due</td>
@@ -134,11 +134,13 @@ Authors submitting more than one paper to EACL 2021 must ensure that submissions
 
 The deadline for submission of both long and short papers is Friday, 20 September 2020, 23:59 Anywhere on Earth.
  
-For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/papers>
+For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/papers>.
+
+You can find the EACL-2021 LaTeX template [here](https://www.overleaf.com/latex/templates/eacl-2021-proceedings-template/jprrhhtnbrrm) or [download the zip file]({{ '/downloads/eacl2021-templates.zip' | relative_url }}).
 
 ### Submission Format
 
-Submissions must be in PDF, and must conform to the official style guidelines for EACL 2021. We ask you to use the EACL-2021 LaTeX template. 
+Submissions must be in PDF, and must conform to the official style guidelines for EACL 2021. We ask you to use the [EACL-2021 LaTeX template](https://www.overleaf.com/latex/templates/eacl-2021-proceedings-template/jprrhhtnbrrm). 
 These are available on the conference website. We reserve the right to reject submissions if the paper does not conform to these styles, including letter size and font size restrictions. We have made the decision to enforce latex style files and submission of both latex source and PDF for final papers for the following reasons: 
 Latex ensures a uniform machine readable format for the ACL Anthology, which also benefits the use of the anthology as a corpus; most formatting issues in previous conferences were caused by papers that did not conform to the latex style files; Latex supports uniform and consistent references, authors are encouraged to use the bibtex entries provided by the ACL anthology. To facilitate collaboration and ease the burden on authors not familiar with latex, we have made available a template on Overleaf that you and your colleagues can use to author the paper, produce the corresponding latex source files and convert the paper to pdf.
 To be included in the final proceedings, accepted papers for the main conference and the workshops have to be made available both as latex sources and PDF.
