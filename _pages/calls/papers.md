@@ -51,11 +51,11 @@ please see the [TACL website](http://www.transacl.org) for details.
 
 Long and Short papers:
 <center>
-<table>
+<table class="table-dates">
     <tbody>
         <tr>
-            <td style="width: 40%;">Submissions due</td>
-            <td style="width: 30%;">Sunday</td>
+            <td>Submissions due</td>
+            <td>Sunday</td>
             <td>20 September 2020</td>
         </tr>
         <tr>
