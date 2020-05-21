@@ -281,7 +281,7 @@ $masthead-link-color: $gray-headers-color;
 }
 
 // styling the table
-#table-dates {
+.table-dates {
   margin-bottom: 0;
   
   tbody {
@@ -293,8 +293,8 @@ $masthead-link-color: $gray-headers-color;
         padding-left: 0;
 
         @include breakpoint($small) {
-          width: 40%;
-        }        
+          width: 40%; 
+        }   
       }
       
       td:nth-child(2) {
