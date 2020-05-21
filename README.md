@@ -110,13 +110,10 @@ If you fork this repository, the following files are the ones to pay attention t
 
 The following settings connect the the main domain booked for the conference (e.g. `2021.eacl.org`) with the underlying Github Pages build. 
 
-On the domain side, the following DNS settings need to be set up: all four IPs belong to Github.
+On the domain side, the following CNAME record needs to be added for the `2021` subdomain.
 
 ```
-A   @   185.199.108.153 
-A   @   185.199.109.153 
-A   @   185.199.110.153 
-A   @   185.199.111.153 
+CNAME   2021   acl-org.github.io 
 ```
 
 In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `2021.eacl.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
