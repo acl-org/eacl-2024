@@ -3,20 +3,18 @@ title: Organizing Committee
 layout: single
 excerpt: "EACL 2021 organizing committee."
 permalink: /committees/organization
-sidebar: 
-    nav: committees 
+sidebar:
+  nav: committees
 ---
 
 ### General Chair
 
 <a href="https://www.unige.ch/lettres/linguistique/collaborateurs/profs/home/">Paola Merlo</a>, University of Geneva
 
-
 ### Program Chairs
 
 <a href="https://blogs.helsinki.fi/tiedeman/">Jorg Tiedemann</a>, University of Helsinki<br />
-Reut Tsarfaty, Bar Ilan University
-
+<a href="https://cs.biu.ac.il/staff/118">Reut Tsarfaty</a>, Bar Ilan University
 
 ### Local Chairs
 
@@ -26,12 +24,10 @@ Iryna Kotkalova, Grammarly<br />
 <a href="https://apps.ucu.edu.ua/en/oleksii-molchanovskyi/?fbclid=IwAR1G7n6TFV2GQTvJyTkLP62nEWMJWfaxl1enqEs6VYjQUBn0JcW1G9y7CLQ">Oleksii Molchanovskyi</a>, Ukrainian Catholic University<br />
 <a href="https://apps.ucu.edu.ua/en/oles-dobosevych/?fbclid=IwAR2zCt9wg4xbuKU1yiK7uLVQycfKNZE3L19gbRpfuU3n7Xt7LgMxblD6kO4">Oles Dobosevych</a>, Ukrainian Catholic University
 
-
 ### Tutorial Chairs
 
 <a href="https://isabelleaugenstein.github.io/">Isabelle Augenstein</a>, University of Copenhagen<br/>
 <a href="https://habernal.github.io/">Ivan Habernal</a>, Technische Universitaet Darmstadt
-
 
 ### Workshop Chairs
 
@@ -51,7 +47,7 @@ Madhumita Sushil, University of Antwerp<br/>
 ### Demonstration Chairs
 
 <a href="https://dimitragkatzia.wordpress.com/">Dimitra Gkatzia</a>, Edinburgh Napier University<br/>
-Djamé Seddah, University Paris la Sorbonne
+<a href="http://pauillac.inria.fr/~seddah/">Djamé Seddah</a>, University Paris la Sorbonne
 
 ### Diversity &amp; Inclusion (D&amp;I) Chairs
 
