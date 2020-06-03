@@ -32,12 +32,16 @@ Iryna Kotkalova, Grammarly<br />
 ### Workshop Chairs
 
 <a href="https://www.cs.tau.ac.il/~joberant/">Jonathan Berant</a>, Tel-Aviv University<br/>
-<a href="https://sites.google.com/site/verenateresarieser/">Verena Rieser</a>, Heriot-Watt University
+<a href="http://angelikilazaridou.github.io/">Angeliki Lazaridou</a>, DeepMind
+
+### Publication chair
+
+<a href="https://valeriobasile.github.io/">Valerio Basile</a>, University of Turin
 
 ### Student Research Workshop Chairs
 
 <a href="https://sorodoc.github.io/">Ionut-Teodor Sorodoc</a>, Pompeu Fabra University<br/>
-Madhumita Sushil, University of Antwerp<br/>
+<a href="https://madhumitasushil.github.io/">Madhumita Sushil</a>, University of Antwerp<br/>
 <a href="http://ecekt.github.io/">Ece Takmaz</a>, University of Amsterdam
 
 ### Faculty Advisors to the Student Research Workshop
