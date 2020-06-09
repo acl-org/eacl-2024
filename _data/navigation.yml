@@ -1,17 +1,16 @@
 # main links
 main:
+  #  - title: "Schedule"
+  #    url: /schedule/
 
-#  - title: "Schedule"
-#    url: /schedule/
-
-#  - title: "LiveCaptions"
-#    url: /captions/
+  #  - title: "LiveCaptions"
+  #    url: /captions/
 
   - title: "Program"
     url: /program/tutorials/
 
-  - title: "Blog"
-    url: /blog
+  - title: "Calls"
+    url: /calls/papers
 
   - title: "Registration"
     url: /registration
@@ -22,8 +21,8 @@ main:
   - title: "Sponsors"
     url: /sponsors/list/
 
-  - title: "Calls"
-    url: /calls/papers
+  - title: "Blog"
+    url: /blog
 
   - title: "Reviewers"
     url: /reviewers
@@ -35,16 +34,17 @@ main:
     url: /kyiv
 
 calls:
-  - title: Call for papers
-     # children:
-     #   - title: "Conference Papers"
-     #     url: /calls/papers/
-       # - title: "System Demonstrations"
-       #   url: /calls/demos/
-       # - title: "Workshop Proposals"
-       #   url: /calls/workshops/
-       # - title: "Tutorial Proposals"
-       #   url: /calls/tutorials/
+  - title:
+      Call for papers
+      # children:
+      #   - title: "Conference Papers"
+      #     url: /calls/papers/
+      # - title: "System Demonstrations"
+      #   url: /calls/demos/
+      # - title: "Workshop Proposals"
+      #   url: /calls/workshops/
+      # - title: "Tutorial Proposals"
+      #   url: /calls/tutorials/
 
 program:
   - title: Program Details
@@ -59,7 +59,6 @@ program:
 #        url: /program/accepted/
 #      - title: "Careers in NLP Panel"
 #        url: /program/careerspanel/
-
 
 # participants:
 #   - title: "Information for Participants"
