@@ -1,16 +1,17 @@
 # main links
 main:
-  #  - title: "Schedule"
-  #    url: /schedule/
 
-  #  - title: "LiveCaptions"
-  #    url: /captions/
+#  - title: "Schedule"
+#    url: /schedule/
+
+#  - title: "LiveCaptions"
+#    url: /captions/
 
   - title: "Program"
-    url: /program/keynotes/
+    url: /program/tutorials/
 
-  - title: "Calls"
-    url: /calls/papers
+  - title: "Blog"
+    url: /blog
 
   - title: "Registration"
     url: /registration
@@ -21,8 +22,8 @@ main:
   - title: "Sponsors"
     url: /sponsors/list/
 
-  - title: "Blog"
-    url: /blog
+  - title: "Calls"
+    url: /calls/papers
 
   - title: "Reviewers"
     url: /reviewers
@@ -34,31 +35,33 @@ main:
     url: /kyiv
 
 calls:
-  - title:
-      Call for papers
-      # children:
-      #   - title: "Conference Papers"
-      #     url: /calls/papers/
-      # - title: "System Demonstrations"
-      #   url: /calls/demos/
-      # - title: "Workshop Proposals"
-      #   url: /calls/workshops/
-      # - title: "Tutorial Proposals"
-      #   url: /calls/tutorials/
+  - title: Call for
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/papers/
+      - title: "System Demonstrations"
+        url: /calls/demos/
+      - title: "Workshop Proposals"
+        url: /calls/workshops/
+      - title: "Tutorial Proposals"
+        url: /calls/tutorials/
+      - title: "Student Research Workshop"
+        url: /calls/student/
 
 program:
   - title: Program Details
     children:
-      - title: "Keynote Speakers"
-        url: /program/keynotes/
       - title: "Tutorials"
         url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
 #      - title: "Accepted Papers"
 #        url: /program/accepted/
 #      - title: "Careers in NLP Panel"
 #        url: /program/careerspanel/
+
 
 # participants:
 #   - title: "Information for Participants"
