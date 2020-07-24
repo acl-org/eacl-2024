@@ -17,24 +17,27 @@ April 19-23<br />
 
 The 16th Conference of the European Chapter of the Association for Computational Linguistics invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of natural language processing, including but not limited to the following areas:
 
-- Cognitive modeling and Psycholinguistics
+- Computational Social Science and Social Media
 - Dialog and Interactive Systems
 - Discourse and Pragmatics
-- Document analysis including Text Categorization, Topic Models and Information Retrieval
-- Generation
-- Information Extraction, Text Mining and Question Answering
-- Machine learning in NLP
-- Machine translation
+- Information Extraction and Text Mining
+- Information Retrieval, Search and Question Answering
+- Interpretability and Analysis of Models for NLP
+- Generation and Summarization
+- Green and Sustainable NLP
+- Language Resources and Evaluation
+- Language Grounding to Vision, Robotics and Beyond
+- Linguistic Theories, Cognitive Modeling and Psycholinguistics
+- Machine Learning for NLP
+- Machine Translation
 - Multilinguality
-- Phonology, Morphology, and Word Segmentation
-- Resources and Evaluation
-- Semantics
-- Sentiment Analysis and Opinion Mining
-- Social Media
+- NLP Applications for Emergency Situations and Crisis Management
+- Phonology, Morphology and Word Segmentation
+- Semantics: Lexical Semantics
+- Semantics: Sentence-level Semantics, Textual Entailments and Other areas
+- Sentiment Analysis, Stylistic Analysis, and Argument Mining
 - Speech
-- Summarization
-- Tagging, Chunking, Syntax, and Parsing
-- Vision, Robots, and other Grounding
+- Syntax: Tagging, Chunking, and Parsing
  
 To reflect recent growing areas of interest, this year we will hold three additional tracks: 
  
