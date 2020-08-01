@@ -35,7 +35,7 @@ main:
     url: /kyiv
 
 calls:
-  - title: Call for papers
+  - title: Call for
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
