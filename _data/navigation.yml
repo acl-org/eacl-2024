@@ -36,15 +36,17 @@ main:
 
 calls:
   - title: Call for papers
-     # children:
-     #   - title: "Conference Papers"
-     #     url: /calls/papers/
-       # - title: "System Demonstrations"
-       #   url: /calls/demos/
-       # - title: "Workshop Proposals"
-       #   url: /calls/workshops/
-       # - title: "Tutorial Proposals"
-       #   url: /calls/tutorials/
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/papers/
+      - title: "System Demonstrations"
+        url: /calls/demos/
+      - title: "Workshop Proposals"
+        url: /calls/workshops/
+      - title: "Tutorial Proposals"
+        url: /calls/tutorials/
+      - title: "Student Research Workshop"
+        url: /calls/student/
 
 program:
   - title: Program Details
