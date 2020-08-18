@@ -1,7 +1,9 @@
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
-  {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
+  {% if page.sidebar.title %}
+    <h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>
+  {% endif %}
   <ul class="nav__items">
 
     {% for nav in navigation %}
@@ -14,7 +16,9 @@
             {% assign nav_url = nav.url | relative_url %}
           {% endif %}
 
-          <a href="{{ nav_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <a href="{{ nav_url }}">
+            <span class="nav__sub-title">{{ nav.title }}</span>
+          </a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
@@ -25,30 +29,32 @@
         {% endif %}
 
         {% if nav.children != null %}
-        <ul>
-          {% for child in nav.children %}
-            {% comment %} internal/external URL check {% endcomment %}
-            {% if child.url contains "://" %}
-              {% assign child_url = child.url %}
-            {% else %}
-              {% assign child_url = child.url | relative_url %}
-            {% endif %}
+          <ul>
+            {% for child in nav.children %}
+              {% comment %} internal/external URL check {% endcomment %}
+              {% if child.url contains "://" %}
+                {% assign child_url = child.url %}
+              {% else %}
+                {% assign child_url = child.url | relative_url %}
+              {% endif %}
 
-            {% comment %} set "active" class on current page {% endcomment %}
-            {% if child.url == page.url %}
-              {% assign active = "active" %}
-            {% else %}
-              {% assign active = "" %}
-            {% endif %}
+              {% comment %} set "active" class on current page {% endcomment %}
+              {% if child.url == page.url %}
+                {% assign active = "active" %}
+              {% else %}
+                {% assign active = "" %}
+              {% endif %}
 
-            <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+              <li>
+                <a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a>
+              </li>
 
-            {% if page.toc and page.url == child.url %}
-              {% include toc.html sanitize=true html=content h_min=1 h_max=4 class="toc__menu" %}
-            {% endif %}
+              {% if page.toc and page.url == child.url %}
+                {% include toc.html sanitize=true html=content h_min=1 h_max=4 class="toc__menu" %}
+              {% endif %}
 
-          {% endfor %}
-        </ul>
+            {% endfor %}
+          </ul>
         {% endif %}
       </li>
     {% endfor %}
