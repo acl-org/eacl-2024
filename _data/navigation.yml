@@ -57,19 +57,14 @@ program:
         url: /program/workshops/
       - title: "Keynote Speakers"
         url: /program/keynotes/
-#      - title: "Accepted Papers"
-#        url: /program/accepted/
-#      - title: "Careers in NLP Panel"
-#        url: /program/careerspanel/
 
-
-# participants:
-#   - title: "Information for Participants"
-#     children:
-#       - title: "Accommodation"
-#         url: /participants/accommodation/
-#       - title: "Social Event"
-#         url: /participants/social/
+committees:
+   - title: "Committees"
+     children:
+       - title: "Organizing"
+         url: /committees/organization
+       - title: "Senior Program"
+         url: /committees/program
 
 sponsors:
   - title: Sponsorship
