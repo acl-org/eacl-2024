@@ -223,6 +223,17 @@ $page-max-width: 904px;
   }
 }
 
+.notice, .notice--info {
+  h2 {
+    font-size: 1.4em;
+    margin: 0 0 1em 0;
+  }
+}
+
+.notice--info {
+  background: #ebf9ff;
+}
+
 $masthead-link-color: $gray-headers-color;
 
 // Page 'Comittees'

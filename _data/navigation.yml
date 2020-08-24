@@ -10,8 +10,8 @@ main:
   - title: "Program"
     url: /program/tutorials/
 
-  - title: "Blog"
-    url: /blog
+  - title: "News"
+    url: /news
 
   - title: "Registration"
     url: /registration
