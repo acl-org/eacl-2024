@@ -81,22 +81,33 @@ $footer-background-color: $gray-background;
 }
 
 #see-you-next-april-in-kyiv {
-  padding-top: 48px;
-  margin-top: 48px;
+  padding-top: 2rem;
+  margin-top: 2rem;
   border-bottom: none;
   border-top: 1px solid $border-color;
 }
+
+// Setting the maximum width of the page to appropriately match the design
+$page-max-width: 904px;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 .grid {
   display: grid;
   margin-bottom: 30px;
 
   &.kyiv-travel {
-    grid-template-columns: 110px calc(100% - 110px);
+    grid-template-columns: 1fr;
+    grid-row-gap: 1em;
+
+    @include breakpoint($small) {
+      grid-template-columns: 110px calc(100% - 110px);
+    }
   }
 
   &.kyiv-comments {
-    grid-template-columns: 60px calc(100% - 60px);
+    grid-template-columns: 2.5rem calc(100% - 2.5rem);
   }
 
   em {
@@ -110,14 +121,6 @@ $footer-background-color: $gray-background;
     background-image: linear-gradient(to bottom, #4E72E7, #54B392);
   }
 }
-
-
-
-// Setting the maximum width of the page to appropriately match the design
-$page-max-width: 904px;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
 // editing the masthead
 
