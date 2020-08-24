@@ -81,7 +81,7 @@
 {% endif %}
 -->
 
-<meta property="og:image" content="{{ '/assets/images/og-image.jpg' | relative_url }}">
+<meta property="og:image" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/images/og-image.jpg">
 <meta property="og:image:width" content="968">
 <meta property="og:image:height" content="504">
 
