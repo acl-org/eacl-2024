@@ -63,8 +63,8 @@ Long and Short papers:
         </tr>
         <tr>
             <td>Acceptance notification</td>
-            <td>Wednesday</td>
-            <td>11 November 2020</td>
+            <td>Friday</td>
+            <td>11 December 2020</td>
         </tr>
         <tr>
             <td>Camera-ready due</td>
