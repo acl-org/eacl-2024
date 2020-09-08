@@ -15,7 +15,7 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-Welcome to the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL), hosted in Kyiv, Ukraine. EACL 2021 will be held from 19 to 23 of April, 2021. While we are planning to hold the conference in Kyiv, we will provide suitable online options if need be.
+Welcome to the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). EACL 2021 will be held from 19 to 23 of April, 2021. While we were planning to hold the conference in Kyiv, [due to the current COVID situation the conference will be held entirely online](/participants).
 
 As in previous years, the program of the conference includes poster sessions, tutorials, workshops, and demonstrations in addition to the main conference. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
 
@@ -25,8 +25,8 @@ As in previous years, the program of the conference includes poster sessions, tu
     <tbody>
         <tr>
             <td>Submission deadline<br/>(<i>long and short papers</i>)</td>
-            <td>Sunday</td>
-            <td>20&nbsp;September, 2020</td>
+            <td>Wednesday</td>
+            <td>7&nbsp;October 2020</td>
         </tr>
         <tr>
             <td>Tutorials and workshops</td>

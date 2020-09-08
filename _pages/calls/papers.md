@@ -11,8 +11,7 @@ toc_icon: "cog"
 ---
 
 **EACL 2021**<br />
-Kyiv, Ukraine<br />
-April 19-23<br />
+Online<br />
 <http://eacl2021.org>
 
 The 16th Conference of the European Chapter of the Association for Computational Linguistics invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of natural language processing, including but not limited to the following areas:
@@ -58,18 +57,18 @@ Long and Short papers:
     <tbody>
         <tr>
             <td>Submissions due</td>
-            <td>Sunday</td>
-            <td>20 September 2020</td>
+            <td>Wednesday</td>
+            <td>7 October 2020</td>
         </tr>
         <tr>
             <td>Acceptance notification</td>
-            <td>Friday</td>
-            <td>11 December 2020</td>
+            <td>Monday</td>
+            <td>11 January 2021</td>
         </tr>
         <tr>
             <td>Camera-ready due</td>
             <td>Monday</td>
-            <td>11 January 2021</td>
+            <td>25 January 2021</td>
         </tr>
         <tr>
             <td>EACL conference</td>

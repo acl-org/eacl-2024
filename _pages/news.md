@@ -11,6 +11,13 @@ classes: wide
 ---
 
 <div class="notice--info" markdown="1">
+  <h2>Location</h2>
+
+EACL 2021 will now be held entirely online, rather than in Kyiv as previously announced, to avoid the need for international travel and risk of further spread of COVID-19. We will take steps to ensure there is as much virtual social interaction as possible. We will post further information here as it becomes available.
+
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Tracks and Area Chairs</h2>
   EACL 2021 will feature a wide range of areas and topics and we invite people to contribute to our programme in any of the tracks listed in the call for papers (<https://2021.eacl.org/calls/papers/>).
 

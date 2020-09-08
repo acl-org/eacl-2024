@@ -31,8 +31,8 @@ main:
   - title: "Committees"
     url: /committees/organization
 
-  - title: "Kyiv"
-    url: /kyiv
+  # - title: "Kyiv"
+  #   url: /kyiv
 
 calls:
   - title: Call for
