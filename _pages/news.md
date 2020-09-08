@@ -30,11 +30,11 @@ Each track will be handled by domain experts and we are excited to announce the 
 
 The first call for papers for EACL 2021 is out. Mark your calendars with the important dates for paper submission and notifications:
 
-Submissions deadline: 20 September 2020
+Submissions deadline: 7 October 2020
 
-Acceptance notification: 11 November 2020
+Acceptance notification: 11 January 2021
 
-Camera-ready submission: 11 January 2021
+Camera-ready submission: 25 January 2021
 
 More information is available at: <https://2021.eacl.org/calls/papers/><br/>
 Please, circulate the call among your colleagues and friends! See you at EACL 2021 in April!
