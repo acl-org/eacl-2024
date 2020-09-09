@@ -102,7 +102,7 @@ Short papers will be presented orally or as posters as determined by the program
 
 ### Anonymity Period
 
-The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline (starting August 20, 2020 11:59PM UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (January 10, 2021).
+The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline (starting September 7, 2020 11:59PM UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (January 11, 2021).
 
 - You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper we understand another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length (e.g., an abstract is a version of the paper that it summarizes).
 - If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the conference. The submitted version must not refer to the non-anonymized version, and you must inform the program chair(s) that a non-anonymized version exists.
@@ -134,7 +134,7 @@ Authors submitting more than one paper to EACL 2021 must ensure that submissions
 
 ### Submission Instructions
 
-The deadline for submission of both long and short papers is Friday, 20 September 2020, 23:59 Anywhere on Earth.
+The deadline for submission of both long and short papers is Wednesday, 7 October 2020, 23:59 Anywhere on Earth.
 
 For electronic submission of all papers, please use: <https://www.softconf.com/eacl2021/papers>.
 
