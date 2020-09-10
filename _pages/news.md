@@ -11,6 +11,16 @@ classes: wide
 ---
 
 <div class="notice--info" markdown="1">
+  <h2>Green and Sustainable NLP</h2>
+
+This EACL edition is proud to introduce a new track to the main session: **Green and Sustainable NLP**.
+We are excited to welcome the **Green and Sustainable NLP** PC chairs: Roy Schwartz and Emma Strubell, who will manage this unique track and who have kindly contributed some introductory word...
+
+[Read More](/news/green-and-sustainable-nlp)
+
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Location</h2>
 
 EACL 2021 will now be held entirely online, rather than in Kyiv as previously announced, to avoid the need for international travel and risk of further spread of COVID-19. We will take steps to ensure there is as much virtual social interaction as possible. We will post further information here as it becomes available.
