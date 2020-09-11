@@ -14,7 +14,8 @@ classes: wide
   <h2>Green and Sustainable NLP</h2>
 
 This EACL edition is proud to introduce a new track to the main session: **Green and Sustainable NLP**.
-We are excited to welcome the **Green and Sustainable NLP** PC chairs: Roy Schwartz and Emma Strubell, who will manage this unique track and who have kindly contributed some introductory word...
+We are excited to welcome the **Green and Sustainable NLP** PC chairs: Roy Schwartz and Emma Strubell, who will manage this unique
+track and who have kindly contributed some introductory words for the track.
 
 [Read More](/news/green-and-sustainable-nlp)
 

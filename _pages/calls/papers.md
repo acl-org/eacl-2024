@@ -100,6 +100,8 @@ Short paper submissions must describe original and unpublished work. Please note
 
 Short papers will be presented orally or as posters as determined by the program committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
 
+Short papers may consist of up to 4 pages of content, plus unlimited references; final versions of long papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account
+
 ### Anonymity Period
 
 The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 month before the submission deadline (starting September 7, 2020 11:59PM UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (January 11, 2021).
