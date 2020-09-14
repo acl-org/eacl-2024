@@ -11,6 +11,15 @@ classes: wide
 ---
 
 <div class="notice--info" markdown="1">
+  <h2>NLP Applications for Emergency Situations and Crisis Management</h2>
+
+By: Robert Munro
+
+For the first time, a major NLP conference has a track on disaster response! The “NLP Applications for Emergency Situations and Crisis Management” track at EACL 2021 encourages researchers to share their work on a broad range of topics in disaster prevention, response, and recovery. As someone who has worked in both NLP and disaster response for many years, I am delighted to be the Senior Area Chair for this track and to be joined by Area Chairs, Antonios Anastasopoulos, Ishan Jindal, Rada Mihalcea, and Graham Neubig. We encourage papers that show innovation in NLP for disaster response while at the same time maintaining the privacy, safety, and dignity of crisis-affected populations. A broad-range of application areas are encouraged, including prevention, logistics support, and long-term disasters like climate change. For more on what makes a good paper, see my recent article: [Research on Machine Learning for Disaster Response: what makes a good paper](https://towardsdatascience.com/research-on-machine-learning-for-disaster-response-b65f3e97c018?source=friends_link&sk=e2e8e7ef66cae276bde29298b7516955)?
+
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Green and Sustainable NLP</h2>
 
 This EACL edition is proud to introduce a new track to the main session: **Green and Sustainable NLP**.
