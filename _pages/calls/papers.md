@@ -45,8 +45,8 @@ To reflect recent growing areas of interest, this year we will hold three additi
 
 Furthermore, we also welcome position papers reflecting on the current state-of-the-art in relation to prior research and future directions.
 
-Papers accepted to TACL by 28 October 2020 will also be eligible for presentation at EACL 2021;
-please see the [TACL website](http://www.transacl.org) for details.
+Papers accepted to TACL by 14 December 2020 will also be eligible for presentation at EACL 2021;
+please see the [TACL website](https://transacl.org/ojs/index.php/tacl/announcement) for details.
 
 ## Important Dates
 
