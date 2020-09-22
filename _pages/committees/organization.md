@@ -3,8 +3,8 @@ title: Organizing Committee
 layout: single
 excerpt: "EACL 2021 organizing committee."
 permalink: /committees/organization
-sidebar: 
-    nav: committees 
+sidebar:
+  nav: committees
 ---
 
 ### General Chair
@@ -14,7 +14,7 @@ sidebar:
 ### Program Chairs
 
 <a href="https://blogs.helsinki.fi/tiedeman/">Jorg Tiedemann</a>, University of Helsinki<br />
-Reut Tsarfaty, Bar Ilan University
+<a href="https://cs.biu.ac.il/staff/118">Reut Tsarfaty</a>, Bar Ilan University
 
 ### Local Chairs
 
@@ -51,7 +51,7 @@ Iryna Kotkalova, Grammarly<br />
 ### Demonstration Chairs
 
 <a href="https://dimitragkatzia.wordpress.com/">Dimitra Gkatzia</a>, Edinburgh Napier University<br/>
-Djamé Seddah, University Paris la Sorbonne
+<a href="http://pauillac.inria.fr/~seddah/">Djamé Seddah</a>, University Paris la Sorbonne
 
 ### Diversity &amp; Inclusion (D&amp;I) Chairs
 

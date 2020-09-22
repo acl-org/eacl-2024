@@ -3,8 +3,8 @@ title: Senior Program Committee
 layout: single
 excerpt: "ACL 2020 program committee."
 permalink: /committees/program
-sidebar: 
-    nav: committees 
+sidebar:
+  nav: committees
 ---
 
 <h2>Senior Area Chairs</h2>
@@ -24,6 +24,7 @@ sidebar:
 
 <b>Generation and Summarization</b><br/>
 [Anya Belz](https://research.brighton.ac.uk/en/persons/anya-belz)
+[Annie Louis](https://research.google/people/106801/)
 
 <b>Green and Sustainable NLP</b><br/>
 [Roy Schwartz](https://schwartz-lab-huji.github.io/author/roy-schwartz/)<br/>
