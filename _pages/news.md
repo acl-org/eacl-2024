@@ -9,7 +9,6 @@ share: true
 comments: false
 classes: wide
 ---
-
 <div class="notice--info" markdown="1">
   <h2>NLP Applications for Emergency Situations and Crisis Management</h2>
 

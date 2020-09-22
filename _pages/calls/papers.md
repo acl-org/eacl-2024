@@ -38,7 +38,7 @@ The 16th Conference of the European Chapter of the Association for Computational
 - Speech
 - Syntax: Tagging, Chunking, and Parsing
 
-To reflect recent growing areas of interest, this year we will hold three additional tracks:
+To reflect recent growing areas of interest, this year we will hold additional tracks:
 
 - Green and Sustainable NLP
 - NLP and Crisis Management
