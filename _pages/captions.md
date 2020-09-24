@@ -1,7 +1,7 @@
 ---
 title: Live Captions
 layout: single
-excerpt: "Live Captioning at NAACL 2019."
+excerpt: "Live Captioning at EACL 2021."
 permalink: /captions/
 sidebar: false
 
