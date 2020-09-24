@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-EACL 2021 Student Research Workshop Second Call for Papers
+<span style="font-weight: bolder;font-size: larger;">EACL 2021 Student Research Workshop Second Call for Papers</span>
 
 The Student Research Workshop (SRW) will be held <strong>online due to the current COVID situation</strong>.
 

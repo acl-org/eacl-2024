@@ -34,9 +34,10 @@ Iryna Kotkalova, Grammarly<br />
 <a href="https://www.cs.tau.ac.il/~joberant/">Jonathan Berant</a>, Tel-Aviv University<br/>
 <a href="http://angelikilazaridou.github.io/">Angeliki Lazaridou</a>, DeepMind
 
-### Publication chair
+### Publication chairs
 
-<a href="https://valeriobasile.github.io/">Valerio Basile</a>, University of Turin
+<a href="https://valeriobasile.github.io/">Valerio Basile</a>, University of Turin<br/>
+<a href="https://www.rug.nl/staff/t.caselli/">Tommaso Caselli</a>, University of Groningen
 
 ### Student Research Workshop Chairs
 

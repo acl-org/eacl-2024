@@ -224,9 +224,15 @@ $page-max-width: 904px;
 }
 
 .notice, .notice--info {
+  h2, p {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+  
   h2 {
     font-size: 1.4em;
-    margin: 0 0 1em 0;
+    margin: 1em 0 1em 0;
   }
 }
 
@@ -349,11 +355,17 @@ $masthead-link-color: $gray-headers-color;
 }
 
 .keynote-photo {
+  width: 100%;
   padding-top: 70%;
   border-radius: 6px;
   background-position: center;
   background-size: cover;
   margin: 2rem 0;
+
+  @include breakpoint($medium) {
+    width: 70%;
+    padding-top: 50%;
+  }
 }
 
 #melanie {
