@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: single
-excerpt: "NAACL 2019 Accepted Papers."
+excerpt: "EACL 2021 Accepted Papers."
 permalink: /program/accepted/
 sidebar: 
     nav: program

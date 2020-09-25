@@ -1,10 +1,11 @@
 ---
 title: Keynote Speakers
 layout: single
-excerpt: "NAACL 2021 Keynote Speakers."
+excerpt: "EACL 2021 Keynote Speakers."
 permalink: /program/keynotes/
-sidebar:
-  nav: "program"
+sidebar: 
+    nav: "program"
+
 ---
 
 The following speakers have graciously accepted to give keynotes at EACL 2021.
@@ -18,7 +19,7 @@ The following speakers have graciously accepted to give keynotes at EACL 2021.
 <div class="keynote-photo" id="melanie"></div>
 
 <strong>Melanie Mitchell</strong> is the Davis Professor at the Santa Fe Institute. Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems.
-Melanie is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus, and Giroux).
+Melanie is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus, and Giroux). 
 
 ## Fernanda Ferreira
 

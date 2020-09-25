@@ -33,15 +33,15 @@ Tutorials will be held at one of the following conference venues:
 - ACL-IJCNLP 2021, which will be tentatively held in Bangkok, Thailand, from 1–6 August 2021.
 - EMNLP 2021, which will be tentatively held in Punta Cana, Dominican Republic in the fall of 2021 (October or November).
 
-## FEE WAIVING
+## Fee Waiving
 
 In a change from previous years, tutorial instructors will receive no payment. However, up to 3 instructors per tutorial can have their registration fees waived for the main conference and any subset of co-located tutorials and workshops.
 
-## DIVERSITY AND INCLUSION
+## Diversity And Inclusion
 
 We recognize the current problems of demographic imbalance in the field. Therefore, we particularly encourage submissions from members of under-represented groups in computational linguistics, i.e. from researchers self-identifying within any underrepresented demographic (gender, ethnicity, nationality, etc.).
 
-## SUBMISSION DETAILS
+## Submission Details
 
 Proposals should follow the EACL 2021 paper submission format (<https://2021.eacl.org/calls/papers/>), **should not exceed 6 pages**, should be submitted as PDF documents and should contain the following:
 
@@ -67,15 +67,15 @@ Tutorial proposals should be submitted online using the START system: <https://w
 
 Proposals will be reviewed jointly by the Tutorial Co-Chairs of the four conferences and by a group of external experts.
 
-## EVALUATION CRITERIA
+## Evaluation Criteria
 
 Each tutorial proposal will be evaluated according to its clarity and preparedness, novelty or timely character of the topic, instructors’ experience, likely audience interest, open access of the teaching material, and diversity aspects (see point 5 above). 
 
-## TUTORIAL INSTRUCTOR RESPONSIBILITIES
+## Tutorial Instructor Responsibilities
 
 Accepted tutorial presenters will be notified by 11 November 2020. They must then provide abstracts of their tutorials for inclusion in the conference registration material by the specific conference deadlines. The description should be in two formats: (a) an ASCII version that can be included in email announcements and published on the conference website, and (b) a PDF version for inclusion in the electronic proceedings (detailed instructions will be provided). Tutorial speakers must provide tutorial materials by the deadline specified for the conference, with **course slides submitted at least one month prior to the date of the tutorial** (conditioned on the final venue). The final submitted tutorial materials must minimally include copies of the course slides and a bibliography for the material covered in the tutorial. After the conference, the presenters will be invited to update their slides in the ACL Anthology (if needed).
 
-## IMPORTANT DATES
+## Important Dates
 
 EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021 shared dates for tutorial proposal:
 
@@ -83,7 +83,7 @@ EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021 shared dates for tutorial proposal:
 - Notification of acceptance: Wednesday 11 November 2020
 - Tutorial slides + abstract + bibliography: one month prior to the date of the tutorial
 
-## TUTORIAL CHAIRS
+## Tutorial Chairs
 
 **EACL**
 - Isabelle Augenstein, University of Copenhagen, Denmark

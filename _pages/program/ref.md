@@ -1,7 +1,7 @@
 ---
 title: Conference Schedule
 layout: schedule
-excerpt: "NAACL 2019 conference schedule."
+excerpt: "EACL 2021 conference schedule."
 permalink: /ref
 sidebar: false
 script: |
@@ -62,7 +62,7 @@ script: |
                     if (pageNumber == 1) {
                         doc.setFontSize(16);
                         doc.setFontStyle('normal');
-                        doc.text("NAACL 2019 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
+                        doc.text("EACL 2021 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
                     }
 
                     /* FOOTER on each page */
