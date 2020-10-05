@@ -10,6 +10,15 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>Final and extended Call for Tutorial Proposals</h2>
+
+  We have extended the submission deadline for tutorial proposals for the next season's tutorials, namely EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021.
+
+  <strong>Extended submission deadline</strong>: Wednesday 4 November 2020<br/>
+  <strong>Notification of acceptance</strong>: Wednesday 2 December 2020
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Keynote speakers</h2>
 
   We are delighted that the following speakers have graciously accepted to give keynotes at EACL 2021:
