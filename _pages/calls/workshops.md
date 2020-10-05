@@ -21,7 +21,7 @@ SECOND JOINT CALL for Workshop Proposals: ACL-IJCNLP / EACL / EMNLP / NAACL<br/>
 2021
 
 Proposal Submission Deadline: October 8, 2020<br/>
-Notification of Acceptance: November  6, 2020
+Notification of Acceptance: November  8, 2020
 
 The Association for Computational Linguistics invites proposals for workshops to be held in conjunction with ACL-IJCNLP 2021, EACL 2021, EMNLP 2021, or NAACL 2021. We solicit proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval, and multimodal processing.
 
