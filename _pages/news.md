@@ -16,6 +16,9 @@ classes: wide
 
   <strong>Extended submission deadline</strong>: Wednesday 4 November 2020<br/>
   <strong>Notification of acceptance</strong>: Wednesday 2 December 2020
+
+  More information is available at: <https://2021.eacl.org/calls/tutorials/><br/>
+  Please, circulate the call among your colleagues and friends! See you at EACL 2021 in April!
 </div>
 
 <div class="notice--info" markdown="1">
