@@ -15,7 +15,7 @@ toc_icon: "cog"
 Event Notification Type: Call for Proposals<br/>
 Contact Email: [cl21-tutorial-chairs@googlegroups.com](mailto:cl21-tutorial-chairs@googlegroups.com)<br/>
 Contact: Tutorial Organizers<br/>
-Submission Deadline: Sunday 20 September 2020
+Extended Submission Deadline: Wednesday 4 November 2020
 
 The Association for Computational Linguistics (ACL), the European Chapter of the Association for Computational Linguistics (EACL), the Asian Federation of Natural Language Processing (AFNLP), the North American Chapter of the Association for Computational Linguistics (NAACL), and the Conference on Empirical Methods in Natural Language Processing (EMNLP) invite proposals for tutorials to be held in conjunction with EACL 2021, NAACL-HLT 2021, ACL-IJCNLP 2021, or EMNLP 2021. We seek proposals in all areas of computational linguistics, broadly conceived to include related disciplines.
 
@@ -79,7 +79,7 @@ Accepted tutorial presenters will be notified by 11 November 2020. They must the
 
 EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021 shared dates for tutorial proposal:
 
-- Submission deadline for tutorial proposals: Sunday 20 September 2020
+- Extended submission deadline for tutorial proposals: Wednesday 4 November 2020
 - Notification of acceptance: Wednesday 11 November 2020
 - Tutorial slides + abstract + bibliography: one month prior to the date of the tutorial
 

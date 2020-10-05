@@ -61,6 +61,11 @@ Long and Short papers:
             <td>7 October 2020</td>
         </tr>
         <tr>
+          <td>Author Response</td>
+          <td>Sunday- Wednesday</td>
+          <td>22-25 November 2020</td>
+        </tr>
+        <tr>
             <td>Acceptance notification</td>
             <td>Monday</td>
             <td>11 January 2021</td>
