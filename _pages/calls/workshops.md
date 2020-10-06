@@ -1,9 +1,9 @@
 ---
-title: 
+title:
 layout: single
 permalink: /calls/workshops/
-sidebar: 
-    nav: "calls"
+sidebar:
+  nav: "calls"
 toc: false
 toc_sticky: true
 toc_icon: "cog"
@@ -21,7 +21,7 @@ SECOND JOINT CALL for Workshop Proposals: ACL-IJCNLP / EACL / EMNLP / NAACL<br/>
 2021
 
 Proposal Submission Deadline: October 8, 2020<br/>
-Notification of Acceptance: November  8, 2020
+Notification of Acceptance: November 8, 2020
 
 The Association for Computational Linguistics invites proposals for workshops to be held in conjunction with ACL-IJCNLP 2021, EACL 2021, EMNLP 2021, or NAACL 2021. We solicit proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval, and multimodal processing.
 
@@ -66,7 +66,7 @@ The two pages for information about organizers, program committee, and reference
 - The names, affiliations, and email addresses of the organizers, with one-paragraph statements of their research interests, areas of expertise, and experience in organizing workshops and related events.
 - A list of Programme Committee members, with an indication of which members have already agreed. Organizers should do their best to estimate the number of submissions (especially for recurring workshops) in order to (a) ensure a sufficient number of reviewers so that each paper receives 3 reviews, and (b) anticipate that no one is committed to reviewing more than 3 papers. This practice is likely to ensure on-time and more thorough and thoughtful reviews.
 - References
-In addition, you will need to specify the following information when you submit via the START System (not in the PDF proposal):
+  In addition, you will need to specify the following information when you submit via the START System (not in the PDF proposal):
 - A very brief advertisement or tagline for the workshop, up to 140 characters, that highlights any key information you wish prospective attendees to know, and which would be suitable to be put onto a web-based survey (see below).
 - A URL for the workshop website which will be shown in the web-based survey.
 - A list of organizers’ names which will be shown in the web-based survey.
@@ -91,8 +91,8 @@ The ACL has a set of policies on workshops. You can find the ACL’s general pol
 
 ## Timeline For The 2021 Workshops
 
-October 6, 2020: Proposal Submission Deadline<br/>
-November 6, 2020: Notification of Acceptance
+October 8, 2020: Proposal Submission Deadline<br/>
+November 8, 2020: Notification of Acceptance
 
 **EACL:**
 
