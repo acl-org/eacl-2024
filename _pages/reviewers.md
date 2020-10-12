@@ -3,18 +3,18 @@ title: Intructions for Reviewers
 layout: single
 permalink: /reviewers/
 sidebar:
-    nav: "reviewers"
+  nav: "reviewers"
 toc: true
 toc_only: true
 toc_sticky: true
 toc_icon: "cog"
 ---
 
-Thank you for reviewing for EACL 2020! In order to ensure the quality of reviews, we would like to share with you the following instructions for reviewing EACL 2020 papers. Please read carefully these instructions before you start reviewing EACL papers.
+Thank you for reviewing for EACL 2021! In order to ensure the quality of reviews, we would like to share with you the following instructions for reviewing EACL 2021 papers. Please read carefully these instructions before you start reviewing EACL papers.
 
 ## Confidentiality
 
-Please note that the content of any submission to EACL 2021, information regarding  the participants,and the content of discussions on submissions, are strictly **confidential**.
+Please note that the content of any submission to EACL 2021, information regarding the participants,and the content of discussions on submissions, are strictly **confidential**.
 
 Furthermore, note that at EACL we employ a **double-blind** reviewing process. So, in your review, please refrain from mentioning any details that may disclose your identity (including describing your own work, excessive self-references, personal remarks, etc.)
 
@@ -26,7 +26,7 @@ Our review form and instructions are roughly based on previous ACL events. To im
 
 In this section, there are 7 subsections:
 
-- **The core review (high-level comments)**: This is the most **important** part. It should include your view of the main **contributions** that the paper is intended to make and how well it succeeds at making these contributions. From your point of view, what are the significant **strong** and **weak** aspects of the paper and the work it describes? This could be a 2 paragraph (or longer) essay and/or bullet points. Remember to describe how the work advances the state of knowledge in computational linguistics and/or highlights why it fails to make a sufficient contribution  If you have any **questions to the author(s)**, please also include them in this section as well. These questions will be important for the author response period, and and they may also point to future directions and suggestions for improvements of the paper.
+- **The core review (high-level comments)**: This is the most **important** part. It should include your view of the main **contributions** that the paper is intended to make and how well it succeeds at making these contributions. From your point of view, what are the significant **strong** and **weak** aspects of the paper and the work it describes? This could be a 2 paragraph (or longer) essay and/or bullet points. Remember to describe how the work advances the state of knowledge in computational linguistics and/or highlights why it fails to make a sufficient contribution If you have any **questions to the author(s)**, please also include them in this section as well. These questions will be important for the author response period, and and they may also point to future directions and suggestions for improvements of the paper.
 - **Typos, Grammar, Style and References (low-level comments)**: include here your comments concerning how the paper may be improved. Specifically, suggestions concerning the organization and style of the writing and possible language issues. Feel free to mention typos and any other suggestions that could help the authors to present their work in a clearer and more readable manner. Also, this is the place to mention issues with references, including references format, missing citations and incomplete items in the bibliography.
 - **Reasons to accept**: please briefly summarize the main reasons why this paper should be accepted for the conference, and how the NLP community would benefit from it. You may refer back to your review to provide more context and details.
 - **Reasons to reject**: please briefly summarize the main reasons that this paper cannot be published and presented in its current form. What are the parts that would need to be improved in order to advance the state of knowledge?
@@ -56,7 +56,7 @@ The below is a non-conclusive list of characteristics of what we consider to be 
 3. The review clearly outlines the **strengths** of the paper. This includes anything that was well done in your opinion, including: phrasing the questions answered or the hypothesis being tested, novel and sound model design, proper experimental setup and execution, excellent comparison with previous work, exceptional results, great potential for impact on the greater community, social and ethical implications, etc.
 4. The review clearly outlines the **weaknesses** of the contribution and provides concrete suggestions as to how these may be overcome in future revisions. Note: please avoid generally dismissive non-concrete phrases such as: “evaluation is weak” or “results are low”. Replace such general phrases with specific indicators and evidence, such as: “I suggest that the following X experiment is missing, requires Y metrics or Z data” or “I suggest to compare the results in table X to the experiment in paper Y with metric Z”.
 5. The review takes a clear stand towards acceptance or rejection (rather than ambivalent-3)
-6. The reviewing doesn't end in writing the review! A good reviewing process proceeds into the discussion, helping the Area Chairs and PC chairs make a quality decision. 
+6. The reviewing doesn't end in writing the review! A good reviewing process proceeds into the discussion, helping the Area Chairs and PC chairs make a quality decision.
 7. The review takes into account the Author Response and respond to it (as applicable).
 8. The review considers the discussion with fellow reviewers (even if retaining its original score)
 
