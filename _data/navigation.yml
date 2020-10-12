@@ -89,3 +89,6 @@ kyiv:
         url: "/kyiv#weather"
       - title: "Get excited"
         url: "/kyiv#get-excited"
+
+reviewers:
+  - title: "Information for Reviewers"
