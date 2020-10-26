@@ -76,7 +76,7 @@ The program chairs and area chairs have already identified submissions that viol
 
 ## Important Dates
 
-Your reviews are due Friday, November 18, 2020 (11:59pm anywhere on Earth). Please note that there is a reviewer discussion period from November 29 to December 2 after the author response. Your duties are listed below. Don't leave reviewing to the last minute!
+Your reviews are due Monday, November 16, 2020 (11:59pm anywhere on Earth). Please note that there is a reviewer discussion period from November 29 to December 2 after the author response. Your duties are listed below. Don't leave reviewing to the last minute!
 
-- **October 29 – November 18: Review Period**
+- **October 29 – November 16: Review Period**
 - **November 22 – November 25: Author response period**
