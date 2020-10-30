@@ -14,7 +14,8 @@ sidebar:
 ### Program Chairs
 
 <a href="https://blogs.helsinki.fi/tiedeman/">Jorg Tiedemann</a>, University of Helsinki<br />
-<a href="https://cs.biu.ac.il/staff/118">Reut Tsarfaty</a>, Bar Ilan University
+<a href="https://cs.biu.ac.il/staff/118">Reut Tsarfaty</a>, Bar Ilan University<br />
+<a href="/committees/program">Senior Area Chairs</a>
 
 ### Local Chairs
 
