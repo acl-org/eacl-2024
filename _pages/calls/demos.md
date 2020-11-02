@@ -1,9 +1,9 @@
 ---
-title: 
+title:
 layout: single
 permalink: /calls/demos/
-sidebar: 
-    nav: "calls"
+sidebar:
+  nav: "calls"
 toc: false
 toc_sticky: true
 toc_icon: "cog"
@@ -45,13 +45,17 @@ Demo Proposals consist of the following parts, which should all be sent using th
 
 ## Best Demo Award
 
-As in previous years, EACL 2021’s demo track will feature a Best Demo Award. We hope to encourage researchers to make their code publicly available and in the form of an easy-to-use, runnable system. 
+As in previous years, EACL 2021’s demo track will feature a Best Demo Award. We hope to encourage researchers to make their code publicly available and in the form of an easy-to-use, runnable system.
 
 ## Submissions Procedure
 
-Proposals should be submitted by  January 15, 2021 using the EACL 2021 START web page for Demos: <https://www.softconf.com/eacl2021/demos/>.
+Proposals should be submitted by January 15, 2021 using the EACL 2021 START web page for Demos: <https://www.softconf.com/eacl2021/demos/>.
 
 Submissions will be evaluated on the basis of their relevance to computational linguistics, innovation, scientific contribution, presentation, and user friendliness, as well as potential logistical constraints.
+
+## Rewiewing Policy
+
+Reviewing will be single-blind, so authors do not need to conceal their identity. The paper should include the authors’ names and affiliations. Self-references are also allowed. No embargo period is required.
 
 ## Other Details
 
@@ -62,9 +66,9 @@ Further details on the demonstrations sessions will be determined and provided a
 - Demo proposal submissions due: January 15, 2021
 - Notification to authors: February 15, 2021
 - Camera-ready due: March 10, 2021
-- EACL conference dates: April  20–22 , 2021
+- EACL conference dates: April 20–22 , 2021
 
 ## Demonstrations Co-Chairs
 
 Djamé Seddah (Inria Paris, djame.seddah@inria.fr)<br/>
-Dimitra Gkatzia (Edinburgh Napier University, d.gkatzia@napier.ac.uk) 
+Dimitra Gkatzia (Edinburgh Napier University, d.gkatzia@napier.ac.uk)
