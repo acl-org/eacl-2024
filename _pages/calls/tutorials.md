@@ -1,9 +1,9 @@
 ---
-title: 
+title:
 layout: single
 permalink: /calls/tutorials/
-sidebar: 
-    nav: "calls"
+sidebar:
+  nav: "calls"
 toc: false
 toc_sticky: true
 toc_icon: "cog"
@@ -51,11 +51,11 @@ Proposals should follow the EACL 2021 paper submission format (<https://2021.eac
 - Breadth: include an estimate of what % of the tutorial covers work by the tutorial presenters vs. work by other researchers. We ask for a coverage of at least 50% corresponding to other people’s work, in order to avoid having tutorials that are “self-invited talks”.
 - Diversity considerations (if any), e.g. use of multilingual data, indications of how the described methods scale up to various languages or domains, participation of both senior and junior instructors, possibly affiliated in different countries, gender balance of the instructors, etc.
 - Specification of any prerequisites for the attendees. Here are some examples:
-    - Math: e.g., “Understand derivatives and integrals as found in introductory Calculus”
-    - Linguistics: e.g., “Be able to parse and generate text with Context Free Grammars”
-    - Machine Learning: e.g., “Understand ‘classical’ supervised methods such as decision trees and Naive Bayes”
-    - Other areas: e.g., “Familiarity with WordNet”
-    - Programming or other tools: e.g., “Knowledge of Python and Unix command line tools”
+  - Math: e.g., “Understand derivatives and integrals as found in introductory Calculus”
+  - Linguistics: e.g., “Be able to parse and generate text with Context Free Grammars”
+  - Machine Learning: e.g., “Understand ‘classical’ supervised methods such as decision trees and Naive Bayes”
+  - Other areas: e.g., “Familiarity with WordNet”
+  - Programming or other tools: e.g., “Knowledge of Python and Unix command line tools”
 - Small reading list. Its size should be such that it is reasonable to expect a trainee to read most of the recommended references before the tutorial (depending on their length, 4-10 seems a reasonable number). Preferably, at least 50% of the recommended papers should not be co-authored by the tutorial presenters.
 - The names, affiliations, email addresses and websites of the tutorial presenters, including a one-paragraph statement of their research interests, areas of expertise and experience in teaching for an international audience.
 - An estimate of the audience size for the tutorial. If the same or a similar tutorial has been given before, include a note specifying where previous versions of the tutorial were given, how many attendees were at the main venue, and how many attendees the tutorial attracted.
@@ -69,35 +69,39 @@ Proposals will be reviewed jointly by the Tutorial Co-Chairs of the four confere
 
 ## Evaluation Criteria
 
-Each tutorial proposal will be evaluated according to its clarity and preparedness, novelty or timely character of the topic, instructors’ experience, likely audience interest, open access of the teaching material, and diversity aspects (see point 5 above). 
+Each tutorial proposal will be evaluated according to its clarity and preparedness, novelty or timely character of the topic, instructors’ experience, likely audience interest, open access of the teaching material, and diversity aspects (see point 5 above).
 
 ## Tutorial Instructor Responsibilities
 
-Accepted tutorial presenters will be notified by 11 November 2020. They must then provide abstracts of their tutorials for inclusion in the conference registration material by the specific conference deadlines. The description should be in two formats: (a) an ASCII version that can be included in email announcements and published on the conference website, and (b) a PDF version for inclusion in the electronic proceedings (detailed instructions will be provided). Tutorial speakers must provide tutorial materials by the deadline specified for the conference, with **course slides submitted at least one month prior to the date of the tutorial** (conditioned on the final venue). The final submitted tutorial materials must minimally include copies of the course slides and a bibliography for the material covered in the tutorial. After the conference, the presenters will be invited to update their slides in the ACL Anthology (if needed).
+Accepted tutorial presenters will be notified by 2 December 2020. They must then provide abstracts of their tutorials for inclusion in the conference registration material by the specific conference deadlines. The description should be in two formats: (a) an ASCII version that can be included in email announcements and published on the conference website, and (b) a PDF version for inclusion in the electronic proceedings (detailed instructions will be provided). Tutorial speakers must provide tutorial materials by the deadline specified for the conference, with **course slides submitted at least one month prior to the date of the tutorial** (conditioned on the final venue). The final submitted tutorial materials must minimally include copies of the course slides and a bibliography for the material covered in the tutorial. After the conference, the presenters will be invited to update their slides in the ACL Anthology (if needed).
 
 ## Important Dates
 
 EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021 shared dates for tutorial proposal:
 
 - Extended submission deadline for tutorial proposals: Wednesday 4 November 2020
-- Notification of acceptance: Wednesday 11 November 2020
+- Notification of acceptance: Wednesday 2 December 2020
 - Tutorial slides + abstract + bibliography: one month prior to the date of the tutorial
 
 ## Tutorial Chairs
 
 **EACL**
+
 - Isabelle Augenstein, University of Copenhagen, Denmark
 - Ivan Habernal, Technical University of Darmstadt, Germany
 
 **NAACL-HLT**
+
 - Greg Kondrak, University of Alberta, Canada
 - Kalina Bontcheva, University of Sheffield, UK
 
 **ACL-IJCNLP**
+
 - David Chiang, University of Notre Dame, USA
 - Min Zhang, Soochow University, China
 
 **EMNLP**
+
 - Jing Jiang, Singapore Management University, Singapore
 - Ivan Vulić, University of Cambridge & PolyAI, UK
 
