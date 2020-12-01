@@ -197,13 +197,11 @@ $page-max-width: 904px;
     font-size: 18px !important;
 
     li {
+      padding-left: 0.75rem;
+
       a {
         border-bottom: none !important;
         font-weight: normal;
-      }
-
-      >a {
-        padding-left: 0;
       }
 
       ul>li a {
