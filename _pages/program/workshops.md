@@ -50,7 +50,7 @@ _Organizers: Hannu Toivonen, Matthew Purver, Senja Pollak, Nada Lavrac and Marko
 
 _Organizers: Bogdan Babych, Michał Marcińczuk, Preslav Nakov, Jakub Piskorski, Lidia Pivovaroiva, Pavel Priban, Josef Steinberger, Roman Yangarber, Olha Kanishcheva and Vasyl Starko_
 
-### [The 3rd Workshop Beyond Vision and Language: Integrating Real-world Knowledge](http://lantern.uni-saarland.de/2021)
+### [The 3rd Workshop Beyond Vision and Language: Integrating Real-world Knowledge](http://www.lantern.uni-saarland.de/2021)
 
 _Organizers: Marius Mosbach, Sandro Pezzelle, Michael A. Hedderich, Zeynep Akata, Marie-Francine Moens and Dietrich Klakow_
 
