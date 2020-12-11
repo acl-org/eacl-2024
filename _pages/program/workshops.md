@@ -24,7 +24,7 @@ _Organizers: Eyal Ben-David, Shay Cohen, Ryan McDonald, Barbara Plank, Roi Reich
 
 ### [The Sixth Workshop on Arabic NLP](http://wanlp2021.arabic-nlp.net/)
 
-_Organizers: Nizar Habash, Imed Zitouni, Wassim El Haj, Houda Bouamor, Nadi Tomeh, Wajdi Zaghouani_
+_Organizers: Nizar Habash, Houda Bouamor, Hazem Hajj, Walid Magdy, Wajdi Zaghouani, Fethi Bougares, Nadi Tomeh, Ibrahim Abu Farha, Samia Touileb, Imed Zitouni, Wassim El Haj_
 
 ### [Workshop on Human Evaluation of NLP Systems](https://humeval.github.io/)
 
