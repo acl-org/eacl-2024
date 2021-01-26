@@ -72,8 +72,8 @@ Long and Short papers:
         </tr>
         <tr>
             <td>Camera-ready due</td>
-            <td>Monday</td>
-            <td>25 January 2021</td>
+            <td>Tuesday</td>
+            <td>26 January 2021</td>
         </tr>
         <tr>
             <td>EACL conference</td>
