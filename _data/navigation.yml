@@ -57,6 +57,8 @@ program:
         url: /program/workshops/
       - title: "Keynote Speakers"
         url: /program/keynotes/
+      - title: "Accepted Papers"
+        url: /program/accepted/
 
 committees:
    - title: "Committees"
