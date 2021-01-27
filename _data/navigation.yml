@@ -51,12 +51,12 @@ calls:
 program:
   - title: Program Details
     children:
-      # - title: "Tutorials"
-      #   url: /program/tutorials/
       - title: "Keynote Speakers"
         url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
       - title: "Accepted Papers"
         url: /program/accepted/
 
