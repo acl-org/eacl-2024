@@ -57,6 +57,8 @@ program:
       #   url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
       - title: "Accepted Papers"
         url: /program/accepted/
 
