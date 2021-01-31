@@ -1,7 +1,7 @@
 ---
-title: "List of Sponsors"
+title: "Sponsors"
 layout: single
-permalink: /sponsors/list/
+permalink: /sponsors
 toc: false
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
@@ -15,48 +15,7 @@ socialevent:
 dichampion:
 dially:
 inkind:
-sidebar: 
-    nav: "sponsors"
+sidebar:
 ---
 
-
-## Diamond
-
-{% include gallery id="diamond" %}
-
-## Platinum
-
-{% include gallery id="platinum" %}
-
-## Gold
-
-{% include gallery id="gold" %}
-
-## Silver
-
-{% include gallery id="silver" %}
-
-## Bronze
-
-{% include gallery id="bronze" %}
-
-## Supporter
-
-{% include gallery id="supporter" %}
-
-## Social Event Entertainment
-
-{% include gallery id="socialevent" %}
-
-## Diversity &amp; Inclusion: Champion
-
-{% include gallery id="dichampion" %}
-
-## Diversity &amp; Inclusion: Ally
-
-{% include gallery id="dially" %}
-
-## In-Kind Donations
-
-{% include gallery id="inkind" %}
-
+If your organization would like to sponsor EACL or other conferences in the ACL family, please see [our sponsorship information booklet]({{ '/downloads/ACL-2021-Sponsorship-booklet.pdf' | relative_url }}).
