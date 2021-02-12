@@ -18,7 +18,7 @@ sidebar:
 
 ### Local Chairs
 
-Viktoria Kolomiets, Grammarly<br />
+<a href="https://www.linkedin.com/in/viktoria-kolomiets-54689293/">Viktoria Kolomiets</a>, Grammarly<br />
 Dmytro Lider, Grammarly<br />
 Iryna Kotkalova, Grammarly<br />
 <a href="https://apps.ucu.edu.ua/en/oleksii-molchanovskyi/?fbclid=IwAR1G7n6TFV2GQTvJyTkLP62nEWMJWfaxl1enqEs6VYjQUBn0JcW1G9y7CLQ">Oleksii Molchanovskyi</a>, Ukrainian Catholic University<br />
@@ -65,3 +65,13 @@ Iryna Kotkalova, Grammarly<br />
 ### Conference App Chair
 
 Andrea Cimino, CNR-ILC
+
+### Virtual Infrastructure Committee
+
+<a href="https://kazemnejad.com">Amirhossein Kazemnejad</a>, Mila<br/>
+Bruno Guillaume<br/>
+Cyril Weerasooriya<br/> 
+<a href="https://g-vallejo.github.io/">Gisela Vallejo</a>, Independent researcher<br/> 
+<a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_41792.en.jsp">Jan-Christoph Klie</a>, UKP Lab, Technical University of Darmstadt<br/>
+<a href="https://apps.ucu.edu.ua/en/oles-dobosevych/?fbclid=IwAR2zCt9wg4xbuKU1yiK7uLVQycfKNZE3L19gbRpfuU3n7Xt7LgMxblD6kO4">Oles Dobosevych</a>, Ukrainian Catholic University<br/>
+<a href="https://www.linkedin.com/in/viktoria-kolomiets-54689293/">Viktoria Kolomiets</a>, Grammarly
