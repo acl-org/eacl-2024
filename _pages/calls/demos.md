@@ -64,7 +64,7 @@ Further details on the demonstrations sessions will be determined and provided a
 ## Important Dates
 
 - Demo proposal submissions due: January 15, 2021
-- Notification to authors: February 15, 2021
+- Notification to authors: February 20, 2021
 - Camera-ready due: March 10, 2021
 - EACL conference dates: April 20–22 , 2021
 
