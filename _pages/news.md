@@ -10,6 +10,23 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>Call for Volunteers</h2>
+
+  We seek student and non-student volunteers for the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021).
+
+  SUBMISSION PROCEDURE<br/>
+  Applicants should fill the application form at <https://forms.gle/PNkzUQMMx12FtcGB9><br/>
+  Application deadline: **Friday, 12th March 2021**<br/>
+  Notification of acceptance: **Friday, 19th March 2021**
+
+  CONTACT<br/>
+  Student Volunteers Chair ([eacl2021.volunteers@gmail.com](mailto:eacl2021.volunteers@gmail.com))
+
+  More information is available at: <https://2021.eacl.org/calls/volunteers/>.<br/>
+  Please circulate the call among your colleagues and friends!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Final and extended Call for Tutorial Proposals</h2>
 
   We have extended the submission deadline for tutorial proposals for the next season's tutorials, namely EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021.

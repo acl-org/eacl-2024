@@ -45,8 +45,10 @@ calls:
         url: /calls/workshops/
       - title: "Tutorial Proposals"
         url: /calls/tutorials/
-      - title: "Student Research Workshop"
+      - title: "Student Workshop"
         url: /calls/student/
+      - title: "Volunteers"
+        url: /calls/volunteers/
 
 program:
   - title: Program Details
