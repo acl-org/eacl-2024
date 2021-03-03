@@ -241,22 +241,18 @@ figure {
     }
   }
 
-  &.single {
-  > a,
-  > img {
-    width: calc(30% - 0.5em);
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
-
-  &.multiple {
+  &.sponsors {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: center;
     align-items: center;
+    grid-gap: 2rem;
+
+    &.bordered {
+      a {
+        border: 1px solid #d3d3d3;
+      }
+    }
 
     a {
       padding-top: 100%;
@@ -278,56 +274,18 @@ figure {
       }
     }
 
+    &.experimental {
+
+    }
+
     figcaption {
       width: 100%;
     }
   
     @include breakpoint($small) {
-      &.single {
-        > a,
-        > img {
-          width: calc(25% - 0.5em);
-        }
-      }
-
-      &.multiple {
-        grid-template-columns: repeat(4, 1fr);
-      }
+      grid-template-columns: repeat(4, 1fr);
     }
   }
-/*
-  &.third {
-    justify-content: space-between;
-    > a,
-    > img {
-      width: calc(50% - 0.5em);
-      @include breakpoint($small) {
-        width: calc(25% - 0.5em);
-      }
-    }
-    a:hover {
-      box-shadow: 0 0 10px rgba(#000, 0.25);
-      img {
-        box-shadow: none !important;
-      }
-    }
-
-    figcaption {
-      width: 100%;
-    }
-  }
-
-  &.fourth {
-    margin-right: -2em;
-    > a,
-    > img {
-      width: calc(50% - 0.5em);
-      @include breakpoint($small) {
-        width: calc(25% - 2em);
-        margin-right: 2em;
-      }
-    }
-    */
 }
 
 /* Figure captions */

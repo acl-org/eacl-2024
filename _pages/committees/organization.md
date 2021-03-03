@@ -62,6 +62,7 @@ sidebar:
 
 <a href="https://kazemnejad.com">Amirhossein Kazemnejad</a>, Mila<br/>
 Bruno Guillaume, LORIA, Inria NGE<br/>
+<a href="https://carolscarton.github.io/">Carolina Scarton</a>, University of Sheffield<br/>
 <a href="https://cyrilw.com/">Cyril Weerasooriya</a>, Rochester Institute of Technology<br/> 
 <a href="https://g-vallejo.github.io/">Gisela Vallejo</a>, Independent researcher<br/> 
 <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_41792.en.jsp">Jan-Christoph Klie</a>, UKP Lab, Technical University of Darmstadt<br/>
