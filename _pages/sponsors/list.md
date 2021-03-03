@@ -8,7 +8,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 sidebar:
 diamond:
 platinum:
-  - url: https://www.grammarly.com/
+  - url: https://www.grammarly.com/jobs/technology?utm_source=website&utm_medium=logo&utm_campaign=eacl_sponsors
     image_path: /assets/images/logos/grammarly.png
     alt: "Grammarly Logo"
     title: "Grammarly"
@@ -21,15 +21,6 @@ supporter:
     alt: "Celi Logo"
     title: "Celi"
 socialevent:
-test:
-  - url: https://www.celi.it/
-    image_path: /assets/images/logos/celi_h-farm.svg
-    alt: "Celi Logo"
-    title: "Celi"
-  - url: https://oleksii-ponomarov.github.io/
-    image_path: /assets/images/logos/test.svg
-    alt: "Test Logo"
-    title: "Tset"
 dichampion:
 dially:
 inkind:
