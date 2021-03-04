@@ -7,5 +7,4 @@ sidebar: false
 
 ---
 
-
-
+<h3 style="font-size: 1.4rem">Registration will open soon.</h3>
