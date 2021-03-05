@@ -10,6 +10,18 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>Call for affinity group socials</h2>
+
+  As part of the EACL 2021, we would like to call for expressions of interest to host affinity group socials.
+
+  Affinity group socials are meant to serve the purpose of cohort and community building, and can both be fora for scientific and social exchange. The format of virtual affinity group socials has been successful in 2020, at ACL, EMNLP and COLING, where groups like [Queer in AI](https://sites.google.com/view/queer-in-ai/) and [Black in AI](https://blackinai.github.io/) organised events. Another example could be “Linguists at EACL”, “Professors in NLP”, or anything we missed that is not primarily technical.
+
+  To express interest in organising an affinity group social, please fill in the following form by **24 March**: <https://forms.gle/7159FMuW7MbuZSxu5>
+
+  <a href="{{ '/news/affinity-group-socials' | relative_url }}">Read more</a>
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Call for Volunteers</h2>
 
   We seek student and non-student volunteers for the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021).
