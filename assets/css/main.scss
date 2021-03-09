@@ -380,3 +380,27 @@ $masthead-link-color: $gray-headers-color;
   background-image: url(../images/keynotes/marco.jpg);
   background-position: center 20%;
 }
+
+.simple-link {
+  color: $link-color;
+  border: none;
+  background: none;
+  padding: 0;
+  text-decoration: underline;
+  transition: all 0.2s ease-in-out;
+
+  &:hover, &:focus {
+    color: $link-color-hover;
+    outline: none;
+  }
+}
+
+.collapse-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out;
+}
+
+.collapse-button {
+  display: none;
+}
