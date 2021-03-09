@@ -196,6 +196,16 @@ $page-max-width: 904px;
   .toc__menu {
     font-size: 18px !important;
 
+    &.toc-only {
+      li {
+        padding-left: 0;
+      }
+
+      a {
+        padding-left: 0;
+      }
+    }
+
     li {
       padding-left: 0.75rem;
 
