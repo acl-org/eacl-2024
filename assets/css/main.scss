@@ -241,8 +241,10 @@ $page-max-width: 904px;
 
 $masthead-link-color: $gray-headers-color;
 
-// Page 'Comittees'
 .page__content {
+  &.no-title {
+    margin-top: 30px;
+  }
 
   .comittees-header {
     margin-top: 2.25em;
