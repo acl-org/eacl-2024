@@ -1,5 +1,6 @@
 ---
-title: 
+title: Call for Volunteers
+hide_title: true
 layout: single
 permalink: /calls/volunteers/
 sidebar: 

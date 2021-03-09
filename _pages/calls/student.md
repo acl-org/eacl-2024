@@ -1,5 +1,6 @@
 ---
-title: 
+title: Call for Student Workshop
+hide_title: true
 layout: single
 permalink: /calls/student/
 sidebar: 

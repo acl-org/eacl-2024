@@ -1,5 +1,6 @@
 ---
-title: 
+title: Tutorial Proposalc
+hide_title: true 
 layout: single
 permalink: /calls/tutorials/
 sidebar: 
