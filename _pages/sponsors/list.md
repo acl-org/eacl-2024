@@ -8,14 +8,14 @@ toc_label: "&nbsp;Sponsorship Tier"
 sidebar:
 diamond:
 platinum:
-  - url: https://ai.facebook.com/
-    image_path: /assets/images/logos/facebook-ai.png
-    alt: "Facebook AI Logo"
-    title: "Facebook AI"
   - url: https://www.grammarly.com/jobs/technology?utm_source=website&utm_medium=logo&utm_campaign=eacl_sponsors
     image_path: /assets/images/logos/grammarly.png
     alt: "Grammarly Logo"
     title: "Grammarly"
+  - url: https://ai.facebook.com/
+    image_path: /assets/images/logos/facebook-ai.png
+    alt: "Facebook AI Logo"
+    title: "Facebook AI"
 gold:
   - url: https://www.techatbloomberg.com/
     image_path: /assets/images/logos/bloomberg.png
@@ -23,14 +23,14 @@ gold:
     title: "Bloomberg"
 silver:
 bronze:
-  - url: http://babelscape.com/
-    image_path: /assets/images/logos/babelscape.png
-    alt: "Babelscape Logo"
-    title: "Babelscape"
   - url: https://www.legalforce.co.jp/
     image_path: /assets/images/logos/legalforce.png
     alt: "Legal Force Logo"
     title: "Legal Force"
+  - url: http://babelscape.com/
+    image_path: /assets/images/logos/babelscape.png
+    alt: "Babelscape Logo"
+    title: "Babelscape"
 supporter:
   - url: https://www.celi.it/en/research/
     image_path: /assets/images/logos/celi.svg
