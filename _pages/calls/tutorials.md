@@ -1,5 +1,5 @@
 ---
-title: Tutorial Proposalc
+title: Tutorial Proposals
 hide_title: true 
 layout: single
 permalink: /calls/tutorials/
