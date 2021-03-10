@@ -76,5 +76,5 @@ The reviewing procedure has been identified as one of the major issues in the cu
 *Rui Wang, Hai Zhao*
 
 Unsupervised cross-lingual language representation initialization methods, together with mechanisms such as denoising and back-translation, have advanced unsupervised neural machine translation (UNMT), which has achieved impressive results. Meanwhile, there are still several challenges for UNMT. This tutorial first introduces the background and the latest progress of UNMT. We then examine a number of challenges to UNMT and give empirical results on how well the technology currently holds up. 
-				
-**Check out the booklet with extended tutorial abstracts.**
+
+[Check out the booklet with extended tutorial abstracts.]({{ '/downloads/EACL2021-Tutorial-abstracts.pdf' | relative_url }})
