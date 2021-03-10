@@ -1,5 +1,6 @@
 ---
-title:
+title: Call for System Demonstrations
+hide_title: true
 layout: single
 permalink: /calls/demos/
 sidebar:

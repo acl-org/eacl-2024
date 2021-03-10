@@ -55,10 +55,6 @@ sidebar:
 
 <a href="https://profiles.sussex.ac.uk/p116624-julie-weeds">Julie Weeds</a>, University of Sussex
 
-### Conference App Chair
-
-<a href="http://www.ilc.cnr.it/en/content/andrea-cimino">Andrea Cimino</a>, CNR-ILC
-
 ### Virtual Infrastructure Committee
 
 <a href="https://kazemnejad.com">Amirhossein Kazemnejad</a>, Mila<br/>

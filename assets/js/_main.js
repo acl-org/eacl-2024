@@ -133,3 +133,38 @@ $(document).ready(function() {
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 });
+
+var collapse = function() {
+  var expandButtons = $(".expand-button");
+  var collapseButtons = $(".collapse-button");
+
+  var i;
+  
+  for (i = 0; i < expandButtons.length; i++) {
+    expandButtons[i].addEventListener("click", expand)
+  }
+
+  var j;
+
+  for (j = 0; j < collapseButtons.length; j++) {
+    collapseButtons[j].addEventListener("click", collapse)
+  }
+
+  function expand() {
+    this.style.display = "none";
+    var expandContent = this.nextElementSibling;
+    var collapseButton = expandContent.nextElementSibling;
+    expandContent.style.maxHeight = expandContent.scrollHeight + "px";
+    collapseButton.style.display = "block";
+  }
+
+  function collapse() {
+    this.style.display = "none";
+    var collapseContent = this.previousElementSibling;
+    var expandButton = collapseContent.previousElementSibling;
+    collapseContent.style.maxHeight = 0;
+    expandButton.style.display = "block";
+  }
+};
+
+collapse();

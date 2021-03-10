@@ -1,5 +1,6 @@
 ---
-title:
+title: Call for Workshop Proposals
+hide_title: true
 layout: single
 permalink: /calls/workshops/
 sidebar:

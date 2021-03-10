@@ -1,5 +1,6 @@
 ---
-title:
+title: Call for Papers
+hide_title: true
 layout: single
 permalink: /calls/papers/
 sidebar:
