@@ -17,6 +17,10 @@ platinum:
     alt: "Grammarly Logo"
     title: "Grammarly"
 gold:
+  - url: https://www.techatbloomberg.com/
+    image_path: /assets/images/logos/bloomberg.png
+    alt: "Bloomberg Logo"
+    title: "Bloomberg"
 silver:
 bronze:
   - url: http://babelscape.com/
@@ -43,6 +47,10 @@ If your organization would like to sponsor EACL or other conferences in the ACL 
 ## Platinum
 
 {% include gallery id="platinum" layout="sponsors" %}
+
+## Gold
+
+{% include gallery id="gold" layout="sponsors" %}
 
 ## Bronze
 
