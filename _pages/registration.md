@@ -41,7 +41,7 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 
 ## Contact Details
 
-Please direct technical questions about the web registration form to [the help desk]({{ / | relative_url }}).
+Please direct technical questions about the web registration form to [the help desk]({{ "/" | relative_url }}).
 
 Please direct questions about your registration, including alternate methods of payment, to Congrex service at [registration.eacl@congrex.com](mailto:registration.eacl@congrex.com).
 
