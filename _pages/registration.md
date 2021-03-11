@@ -9,19 +9,19 @@ toc: true
 toc_only: true
 ---
 
-- [Registration Site](https://aclweb.org/conference/virtual-emnlp-2020-conference-registration/)
+- [Registration Site](https://booking.congrex.com/Login.aspx?event=eacl2021)
 
-For any technical issues about the web registration form, please [contact the help desk](/).
+Please direct questions about your registration, including alternate methods of payment, to Congrex service at [registration.eacl@congrex.com](mailto:registration.eacl@congrex.com).
 
 The EACL 2021 registration fees are reduced, reflecting our move to being 100% virtual. We are offering Early rates through April 7th and Late rates beginning April 8th. We include early and late rates to encourage early registrations so we can approximate the numbers of users and be able to work around any potential for system crashes or other glitches due to unexpected high volume. The fees charged will allow full access to all parts of the conference.
 
 ## Registration Details
 
-Early registration ends April 7th, 2021, 11:59 PM (CET) with Regular at $200/250 and Student at $100.
+Early registration ends April 7th, 2021, 11:59 PM (CET) with Regular at $250 and Student at $75.
 
-Late registration begins April 8th, 2021  and remains open throughout the conference, with Regular at $250/300 and Student at $150.
+Late registration begins April 8th, 2021 and remains open throughout the conference, with Regular at $300 and Student at $100.
 
-- [Registration Site](https://aclweb.org/conference/virtual-emnlp-2020-conference-registration/)
+- [Registration Site](https://booking.congrex.com/Login.aspx?event=eacl2021)
 
 ## Registration Types
 
@@ -41,9 +41,9 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 
 ## Contact Details
 
-Please direct technical questions about the web registration form to [the help desk](/).
+Please direct technical questions about the web registration form to [the help desk]({{ / | relative_url }}).
 
-Please direct questions about your registration, including alternate methods of payment, to [Congrex service](/).
+Please direct questions about your registration, including alternate methods of payment, to Congrex service at [registration.eacl@congrex.com](mailto:registration.eacl@congrex.com).
 
 Please direct general questions about registration to [Priscilla Rasmussen of the ACL](mailto:acl@aclweb.org).
 
