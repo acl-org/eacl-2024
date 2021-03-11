@@ -45,36 +45,36 @@ toc_sticky: true
 
 ## Unsupervised Natural Language Parsing (Introductory Tutorial)
 
-*Kewei Tu, Yong Jiang, Wenjuan Han, Yanpeng Zhao*
+_Kewei Tu, Yong Jiang, Wenjuan Han, Yanpeng Zhao_
 
 Unsupervised parsing learns a syntactic parser from training sentences without parse tree annotations. Recently, there has been a resurgence of interest in unsupervised parsing, which can be attributed to the combination of two trends in the NLP community: a general trend towards unsupervised training or pre-training, and an emerging trend towards finding or modeling linguistic structures in neural models.
 
 In this tutorial, we will introduce to the general audience what unsupervised parsing does and how it can be useful for and beyond syntactic parsing. We will then provide a systematic overview of major classes of approaches to unsupervised parsing, namely generative and discriminative approaches, and analyze their relative strengths and weaknesses. We will cover both decade-old statistical approaches and more recent neural approaches to give the audience a sense of the historical and recent development of the field. We will also discuss emerging research topics such as BERT-based approaches and visually grounded learning.
 
-## [Aggregating and Learning from Multiple Annotators](https://sites.google.com/view/alma-tutorial) 
+## [Aggregating and Learning from Multiple Annotators](https://sites.google.com/view/alma-tutorial)
 
-*Silviu Paun, Edwin Simpson*
+_Silviu Paun, Edwin Simpson_
 
 The success of NLP research is founded on high-quality annotated datasets, which are usually obtained from multiple expert annotators or crowd workers. The standard practice to training machine learning models is to first adjudicate the disagreements and then perform the training. To this end, there has been a lot of work on aggregating annotations, particularly for classification tasks. However, many other tasks, particularly in NLP, have unique characteristics not considered by standard models of annotation, e.g., label interdependencies in sequence labelling tasks, unrestricted labels for anaphoric annotation, or preference labels for ranking texts. In recent years, researchers have picked up on this and are covering the gap. A first objective of this tutorial is to connect NLP researchers with state-of-the-art aggregation models for a diverse set of canonical language annotation tasks. There is also a growing body of recent work arguing that following the convention and training with adjudicated labels ignores any uncertainty the labelers had in their classifications, which results in models with poorer generalisation capabilities. Therefore, a second objective of this tutorial is to teach NLP workers how they can augment their (deep) neural models to learn from data with multiple interpretations.
 
-## End-to-End Speech Translation 
+## End-to-End Speech Translation
 
-*Jan Niehues, Elizabeth Salesky, Marco Turchi, Matteo Negri*
+_Jan Niehues, Elizabeth Salesky, Marco Turchi, Matteo Negri_
 
 Speech translation is the translation of speech in one language typically to text in another, traditionally accomplished through a combination of automatic speech recognition and machine translation. Speech translation has attracted interest for many years, but the re- cent successful applications of deep learning to both individual tasks have enabled new opportunities through joint modeling, in what we today call ‘end-to-end speech translation.’
 
 In this tutorial, we will introduce the techniques used in cutting-edge research on speech translation. Starting from the traditional cascaded approach, we will give an overview of data sources and model architectures to achieve state-of-the-art performance with end-to-end speech translation for both high- and low-resource languages. In addition, we will discuss methods to evaluate analyze the proposed solutions, as well as the challenges faced when applying speech translation models for real-world applications.
 
-## Reviewing Natural Language Processing Research 
+## Reviewing Natural Language Processing Research
 
-*Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol*
+_Kevin Cohen, Karën Fort, Margot Mieskes, Aurélie Névéol, Anna Roger_
 
-The reviewing procedure has been identified as one of the major issues in the current situation of the NLP field. While it is implicitly assumed that junior researchers learn reviewing during their PhD project, this might not always be the case. Additionally, with the growing NLP community and the efforts in the context of widening the NLP community, researchers joining the field might not have the opportunity to practise reviewing. This tutorial fills in this gap by providing an opportunity to learn the basics of reviewing. Also more experienced researchers might find this tutorial interesting to revise their reviewing procedure. 
+The reviewing procedure has been identified as one of the major issues in the current situation of the NLP field. While it is implicitly assumed that junior researchers learn reviewing during their PhD project, this might not always be the case. Additionally, with the growing NLP community and the efforts in the context of widening the NLP community, researchers joining the field might not have the opportunity to practise reviewing. This tutorial fills in this gap by providing an opportunity to learn the basics of reviewing. Also more experienced researchers might find this tutorial interesting to revise their reviewing procedure.
 
-## Advances and Challenges in Unsupervised Neural Machine Translation 
+## Advances and Challenges in Unsupervised Neural Machine Translation
 
-*Rui Wang, Hai Zhao*
+_Rui Wang, Hai Zhao_
 
-Unsupervised cross-lingual language representation initialization methods, together with mechanisms such as denoising and back-translation, have advanced unsupervised neural machine translation (UNMT), which has achieved impressive results. Meanwhile, there are still several challenges for UNMT. This tutorial first introduces the background and the latest progress of UNMT. We then examine a number of challenges to UNMT and give empirical results on how well the technology currently holds up. 
+Unsupervised cross-lingual language representation initialization methods, together with mechanisms such as denoising and back-translation, have advanced unsupervised neural machine translation (UNMT), which has achieved impressive results. Meanwhile, there are still several challenges for UNMT. This tutorial first introduces the background and the latest progress of UNMT. We then examine a number of challenges to UNMT and give empirical results on how well the technology currently holds up.
 
 [Check out the booklet with extended tutorial abstracts.]({{ '/downloads/EACL2021-Tutorial-abstracts.pdf' | relative_url }})
