@@ -36,6 +36,10 @@ supporter:
     image_path: /assets/images/logos/celi.svg
     alt: "Celi Logo"
     title: "Celi"
+  - url: https://research.samsung.com/aicenter_toronto
+    image_path: /assets/images/logos/samsung.png
+    alt: "Samsung Logo"
+    title: "Samsung"
 socialevent:
 dichampion:
 dially:
