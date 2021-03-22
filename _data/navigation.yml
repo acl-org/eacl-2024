@@ -60,6 +60,8 @@ program:
         url: /program/tutorials/
       - title: "Accepted Papers"
         url: /program/accepted/
+      - title: "Instructions for Authors"
+        url: /program/authors/
 
 committees:
    - title: "Committees"
