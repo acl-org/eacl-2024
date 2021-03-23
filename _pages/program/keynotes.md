@@ -5,6 +5,7 @@ excerpt: "EACL 2021 Keynote Speakers."
 permalink: /program/keynotes/
 sidebar: 
     nav: "program"
+toc: true
 ---
 
 The following speakers have graciously accepted to give keynotes at EACL 2021.
