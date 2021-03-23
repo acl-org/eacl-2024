@@ -394,6 +394,8 @@ $masthead-link-color: $gray-headers-color;
 }
 
 .simple-link {
+  cursor: pointer;
+  display: inline-flex;
   color: $link-color;
   border: none;
   background: none;
@@ -415,4 +417,12 @@ $masthead-link-color: $gray-headers-color;
 
 .collapse-button {
   display: none;
+}
+
+.schedule-element {
+  margin: 2rem 0;
+}
+
+.schedule-element-content {
+  margin-left: 2rem;
 }
