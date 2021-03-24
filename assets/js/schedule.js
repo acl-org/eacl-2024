@@ -1,7 +1,7 @@
 let selectTime = document.getElementById("show-time");
 let showTime = selectTime.value;
 
-const localTimeZoneOffset = (new Date()).getTimezoneOffset();
+const localTimeZoneOffset = (new Date("Apr 21 2021")).getTimezoneOffset();
 const offset = (localTimeZoneOffset + 60) * 60 * 1000;
 
 let timesEls = document.querySelectorAll(".time");
