@@ -16,8 +16,8 @@ function handleChange(e) {
   showTime = e.target.value;
   for (let i = 0; i < timesEls.length; i++) {
     let time = timesEls[i];
+    if (showTime === "local") {
       let date = new Date();
-      if (showTime === "local") {
       const [hours, minutes] = time.textContent.split(":");
       date.setHours(hours);
       date.setMinutes(minutes);
