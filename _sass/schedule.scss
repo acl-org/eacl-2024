@@ -1,0 +1,35 @@
+.schedule-element {
+  margin: 1rem 0;
+}
+
+.schedule-element-content {
+  background: $gray-background;
+  padding-left: 2rem;
+}
+
+.schedule {
+  h3 {
+    margin: 1rem 0;
+  }
+
+  button {
+    text-decoration: underline;
+  }
+}
+
+.schedule-element-title {
+  margin: 0;
+  outline: none;
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 1rem;
+  background: #d6d6d6;
+  border: none;
+  color: #000000;
+  line-height: 1.83em;
+
+  &:focus {
+    outline: none;
+  }
+}

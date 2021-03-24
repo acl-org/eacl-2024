@@ -9,17 +9,29 @@ after_footer_scripts:
   - /assets/js/schedule.js
 ---
 
+Show times in:
+<select id="show-time">
+  <option value="cet">CET (UTC +1)</option>
+  <option value="local">My local time</option>
+</select>
+
 <div class="schedule" markdown="0">
   <div class="schedule-element">
-    <span class="time">8:45</span>-<span class="time">9:00</span> Opening
+    <div class="schedule-element-title">
+      <span class="time">8:45</span>-<span class="time">9:00</span> Opening
+    </div>
   </div>
 
   <div class="schedule-element">
-    <span class="time">9:00</span>-<span class="time">10:00</span> Keynote 1: Marco Baroni
+    <div class="schedule-element-title">
+      <span class="time">9:00</span>-<span class="time">10:00</span> Keynote 1: Marco Baroni
+    </div>
   </div>
   
   <div class="schedule-element">
-    <span class="time">10:00</span>-<span class="time">11:00</span> <span class="collapse-toggle-button simple-link">Morning Zoom Sessions</span>
+    <button class="schedule-element-title collapse-toggle-button">
+      <span class="time">10:00</span>-<span class="time">11:00</span>&nbsp;Morning Zoom Sessions
+    </button>
     <div class="collapse-content schedule-element-content">
       <h3 class="collapse-toggle-button simple-link">Zoom Session DIA</h3>
       <div class="collapse-content">
@@ -52,11 +64,15 @@ after_footer_scripts:
   </div>
 
   <div class="schedule-element">
-    <span class="time">11:00</span>-<span class="time">14:00</span> Gather Town 
+    <div class="schedule-element-title">
+      <span class="time">11:00</span>-<span class="time">14:00</span> Gather Town 
+    </div>
   </div>
 
   <div class="schedule-element">
-    <span class="time">14:00</span>-<span class="time">15:00</span> <span class="collapse-toggle-button simple-link">Afternoon Zoom Sessions</span>
+    <button class="schedule-element-title collapse-toggle-button">
+      <span class="time">14:00</span>-<span class="time">15:00</span>&nbsp;Afternoon Zoom Sessions
+    </button>
     <div class="collapse-content schedule-element-content">
       <h3 class="collapse-toggle-button simple-link">Zoom Session CSS</h3>
       <div class="collapse-content">
@@ -107,7 +123,9 @@ after_footer_scripts:
   </div>
 
   <div class="schedule-element">
-    <span class="time">15:00</span>-<span class="time">17:00</span> <span class="collapse-toggle-button simple-link">Gather Town: Poster Session</span>
+    <button class="schedule-element-title collapse-toggle-button">
+      <span class="time">15:00</span>-<span class="time">17:00</span>&nbsp;Gather Town: Poster Session
+    </button>
     <div class="collapse-content schedule-element-content">
       <h3 class="collapse-toggle-button simple-link">DIA+GEN 1</h3>
       <div class="collapse-content">
@@ -249,13 +267,19 @@ after_footer_scripts:
     </div>
   </div>
   <div class="schedule-element">
-    <span class="time">15:00</span>-<span class="time">17:00</span> Gather Town: Demos 1 
+    <div class="schedule-element-title">
+      <span class="time">15:00</span>-<span class="time">17:00</span> Gather Town: Demos 1
+    </div>
   </div>
   <div class="schedule-element">
-    <span class="time">17:00</span>-<span class="time">18:00</span> Panel: Gretchen McCulloch
+    <div class="schedule-element-title">
+      <span class="time">17:00</span>-<span class="time">18:00</span> Panel: Gretchen McCulloch
+    </div>
   </div>
   <div class="schedule-element">
-    <span class="time">18:00</span>-<span class="time">22:00</span> Gather Town 
+    <div class="schedule-element-title">
+      <span class="time">18:00</span>-<span class="time">22:00</span> Gather Town 
+    </div>
   </div>
 </div>
 

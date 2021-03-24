@@ -1,0 +1,65 @@
+.sidebar {
+  margin-top: 0;
+
+  .nav__sub-title {
+      color: $gray-headers-color;
+      padding-bottom: 18px;
+      margin-bottom: 7px;
+      line-height: 16px;
+      font-size: 14px !important;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  li.active {
+    >a {
+      color: $link-color;
+      font-weight: 700;
+    }
+  }
+
+  a.active {
+    color: $link-color !important;
+    font-weight: 700;
+  }
+
+  .toc__menu {
+    font-size: 18px !important;
+
+    &.toc-only {
+      li {
+        padding-left: 0;
+      }
+
+      a {
+        padding-left: 0;
+      }
+    }
+
+    li {
+      padding-left: 0.75rem;
+
+      a {
+        border-bottom: none !important;
+        font-weight: normal;
+      }
+
+      ul>li a {
+        padding-left: 1.25rem;
+      }
+
+      &.active {
+        >a {
+          color: $link-color;
+          font-weight: 700;
+        }
+      }
+    }
+  } 
+
+  @include breakpoint($small) {
+    margin-top: 40px;
+  }
+}
