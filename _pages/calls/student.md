@@ -14,7 +14,7 @@ toc_icon: "cog"
 
 The Student Research Workshop (SRW) will be held <strong>online due to the current COVID situation</strong>.
 
-View on the web at <https://sites.google.com/view/eaclsrw2021>
+View on the web at <a href="https://sites.google.com/view/eaclsrw2021">https://sites.google.com/<wbr>view/<wbr>eaclsrw2021</a>
 
 Main Conference: April 19-23, 2021<br/>
 Workshop: April 19-20, 2021
@@ -31,7 +31,7 @@ We invite papers in two different categories:
 
 <strong>Research Papers</strong>: Papers in this category can describe completed work, or work-in-progress with preliminary results. For these papers, the first author **MUST BE** a current graduate or undergraduate student. We encourage submissions from Ph.D. students, as well as Masters or advanced undergraduate students. Topics of interest for the SRW are the same as EACL main conference <https://2021.eacl.org/calls/papers/>.
 
-Please see the submission guidelines page for more information at <https://sites.google.com/view/eaclsrw2021/submission-guidelines>.
+Please see the submission guidelines page for more information at <a href="https://sites.google.com/view/eaclsrw2021/submission-guidelines">https://sites.google.com/<wbr>view/<wbr>eaclsrw2021/<wbr>submission-guidelines</a>.
 
 <strong>Pre-submission mentoring program</strong>: The goal is to improve the presentation of the student's work, not to critique the work itself. Mentors will provide feedback in the format of guidelines and suggestions to improve the overall writing. Participation is optional but encouraged.
 
@@ -73,7 +73,7 @@ All papers consist of up to five (5) pages of content, plus unlimited references
 
 Paper submissions must use the official EACL 2021 style templates. All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. The review process is blind; hence, all submissions must be anonymized.
 
-To submit your paper or proposal, please use the Softconf START conference management system at <https://www.softconf.com/eacl2021/SRW/>.
+To submit your paper or proposal, please use the Softconf START conference management system at <a href="https://www.softconf.com/eacl2021/SRW/">https://www.softconf.com/<wbr>eacl2021/<wbr>SRW/</a>.
 
 The SRW invites papers on topics related to computational linguistics, including but not limited to:
 
@@ -113,4 +113,4 @@ Eneko Agirre (University of the Basque Country)
 
 The organizers of the workshop can be contacted by email at [eacl.srw21@gmail.com](mailto:eacl.srw21@gmail.com)
 
-More details can be found at <https://sites.google.com/view/eaclsrw2021>
+More details can be found at <a href="https://sites.google.com/view/eaclsrw2021">https://sites.google.com/<wbr>view/<wbr>eaclsrw2021</a>
