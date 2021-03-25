@@ -3,7 +3,7 @@ title: Workshops
 layout: single
 excerpt: "EACL 2021 Workshops."
 permalink: /program/workshops/
-toc: true
+toc: false
 toc_sticky: true
 toc_icon: "cog"
 sidebar:
