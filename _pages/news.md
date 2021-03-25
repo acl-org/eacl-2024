@@ -10,6 +10,12 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>Diversity & Inclusions awards at EACL 2021</h2>
+
+  Applications for EACL 2021 Diversity & Inclusions awards are open. You can apply for a registration subsidy via this [link](https://forms.gle/MDoWCXaLG8jLDBkh9).
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Call for affinity group socials</h2>
 
   As part of the EACL 2021, we would like to call for expressions of interest to host affinity group socials.

@@ -32,7 +32,7 @@ If you are not able to complete the online registration process or in case of qu
 - Regular
 - Student
 - I am a Volunteer (student or non-student)
-- I am a D&I Award Recipient
+- I am a D&I Award Recipient ([application form via this link](https://forms.gle/MDoWCXaLG8jLDBkh9))
 - I am an invited Conference Organizer (Invited by the General Chair or Local Arrangements)
 - I am a Staff Member (ACL staff)
 - I am a Keynote Speaker
