@@ -48,6 +48,8 @@ program:
     children:
       - title: "Keynote Speakers"
         url: /program/keynotes/
+      - title: "Demos"
+        url: /program/demos/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
