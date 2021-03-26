@@ -174,7 +174,8 @@ var prepareCollapse = function() {
     expandButton.style.display = "block";
   }
 
-  function handleToggle() {
+  function handleToggle(e) {
+    e.target.blur();
     var toggleContent = this.nextElementSibling;
     var maxHeight = toggleContent.style.maxHeight;
     if (!maxHeight || maxHeight === "0px") {
@@ -188,8 +189,13 @@ var prepareCollapse = function() {
     var height = element.scrollHeight;
     element.childNodes.forEach(function(child) {
       if (child.scrollHeight) {
-        height += child.scrollHeight
+        height += child.scrollHeight;
       }
+      child.childNodes.forEach(function(grandChild) {
+        if (grandChild.scrollHeight) {
+          height += grandChild.scrollHeight;
+        }
+      })
     });
     element.style.maxHeight = height + "px";
   }
