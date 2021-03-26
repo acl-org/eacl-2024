@@ -40,7 +40,8 @@ function handleChange(e) {
       const newDateTime = new Date(dateTime - offset);
       const newHours = newDateTime.getHours();
       const newMinutes = newDateTime.getMinutes();
-      time.textContent = `${newHours}:${newMinutes || "00"}`;
+      const newMinutesFormatted = newMinutes < 10 ? "0" + newMinutes : newMinutes;
+      time.textContent = `${newHours}:${newMinutesFormatted}`;
     }
     if (showTime === "cet") {
       time.textContent = cetTimes[i];
