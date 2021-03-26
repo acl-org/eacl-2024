@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Conference Schedule - Wednesday, April 21
 layout: single
 excerpt: "EACL 2021 conference schedule - Wednesday, April 21."
@@ -11,6 +11,7 @@ after_footer_scripts:
 
 Show times in:
 <select id="show-time">
+
   <option value="cet">CET (UTC +1)</option>
   <option value="local">My local time</option>
 </select>
@@ -27,7 +28,7 @@ Show times in:
       <span class="time">9:00</span>-<span class="time">10:00</span> Keynote 1: Marco Baroni
     </div>
   </div>
-  
+
   <div class="schedule-element">
     <button class="schedule-element-title collapse-toggle-button">
       <span class="time">10:00</span>-<span class="time">11:00</span>&nbsp;Morning Zoom Sessions
@@ -65,7 +66,7 @@ Show times in:
 
   <div class="schedule-element">
     <div class="schedule-element-title">
-      <span class="time">11:00</span>-<span class="time">14:00</span> Gather Town 
+      <span class="time">11:00</span>-<span class="time">14:00</span> Gather Town
     </div>
   </div>
 
@@ -278,8 +279,7 @@ Show times in:
   </div>
   <div class="schedule-element">
     <div class="schedule-element-title">
-      <span class="time">18:00</span>-<span class="time">22:00</span> Gather Town 
+      <span class="time">18:00</span>-<span class="time">22:00</span> Gather Town
     </div>
   </div>
-</div>
-
+</div> -->
