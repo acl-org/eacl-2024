@@ -1,0 +1,40 @@
+.grid {
+  display: grid;
+  margin-bottom: 30px;
+
+  &.kyiv-travel {
+    grid-template-columns: 1fr;
+    grid-row-gap: 1em;
+
+    @include breakpoint($small) {
+      grid-template-columns: 110px calc(100% - 110px);
+    }
+  }
+
+  &.kyiv-comments {
+    grid-template-columns: 2.5rem calc(100% - 2.5rem);
+  }
+
+  em {
+    opacity: 0.6;
+  }
+
+  .grad-strip {
+    width: 6px;
+    height: 100%;
+    border-radius: $border-radius;
+    background-image: linear-gradient(to bottom, #4E72E7, #54B392);
+  }
+}
+
+// Kyiv headline
+#about {
+  margin-bottom: 48px;
+}
+
+#see-you-next-april-in-kyiv {
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-bottom: none;
+  border-top: 1px solid $border-color;
+}

@@ -43,6 +43,12 @@ If you are not able to complete the online registration process or in case of qu
 
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2021) ACL member. So, in addition to the above registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2021 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
 
+## Reduced Rate Memberships
+
+The ACL offers a discount to members from developing countries. We hope this discount will allow for more people from these countries to become a part of the ACL and enjoy its benefits. To be able to benefit from reduced rate memberships, you need to become a member through the ACL portal. You can then register for the conference as a member.
+
+For more information follow this link: <a href="https://www.aclweb.org/portal/content/membership-fees">https://www.aclweb.org/<wbr>portal/<wbr>content/<wbr>membership-fees</a>
+
 ## Contact Details
 
 Please direct all questions about your registration to Congrex service at [registration.eacl@congrex.com](mailto:registration.eacl@congrex.com).

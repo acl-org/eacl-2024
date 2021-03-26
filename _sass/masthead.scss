@@ -1,0 +1,40 @@
+.masthead {
+  text-transform: uppercase;
+}
+
+#site-nav, .masthead {
+  background: $gray-background;
+}
+
+.masthead__menu-item {
+  font-size: $type-size-6;
+
+  @include breakpoint($small) {
+    font-size: $type-size-7;
+  }
+
+  @include breakpoint($large) {
+    font-size: $type-size-8;
+  }
+}
+
+#site-nav {
+
+  .site-title {
+    color: #000000;
+    font-size: 16px;
+    font-family: "Akkurat";
+  }
+
+  ul {
+    li:last-child {
+      a {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .greedy-nav__toggle {
+    margin-left: 1rem;
+  }
+}

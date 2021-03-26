@@ -134,37 +134,69 @@ $(document).ready(function() {
   });
 });
 
-var collapse = function() {
+var prepareCollapse = function() {
   var expandButtons = $(".expand-button");
   var collapseButtons = $(".collapse-button");
+  var toggleButtons = $(".collapse-toggle-button");
+
+  if (expandButtons.length === 0 && collapseButtons.length === 0 && toggleButtons.length === 0) {
+    return
+  }
 
   var i;
-  
   for (i = 0; i < expandButtons.length; i++) {
-    expandButtons[i].addEventListener("click", expand)
+    expandButtons[i].addEventListener("click", handleExpand);
   }
 
   var j;
-
   for (j = 0; j < collapseButtons.length; j++) {
-    collapseButtons[j].addEventListener("click", collapse)
+    collapseButtons[j].addEventListener("click", handleCollapse);
   }
 
-  function expand() {
+  var k;
+  for (k = 0; k < toggleButtons.length; k++) {
+    toggleButtons[k].addEventListener("click", handleToggle);
+  }
+
+  function handleExpand() {
     this.style.display = "none";
     var expandContent = this.nextElementSibling;
     var collapseButton = expandContent.nextElementSibling;
-    expandContent.style.maxHeight = expandContent.scrollHeight + "px";
+    expand(expandContent);
     collapseButton.style.display = "block";
   }
 
-  function collapse() {
+  function handleCollapse() {
     this.style.display = "none";
     var collapseContent = this.previousElementSibling;
     var expandButton = collapseContent.previousElementSibling;
-    collapseContent.style.maxHeight = 0;
+    collapse(collapseContent);
     expandButton.style.display = "block";
+  }
+
+  function handleToggle() {
+    var toggleContent = this.nextElementSibling;
+    var maxHeight = toggleContent.style.maxHeight;
+    if (!maxHeight || maxHeight === "0px") {
+      expand(toggleContent);
+    } else {
+      collapse(toggleContent);
+    }
+  }
+
+  function expand(element) {
+    var height = element.scrollHeight;
+    element.childNodes.forEach(function(child) {
+      if (child.scrollHeight) {
+        height += child.scrollHeight
+      }
+    });
+    element.style.maxHeight = height + "px";
+  }
+
+  function collapse(element) {
+    element.style.maxHeight = 0;
   }
 };
 
-collapse();
+prepareCollapse();

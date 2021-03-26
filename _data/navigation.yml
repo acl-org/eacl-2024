@@ -1,11 +1,7 @@
 # main links
 main:
-
-#  - title: "Schedule"
-#    url: /schedule/
-
-#  - title: "LiveCaptions"
-#    url: /captions/
+  - title: "Schedule"
+    url: /schedule/wednesday/
 
   - title: "Program"
     url: /program/keynotes/
@@ -52,12 +48,12 @@ program:
     children:
       - title: "Keynote Speakers"
         url: /program/keynotes/
-      # - title: "Tutorials"
-      #   url: /program/tutorials/
+      - title: "Demos"
+        url: /program/demos/
       - title: "Workshops"
         url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
+      # - title: "Tutorials"
+      #   url: /program/tutorials/
       - title: "Accepted Papers"
         url: /program/accepted/
       - title: "Instructions for Authors"
@@ -100,3 +96,13 @@ reviewers:
 
 registration:
   - title: "Registration"
+
+schedule:
+  - title: "Conference Schedule"
+    children:
+      - title: "Wednesday, April 21"
+        url: "/schedule/wednesday/"
+      - title: "Thursday, April 22"
+        url: "/schedule/thursday/"
+      - title: "Friday, April 23"
+        url: "/schedule/friday/"

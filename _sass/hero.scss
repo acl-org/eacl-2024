@@ -1,0 +1,41 @@
+// overriding the color of the splash image caption
+.page__hero {
+
+  &-caption {
+    display: none;
+  }
+
+  &--overlay {
+    height: 250px;
+    display: flex;
+    align-items: center;
+
+      @include breakpoint($small) {
+        height: 300px;
+      }
+
+      @include breakpoint($large) {
+        height: 349px;
+      }
+
+    .page__title {
+      z-index: 2;
+      text-align: right;
+      color: #fff;
+      margin: 0;
+      line-height: 1.5;
+      font-family: "Circular";
+      font-size: 1.5em;
+  
+      @include breakpoint($x-small) {
+        font-size: $type-size-4;
+      }
+    }
+    .page__lead {
+      display: none;
+      font-size: 30px;
+      color: #fff;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+  }
+}

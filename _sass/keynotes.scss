@@ -1,0 +1,27 @@
+.keynote-photo {
+  width: 100%;
+  padding-top: 70%;
+  border-radius: 6px;
+  background-position: center;
+  background-size: cover;
+  margin: 2rem 0;
+
+  @include breakpoint($medium) {
+    width: 70%;
+    padding-top: 50%;
+  }
+}
+
+#melanie {
+  background-image: url(../images/keynotes/melanie2.jpg);
+  background-position: center 20%;
+}
+
+#fernanda {
+  background-image: url(../images/keynotes/fernanda.jpg);
+}
+
+#marco {
+  background-image: url(../images/keynotes/marco.jpg);
+  background-position: center 20%;
+}
