@@ -9,11 +9,23 @@ after_footer_scripts:
   - /assets/js/schedule.js
 ---
 
-Show times in:
-<select id="show-time">
-  <option value="cet">CET (UTC +1)</option>
-  <option value="local" id="option-local">My local time</option>
-</select>
+<div class="schedule-header">
+  <div class="time-control">
+    Show times in: 
+    <select id="show-time">
+      <option value="cet">CET (UTC +1)</option>
+      <option value="local" id="option-local">My local time</option>
+    </select>
+  </div>
+  <div class="action-buttons">
+    <button class="btn btn--outlined-primary" id="expand-all">
+      Expand All
+    </button>
+    <button class="btn btn--outlined-primary" id="collapse-all">
+      Collapse All
+    </button>
+  </div>
+</div>
 
 <div class="schedule" markdown="0">
   <div class="schedule-element">
@@ -55,7 +67,7 @@ Show times in:
           <ul>
             <li>Jointly Improving Language Understanding and Generation with Quality-Weighted Weak Supervision of Automatic Labeling</li>
             <li>Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks</li>
-            <li>Augmenting Transformers with KNN-Based Composite Memory for Dialog</li>
+            <li>Augmenting Transformers with KNN-Based Composite Memory for Dialog (TACL)</li>
           </ul>
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Document Analysis and Text Classification</button>
@@ -64,7 +76,7 @@ Show times in:
           <ul>
             <li>Adv-OLM: Generating Textual Adversaries via OLM</li>
             <li>Clinical Outcome Prediction from Admission Notes using Self-Supervised Knowledge Integration</li>
-            <li>Supervised and Unsupervised Neural Approaches to Text Readability</li>
+            <li>Supervised and Unsupervised Neural Approaches to Text Readability (CL)</li>
           </ul>
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Interpretability and Anlysis of NLP Models</button>
@@ -143,8 +155,8 @@ Show times in:
           <strong>Chair:</strong> TBA<br/>
           <ul>
             <li>Dependency parsing with structure preserving embeddings</li>
-            <li>Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories</li>
-            <li>Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement</li>
+            <li>Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories (TACL)</li>
+            <li>Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement (TACL)</li>
           </ul>
         </div>
       </div>
@@ -371,7 +383,15 @@ Show times in:
     </button>
     <div class="collapse-content schedule-element-content">
       <div class="element-inner-wrapper">
+        <p>
         <strong>Moderator:</strong> Gretchen McCulloch.
+        </p>
+        <strong>Panelists:</strong>
+        <ul>
+          <li>Alp Öktem, <em>Translators without Borders</em></li>
+          <li>Scott Hale, <em>University of Oxford</em></li>
+          <li>Robert Munoch, <em>Bay Area NLP community</em></li>
+        </ul>
       </div>
     </div>
   </div>
