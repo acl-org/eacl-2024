@@ -19,10 +19,10 @@ after_footer_scripts:
   </div>
   <div class="action-buttons">
     <button class="btn btn--outlined-primary" id="expand-all">
-      Expand All
+      Show All
     </button>
     <button class="btn btn--outlined-primary" id="collapse-all">
-      Collapse All
+      Hide All
     </button>
   </div>
 </div>
