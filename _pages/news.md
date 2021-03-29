@@ -10,6 +10,17 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>Call for mentors at EACL 2021</h2>
+
+  The EACL 2021 D&I committee would like to call for expressions of interest to host group mentoring sessions.
+
+  As part of the NLP community’s initiatives to improve diversity and inclusion, EACL 2021 is organising group mentoring sessions to offer students and early career researchers the opportunity to interact with and get advice from senior researchers. These virtual sessions will be structured as roundtable discussion/Q&A sessions. We will be assigning you to a session and a discussion group that you will lead, using the information you provide here.
+
+  Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSerFIYCSZbMXCdceEBq67XGlPVBLt3fZUZAOEsblEu9XAh70A/viewform) if you are interested in being a mentor at EACL 2021.<br/>
+  Looking forward to your submissions!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Diversity & Inclusions awards at EACL 2021</h2>
 
   Applications for EACL 2021 Diversity & Inclusions awards are open. You can apply for a registration subsidy via this [link](https://forms.gle/MDoWCXaLG8jLDBkh9).
