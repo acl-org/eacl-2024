@@ -57,13 +57,17 @@
   flex-direction: column;
   text-align: left;
   padding: 1rem;
-  background: #d6d6d6;
+  background-color: #d6d6d6;
   border: none;
   color: #000000;
   line-height: 1.83em;
+  transition: all 0.4s;
 
-  &:focus {
-    outline: none;
+  &.collapse-toggle-button {
+    &:hover, &:focus {
+      outline: none;
+      background-color: #ececec;
+    }
   }
 
   @media (min-width: $small) {
