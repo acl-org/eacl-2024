@@ -155,7 +155,7 @@ after_footer_scripts:
           <strong>Chair:</strong> TBA<br/>
           <ul>
             <li>Dependency parsing with structure preserving embeddings</li>
-            <li>Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories (CL)</li>
+            <li>Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories (TACL)</li>
             <li>Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement (TACL)</li>
           </ul>
         </div>
