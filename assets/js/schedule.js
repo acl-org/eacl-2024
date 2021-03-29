@@ -4,6 +4,21 @@ let showTime = selectTime.value;
 const localTimeZoneOffset = (new Date("Apr 21 2021")).getTimezoneOffset();
 const offset = (localTimeZoneOffset + 60) * 60 * 1000;
 
+const optionLocal = document.getElementById("option-local");
+
+function getReadableOffset(offsetNumberRaw) {
+  const offsetNumber = offsetNumberRaw * -1;
+  const offsetHours = offsetNumber > 0 ? Math.floor(offsetNumber / 60) : Math.ceil(offsetNumber / 60);
+  const remainderMinutes = Math.abs(offsetNumber % 60);
+  const displayHours = hours => hours < 0 ? "" + hours : "+" + hours;
+  if (remainderMinutes === 0) return displayHours(offsetHours);
+
+  const displayMinutes = minutes => minutes < 10 ? "0" + minutes : "" + minutes;
+  return `${displayHours(offsetHours)}:${displayMinutes(remainderMinutes)}`
+}
+
+optionLocal.textContent += ` (UTC ${getReadableOffset(localTimeZoneOffset)})`;
+
 let timesEls = document.querySelectorAll(".time");
 const cetTimes = [];
 for (let i = 0; i < timesEls.length; i++) {
@@ -25,7 +40,8 @@ function handleChange(e) {
       const newDateTime = new Date(dateTime - offset);
       const newHours = newDateTime.getHours();
       const newMinutes = newDateTime.getMinutes();
-      time.textContent = `${newHours}:${newMinutes || "00"}`;
+      const newMinutesFormatted = newMinutes < 10 ? "0" + newMinutes : newMinutes;
+      time.textContent = `${newHours}:${newMinutesFormatted}`;
     }
     if (showTime === "cet") {
       time.textContent = cetTimes[i];

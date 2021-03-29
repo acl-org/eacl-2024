@@ -12,9 +12,6 @@ main:
   - title: "Registration"
     url: /registration
 
-  - title: "Participants"
-    url: "/participants"
-
   - title: "Sponsors"
     url: /sponsors
 
