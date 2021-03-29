@@ -13,7 +13,7 @@ after_footer_scripts:
   <div class="time-control">
     Show times in: 
     <select id="show-time">
-      <option value="cet">CET (UTC +1)</option>
+      <option value="default">CEST (UTC +2)</option>
       <option value="local" id="option-local">My local time</option>
     </select>
   </div>
