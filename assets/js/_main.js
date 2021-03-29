@@ -135,13 +135,17 @@ $(document).ready(function() {
 });
 
 var prepareCollapse = function() {
+  var collapseContents = document.querySelectorAll(".collapse-content");
+
+  if (collapseContents.length === 0) {
+    return
+  }
+
   var expandButtons = $(".expand-button");
   var collapseButtons = $(".collapse-button");
   var toggleButtons = $(".collapse-toggle-button");
-
-  if (expandButtons.length === 0 && collapseButtons.length === 0 && toggleButtons.length === 0) {
-    return
-  }
+  var expandAll = document.getElementById("expand-all");
+  var collapseAll = document.getElementById("collapse-all");
 
   var i;
   for (i = 0; i < expandButtons.length; i++) {
@@ -156,6 +160,14 @@ var prepareCollapse = function() {
   var k;
   for (k = 0; k < toggleButtons.length; k++) {
     toggleButtons[k].addEventListener("click", handleToggle);
+  }
+
+  if (expandAll) {
+    expandAll.addEventListener("click", handleExpandAll);
+  }
+  
+  if (collapseAll) {
+    collapseAll.addEventListener("click", handleCollapseAll);
   }
 
   function handleExpand() {
@@ -183,6 +195,18 @@ var prepareCollapse = function() {
     } else {
       collapse(toggleContent);
     }
+  }
+
+  function handleExpandAll() {
+    collapseContents.forEach(function (element) {
+      expand(element);
+    });
+  }
+
+  function handleCollapseAll() {
+    collapseContents.forEach(function (element) {
+      collapse(element);
+    });
   }
 
   function expand(element) {

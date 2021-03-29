@@ -1,3 +1,29 @@
+.schedule-header {
+  display: flex;
+  flex-wrap: wrap;
+
+  .btn, select {
+    margin-bottom: 0;
+  }
+
+  .time-control, .action-buttons {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.time-control {
+  margin-right: auto;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+
+  select {
+    margin-left: 1rem;
+    height: 100%;
+  }
+}
+
 .schedule-element {
   margin: 1rem 0;
 }

@@ -9,11 +9,23 @@ after_footer_scripts:
   - /assets/js/schedule.js
 ---
 
-Show times in:
-<select id="show-time">
-  <option value="cet">CET (UTC +1)</option>
-  <option value="local" id="option-local">My local time</option>
-</select>
+<div class="schedule-header">
+  <div class="time-control">
+    Show times in: 
+    <select id="show-time">
+      <option value="cet">CET (UTC +1)</option>
+      <option value="local" id="option-local">My local time</option>
+    </select>
+  </div>
+  <div class="action-buttons">
+    <button class="btn btn--outlined-primary" id="expand-all">
+      Expand All
+    </button>
+    <button class="btn btn--outlined-primary" id="collapse-all">
+      Collapse All
+    </button>
+  </div>
+</div>
 
 <div class="schedule" markdown="0">
   <div class="schedule-element">
@@ -68,7 +80,7 @@ Show times in:
           <ul>
             <li>Multi-split Reversible Transformers Can Enhance Neural Machine Translation</li>
             <li>Learning Coupled Policies for Simultaneous Machine Translation using Imitation Learning</li>
-            <li>Revisiting Multi-Domain Machine Translation</li>
+            <li>Revisiting Multi-Domain Machine Translation (TACL)</li>
           </ul>
         </div>
       </div>
@@ -105,7 +117,7 @@ Show times in:
           <ul>
             <li>A phonetic model of non-native spoken word processing</li>
             <li>Meta-Learning for Effective Multi-task and Multilingual Modelling</li>
-            <li>Deciphering Undersegmented Ancient Scripts Using Phonetic Prior</li>
+            <li>Deciphering Undersegmented Ancient Scripts Using Phonetic Prior (TACL)</li>
           </ul>
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">

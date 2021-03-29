@@ -9,11 +9,23 @@ after_footer_scripts:
   - /assets/js/schedule.js
 ---
 
-Show times in:
-<select id="show-time">
-  <option value="cet">CET (UTC +1)</option>
-  <option value="local" id="option-local">My local time</option>
-</select>
+<div class="schedule-header">
+  <div class="time-control">
+    Show times in: 
+    <select id="show-time">
+      <option value="cet">CET (UTC +1)</option>
+      <option value="local" id="option-local">My local time</option>
+    </select>
+  </div>
+  <div class="action-buttons">
+    <button class="btn btn--outlined-primary" id="expand-all">
+      Expand All
+    </button>
+    <button class="btn btn--outlined-primary" id="collapse-all">
+      Collapse All
+    </button>
+  </div>
+</div>
 
 <div class="schedule" markdown="0">
   <div class="schedule-element">
@@ -116,7 +128,7 @@ Show times in:
           <ul>
             <li>Few-Shot Semantic Parsing for New Predicates</li>
             <li>Project-then-Transfer: Effective Two-stage Cross-lingual Transfer for Semantic Dependency Parsing</li>
-            <li>Comparing Knowledge-Intensive and Data-Intensive Models for English Resource Semantic Parsing</li>
+            <li>Comparing Knowledge-Intensive and Data-Intensive Models for English Resource Semantic Parsing (CL)</li>
           </ul>
         </div>
       </div>

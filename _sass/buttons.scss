@@ -1,0 +1,24 @@
+.action-buttons {
+  flex-grow: 1;
+  display: flex;
+
+  .btn {
+    flex-grow: 1;
+  }
+
+  .btn:not(:last-child) {
+    margin-right: 0.5rem;
+  }
+}
+
+.btn--outlined-primary {
+  background-color: #fff;
+  color: #494e52;
+  border: 1px solid #E3E6F2;
+  
+  &:hover {
+    color: #FFFFFF;
+    background-color: $link-color;
+    border-color: $link-color;
+  }
+}
