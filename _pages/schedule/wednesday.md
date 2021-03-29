@@ -383,7 +383,15 @@ after_footer_scripts:
     </button>
     <div class="collapse-content schedule-element-content">
       <div class="element-inner-wrapper">
+        <p>
         <strong>Moderator:</strong> Gretchen McCulloch.
+        </p>
+        <strong>Panelists:</strong>
+        <ul>
+          <li>Alp Öktem, <em>Translators without Borders</em></li>
+          <li>Scott Hale, <em>University of Oxford</em></li>
+          <li>Robert Munoch, <em>Bay Area NLP community</em></li>
+        </ul>
       </div>
     </div>
   </div>
