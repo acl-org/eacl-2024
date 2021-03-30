@@ -97,9 +97,9 @@ registration:
 schedule:
   - title: "Conference Schedule"
     children:
-      - title: "Wednesday, April 19"
+      - title: "Monday, April 19"
         url: "/schedule/monday/"
-      - title: "Wednesday, April 20"
+      - title: "Tuesday, April 20"
         url: "/schedule/tuesday/"
       - title: "Wednesday, April 21"
         url: "/schedule/wednesday/"
