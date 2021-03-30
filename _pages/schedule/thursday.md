@@ -13,16 +13,16 @@ after_footer_scripts:
   <div class="time-control">
     Show times in: 
     <select id="show-time">
-      <option value="cet">CET (UTC +1)</option>
+      <option value="default">CEST (UTC +2)</option>
       <option value="local" id="option-local">My local time</option>
     </select>
   </div>
   <div class="action-buttons">
     <button class="btn btn--outlined-primary" id="expand-all">
-      Expand All
+      Show All
     </button>
     <button class="btn btn--outlined-primary" id="collapse-all">
-      Collapse All
+      Hide All
     </button>
   </div>
 </div>

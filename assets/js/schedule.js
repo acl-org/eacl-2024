@@ -1,8 +1,13 @@
+// CEST (UTC+2)
+const conferenceTimeOffset = 120;
+
+// Conference start date
+const conferenceDate = "Apr 21 2021";
+
 let selectTime = document.getElementById("show-time");
 let showTime = selectTime.value;
 
-const localTimeZoneOffset = (new Date("Apr 21 2021")).getTimezoneOffset();
-const offset = (localTimeZoneOffset + 60) * 60 * 1000;
+const localTimeZoneOffset = (new Date(conferenceDate)).getTimezoneOffset();
 
 const optionLocal = document.getElementById("option-local");
 
@@ -19,10 +24,12 @@ function getReadableOffset(offsetNumberRaw) {
 
 optionLocal.textContent += ` (UTC ${getReadableOffset(localTimeZoneOffset)})`;
 
+const relativeOffset = (localTimeZoneOffset + conferenceTimeOffset) * 60 * 1000;
+
 let timesEls = document.querySelectorAll(".time");
-const cetTimes = [];
+const defaultTimes = [];
 for (let i = 0; i < timesEls.length; i++) {
-  cetTimes[i] = timesEls[i].textContent;
+  defaultTimes[i] = timesEls[i].textContent;
 }
 
 selectTime.addEventListener("change", handleChange);
@@ -31,20 +38,21 @@ function handleChange(e) {
   showTime = e.target.value;
   for (let i = 0; i < timesEls.length; i++) {
     let time = timesEls[i];
-    if (showTime === "local") {
-      let date = new Date();
-      const [hours, minutes] = time.textContent.split(":");
-      date.setHours(hours);
-      date.setMinutes(minutes);
-      const dateTime = date.getTime();
-      const newDateTime = new Date(dateTime - offset);
-      const newHours = newDateTime.getHours();
-      const newMinutes = newDateTime.getMinutes();
-      const newMinutesFormatted = newMinutes < 10 ? "0" + newMinutes : newMinutes;
-      time.textContent = `${newHours}:${newMinutesFormatted}`;
-    }
-    if (showTime === "cet") {
-      time.textContent = cetTimes[i];
+    switch (showTime) {
+      case "local":
+        let date = new Date();
+        const [hours, minutes] = time.textContent.split(":");
+        date.setHours(hours);
+        date.setMinutes(minutes);
+        const dateTime = date.getTime();
+        const newDateTime = new Date(dateTime - relativeOffset);
+        const newHours = newDateTime.getHours();
+        const newMinutes = newDateTime.getMinutes();
+        const newMinutesFormatted = newMinutes < 10 ? "0" + newMinutes : newMinutes;
+        time.textContent = `${newHours}:${newMinutesFormatted}`;
+        break;
+      default:
+        time.textContent = defaultTimes[i];
     }
   }
 }
