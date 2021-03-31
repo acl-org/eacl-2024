@@ -40,10 +40,15 @@ supporter:
     image_path: /assets/images/logos/samsung.png
     alt: "Samsung Logo"
     title: "Samsung"
-socialevent:
-dichampion:
-dially:
-inkind:
+diversity:
+  - url: https://www.microsoft.com/
+    image_path: /assets/images/logos/microsoft.svg
+    alt: "Microsoft Logo"
+    title: "Microsoft"
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe.png
+    alt: "Adobe Logo"
+    title: "Adobe"
 ---
 
 If your organization would like to sponsor EACL or other conferences in the ACL family, please see [our sponsorship information booklet]({{ '/downloads/ACL-2021-Sponsorship-booklet.pdf' | relative_url }}).
@@ -63,3 +68,7 @@ If your organization would like to sponsor EACL or other conferences in the ACL 
 ## Supporter
 
 {% include gallery id="supporter" layout="sponsors" %}
+
+## Diversity and Inclusion: Champion
+
+{% include gallery id="diversity" layout="sponsors" %}
