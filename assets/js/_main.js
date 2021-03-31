@@ -74,7 +74,7 @@ $(document).ready(function() {
   });
 
   // Gumshoe scroll spy init
-  if($("nav.nav__list").length > 0) {
+  if($("nav.nav__list.nav--toc").length > 0) {
     var spy = new Gumshoe("nav.nav__list a", {
       // Active classes
       navClass: "active", // applied to the nav list item
