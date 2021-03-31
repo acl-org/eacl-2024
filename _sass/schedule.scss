@@ -1,14 +1,17 @@
 .schedule-header {
   display: flex;
   flex-wrap: wrap;
+  margin-right: -2rem;
 
   .btn, select {
     margin-bottom: 0;
+    padding: 0.4em 1em;
   }
 
   .time-control, .action-buttons {
     margin-top: 1rem;
     margin-bottom: 1rem;
+    margin-right: 2rem;
   }
 }
 
@@ -21,6 +24,7 @@
   select {
     margin-left: 1rem;
     height: 100%;
+    flex: 1;
   }
 }
 
