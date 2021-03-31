@@ -388,9 +388,18 @@ after_footer_scripts:
         </p>
         <strong>Panelists:</strong>
         <ul>
-          <li>Alp Öktem, <em>Translators without Borders</em></li>
-          <li>Scott Hale, <em>University of Oxford</em></li>
-          <li>Robert Munoch, <em>Bay Area NLP community</em></li>
+          <li>
+            Alp Öktem, <em>Translators without Borders</em>
+          </li>
+          <li>
+            Scott Hale, <em>University of Oxford</em>
+          </li>
+          <li>
+            Robert Monarch, <em>Bay Area NLP community</em>
+          </li>
+          <li>
+            Jade Abbott (tbc), <em>Masakhane NLP community</em>
+          </li>
         </ul>
       </div>
     </div>
