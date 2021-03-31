@@ -10,6 +10,12 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>The Conference Schedule</h2>
+
+  The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Call for mentors at EACL 2021</h2>
 
   The EACL 2021 D&I committee would like to call for expressions of interest to host group mentoring sessions.
