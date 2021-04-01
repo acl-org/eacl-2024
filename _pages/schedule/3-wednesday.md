@@ -11,7 +11,7 @@ after_footer_scripts:
 
 <div class="schedule-header">
   <div class="time-control">
-    Show times in: 
+    <span>Show times in:</span>
     <select id="show-time">
       <option value="default">CEST (UTC +2)</option>
       <option value="local" id="option-local">My local time</option>
