@@ -40,7 +40,7 @@ Thanks to our sponsor [Grammarly](https://www.grammarly.com/) for donating premi
 
 Applications to EACL 2021 D&I Awards can be made using this [link](https://forms.gle/MDoWCXaLG8jLDBkh9) which went live at the start of the registration period. To increase visibility, the form is linked to the conference [registration form]({{ "/registration" | relative_url }}), promoted on the EACL website and shared on social media. Thanks to our sponsors, [Adobe](https://research.adobe.com/) and [Microsoft](https://www.microsoft.com/en-us/research/).
 
-## Contactpanel
+## Contact the Committee
 If you have suggestions or questions about D&I efforts at EACL 2021, our contact is at [eacl2021diversity@gmail.com](mailto:eacl2021diversity@gmail.com) 
 
 ## Acknowledgments
