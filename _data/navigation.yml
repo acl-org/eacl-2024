@@ -55,6 +55,8 @@ program:
         url: /program/accepted/
       - title: "Instructions for Authors"
         url: /program/authors/
+      - title: "Diversity and Inclusion"
+        url: /program/diversity/
 
 committees:
    - title: "Committees"
