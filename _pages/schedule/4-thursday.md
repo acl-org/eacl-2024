@@ -354,7 +354,7 @@ after_footer_scripts:
     </button>
     <div class="collapse-content schedule-element-content">
       <div class="element-inner-wrapper">
-        <ul>
+        <ul class="list--small-padding">
           <li>
             <strong>A NEW SURPRISE MEASURE FOR EXTRACTING INTERESTING RELATIONSHIPS BETWEEN PERSONS</strong><br/>
             <em>Hidetaka Kamigaito, Jingun Kwon, Young-In Song and Manabu Okumura</em>
