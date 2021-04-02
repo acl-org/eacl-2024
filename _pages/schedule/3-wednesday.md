@@ -8,22 +8,23 @@ sidebar:
 after_footer_scripts:
   - /assets/js/schedule.js
 ---
-
-<div class="schedule-header">
-  <div class="time-control">
-    Show times in: 
-    <select id="show-time">
-      <option value="default">CEST (UTC +2)</option>
-      <option value="local" id="option-local">My local time</option>
-    </select>
-  </div>
-  <div class="action-buttons">
-    <button class="btn btn--outlined-primary" id="expand-all">
-      Show All
-    </button>
-    <button class="btn btn--outlined-primary" id="collapse-all">
-      Hide All
-    </button>
+<div class="schedule-header-container">
+  <div class="schedule-header">
+    <div class="time-control">
+      <span>Show times in:</span>
+      <select id="show-time">
+        <option value="default">CEST (UTC +2)</option>
+        <option value="local" id="option-local">My local time</option>
+      </select>
+    </div>
+    <div class="action-buttons">
+      <button class="btn btn--outlined-primary" id="expand-all">
+        Show All
+      </button>
+      <button class="btn btn--outlined-primary" id="collapse-all">
+        Hide All
+      </button>
+    </div>
   </div>
 </div>
 
@@ -327,17 +328,17 @@ after_footer_scripts:
     </button>
     <div class="collapse-content schedule-element-content">
       <div class="element-inner-wrapper">
-        <ul>
+        <ul class="list--small-padding">
           <li><strong>A DASHBOARD FOR MITIGATING THE COVID-19 MISINFODEMIC</strong><br/>
-          <em>Zhengyuan Zhu, Kevin Meng, Josue Caraballo, Israa Jaradat, Xiao Shi, Zeyu Zhang, Farahnaz Akrami, Haojin Liao, Fatma Arslan, Damian Jimenez, Mohanmmed Samiul Saeef, Paras Pathak and Chengkai Li</em></li>
+          <em>Zhengyuan&nbsp;Zhu, Kevin&nbsp;Meng, Josue&nbsp;Caraballo, Israa&nbsp;Jaradat, Xiao&nbsp;Shi, Zeyu&nbsp;Zhang, Farahnaz&nbsp;Akrami, Haojin&nbsp;Liao, Fatma&nbsp;Arslan, Damian&nbsp;Jimenez, Mohanmmed Samiul&nbsp;Saeef, Paras&nbsp;Pathak and Chengkai&nbsp;Li</em></li>
           <li><strong>A DESCRIPTION AND DEMONSTRATION OF SAFAR FRAMEWORK</strong><br/>
-          <em>Karim Bouzoubaa, Younes Jaafar, Driss Namly, Ridouane Tachicart, Rachida Tajmout, hakima khamar, hamid jaafar, Lhoussain aouragh and Abdellah Yousfi</em></li>
+          <em>Karim&nbsp;Bouzoubaa, Younes&nbsp;Jaafar, Driss&nbsp;Namly, Ridouane&nbsp;Tachicart, Rachida&nbsp;Tajmout, Hakima&nbsp;Khamar, Hamid&nbsp;Jaafar, Lhoussain&nbsp;Aouragh and Abdellah&nbsp;Yousfi</em></li>
           <li><strong>BREAKING WRITER'S BLOCK: LOW-COST FINE-TUNING OF NATURAL LANGUAGE GENERATION MODELS</strong><br/>
-          <em>Alexandre Duval, Thomas Lamson, Gaël de Léséleuc de Kérouara and Matthias Gallé</em></li>
+          <em>Alexandre&nbsp;Duval, Thomas&nbsp; Lamson, Gaël de Léséleuc de Kérouara and Matthias&nbsp;Gallé</em></li>
           <li><strong>COCO-EX: A TOOL FOR LINKING CONCEPTS FROM TEXTS TO CONCEPTNET</strong><br/>
-          <em>Maria Becker, Katharina Korfhage and Anette Frank</em></li>
+          <em>Maria&nbsp;Becker, Katharina&nbsp;Korfhage and Anette&nbsp;Frank</em></li>
           <li><strong>DOMAIN EXPERT PLATFORM FOR GOAL-ORIENTED DIALOG COLLECTION</strong><br/>
-          <em>Didzis Goško, Arturs Znotins, Inguna Skadina, Normunds Gruzitis and Gunta Nešpore-Bērzkalne</em></li>
+          <em>Didzis&nbsp;Goško, Arturs&nbsp;Znotins, Inguna&nbsp;Skadina, Normunds&nbsp;Gruzitis and Gunta Nešpore-Bērzkalne</em></li>
           <li><strong>EASYTURK: A USER-FRIENDLY INTERFACE FOR HIGH-QUALITY LINGUISTIC ANNOTATION WITH AMAZON MECHANICAL TURK</strong><br/>
           <em>Lorenzo Bocchi, Valentino Frasnelli and Alessio Palmero Aprosio</em></li>
           <li><strong>EUROPEAN LANGUAGE GRID: A JOINT PLATFORM FOR THE EUROPEAN LANGUAGE TECHNOLOGY COMMUNITY</strong><br/>

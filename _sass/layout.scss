@@ -1,4 +1,6 @@
 .page__footer {
+  margin-top: 2em;
+  
   .page__footer-copyright {
     color: #ACACAE;
     line-height: 1.3em;
@@ -92,4 +94,16 @@
 
 .text-underlined {
   text-decoration: underline;
+}
+
+.gsc-input {
+  line-height: 2rem;
+
+  table {
+    margin-bottom: 0;
+  }
+}
+
+.page__content .gsc-control-cse {
+  padding: 0;
 }

@@ -8,22 +8,23 @@ sidebar:
 after_footer_scripts:
   - /assets/js/schedule.js
 ---
-
-<div class="schedule-header">
-  <div class="time-control">
-    Show times in: 
-    <select id="show-time">
-      <option value="default">CEST (UTC +2)</option>
-      <option value="local" id="option-local">My local time</option>
-    </select>
-  </div>
-  <div class="action-buttons">
-    <button class="btn btn--outlined-primary" id="expand-all">
-      Show All
-    </button>
-    <button class="btn btn--outlined-primary" id="collapse-all">
-      Hide All
-    </button>
+<div class="schedule-header-container">
+  <div class="schedule-header">
+    <div class="time-control">
+      <span>Show times in:</span>
+      <select id="show-time">
+        <option value="default">CEST (UTC +2)</option>
+        <option value="local" id="option-local">My local time</option>
+      </select>
+    </div>
+    <div class="action-buttons">
+      <button class="btn btn--outlined-primary" id="expand-all">
+        Show All
+      </button>
+      <button class="btn btn--outlined-primary" id="collapse-all">
+        Hide All
+      </button>
+    </div>
   </div>
 </div>
 

@@ -5,7 +5,7 @@ layout: single
 permalink: /calls/demos/
 sidebar:
   nav: "calls"
-toc: false
+toc: true
 toc_sticky: true
 toc_icon: "cog"
 toc_max_header: 4
@@ -44,7 +44,7 @@ Demo Proposals consist of the following parts, which should all be sent using th
 - Submissions may consist of up to 6 pages, plus unlimited references. Authors are strongly encouraged to include in their paper (e.g 1st footnote) a link to a video highlighting their system. Submissions must conform to the EACL 2021 official style guidelines (<https://2021.eacl.org/calls/papers/>) and they must be in PDF format. The submissions have to be original work (unpublished), as the publication in EACL will be archival.
 - At least one author of each accepted demo paper must register for and attend the conference, and demonstrate the system during the demo sessions.
 
-## Best Demo Award
+<h2>Best Demo Award</h2>
 
 As in previous years, EACL 2021’s demo track will feature a Best Demo Award. We hope to encourage researchers to make their code publicly available and in the form of an easy-to-use, runnable system.
 
@@ -58,7 +58,7 @@ Submissions will be evaluated on the basis of their relevance to computational l
 
 Reviewing will be single-blind, so authors do not need to conceal their identity. The paper should include the authors’ names and affiliations. Self-references are also allowed. No embargo period is required.
 
-## Other Details
+<h2>Other Details</h2>
 
 Further details on the demonstrations sessions will be determined and provided at a later date.
 
@@ -69,7 +69,7 @@ Further details on the demonstrations sessions will be determined and provided a
 - Camera-ready due: March 10, 2021
 - EACL conference dates: April 20–22 , 2021
 
-## Demonstrations Co-Chairs
+<h2>Demonstrations Co-Chairs</h2>
 
 Djamé Seddah (Inria Paris, djame.seddah@inria.fr)<br/>
 Dimitra Gkatzia (Edinburgh Napier University, d.gkatzia@napier.ac.uk)
