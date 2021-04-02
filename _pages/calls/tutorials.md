@@ -5,7 +5,7 @@ layout: single
 permalink: /calls/tutorials/
 sidebar:
   nav: "calls"
-toc: false
+toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
@@ -34,11 +34,11 @@ Tutorials will be held at one of the following conference venues:
 - ACL-IJCNLP 2021, which will be tentatively held in Bangkok, Thailand, from 1–6 August 2021.
 - EMNLP 2021, which will be tentatively held in Punta Cana, Dominican Republic in the fall of 2021 (October or November).
 
-## Fee Waiving
+<h2>Fee Waiving</h2>
 
 In a change from previous years, tutorial instructors will receive no payment. However, up to 3 instructors per tutorial can have their registration fees waived for the main conference and any subset of co-located tutorials and workshops.
 
-## Diversity And Inclusion
+<h2>Diversity And Inclusion</h2>
 
 We recognize the current problems of demographic imbalance in the field. Therefore, we particularly encourage submissions from members of under-represented groups in computational linguistics, i.e. from researchers self-identifying within any underrepresented demographic (gender, ethnicity, nationality, etc.).
 

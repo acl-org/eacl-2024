@@ -5,7 +5,7 @@ layout: single
 permalink: /calls/volunteers/
 sidebar: 
     nav: "calls"
-toc: false
+toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---

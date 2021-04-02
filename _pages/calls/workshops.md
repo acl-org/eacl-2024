@@ -5,7 +5,7 @@ layout: single
 permalink: /calls/workshops/
 sidebar:
   nav: "calls"
-toc: false
+toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
@@ -76,7 +76,7 @@ The proposals should be submitted no later than October 6, 2020, 11:59 PM Samoa 
 
 The workshop proposals will be evaluated according to their originality and impact, as well as the quality of the organizing team and Programme Committee. In addition, to estimate the attendance of the different workshops, a survey mechanism will be implemented, where attendees of ACL- and EMNLP events from the past 3-5 years will be able to indicate which workshops they would like to attend in 2021.
 
-## Workshops on COVID-19
+<h2>Workshops on COVID-19</h2>
 
 We explicitly encourage the submissions of workshops on the topic of research around COVID-19.
 

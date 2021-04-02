@@ -5,8 +5,8 @@ layout: single
 permalink: /calls/papers/
 sidebar:
   nav: calls
-toc: false
-toc_only: true
+toc: true
+toc_only: false
 toc_sticky: true
 toc_icon: "cog"
 ---

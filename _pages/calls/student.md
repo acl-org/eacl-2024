@@ -5,7 +5,7 @@ layout: single
 permalink: /calls/student/
 sidebar: 
     nav: "calls"
-toc: false
+toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
@@ -99,13 +99,13 @@ The SRW invites papers on topics related to computational linguistics, including
 - Green and Sustainable NLP
 - NLP and Crisis Management
 
-## Student Research Workshop Co-Chairs
+<h2>Student Research Workshop Co-Chairs</h2>
 
 Ionut-Teodor Sorodoc (Pompeu Fabra University)<br/>
 Madhumita Sushil (University of Antwerp)<br/>
 Ece Takmaz (University of Amsterdam)<br/>
 
-## Student Research Workshop Faculty Advisor
+<h2>Student Research Workshop Faculty Advisor</h2>
 
 Eneko Agirre (University of the Basque Country)
 
