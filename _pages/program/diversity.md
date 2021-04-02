@@ -3,8 +3,8 @@ title: EACL 2021 Diversity and Inclusion Efforts
 layout: single
 excerpt: "EACL 2021 Diversity and Inclusion."
 permalink: /program/diversity/
-sidebar: 
-    nav: "program"
+sidebar:
+  nav: "program"
 toc: true
 ---
 
@@ -19,7 +19,8 @@ We have organized different types of events to promote both academic and socio-c
 - **Birds of a Feather (BoF) Sessions**, for participants to discuss research in specific areas, exchange ideas and possibly identify new collaborations.
 - **Language diversity** [panel and games](https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games): we have organized events for participants, including:
   - a panel to discuss possible measures for increasing and promoting language diversity in conferences,
-  - language games for giving a taster of different languages and celebrate language diversity (including an interactive presentation of the Ukrainian language).
+  - language games for giving a taster of different languages and celebrate language diversity, and
+  - an interactive presentation of the Ukrainian language.
 - **Group Mentoring Sessions**, for students and early-career researchers to meet and get advice from senior researchers on various topics including career choices, work-life balance, and how to set collaborations. The sessions will be structured as round-table discussions.
 - **Affinity Group Socials** to raise awareness of socio-cultural differences among our community and promote interactions. We have reached out to various groups and opened calls and will support them in hosting their events during EACL:
   - AfricaNLP
@@ -41,7 +42,8 @@ Thanks to our sponsor [Grammarly](https://www.grammarly.com/) for donating premi
 Applications to EACL 2021 D&I Awards can be made using this [link](https://forms.gle/MDoWCXaLG8jLDBkh9) which went live at the start of the registration period. To increase visibility, the form is linked to the conference [registration form]({{ "/registration" | relative_url }}), promoted on the EACL website and shared on social media. Thanks to our sponsors, [Adobe](https://research.adobe.com/) and [Microsoft](https://www.microsoft.com/en-us/research/).
 
 ## Contact the Committee
-If you have suggestions or questions about D&I efforts at EACL 2021, our contact is at [eacl2021diversity@gmail.com](mailto:eacl2021diversity@gmail.com) 
+
+If you have suggestions or questions about D&I efforts at EACL 2021, our contact is at [eacl2021diversity@gmail.com](mailto:eacl2021diversity@gmail.com)
 
 ## Acknowledgments
 
@@ -51,6 +53,6 @@ We would like to thank the D&I chairs of ACL 2020, EMNLP 2020, AACL-IJCNLP, alon
 
 - [Aline Villavicencio](https://sites.google.com/view/alinev), University of Sheffield (UK) and Federal University of Rio Grande do Sul (Brazil)
 - [Viktoria Kolomiets](https://www.linkedin.com/in/viktoria-kolomiets-54689293/), Grammarly (Ukraine)
-- [Carlos Ramisch](http://pageperso.lis-lab.fr/carlos.ramisch/), Aix Marseille University (France) 
-- [Agata Savary](http://www.info.univ-tours.fr/~savary/), Université de Tours (France) 
+- [Carlos Ramisch](http://pageperso.lis-lab.fr/carlos.ramisch/), Aix Marseille University (France)
+- [Agata Savary](http://www.info.univ-tours.fr/~savary/), Université de Tours (France)
 - [Carolina Scarton](https://carolscarton.github.io/), University of Sheffield (UK)
