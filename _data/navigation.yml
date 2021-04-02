@@ -2,25 +2,18 @@
 main:
   - title: "Schedule"
     url: /schedule/
-
   - title: "Program"
     url: /program/keynotes/
-
   - title: "News"
     url: /news
-
   - title: "Registration"
     url: /registration
-
   - title: "Sponsors"
     url: /sponsors
-
   - title: "Calls"
     url: /calls/papers
-
   - title: "Reviewers"
     url: /reviewers
-
   - title: "Committees"
     url: /committees/organization
 

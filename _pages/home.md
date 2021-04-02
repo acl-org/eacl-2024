@@ -8,11 +8,6 @@ header:
 excerpt: "<br/><br/>"
 ---
 
-<!-- <div class="text-center">
-    <a href="{{ '/archive' | relative_url }}" style="font-size: smaller; font-decoration: italic;">Older News</a>
-</div> -->
-
-
 <h2>Welcome!</h2>
 
 Welcome to the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL). EACL 2021 will be held from 19 to 23 of April, 2021. While we were planning to hold the conference in Kyiv, [due to the current COVID situation the conference will be held entirely online](/participants).
