@@ -10,6 +10,12 @@ comments: false
 classes: wide
 ---
 <div class="notice--info" markdown="1">
+  <h2>Conference program</h2>
+
+  In our new [blog post]({{ "/update" | relative_url }}), learn more about the conference program and activities we have planned for you. 
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>The Conference Schedule</h2>
 
   The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.

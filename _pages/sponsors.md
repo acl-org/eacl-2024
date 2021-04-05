@@ -40,11 +40,12 @@ supporter:
     image_path: /assets/images/logos/samsung.png
     alt: "Samsung Logo"
     title: "Samsung"
-diversity:
+diversity_champion:
   - url: https://www.microsoft.com/
     image_path: /assets/images/logos/microsoft.svg
     alt: "Microsoft Logo"
     title: "Microsoft"
+diversity_ally:
   - url: https://research.adobe.com/
     image_path: /assets/images/logos/adobe.png
     alt: "Adobe Logo"
@@ -71,4 +72,8 @@ If your organization would like to sponsor EACL or other conferences in the ACL 
 
 ## Diversity and Inclusion: Champion
 
-{% include gallery id="diversity" layout="sponsors" %}
+{% include gallery id="diversity_champion" layout="sponsors" %}
+
+## Diversity and Inclusion: Ally
+
+{% include gallery id="diversity_ally" layout="sponsors" %}
