@@ -3,7 +3,7 @@ title: Tutorials
 hide_title: true
 layout: single
 excerpt: "EACL 2021 Tutorials."
-permalink: /program/tutorials-alt/
+permalink: /program/tutorials/
 sidebar:
   nav: program
 toc_label: "&nbsp;On this page"
