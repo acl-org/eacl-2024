@@ -3,7 +3,7 @@ title: Tutorials
 hide_title: true
 layout: single
 excerpt: "EACL 2021 Tutorials."
-permalink: /program/tutorials/
+permalink: /program/tutorials-alt/
 sidebar:
   nav: program
 toc_label: "&nbsp;On this page"
@@ -35,35 +35,136 @@ toc_sticky: true
     <p>
       <em>
         EACL 2021 Tutorial Co-chairs<br/>
-        Isabelle Augenstein<br/>
-        Ivan Habernal<br/>
+        <strong>Isabelle Augenstein</strong><br/>
+        <strong>Ivan Habernal</strong><br/>
       </em>
     </p>
   </div>
   <button class="collapse-button simple-link">Show less</button>
 </div>
 
-## Unsupervised Natural Language Parsing (Introductory Tutorial)
+## [Unsupervised Natural Language Parsing (Introductory Tutorial)](https://github.com/tukw/unsupervised-parsing-tutorial)
 
-_Kewei Tu, Yong Jiang, Wenjuan Han, Yanpeng Zhao_
+<div class="cards--tutorials">
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="kewei-tu">
+      </div>
+      <div class="card__text">
+        Kewei Tu
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="yong-jiang">
+      </div>
+      <div class="card__text">
+        Yong Jiang
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="wenjuan-han">
+      </div>
+      <div class="card__text">
+         Wenjuan Han
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="yanpeng-zhao">
+      </div>
+      <div class="card__text">
+        Yanpeng Zhao
+      </div>
+    </div>
+  </div>
+</div>
+
+Check out the tutorial’s [GitHub page](https://github.com/tukw/unsupervised-parsing-tutorial) to get more information.
 
 Unsupervised parsing learns a syntactic parser from training sentences without parse tree annotations. Recently, there has been a resurgence of interest in unsupervised parsing, which can be attributed to the combination of two trends in the NLP community: a general trend towards unsupervised training or pre-training, and an emerging trend towards finding or modeling linguistic structures in neural models.
 
 In this tutorial, we will introduce to the general audience what unsupervised parsing does and how it can be useful for and beyond syntactic parsing. We will then provide a systematic overview of major classes of approaches to unsupervised parsing, namely generative and discriminative approaches, and analyze their relative strengths and weaknesses. We will cover both decade-old statistical approaches and more recent neural approaches to give the audience a sense of the historical and recent development of the field. We will also discuss emerging research topics such as BERT-based approaches and visually grounded learning.
 
+[Check out the tutorial’s slides here]({{ '/downloads/tutorials/Unsupervised-parsing.zip' | relative_url }})
+
 ## [Aggregating and Learning from Multiple Annotators](https://sites.google.com/view/alma-tutorial)
 
-_Silviu Paun, Edwin Simpson_
+<div class="cards--tutorials">
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="silviu-paun">
+      </div>
+      <div class="card__text">
+        Silviu Paun
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="edwin-simpson">
+      </div>
+      <div class="card__text">
+        Edwin Simpson
+      </div>
+    </div>
+  </div>
+</div>
 
 The success of NLP research is founded on high-quality annotated datasets, which are usually obtained from multiple expert annotators or crowd workers. The standard practice to training machine learning models is to first adjudicate the disagreements and then perform the training. To this end, there has been a lot of work on aggregating annotations, particularly for classification tasks. However, many other tasks, particularly in NLP, have unique characteristics not considered by standard models of annotation, e.g., label interdependencies in sequence labelling tasks, unrestricted labels for anaphoric annotation, or preference labels for ranking texts. In recent years, researchers have picked up on this and are covering the gap. A first objective of this tutorial is to connect NLP researchers with state-of-the-art aggregation models for a diverse set of canonical language annotation tasks. There is also a growing body of recent work arguing that following the convention and training with adjudicated labels ignores any uncertainty the labelers had in their classifications, which results in models with poorer generalisation capabilities. Therefore, a second objective of this tutorial is to teach NLP workers how they can augment their (deep) neural models to learn from data with multiple interpretations.
 
+[Check out the tutorial’s slides here]({{ '/downloads/tutorials/Aggregating-MA.pdf' | relative_url }})
+
 ## End-to-End Speech Translation
 
-_Jan Niehues, Elizabeth Salesky, Marco Turchi, Matteo Negri_
+<div class="cards--tutorials">
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="jan-niehues">
+      </div>
+      <div class="card__text">
+        Jan Niehues
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="elizabeth-salesky">
+      </div>
+      <div class="card__text">
+        Elizabeth Salesky
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="marco-turchi">
+      </div>
+      <div class="card__text">
+        Marco Turchi
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="matteo-negri">
+      </div>
+      <div class="card__text">
+        Matteo Negri
+      </div>
+    </div>
+  </div>
+</div>
 
 Speech translation is the translation of speech in one language typically to text in another, traditionally accomplished through a combination of automatic speech recognition and machine translation. Speech translation has attracted interest for many years, but the re- cent successful applications of deep learning to both individual tasks have enabled new opportunities through joint modeling, in what we today call ‘end-to-end speech translation.’
 
 In this tutorial, we will introduce the techniques used in cutting-edge research on speech translation. Starting from the traditional cascaded approach, we will give an overview of data sources and model architectures to achieve state-of-the-art performance with end-to-end speech translation for both high- and low-resource languages. In addition, we will discuss methods to evaluate analyze the proposed solutions, as well as the challenges faced when applying speech translation models for real-world applications.
+
+[Check out the tutorial’s slides here]({{ '/downloads/tutorials/End-to-end-ST.pdf' | relative_url }})
 
 ## Reviewing Natural Language Processing Research
 
@@ -71,10 +172,35 @@ _Kevin Cohen, Karën Fort, Margot Mieskes, Aurélie Névéol, Anna Roger_
 
 The reviewing procedure has been identified as one of the major issues in the current situation of the NLP field. While it is implicitly assumed that junior researchers learn reviewing during their PhD project, this might not always be the case. Additionally, with the growing NLP community and the efforts in the context of widening the NLP community, researchers joining the field might not have the opportunity to practise reviewing. This tutorial fills in this gap by providing an opportunity to learn the basics of reviewing. Also more experienced researchers might find this tutorial interesting to revise their reviewing procedure.
 
+[Check out the tutorial’s slides here]({{ '/downloads/tutorials/Reviewing-NLPR.zip' | relative_url }})
+
 ## Advances and Challenges in Unsupervised Neural Machine Translation
 
-_Rui Wang, Hai Zhao_
+<div class="cards--tutorials">
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="rui-wang">
+      </div>
+      <div class="card__text">
+        Rui Wang
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="hai-zhao">
+      </div>
+      <div class="card__text">
+        Hai Zhao
+      </div>
+    </div>
+  </div>
+</div>
 
 Unsupervised cross-lingual language representation initialization methods, together with mechanisms such as denoising and back-translation, have advanced unsupervised neural machine translation (UNMT), which has achieved impressive results. Meanwhile, there are still several challenges for UNMT. This tutorial first introduces the background and the latest progress of UNMT. We then examine a number of challenges to UNMT and give empirical results on how well the technology currently holds up.
 
-[Check out the booklet with extended tutorial abstracts.]({{ '/downloads/EACL2021-Tutorial-abstracts.pdf' | relative_url }})
+[Check out the tutorial’s slides here]({{ '/downloads/tutorials/Advances-in-UNMT.pdf' | relative_url }})
+
+## Tutorial Abstracts Booklet
+
+[Check out the booklet with extended tutorial abstracts.]({{ '/downloads/tutorials/EACL2021-Tutorial-abstracts.pdf' | relative_url }})
