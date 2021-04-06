@@ -90,7 +90,7 @@ registration:
   - title: "Registration"
 
 schedule:
-  - title: "Conference Schedule"
+  - title: "Detailed Daily Schedule"
     children:
       - title: "Monday, April 19"
         url: "/schedule/monday/"

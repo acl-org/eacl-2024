@@ -7,8 +7,14 @@ sidebar:
   nav: schedule
 ---
 
+Below is the overall schedule of the main conference, tutorials and workshops.
+
 ### Tutorials and Workshops
-Monday–Tuesday 19–20 April, 2021
+- [Monday, April 19]({{ "/schedule/monday" | relative_url }})
+- [Tuesday, April 20]({{ "/schedule/tuesday" | relative_url }})
 
 ### Main Conference
-Wednesday–Friday 21–23 April, 2021
+- [Wednesday, April 21]({{ "/schedule/wednesday" | relative_url }})
+- [Thursday, April 22]({{ "/schedule/thursday" | relative_url }})
+- [Friday, April 23]({{ "/schedule/friday" | relative_url }})
+
