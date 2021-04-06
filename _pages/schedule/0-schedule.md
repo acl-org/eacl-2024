@@ -7,6 +7,8 @@ sidebar:
   nav: schedule
 ---
 
+Below is the overall schedule of the main conference, tutorials and workshops.
+
 ### Tutorials and Workshops
 - [Monday, April 19]({{ "/schedule/monday" | relative_url }})
 - [Tuesday, April 20]({{ "/schedule/tuesday" | relative_url }})
