@@ -198,7 +198,7 @@ after_footer_scripts:
           <strong>Chair:</strong> TBA
           <ul>
             <li>Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale</li>
-            <li>``Laughing at you or with you’’: The Role of Sarcasm in Shaping the Disagreement Space</li>
+            <li>"Laughing at you or with you": The Role of Sarcasm in Shaping the Disagreement Space</li>
             <li>Challenges in Automated Debiasing for Toxic Language Detection</li>
           </ul>
         </div>
@@ -207,6 +207,12 @@ after_footer_scripts:
         </button>
         <div class="collapse-content">
           <strong>Chair:</strong> TBA
+          <ul>
+            <li>A Computational Analysis of Vagueness in Revisions of Instructional Texts</li>
+            <li>Familiar words but strange voices: Modelling the influence of speech variability on word recognition</li>
+            <li>Towards Personalised and Document-level Machine Translation of Dialogue</li>
+            <li>TMR: Evaluating NER Recall on Tough Mentions</li>
+          </ul>
         </div>
       </div>
     </div>
@@ -240,9 +246,9 @@ after_footer_scripts:
             <li>An Expert Annotated Dataset for the Detection of Online Misogyny</li>
             <li>Cross-Topic Rumor Detection using Topic-Mixtures</li>
             <li>Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale</li>
-            <li>What Sounds ``Right” to Me? Experiential Factors in the Perception of Political Ideology</li>
+            <li>What Sounds “Right” to Me? Experiential Factors in the Perception of Political Ideology</li>
             <li>Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions</li>
-            <li>``Laughing at you or with you’’: The Role of Sarcasm in Shaping the Disagreement Space</li>
+            <li>“Laughing at you or with you”: The Role of Sarcasm in Shaping the Disagreement Space</li>
             <li>Content-based Models of Quotation</li>
             <li>Scientific Discourse Tagging for Evidence Extraction</li>
             <li>From Toxicity in Online Comments to Incivility in American News: Proceed with Caution</li>
@@ -338,6 +344,117 @@ after_footer_scripts:
             <li>One-class Text Classification with Multi-modal Deep Support Vector Data Description</li>
             <li>Regulatory Compliance through Doc2Doc Information Retrieval: A case study in EU/UK legislation where text similarity has limitations</li>
             <li>An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning</li>
+          </ul>
+        </div>
+        <button class="collapse-toggle-button simple-link subitem-title">
+          Student Research Workshop
+        </button>
+        <div class="collapse-content">
+          <ul>
+            <li>
+              <strong>Computationally Efficient Wasserstein Loss for Structured Labels</strong><br />
+              <em>Ayato Toyokuni, Sho Yokoi, Hisashi Kashima and Makoto Yamada</em>
+            </li>
+            <li>
+              <strong>Have Attention Heads in BERT Learned Constituency Grammar?</strong><br />
+              <em>Ziyang Luo</em>
+            </li>
+            <li>
+              <strong>Do we read what we hear? Modeling orthographic influences on spoken word recognition</strong><br />
+              <em>Nicole Macher, Badr M. Abdullah, Harm Brouwer and Dietrich Klakow</em>
+            </li>
+            <li>
+              <strong>PENELOPIE: Enabling Open Information Extraction for the Greek Language through Machine Translation</strong><br />
+              <em>Dimitris Papadopoulos, Nikolaos Papadakis and Nikolaos Matsatsinis</em>
+            </li>
+            <li>
+              <strong>A Computational Analysis of Vagueness in Revisions of Instructional Texts</strong><br />
+              <em>Alok Debnath and Michael Roth</em>
+            </li>
+            <li>
+              <strong>A reproduction of Apple's bi-directional LSTM models for language identification in short strings</strong><br />
+              <em>Mads Toftrup, Søren Asger Sørensen, Manuel R. Ciosici and Ira Assent</em>
+            </li>
+            <li>
+              <strong>Automatically Cataloging Scholarly Articles using Library of Congress Subject Headings</strong><br />
+              <em>Nazmul Kazi, Nathaniel Lane and Indika Kahanda</em>
+            </li>
+            <li>
+              <strong>Model Agnostic Answer Reranking System for Adversarial Question Answering</strong><br />
+              <em>Sagnik Majumder, Chinmoy Samant and Greg Durrett</em>
+            </li>
+            <li>
+              <strong>BERT meets Cranfield: Uncovering the Properties of Full Ranking on Fully Labeled Data</strong><br />
+              <em>Negin Ghasemi and Djoerd Hiemstra</em>
+            </li>
+            <li>
+              <strong>Siamese Neural Networks for Detecting Complementary Products</strong><br />
+              <em>Marina Angelovska, Sina Sheikholeslami, Bas Dunn and Amir H. Payberah</em>
+            </li>
+            <li>
+              <strong>Contrasting distinct structured views to learn sentence embeddings</strong><br />
+              <em>Antoine Simoulin and Benoit Crabbé</em>
+            </li>
+            <li>
+              <strong>Discrete Reasoning Templates for Natural Language Understanding</strong><br />
+              <em>Hadeel Al-Negheimish, Pranava Madhyastha and Alessandra Russo</em>
+            </li>
+            <li>
+              <strong>Multilingual Email Zoning</strong><br />
+              <em>Bruno Jardim, Ricardo Rei and Mariana S. C. Almeida</em>
+            </li>
+            <li>
+              <strong>Familiar words but strange voices: Modelling the influence of speech variability on word recognition</strong><br />
+              <em>Alexandra Mayn, Badr M. Abdullah and Dietrich Klakow</em>
+            </li>
+            <li>
+              <strong>Emoji-Based Transfer Learning for Sentiment Tasks</strong><br />
+              <em>Susann Boy, Dana Ruiter and Dietrich Klakow</em>
+            </li>
+            <li>
+              <strong>A Little Pretraining Goes a Long Way: A Case Study on Dependency Parsing Task for Low-resource Morphologically Rich Languages</strong><br />
+              <em>Jivnesh Sandhan, Amrith Krishna, Ashim Gupta, Laxmidhar Behera and Pawan Goyal</em>
+            </li>
+            <li>
+              <strong>TMR: Evaluating NER Recall on Tough Mentions</strong><br />
+              <em>Jingxuan Tu and Constantine Lignos</em>
+            </li>
+            <li>
+              <strong>The Effectiveness of Morphology-aware Segmentation in Low-Resource Neural Machine Translation</strong><br />
+              <em>Jonne Saleva and Constantine Lignos</em>
+            </li>
+            <li>
+              <strong>Making Use of Latent Space in Language GANs for Generating Diverse Text without Pre-training</strong><br />
+              <em>Takeshi Kojima, Yusuke Iwasawa and Yutaka Matsuo</em>
+            </li>
+            <li>
+              <strong>Beyond the English Web: Zero-Shot Cross-Lingual and Lightweight Monolingual Classification of Registers</strong><br />
+              <em>Liina Repo, Valtteri Skantsi, Samuel Rönnqvist, Saara Hellström, Miika Oinonen, Anna Salmela, Douglas Biber, Jesse Egbert, Sampo Pyysalo and Veronika Laippala</em>
+            </li>
+            <li>
+              <strong>Explaining and Improving BERT Performance on Lexical Semantic Change Detection</strong><br />
+              <em>Severin Laicher, Sinan Kurtyigit, Dominik Schlechtweg, Jonas Kuhn and Sabine Schulte im Walde</em>
+            </li>
+            <li>
+              <strong>Why Find the Right One?</strong><br />
+              <em>Payal Khullar</em>
+            </li>
+            <li>
+              <strong>Development of Conversational AI for Sleep Coaching Programme</strong><br />
+              <em>Heereen Shim</em>
+            </li>
+            <li>
+              <strong>Relating Relations: Meta-Relation Extraction from Online Health Forum Posts</strong><br />
+              <em>Daniel Stickley</em>
+            </li>
+            <li>
+              <strong>Towards Personalised and Document-level Machine Translation of Dialogue</strong><br />
+              <em>Sebastian Vincent</em>
+            </li>
+            <li>
+              <strong>Semantic-aware transformation of short texts using word embeddings: An application in the Food Computing domain</strong><br />
+              <em>Andrea Morales-Garzón, Juan Gómez-Romero and Maria J. Martin-Bautista</em>
+            </li>
           </ul>
         </div>
       </div>

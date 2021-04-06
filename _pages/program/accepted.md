@@ -387,7 +387,7 @@ Niels van der Heijden, Helen Yannakoudakis, Pushkar Mishra and Ekaterina Shutova
 **Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction**<br/>
 Junfeng Jiang, An Wang and Akiko Aizawa
 
-**``Laughing at you or with you'': The Role of Sarcasm in Shaping the Disagreement Space**<br/>
+**"Laughing at you or with you": The Role of Sarcasm in Shaping the Disagreement Space**<br/>
 Debanjan Ghosh, Ritvik Shrivastava and Smaranda Muresan
 
 **I Beg to Differ: A study of constructive disagreement in online conversations**<br/>
