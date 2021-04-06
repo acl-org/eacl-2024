@@ -84,11 +84,31 @@ The exact schedule of each workshop is slightly different, so please refer to th
       </div>
       <div>
         <ul class="list--small-padding">
-          <li>Eighth Workshop on NLP for Similar Languages, Varieties and Dialects</li>
-          <li>The 8th Workshop on Balto-Slavic Natural Language Processing</li>
-          <li>The First Workshop on Speech and Language Technologies for Dravidian Languages</li>
-          <li>The Second Workshop on Domain Adaptation for NLP</li>
-          <li>The​ ​16th ​Workshop​ ​on​ ​Innovative​ ​Use​ ​of NLP​ ​for​ ​Building​ ​Educational​ ​Applications​</li>
+          <li>
+            <a href="https://sites.google.com/view/vardial2021" target="_blank" rel="noopener noreferrer">
+              Eighth Workshop on NLP for Similar Languages, Varieties and Dialects
+            </a>
+          </li>
+          <li>
+            <a href="http://bsnlp.cs.helsinki.fi/" target="_blank" rel="noopener noreferrer">
+              The 8th Workshop on Balto-Slavic Natural Language Processing
+            </a>
+          </li>
+          <li>
+            <a href="https://dravidianlangtech.github.io/2021/index.html" target="_blank" rel="noopener noreferrer">
+              The First Workshop on Speech and Language Technologies for Dravidian Languages
+            </a>
+          </li>
+          <li>
+            <a href="https://adapt-nlp.github.io/Adapt-NLP-2021/" target="_blank" rel="noopener noreferrer">
+              The Second Workshop on Domain Adaptation for NLP
+            </a>
+          </li>
+          <li>
+            <a href="https://sig-edu.org/bea/current" target="_blank" rel="noopener noreferrer">
+              The 16th Workshop on Innovative Use of NLP for Building Educational Applications
+            </a>
+          ​</li>
         </ul>
       </div>
     </div>
