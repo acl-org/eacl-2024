@@ -23,6 +23,8 @@ after_footer_scripts:
 
 ## Tutorials
 
+### Visit the [Tutorials]({{ "/program/tutorials" | relative_url }}) page to learn more about each tutorial.
+
 <div class="schedule" markdown="0">
   <div class="schedule-element">
     <div class="schedule-element-title">
@@ -104,13 +106,41 @@ The exact schedule of each workshop is slightly different, so please refer to th
       </div>
       <div>
         <ul class="list--small-padding">
-          <li>11th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis</li>
-          <li>12th International Workshop on Health Text Mining and Information Analysis</li>
-          <li>2nd Workshop on African Natural Language Processing</li>
-          <li>First Workshop on Language Technology for Equality, Diversity and Inclusion</li>
-          <li>Hackashop on news media content analysis and automated report generation</li>
-          <li>The Sixth Workshop on Arabic NLP</li>
-          <li>Workshop on Human Evaluation of NLP Systems</li>
+          <li>
+            <a href="https://wt-public.emm4u.eu/wassa2021/" target="_blank" rel="noopener noreferrer">
+              11th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis
+            </a>
+          </li>
+          <li>
+            <a href="https://louhi2021.fbk.eu/" target="_blank" rel="noopener noreferrer">
+              12th International Workshop on Health Text Mining and Information Analysis
+            </a>
+          </li>
+          <li>
+            <a href="https://sites.google.com/view/africanlp-workshop" target="_blank" rel="noopener noreferrer">
+              2nd Workshop on African Natural Language Processing
+            </a>
+          </li>
+          <li>
+            <a href="https://sites.google.com/view/lt-edi-2021/home" target="_blank" rel="noopener noreferrer">
+              First Workshop on Language Technology for Equality, Diversity and Inclusion
+            </a>
+          </li>
+          <li>
+            <a href="http://embeddia.eu/hackashop2021/" target="_blank" rel="noopener noreferrer">
+              Hackashop on news media content analysis and automated report generation
+            </a>
+          </li>
+          <li>
+            <a href="http://wanlp2021.arabic-nlp.net/" target="_blank" rel="noopener noreferrer">
+              The Sixth Workshop on Arabic NLP
+            </a>
+          </li>
+          <li>
+            <a href="https://humeval.github.io/" target="_blank" rel="noopener noreferrer">
+              Workshop on Human Evaluation of NLP Systems
+            </a>
+          </li>
         </ul>
       </div>
     </div>

@@ -23,6 +23,8 @@ after_footer_scripts:
 
 ## Tutorials
 
+### Visit the [Tutorials]({{ "/program/tutorials" | relative_url }}) page to learn more about each tutorial.
+
 <div class="schedule" markdown="0">
   <div class="schedule-element">
     <div class="schedule-element-title">
