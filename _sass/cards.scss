@@ -1,0 +1,97 @@
+$cards-in-row: 4;
+$gaps-in-row: $cards-in-row - 1;
+$gap: 1rem;
+$total-gap-width: $gaps-in-row * $gap;
+
+.cards--tutorials {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(calc((#{$page-max-width} - #{$total-gap-width}) / #{$cards-in-row}), 1fr));
+  place-items: center;
+  grid-gap: $gap;
+  margin: 1rem 0;
+}
+
+.card {
+  border-radius: $border-radius;
+  overflow: hidden;
+  padding-top: 140%;
+  position: relative;
+  border: 1px solid $gray-background;
+  background: $gray-background;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.04);
+  width: 100%;
+}
+
+.card__content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card__image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-grow: 1;
+}
+
+.card__text {
+  text-align: center;
+  display: grid;
+  place-items: center;
+  padding: 0.5rem 0;
+  font-size: 0.8em;
+  font-weight: 700;
+}
+
+#edwin-simpson {
+  background-image: url(../images/tutorials/edwin-simpson.jpg)
+}
+
+#elizabeth-salesky {
+  background-image: url(../images/tutorials/elizabeth-salesky.jpg)
+}
+
+#hai-zhao {
+  background-image: url(../images/tutorials/hai-zhao.jpg);
+}
+
+#jan-niehues {
+  background-image: url(../images/tutorials/jan-niehues.jpg)
+}
+
+#kewei-tu {
+  background-image: url(../images/tutorials/kewei-tu.jpg);
+}
+
+#marco-turchi {
+  background-image: url(../images/tutorials/marco-turchi.jpg)
+}
+
+#matteo-negri {
+  background-image: url(../images/tutorials/matteo-negri.jpg)
+}
+
+#rui-wang {
+  background-image: url(../images/tutorials/rui-wang.jpg)
+}
+
+#silviu-paun {
+  background-image: url(../images/tutorials/silviu-paun.jpg)
+}
+
+#wenjuan-han {
+  background-image: url(../images/tutorials/wenjuan-han.jpg)
+}
+
+#yanpeng-zhao {
+  background-image: url(../images/tutorials/yanpeng-zhao.jpg)
+}
+
+#yong-jiang {
+  background-image: url(../images/tutorials/yong-jiang.jpg)
+}

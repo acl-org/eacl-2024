@@ -10,6 +10,8 @@ sidebar:
 Below is the overall schedule of the main conference, tutorials and workshops.
 Click on the date to see the detailed schedule of that day.
 
+Read more about the conference program [here]({{ "/update" | relative_url }}).
+
 ### Tutorials and Workshops
 
 - [Monday, April 19]({{ "/schedule/monday" | relative_url }})

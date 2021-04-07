@@ -9,6 +9,7 @@ toc_label: "&nbsp;On this page"
 toc: true
 toc_sticky: true
 ---
+Read more about the [conference program]({{ "/update" | relative_url }}) and check out the [conference schedule]({{ "/schedule" | relative_url }}).
 
 ## Long Papers
 
