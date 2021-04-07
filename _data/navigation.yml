@@ -89,6 +89,9 @@ reviewers:
 registration:
   - title: "Registration"
 
+news:
+  - title: "News"
+
 schedule:
   - title: "Detailed Daily Schedule"
     children:

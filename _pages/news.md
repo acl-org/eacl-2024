@@ -1,28 +1,32 @@
 ---
 title: Conference News
-layout: archive
+layout: single
 permalink: /news/
-author_profile: false
-sidebar: false
-read_time: false
-share: true
-comments: false
-classes: wide
+sidebar:
+    nav: "news"
+toc: true
+toc_only: true
 ---
 <div class="notice--info" markdown="1">
-  <h2>Conference program</h2>
+  **April 6, 2021**
+
+  <h2 id="conference-program">Conference program</h2>
 
   In our new [blog post]({{ "/update" | relative_url }}), learn more about the conference program and activities we have planned for you. 
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>The Conference Schedule</h2>
+  **March 30, 2021**
+
+  <h2 id="the-conference-schedule">The Conference Schedule</h2>
 
   The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Call for mentors at EACL 2021</h2>
+  **March 29, 2021**
+  
+  <h2 id="call-for-mentors-at-eacl-2021">Call for mentors at EACL 2021</h2>
 
   The EACL 2021 D&I committee would like to call for expressions of interest to host group mentoring sessions.
 
@@ -33,13 +37,17 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Diversity & Inclusions awards at EACL 2021</h2>
+  **March 25, 2021**
+  
+  <h2 id="diversity-&-inclusions-awards-at-eacl-2021">Diversity & Inclusions awards at EACL 2021</h2>
 
   Applications for EACL 2021 Diversity & Inclusions awards are open. You can apply for a registration subsidy via this [link](https://forms.gle/MDoWCXaLG8jLDBkh9).
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Call for affinity group socials</h2>
+  **March 5, 2021**
+  
+  <h2 id="call-for-affinity-group-socials">Call for affinity group socials</h2>
 
   As part of the EACL 2021, we would like to call for expressions of interest to host affinity group socials.
 
@@ -51,7 +59,9 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Call for Volunteers</h2>
+  **February 25, 2021**
+  
+  <h2 id="call-for-volunteers">Call for Volunteers</h2>
 
   We seek student and non-student volunteers for the 16th conference of the European Chapter of the Association for Computational Linguistics (EACL 2021).
 
@@ -68,7 +78,9 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Final and extended Call for Tutorial Proposals</h2>
+  **October 5, 2020**
+
+  <h2 id="final-and-extended-call-for-tutorial-proposals">Final and extended Call for Tutorial Proposals</h2>
 
   We have extended the submission deadline for tutorial proposals for the next season's tutorials, namely EACL/NAACL-HLT/ACL-IJCNLP/EMNLP 2021.
 
@@ -80,7 +92,9 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Keynote speakers</h2>
+  **September 24, 2020**
+
+  <h2 id="keynote-speakers">Keynote speakers</h2>
 
   We are delighted that the following speakers have graciously accepted to give keynotes at EACL 2021:
 
@@ -92,7 +106,9 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>NLP Applications for Emergency Situations and Crisis Management</h2>
+  **September 14, 2020**
+
+  <h2 id="nlp-applications-for-emergency-situations-and-crisis-management">NLP Applications for Emergency Situations and Crisis Management</h2>
 
   By: Robert Munro
 
@@ -100,7 +116,9 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Green and Sustainable NLP</h2>
+  **September 10, 2020**
+  
+  <h2 id="green-and-sustainable-nlp">Green and Sustainable NLP</h2>
 
   This EACL edition is proud to introduce a new track to the main session: **Green and Sustainable NLP**.
   We are excited to welcome the **Green and Sustainable NLP** PC chairs: Roy Schwartz and Emma Strubell, who will manage this unique
@@ -110,20 +128,27 @@ classes: wide
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Location</h2>
+  **September 8, 2020**
+  
+  <h2 id="location">Location</h2>
 
   EACL 2021 will now be held entirely online, rather than in Kyiv as previously announced, to avoid the need for international travel and risk of further spread of COVID-19. We will take steps to ensure there is as much virtual social interaction as possible. We will post further information here as it becomes available.
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>Tracks and Area Chairs</h2>
+  **August 28, 2020**
+
+  <h2 id="tracks-and-area-chairs">Tracks and Area Chairs</h2>
+
   EACL 2021 will feature a wide range of areas and topics and we invite people to contribute to our programme in any of the tracks listed in the call for papers (<https://2021.eacl.org/calls/papers/>).
 
   Each track will be handled by domain experts and we are excited to announce the great team behind the scenes. Check out our senior area chairs in the programme committee: <https://2021.eacl.org/committees/program>
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2>First CFP is out</h2>
+  **August 24, 2020**
+
+  <h2 id="first-cfp-is-out">First CFP is out</h2>
 
   The first call for papers for EACL 2021 is out. Mark your calendars with the important dates for paper submission and notifications:
 

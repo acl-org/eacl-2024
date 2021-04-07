@@ -23,6 +23,9 @@
 
 .notice, .notice--info {
   h2, p {
+    padding-bottom: 0;
+    border: none;
+    
     &:first-child {
       margin-top: 0;
     }
