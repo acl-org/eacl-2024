@@ -2,10 +2,6 @@
 title: Conference News
 layout: single
 permalink: /news/
-sidebar:
-    nav: "news"
-toc: true
-toc_only: true
 ---
 <div class="notice--info" markdown="1">
   **April 6, 2021**
