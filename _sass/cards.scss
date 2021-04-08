@@ -37,6 +37,7 @@ $total-gap-width: $gaps-in-row * $gap;
   background-repeat: no-repeat;
   background-position: center;
   flex-grow: 1;
+  background-image: url(../images/tutorials/user.svg);
 }
 
 .card__text {
@@ -94,4 +95,20 @@ $total-gap-width: $gaps-in-row * $gap;
 
 #yong-jiang {
   background-image: url(../images/tutorials/yong-jiang.jpg)
+}
+
+#karen-fort {
+  background-image: url(../images/tutorials/karen-fort.jpg)
+}
+
+#margot-mieskes {
+  background-image: url(../images/tutorials/margot-mieskes.jpg)
+}
+
+#aurelie-neveol {
+  background-image: url(../images/tutorials/aurelie-neveol.jpg)
+}
+
+#anna-rogers {
+  background-image: url(../images/tutorials/anna-rogers.jpg)
 }
