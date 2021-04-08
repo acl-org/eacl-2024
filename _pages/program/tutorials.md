@@ -117,7 +117,7 @@ In this tutorial, we will introduce to the general audience what unsupervised pa
 
 The success of NLP research is founded on high-quality annotated datasets, which are usually obtained from multiple expert annotators or crowd workers. The standard practice to training machine learning models is to first adjudicate the disagreements and then perform the training. To this end, there has been a lot of work on aggregating annotations, particularly for classification tasks. However, many other tasks, particularly in NLP, have unique characteristics not considered by standard models of annotation, e.g., label interdependencies in sequence labelling tasks, unrestricted labels for anaphoric annotation, or preference labels for ranking texts. In recent years, researchers have picked up on this and are covering the gap. A first objective of this tutorial is to connect NLP researchers with state-of-the-art aggregation models for a diverse set of canonical language annotation tasks. There is also a growing body of recent work arguing that following the convention and training with adjudicated labels ignores any uncertainty the labelers had in their classifications, which results in models with poorer generalisation capabilities. Therefore, a second objective of this tutorial is to teach NLP workers how they can augment their (deep) neural models to learn from data with multiple interpretations.
 
-[Check out the tutorial’s slides here]({{ '/downloads/tutorials/Aggregating-MA.pdf' | relative_url }})
+[Check out the tutorial’s slides here](https://uob-my.sharepoint.com/:b:/g/personal/es1595_bristol_ac_uk/EXnLJu2AbsxOpmGC_OnqyhsBJMS_M8MpoG9mTwDh1WYshQ?e=pQmslv)
 
 ## End-to-End Speech Translation
 
@@ -168,7 +168,53 @@ In this tutorial, we will introduce the techniques used in cutting-edge research
 
 ## Reviewing Natural Language Processing Research
 
-_Kevin Cohen, Karën Fort, Margot Mieskes, Aurélie Névéol, Anna Rogers_
+<div class="cards--tutorials">
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image">
+      </div>
+      <div class="card__text">
+        Kevin Cohen
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="karen-fort">
+      </div>
+      <div class="card__text">
+        Karën Fort
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="margot-mieskes">
+      </div>
+      <div class="card__text">
+        Margot Mieskes
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="aurelie-neveol">
+      </div>
+      <div class="card__text">
+        Aurélie Névéol
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card__content">
+      <div class="card__image" id="anna-rogers">
+      </div>
+      <div class="card__text">
+        Anna Rogers
+      </div>
+    </div>
+  </div>
+</div>
 
 The reviewing procedure has been identified as one of the major issues in the current situation of the NLP field. While it is implicitly assumed that junior researchers learn reviewing during their PhD project, this might not always be the case. Additionally, with the growing NLP community and the efforts in the context of widening the NLP community, researchers joining the field might not have the opportunity to practise reviewing. This tutorial fills in this gap by providing an opportunity to learn the basics of reviewing. Also more experienced researchers might find this tutorial interesting to revise their reviewing procedure.
 
