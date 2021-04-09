@@ -273,7 +273,7 @@ after_footer_scripts:
             <li>Understanding Pre-Editing for Black-Box Neural Machine Translation</li>
             <li>{WiC-TSV}: {A}n Evaluation Benchmark for Target Sense Verification of Words in Context</li>
             <li>Alignment verification to improve NMT translation towards highly inflectional languages with limited resources</li>
-            <li>Exploring Supervised and Unsupervised Rewards in Machine Translation</li>
+            <li>CTC-based Compression for Direct Speech Translation</li>
             <li>Word Alignment by Fine-tuning Embeddings on Parallel Corpora</li>
             <li>Machine Translationese: Effects of Algorithmic Bias on Linguistic Complexity in Machine Translation</li>
             <li>Context-aware Neural Machine Translation with Mini-batch Embedding</li>
