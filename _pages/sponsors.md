@@ -22,6 +22,10 @@ gold:
     alt: "Bloomberg Logo"
     title: "Bloomberg"
 silver:
+  - url: https://research.duolingo.com/
+    image_path: /assets/images/logos/duolingo.svg
+    alt: "Duolingo Logo"
+    title: "Duolingo"
 bronze:
   - url: https://www.legalforce.co.jp/
     image_path: /assets/images/logos/legalforce.png
@@ -61,6 +65,10 @@ If your organization would like to sponsor EACL or other conferences in the ACL 
 ## Gold
 
 {% include gallery id="gold" layout="sponsors" %}
+
+## Silver
+
+{% include gallery id="silver" layout="sponsors" %}
 
 ## Bronze
 
