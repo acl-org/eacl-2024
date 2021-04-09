@@ -4,6 +4,14 @@ layout: single
 permalink: /news/
 ---
 <div class="notice--info" markdown="1">
+  **April 9, 2021**
+
+  <h2 id="eacl-2021-diversity-and-inclusion-efforts">EACL 2021 Diversity and Inclusion Efforts</h2>
+  
+  In [this post]({{ "/program/diversity" | relative_url }}), we summarise the EACL 2021 Diversity & Inclusion (D&I) efforts to make sure that every attendee feels welcome and can get the best out of their EACL 2021 conference attendance.
+</div>
+
+<div class="notice--info" markdown="1">
   **April 6, 2021**
 
   <h2 id="conference-program">Conference program</h2>

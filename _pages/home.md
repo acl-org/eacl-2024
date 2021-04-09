@@ -11,6 +11,12 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2021-diversity-and-inclusion-efforts">EACL 2021 Diversity and Inclusion Efforts</h2>
+  
+  **April 9, 2021**. In [this post]({{ "/program/diversity" | relative_url }}), we summarise the EACL 2021 Diversity & Inclusion (D&I) efforts to make sure that every attendee feels welcome and can get the best out of their EACL 2021 conference attendance.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2>Conference program</h2>
 
   **April 6, 2021**. In our new [blog post]({{ "/update" | relative_url }}), learn more about the conference program and activities we have planned for you.
@@ -26,12 +32,6 @@ excerpt: "<br/><br/>"
   <h2>Call for mentors at EACL 2021</h2>
 
   **March 29, 2021**. The EACL 2021 D&I committee would like to call for expressions of interest to host group mentoring sessions. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSerFIYCSZbMXCdceEBq67XGlPVBLt3fZUZAOEsblEu9XAh70A/viewform) if you are interested in being a mentor.
-</div>
-
-<div class="notice--info" markdown="1">
-  <h2>Diversity & Inclusions awards at EACL 2021</h2>
-
-  **March 25, 2021**. Applications for EACL 2021 Diversity & Inclusions awards are open. You can apply for a registration subsidy via this [link](https://forms.gle/MDoWCXaLG8jLDBkh9).
 </div>
 
 <div class="text-center">
