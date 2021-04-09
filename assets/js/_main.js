@@ -191,25 +191,26 @@ var prepareCollapse = function() {
     var toggleContent = this.nextElementSibling;
     var maxHeight = toggleContent.style.maxHeight;
     if (!maxHeight || maxHeight === "0px") {
-      expand(toggleContent);
+      expand(toggleContent, this);
     } else {
-      collapse(toggleContent);
+      collapse(toggleContent, this);
     }
   }
 
   function handleExpandAll() {
     collapseContents.forEach(function (element) {
-      expand(element);
+      expand(element, element.previousElementSibling);
     });
   }
 
   function handleCollapseAll() {
     collapseContents.forEach(function (element) {
-      collapse(element);
+      collapse(element, element.previousElementSibling);
     });
   }
 
-  function expand(element) {
+  function expand(element, button) {
+    button && button.classList.add("expanded");
     var height = element.scrollHeight;
     element.childNodes.forEach(function(child) {
       if (child.scrollHeight) {
@@ -224,7 +225,8 @@ var prepareCollapse = function() {
     element.style.maxHeight = height + "px";
   }
 
-  function collapse(element) {
+  function collapse(element, button) {
+    button && button.classList.remove("expanded");
     element.style.maxHeight = 0;
   }
 };

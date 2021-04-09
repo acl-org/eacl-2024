@@ -12,6 +12,8 @@ Click on the date to see the detailed schedule of that day.
 
 Read more about the conference program [here]({{ "/update" | relative_url }}).
 
+### [D&I and social events]({{ "/schedule/diversity" | relative_url }})
+
 ### Tutorials and Workshops
 
 - [Monday, April 19]({{ "/schedule/monday" | relative_url }})
