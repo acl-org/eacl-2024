@@ -10,12 +10,14 @@ main:
     url: /registration
   - title: "Sponsors"
     url: /sponsors
+  - title: "Code of Conduct"
+    url: /code
   - title: "Calls"
     url: /calls/papers
-  - title: "Reviewers"
-    url: /reviewers
   - title: "Committees"
     url: /committees/organization
+  - title: "Reviewers"
+    url: /reviewers
 
 calls:
   - title: Call for
