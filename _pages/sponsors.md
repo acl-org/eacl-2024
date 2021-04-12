@@ -54,6 +54,10 @@ diversity_ally:
     image_path: /assets/images/logos/adobe.png
     alt: "Adobe Logo"
     title: "Adobe"
+  - url: https://research.google/
+    image_path: /assets/images/logos/google.png
+    alt: "Google Logo"
+    title: "Google"
 ---
 
 If your organization would like to sponsor EACL or other conferences in the ACL family, please see [our sponsorship information booklet]({{ '/downloads/ACL-2021-Sponsorship-booklet.pdf' | relative_url }}).
