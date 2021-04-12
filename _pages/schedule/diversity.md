@@ -1,7 +1,7 @@
 ---
-title: "D&I and social events"
+title: "D&I and Social Events"
 layout: single
-excerpt: "EACL 2021 D&I and social events."
+excerpt: "EACL 2021 D&I and Social Events."
 permalink: /schedule/diversity/
 toc: true
 sidebar:
@@ -176,7 +176,9 @@ after_footer_scripts:
         <span class="time">19:00</span>-<span class="time">21:00</span>
       </div>
       <div>
-        Panel on Language Diversity and Language Games
+        <a href="https://gitlab.com/ceramisch/eacl21diversity/-/wikis/EACL-2021-language-diversity-panel-and-games" target="_blank" rel="noopener noreferrer">
+          Panel on Language Diversity and Language Games
+        </a>
       </div>
     </div>
   </div>

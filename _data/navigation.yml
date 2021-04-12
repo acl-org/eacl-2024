@@ -94,7 +94,7 @@ registration:
 schedule:
   - title: "Detailed Daily Schedule"
     children:
-      - title: "D&I and social events"
+      - title: "D&I and Social Events"
         url: "/schedule/diversity/"
       - title: "Monday, April 19"
         url: "/schedule/monday/"
