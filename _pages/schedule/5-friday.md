@@ -323,7 +323,7 @@ after_footer_scripts:
             <li>Bootstrapping Multilingual AMR with Contextual Word Alignments</li>
             <li>Does Typological Blinding Impede Cross-Lingual Sharing?</li>
             <li>Quality Estimation without Human-labeled Data</li>
-            <li>CTC-based Compression for Direct Speech Translation</li>
+            <li>Exploring Supervised and Unsupervised Rewards in Machine Translation</li>
             <li>El Volumen Louder Por Favor: Code-switching in Task-oriented Semantic Parsing</li>
             <li>Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation</li>
             <li>WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia</li>
