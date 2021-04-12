@@ -118,7 +118,9 @@ after_footer_scripts:
         <span class="time">10:00</span>-<span class="time">13:00</span>
       </div>
       <div>
-        North Africans in NLP Satellite
+        <a href="https://sites.google.com/view/NorthAfricansInNLP" target="_blank" rel="noopener noreferrer">
+          North Africans in NLP
+        </a>
       </div>
     </div>
   </div>
@@ -129,7 +131,7 @@ after_footer_scripts:
       </div>
       <div>
         <a href="https://sites.google.com/view/wanlp2021/arabs-in-nlp" target="_blank" rel="noopener noreferrer">
-          Arabs in NLP Satellite
+          Arabs in NLP
         </a>
       </div>
     </div>
@@ -171,7 +173,7 @@ after_footer_scripts:
   <div class="schedule-element">
     <div class="schedule-element-title">
       <div class="time-wrapper">
-        <span class="time">18:00</span>-<span class="time">20:00</span>
+        <span class="time">19:00</span>-<span class="time">21:00</span>
       </div>
       <div>
         Panel on Language Diversity and Language Games
