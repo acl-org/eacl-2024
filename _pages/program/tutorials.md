@@ -119,7 +119,7 @@ The success of NLP research is founded on high-quality annotated datasets, which
 
 [Check out the tutorial’s slides here](https://uob-my.sharepoint.com/:b:/g/personal/es1595_bristol_ac_uk/EXnLJu2AbsxOpmGC_OnqyhsBJMS_M8MpoG9mTwDh1WYshQ?e=pQmslv)
 
-## End-to-End Speech Translation
+## [End-to-End Speech Translation](https://st-tutorial.github.io/)
 
 <div class="cards--tutorials">
   <div class="card">
