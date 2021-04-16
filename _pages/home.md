@@ -11,6 +11,15 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="virtual-conference-site">Virtual conference site</h2>
+
+  **April 16, 2021**. The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer">virtual conference site</a> contains information about interactive participation in the conference.
+
+  To access the site, registrants should log in with their credentials (email and password) used during the [registration]({{ "/registration" | relative_url }}). 
+  The conference will take place at CEST (Central European Summer Time), currently GMT+2.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2021-diversity-and-inclusion-efforts">EACL 2021 Diversity and Inclusion Efforts</h2>
   
   **April 9, 2021**. In [this post]({{ "/program/diversity" | relative_url }}), we summarise the EACL 2021 Diversity & Inclusion (D&I) efforts to make sure that every attendee feels welcome and can get the best out of their EACL 2021 conference attendance.
@@ -26,12 +35,6 @@ excerpt: "<br/><br/>"
   <h2>The Conference Schedule</h2>
 
   **March 30, 2021**. The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.
-</div>
-
-<div class="notice--info" markdown="1">
-  <h2>Call for mentors at EACL 2021</h2>
-
-  **March 29, 2021**. The EACL 2021 D&I committee would like to call for expressions of interest to host group mentoring sessions. Please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSerFIYCSZbMXCdceEBq67XGlPVBLt3fZUZAOEsblEu9XAh70A/viewform) if you are interested in being a mentor.
 </div>
 
 <div class="text-center">
