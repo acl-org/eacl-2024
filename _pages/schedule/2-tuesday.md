@@ -9,6 +9,7 @@ sidebar:
 after_footer_scripts:
   - /assets/js/schedule.js
 ---
+
 <div class="schedule-header-container">
   <div class="schedule-header">
     <div class="time-control">
@@ -109,6 +110,11 @@ The exact schedule of each workshop is slightly different, so please refer to th
               The 16th Workshop on Innovative Use of NLP for Building Educational Applications
             </a>
           ​</li>
+          <li>
+            <a href="http://www.lantern.uni-saarland.de/2021" target="_blank" rel="noopener noreferrer">
+              The 3rd Workshop Beyond Vision and Language: Integrating Real-world Knowledge
+            </a>
+          ​</li>
         </ul>
       </div>
     </div>
@@ -119,7 +125,9 @@ The exact schedule of each workshop is slightly different, so please refer to th
         <span class="time">14:00</span>-<span class="time">22:00</span>
       </div>
       <div>
-        First Workshop on Bridging Human-Computer Interaction and Natural Language Processing
+        <a href="https://sites.google.com/view/hciandnlp/home" target="_blank" rel="noopener noreferrer">
+          First Workshop on Bridging Human-Computer Interaction and Natural Language Processing
+        </a>
       </div>
     </div>
   </div>
