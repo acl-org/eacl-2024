@@ -13,10 +13,17 @@ excerpt: "<br/><br/>"
 <div class="notice--info" markdown="1">
   <h2 id="virtual-conference-site">Virtual conference site</h2>
 
-  **April 16, 2021**. The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer">virtual conference site</a> contains information about interactive participation in the conference.
+**April 16, 2021**. The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer">virtual conference site</a> contains information about interactive participation in the conference.
 
-  To access the site, registrants should log in with their credentials (email and password) used during the [registration]({{ "/registration" | relative_url }}). 
-  The conference will take place at CEST (Central European Summer Time), currently GMT+2.
+Registrants should log in with their credentials (email and password) used during the [registration]({{ "/registration" | relative_url }}) to access the site.
+Check out <a href="https://eacl2021-public.s3.amazonaws.com/guides/eacl_virtual_website_login_steps.pdf" target="_blank" rel="noopener noreferrer">this document</a>
+if you need help with logging in.
+
+If you need help with **Gather.Town**, please read
+<a href="https://eacl2021-public.s3.amazonaws.com/guides/EACL%2BVirtual%2BChair%2BPre-event%2Bcommunications.pdf" target="_blank" rel="noopener noreferrer">this guide</a>.
+
+The conference will take place at **CEST (Central European Summer Time)**, currently **GMT+2**.
+
 </div>
 
 <div class="notice--info" markdown="1">
@@ -28,13 +35,15 @@ excerpt: "<br/><br/>"
 <div class="notice--info" markdown="1">
   <h2>Conference program</h2>
 
-  **April 6, 2021**. In our new [blog post]({{ "/update" | relative_url }}), learn more about the conference program and activities we have planned for you.
+**April 6, 2021**. In our new [blog post]({{ "/update" | relative_url }}), learn more about the conference program and activities we have planned for you.
+
 </div>
 
 <div class="notice--info" markdown="1">
   <h2>The Conference Schedule</h2>
 
-  **March 30, 2021**. The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.
+**March 30, 2021**. The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.
+
 </div>
 
 <div class="text-center">
@@ -77,4 +86,4 @@ Read more about the conference program [here]({{ "/update" | relative_url }}).
 
 ## EACL 2021 Anti-Harassment Policy
 
-EACL2021 adheres to the [ACL's code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL's anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and [ACL’s code of conduct]({{ "/code" | relative_url }}). Violations of the code of ethics as well as complaints raised under the anti-harassment policy should be brought to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee), who can be reached during the conference via the PCC channel in RocketChat, or you may also contact any current member of the [EACL Executive Board](http://eacl.org/general/#officers). Please be assured that if you approach the PCC or EACL board members,  your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+EACL2021 adheres to the [ACL's code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL's anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and [ACL’s code of conduct]({{ "/code" | relative_url }}). Violations of the code of ethics as well as complaints raised under the anti-harassment policy should be brought to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee), who can be reached during the conference via the PCC channel in RocketChat, or you may also contact any current member of the [EACL Executive Board](http://eacl.org/general/#officers). Please be assured that if you approach the PCC or EACL board members, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
