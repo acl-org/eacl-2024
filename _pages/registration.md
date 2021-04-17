@@ -9,14 +9,14 @@ toc: true
 toc_only: true
 ---
 
-​
-
 - [Registration Site](https://booking.congrex.com/Login.aspx?event=eacl2021)
+
   ​
   Please direct questions about your registration, including alternate methods of payment, to Congrex service at [registration.eacl@congrex.com](mailto:registration.eacl@congrex.com).
   ​
   The EACL 2021 registration fees are reduced, reflecting our move to being 100% virtual. We are offering Early rates through April 7th and Late rates beginning April 8th. We include early and late rates to encourage early registrations so we can approximate the numbers of users and be able to work around any potential for system crashes or other glitches due to unexpected high volume. The fees charged will allow full access to all parts of the conference.
   ​
+
 - [What do you get for your registration?]({{ "/update" | relative_url }})
   ​
 
@@ -30,14 +30,13 @@ Late registration begins April 8th, 2021 and remains open throughout the confere
 
 - [Registration Site](https://booking.congrex.com/Login.aspx?event=eacl2021)
   ​
+
   In order to register to the congress, please log in with your email address and your password. If you do not have a profile, you can create a new one. In case you cannot remember your password, please use the “forgot password” link in the upper right corner of the page. After a successful registration, an invoice or confirmation (depending on your payment) will be sent immediately to your email address.
   ​
   If you are not able to complete the online registration process or in case of questions regarding registration, kindly send an e-mail to [registration.eacl@congrex.com](mailto:registration.eacl@congrex.com).
   ​
 
 ## Registration Types
-
-​
 
 - Regular
 - Student
