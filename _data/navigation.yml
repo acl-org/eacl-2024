@@ -1,5 +1,8 @@
 # main links
 main:
+  - title: "Virtual Conference"
+    url: https://www.virtual2021.eacl.org/
+    highlight: true
   - title: "Schedule"
     url: /schedule/
   - title: "Program"
@@ -12,10 +15,10 @@ main:
     url: /sponsors
   - title: "Code of Conduct"
     url: /code
-  - title: "Calls"
-    url: /calls/papers
   - title: "Committees"
     url: /committees/organization
+  - title: "Calls"
+    url: /calls/papers
   - title: "Reviewers"
     url: /reviewers
 

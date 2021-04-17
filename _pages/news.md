@@ -4,6 +4,17 @@ layout: single
 permalink: /news/
 ---
 <div class="notice--info" markdown="1">
+  **April 16, 2021**
+
+  <h2 id="virtual-conference-site">Virtual conference site</h2>
+
+  The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer">virtual conference site</a> contains information about interactive participation in the conference.
+
+  To access the site, registrants should log in with their credentials (email and password) used during the [registration]({{ "/registration" | relative_url }}). 
+  The conference will take place at CEST (Central European Summer Time), currently GMT+2.
+</div>
+
+<div class="notice--info" markdown="1">
   **April 9, 2021**
 
   <h2 id="eacl-2021-diversity-and-inclusion-efforts">EACL 2021 Diversity and Inclusion Efforts</h2>

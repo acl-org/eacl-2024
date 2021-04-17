@@ -2,7 +2,8 @@
   text-transform: uppercase;
 }
 
-#site-nav, .masthead {
+#site-nav,
+.masthead {
   background: $gray-background;
 }
 
@@ -15,6 +16,45 @@
 
   @include breakpoint($large) {
     font-size: $type-size-8;
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+
+    svg {
+      margin-left: 10px;
+      max-height: 15px;
+      max-width: 15px;
+    }
+  }
+}
+
+.greedy-nav {
+  .external-link {
+    border-radius: $border-radius;
+    background-color: $primary-color;
+    padding: 0 10px;
+    color: #FFFFFF;
+
+    svg {
+      fill: #FFFFFF;
+    }
+
+    &::before {
+      display: none;
+    }
+  
+    &:hover {
+      color: #FFFFFF;
+      background-color: #006E98
+    }
+  }
+}
+
+.hidden-links {
+  a {
+    width: 100%;
   }
 }
 
