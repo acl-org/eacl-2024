@@ -109,3 +109,6 @@ schedule:
         url: "/schedule/thursday/"
       - title: "Friday, April 23"
         url: "/schedule/friday/"
+
+best-paper:
+  - title: "Best Paper"
