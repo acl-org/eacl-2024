@@ -44,7 +44,7 @@ after_footer_scripts:
           Language Resources and Evaluation
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:torsten.zesch@uni-due.de">Torsten Zesch</a>
+          <strong>Chair:</strong> Torsten Zesch
           <ul>
             <li>ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation</li>
             <li>NLQuAD: A Non-Factoid Long Question Answering Data Set</li>
@@ -55,7 +55,7 @@ after_footer_scripts:
           Machine Learning in NLP
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:sebastian@ruder.io">Sebastian Ruder</a>
+          <strong>Chair:</strong> Sebastian Ruder
           <ul>
             <li>Keep Learning: Self-supervised Meta-learning for Learning from Inference</li>
             <li>Maximal Multiverse Learning for Promoting Cross-Task Generalization of Fine-Tuned Language Models</li>
@@ -66,7 +66,7 @@ after_footer_scripts:
           Phonology, Morphology and Word Segmentation
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:kairit.sirts@ut.ee">Kairit Sirts</a>
+          <strong>Chair:</strong> Kairit Sirts
           <ul>
             <li>Error Analysis and the Role of Morphology</li>
             <li>Facilitating Terminology Translation with Target Lemma Annotations</li>
@@ -77,7 +77,7 @@ after_footer_scripts:
           Sentiment Analysis, Stylistic Analysis and Argument Mining
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:viviana.patti@unito.it">Viviana Patti</a>
+          <strong>Chair:</strong> Viviana Patti
           <ul>
             <li>Exploiting Emojis for Abusive Language Detection</li>
             <li>Is ``hot pizza” Positive or Negative? Mining Target-aware Sentiment Lexicons</li>
@@ -103,7 +103,7 @@ after_footer_scripts:
           Natural Language Generation
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:e.agirre@ehu.eus">Eneko Agirre</a>
+          <strong>Chair:</strong> Eneko Agirre
           <ul>
             <li>Non-Autoregressive Text Generation with Pre-trained Language Models</li>
             <li>Incremental Beam Manipulation for Natural Language Generation</li>
@@ -114,7 +114,7 @@ after_footer_scripts:
           Information Retrieval and Question Answering
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:preslav.nakov@gmail.com">Preslav Nakov</a>
+          <strong>Chair:</strong> Preslav Nakov
           <ul>
             <li>Query Generation for Multimodal Documents</li>
             <li>Zero-shot Neural Passage Retrieval via Domain-targeted Synthetic Question Generation</li>
@@ -125,7 +125,7 @@ after_footer_scripts:
           Sentence-Level Semantics
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:james.henderson@idiap.ch">James Henderson</a>
+          <strong>Chair:</strong> James Henderson
           <ul>
             <li>Few-Shot Semantic Parsing for New Predicates</li>
             <li>Project-then-Transfer: Effective Two-stage Cross-lingual Transfer for Semantic Dependency Parsing</li>
@@ -162,7 +162,7 @@ after_footer_scripts:
           Discourse and Summarization
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:YHou@ie.ibm.com">Yufang Hou</a>
+          <strong>Chair:</strong> Yufang Hou
           <ul>
             <li>AREDSUM: Adaptive Redundancy-Aware Iterative Sentence Ranking for Extractive Document Summarization</li>
             <li>Discourse-Aware Unsupervised Summarization for Long Scientific Documents</li>
@@ -173,7 +173,7 @@ after_footer_scripts:
           Information Extraction
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:av308@cam.ac.uk">Andreas Vlachos</a>
+          <strong>Chair:</strong> Andreas Vlachos
           <ul>
             <li>Multi-facet Universal Schema</li>
             <li>Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks</li>
@@ -184,7 +184,7 @@ after_footer_scripts:
           Interpretability and Anlysis of NLP Models
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:raquel.fernandez@uva.nl">Raquel Fernandez</a>
+          <strong>Chair:</strong> Raquel Fernandez
           <ul>
             <li>Evaluating Neural Model Robustness for Machine Comprehension</li>
             <li>Coloring the Black Box: What Synesthesia Tells Us about Character Embeddings</li>
@@ -195,7 +195,7 @@ after_footer_scripts:
           Machine Translation
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:francois.yvon@limsi.fr">François Yvon</a>
+          <strong>Chair:</strong> François Yvon
           <ul>
             <li>Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation</li>
             <li>The Source-Target Domain Mismatch Problem in Machine Translation</li>
@@ -206,7 +206,7 @@ after_footer_scripts:
           Multilinguality
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> <a href="mailto:yves.scherrer@helsinki.fi">Yves Scherrer</a>
+          <strong>Chair:</strong> Yves Scherrer
           <ul>
             <li>Bootstrapping Multilingual AMR with Contextual Word Alignments</li>
             <li>Multilingual Neural Machine Translation with Deep Encoder and Multiple Shallow Decoders</li>
