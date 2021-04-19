@@ -58,10 +58,6 @@ $title-middle: $title-padding + $title-line-height / 2;
 }
 
 .schedule {
-  a {
-    color: #000000;
-  }
-
   h3 {
     margin: 1rem 0;
   }
@@ -89,6 +85,10 @@ $title-middle: $title-padding + $title-line-height / 2;
   color: #000000;
   line-height: $title-line-height;
   transition: all 0.4s;
+
+  a {
+    color: #000000;
+  }
 
   &.collapse-toggle-button {
 

@@ -64,7 +64,7 @@ after_footer_scripts:
       <div class="element-inner-wrapper">
         <button class="collapse-toggle-button simple-link subitem-title">Dialogue and Interactive Systems</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:pfb30@cam.ac.uk">Pawel Budzianowski</a>
           <ul>
             <li>Jointly Improving Language Understanding and Generation with Quality-Weighted Weak Supervision of Automatic Labeling</li>
             <li>Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks</li>
@@ -73,7 +73,7 @@ after_footer_scripts:
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Document Analysis and Text Classification</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:rfarkas@inf.u-szeged.hu">Richard Farkas</a>
           <ul>
             <li>Adv-OLM: Generating Textual Adversaries via OLM</li>
             <li>Clinical Outcome Prediction from Admission Notes using Self-Supervised Knowledge Integration</li>
@@ -82,7 +82,7 @@ after_footer_scripts:
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Interpretability and Anlysis of NLP Models</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:augenstein@di.ku.dk">Isabelle Augenstein</a>
           <ul>
             <li>Language Modelling as a Multi-Task Problem</li>
             <li>Attention Can Reflect Syntactic Structure (If You Let It)</li>
@@ -117,7 +117,7 @@ after_footer_scripts:
       <div class="element-inner-wrapper">
         <button class="collapse-toggle-button simple-link subitem-title">Computational Social Choice and Social Media</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:oren.tsur@gmail.com">Oren Tsur</a>
           <ul>
             <li>I Beg to Differ: A study of constructive disagreement in online conversations</li>
             <li>“Are you kidding me?“: Detecting Unpalatable Questions on Reddit</li>
@@ -126,7 +126,7 @@ after_footer_scripts:
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Natural Language Generation</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:e.reiter@abdn.ac.uk">Ehud Reiter</a>
           <ul>
             <li>Civil Rephrases Of Toxic Texts With Self-Supervised Transformers</li>
             <li>Changing the Mind of Transformers for Topically-Controllable Language Generation</li>
@@ -135,7 +135,7 @@ after_footer_scripts:
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Information Retrieval and Question Answering</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:leod@itu.dk">Leon Derczynski</a>
           <ul>
             <li>On the Calibration and Uncertainty of Neural Learning to Rank Models for Conversational Search</li>
             <li>Retrieval, Re-ranking and Multi-task Learning for Knowledge-Base Question Answering</li>
@@ -144,7 +144,7 @@ after_footer_scripts:
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Machine Learning in NLP</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:fishel@ut.ee">Mark Fishel</a>
           <ul>
             <li>BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression</li>
             <li>Generative Text Modeling through Short Run Inference</li>
@@ -153,7 +153,7 @@ after_footer_scripts:
         </div>
         <button class="collapse-toggle-button simple-link subitem-title">Tagging, Chunking, Syntax and Parsing</button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA<br/>
+          <strong>Chair:</strong> <a href="mailto:ozlemc@gmail.com">Ozlem Centinoglu</a>
           <ul>
             <li>Dependency parsing with structure preserving embeddings</li>
             <li>Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories (TACL)</li>
