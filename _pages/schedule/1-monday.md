@@ -23,7 +23,9 @@ after_footer_scripts:
 
 ## Tutorials
 
-### Visit the [Tutorials]({{ "/program/tutorials" | relative_url }}) page to learn more about each tutorial.
+**Visit the [Tutorials]({{ "/program/tutorials" | relative_url }}) page to learn more about each tutorial.**
+
+***It is expected that you watch the tutorial videos before joining the Q/A session.***
 
 <div class="schedule" markdown="0">
   <div class="schedule-element">
