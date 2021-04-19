@@ -44,7 +44,7 @@ after_footer_scripts:
           Discourse and Pragmatics 
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Vera Demberg
           <ul>
             <li>Joint Coreference Resolution and Character Linking for Multiparty Conversation</li>
             <li>Top-down Discourse Parsing via Sequence Labelling</li>
@@ -55,7 +55,7 @@ after_footer_scripts:
           Information Extraction
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Barbara Plank
           <ul>
             <li>Identifying Named Entities as they are Typed</li>
             <li>Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries</li>
@@ -66,7 +66,7 @@ after_footer_scripts:
           Language Resources and Evaluation
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Roi Reichart
           <ul>
             <li>We Need To Talk About Random Splits</li>
             <li>Building Representative Corpora from Illiterate Communities: A Review of Challenges and Mitigation Strategies for Developing Countries</li>
@@ -77,7 +77,7 @@ after_footer_scripts:
           Machine Translation
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Cristina España-Bonet
           <ul>
             <li>Multi-split Reversible Transformers Can Enhance Neural Machine Translation</li>
             <li>Learning Coupled Policies for Simultaneous Machine Translation using Imitation Learning</li>
@@ -103,7 +103,7 @@ after_footer_scripts:
           Natural Language Grounding
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Grzegorz Chrupala
           <ul>
             <li>ECOL-R: Encouraging Copying in Novel Object Captioning with Reinforcement Learning</li>
             <li>An Empirical Study on the Generalization Power of Neural Representations Learned via Visual Guessing Games</li>
@@ -114,7 +114,7 @@ after_footer_scripts:
           Multilinguality
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Sara Stymne
           <ul>
             <li>A phonetic model of non-native spoken word processing</li>
             <li>Meta-Learning for Effective Multi-task and Multilingual Modelling</li>
@@ -125,7 +125,7 @@ after_footer_scripts:
           Lexical Semantics
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Marianna Apidianaki
           <ul>
             <li>PolyLM: Learning about Polysemy through Language Modeling</li>
             <li>Evaluating language models for the retrieval and categorization of lexical collocations</li>
@@ -162,7 +162,7 @@ after_footer_scripts:
           Dialogue and Interactive Systems
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Matthew Purver
           <ul>
             <li>Zero-shot Generalization in Dialog State Tracking through Generative Question Answering</li>
             <li>MIDAS: A Dialog Act Annotation Scheme for Open Domain HumanMachine Spoken Conversations</li>
@@ -173,7 +173,7 @@ after_footer_scripts:
           Document Analysis and Text Classification
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Anders Søgaard
           <ul>
             <li>Adaptive Mixed Component LDA for Low Resource Topic Modeling</li>
             <li>Hidden Biases in Unreliable News Detection Datasets</li>
@@ -184,7 +184,7 @@ after_footer_scripts:
           Linguistic Theories, Cognitive Modeling and Psycholinguistics
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Gosse Bouma
           <ul>
             <li>Disambiguatory Signals are Stronger in Word-initial Positions</li>
             <li>Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT</li>
@@ -195,7 +195,7 @@ after_footer_scripts:
           Sentiment Analysis, Stylistic Analysis and Argument Mining
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Jeremy Barnes
           <ul>
             <li>Learning From Revisions: Quality Assessment of Claims in Argumentation at Scale</li>
             <li>"Laughing at you or with you": The Role of Sarcasm in Shaping the Disagreement Space</li>
@@ -206,7 +206,7 @@ after_footer_scripts:
           Student Research Workshop
         </button>
         <div class="collapse-content">
-          <strong>Chair:</strong> TBA
+          <strong>Chair:</strong> Ionut-Teodor Sorodoc
           <ul>
             <li>A Computational Analysis of Vagueness in Revisions of Instructional Texts</li>
             <li>Familiar words but strange voices: Modelling the influence of speech variability on word recognition</li>
