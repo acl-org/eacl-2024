@@ -12,12 +12,11 @@ hide_title: true
 
 # Best Paper Awards
 
-The Best Paper Awards recognise many of the outstanding papers appearing at EACL 2021. We considered for these awards both long and short papers.
+The Best Paper Awards recognise outstanding papers at EACL 2021. We considered for these awards both long and short papers. The best paper awards were selected as follows:
 
-The main paper awards were selected as follows:
+Based on the paper reviews, the opinions of the area chair, and the senior area chair(s), we constructed a short-list of strong papers. The short-list contained papers of diverse topics e.g., on tasks, models, resources, evaluation methodologies, etc. The papers came from most of the conference tracks and were in both short and long papers format.
 
-- Based on paper reviews, the opinions of the area chair, and the senior area chair(s), we constructed a short-list of strong papers. We ensured that the short-list contained papers of a diversity of different types: e.g., resources papers, theory papers, papers from most of the conference tracks, and short and long format papers.
-- The short-listed papers were sent to a Best Paper committee for further review, from which the overall top papers were awarded honourable mentions and best paper.
+The short-listed papers were sent anonymously to the Best Paper Award Committee for further review. Based on the BPA committee judgments, the top papers were awarded honourable mentions and best papers.  Overall we award 2 best papers and 3 honorable mentions, for both the long papers and short papers lists.
   
 The following papers have been given awards.
 
