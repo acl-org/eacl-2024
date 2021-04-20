@@ -218,7 +218,7 @@ In this tutorial, we will introduce the techniques used in cutting-edge research
 
 The reviewing procedure has been identified as one of the major issues in the current situation of the NLP field. While it is implicitly assumed that junior researchers learn reviewing during their PhD project, this might not always be the case. Additionally, with the growing NLP community and the efforts in the context of widening the NLP community, researchers joining the field might not have the opportunity to practise reviewing. This tutorial fills in this gap by providing an opportunity to learn the basics of reviewing. Also more experienced researchers might find this tutorial interesting to revise their reviewing procedure.
 
-[Check out the tutorial’s slides here]({{ '/downloads/tutorials/Reviewing-NLPR.zip' | relative_url }})
+[Check out the tutorial’s slides here](https://github.com/reviewingNLP/EACL2021T5)
 
 ## Advances and Challenges in Unsupervised Neural Machine Translation
 
