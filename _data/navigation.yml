@@ -112,3 +112,8 @@ schedule:
 
 best-paper:
   - title: "Best Paper"
+    children:
+      - title: "Awards"
+        url: "/best-paper/"
+      - title: "Committee"
+        url: "/best-paper/committee/"
