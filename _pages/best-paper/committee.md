@@ -9,11 +9,11 @@ toc: true
 toc_only: true
 ---
 
-- Antoine Doucet
-- Barbara Plank
-- Bonnie Webber
-- Joakim Nivre
-- Marie Sien Moens
-- Mark Fishel
-- Roi Reichart
-- Shay Cohen
+- **Antoine Doucet**, University of La Rochelle, France
+- **Barbara Plank**, IT University of Copenhagen, Denmark
+- **Bonnie Webber**, University of Edinburgh, UK 
+- **Joakim Nivre**, Uppsala University, Sweden
+- **Marie-Francine Moens**, KU Leuven, Belgium
+- **Mark Fishel**, University of Tartu, Estonia
+- **Roi Reichart**, Technion, Israel
+- **Shay Cohen**, University of Edinburgh, UK
