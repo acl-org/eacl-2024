@@ -11,7 +11,7 @@ toc_only: true
 
 - **Antoine Doucet**, University of La Rochelle, France
 - **Barbara Plank**, IT University of Copenhagen, Denmark
-- **Bonnie Webber**, University of Edinburgh, UK 
+- **Bonnie Webber**, University of Edinburgh, UK
 - **Joakim Nivre**, Uppsala University, Sweden
 - **Marie-Francine Moens**, KU Leuven, Belgium
 - **Mark Fishel**, University of Tartu, Estonia
