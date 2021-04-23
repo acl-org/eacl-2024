@@ -8,6 +8,7 @@ sidebar:
 after_footer_scripts:
   - /assets/js/schedule.js
 ---
+
 <div class="schedule-header-container">
   <div class="schedule-header">
     <div class="time-control">
@@ -230,7 +231,7 @@ after_footer_scripts:
     <div class="collapse-content schedule-element-content">
       <div class="element-inner-wrapper">
         <button class="collapse-toggle-button simple-link subitem-title">
-          Computational Social Choice and Social Media, Sentiment Analysis, Stylisting Analysis and Argument Mining
+          Computational Social Science and Social Media, Sentiment Analysis, Stylisting Analysis and Argument Mining
         </button>
         <div class="collapse-content">
           <ul>

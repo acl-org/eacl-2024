@@ -205,7 +205,7 @@ after_footer_scripts:
             <li>Augmenting Transformers with KNN-Based Composite Memory for Dialog</li>
           </ul>
         </div>
-        <button class="collapse-toggle-button simple-link subitem-title">Computational Social Choice and Social Media, Sentiment Analysis, Stylisting Analysis and Argumen Mining</button>
+        <button class="collapse-toggle-button simple-link subitem-title">Computational Social Science and Social Media, Sentiment Analysis, Stylisting Analysis and Argumen Mining</button>
         <div class="collapse-content">
           <ul>
             <li>Belief-based Generation of Argumentative Claims</li>
