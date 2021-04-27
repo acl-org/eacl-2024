@@ -4,7 +4,7 @@ layout: single
 excerpt: "EACL 2021 Best Paper."
 permalink: /best-paper/
 sidebar:
-  nav: "best-paper"
+  nav: "program"
 toc: true
 ---
 

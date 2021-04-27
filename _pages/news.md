@@ -4,6 +4,14 @@ layout: single
 permalink: /news/
 ---
 <div class="notice--info" markdown="1">
+  **April 23, 2021**
+
+  <h2 id="eacl-2021-best-paper-awards">EACL 2021 Best Paper Awards</h2>
+
+  Congratulations to the recipients of the [best paper awards]({{ "/best-paper" | relative_url }}) at EACL 2021!
+</div>
+
+<div class="notice--info" markdown="1">
   **April 16, 2021**
 
   <h2 id="virtual-conference-site">Virtual conference site</h2>

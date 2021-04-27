@@ -4,7 +4,7 @@ layout: single
 excerpt: "EACL 2021 Best Paper Award Committee."
 permalink: /best-paper/committee/
 sidebar:
-  nav: "best-paper"
+  nav: "program"
 toc: true
 toc_only: true
 ---

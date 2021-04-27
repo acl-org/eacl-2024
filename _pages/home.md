@@ -11,6 +11,12 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2021-best-paper-awards">EACL 2021 Best Paper Awards</h2>
+
+  **April 23, 2021**. Congratulations to the recipients of the [best paper awards]({{ "/best-paper" | relative_url }}) at EACL 2021!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="virtual-conference-site">Virtual conference site</h2>
 
 **April 16, 2021**. The <a href="https://www.virtual2021.eacl.org/" target="_blank" rel="noopener noreferrer">virtual conference site</a> contains information about interactive participation in the conference.
@@ -36,13 +42,6 @@ The conference will take place at **CEST (Central European Summer Time)**, curre
   <h2>Conference program</h2>
 
 **April 6, 2021**. In our new [blog post]({{ "/update" | relative_url }}), learn more about the conference program and activities we have planned for you.
-
-</div>
-
-<div class="notice--info" markdown="1">
-  <h2>The Conference Schedule</h2>
-
-**March 30, 2021**. The conference schedule is up on the <a href="{{ '/schedule' | relative_url }}">Schedule page</a>.
 
 </div>
 
