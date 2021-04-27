@@ -55,6 +55,10 @@ program:
         url: /program/authors/
       - title: "Diversity and Inclusion"
         url: /program/diversity/
+      - title: "Best Paper Awards"
+        url: /best-paper/
+      - title: "Best Paper Committee"
+        url: "/best-paper/committee/"
 
 committees:
    - title: "Committees"
@@ -109,11 +113,3 @@ schedule:
         url: "/schedule/thursday/"
       - title: "Friday, April 23"
         url: "/schedule/friday/"
-
-best-paper:
-  - title: "Best Paper"
-    children:
-      - title: "Awards"
-        url: "/best-paper/"
-      - title: "Committee"
-        url: "/best-paper/committee/"
