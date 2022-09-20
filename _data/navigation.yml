@@ -1,8 +1,5 @@
 # main links
 main:
-  - title: "Virtual Conference"
-    url: https://www.virtual2021.eacl.org/
-    highlight: true
   - title: "Schedule"
     url: /schedule/
   - title: "Program"
@@ -76,40 +73,8 @@ sponsors:
       - title: "Tiers &amp; Pricing"
         url: /sponsors/benefits/
 
-kyiv:
-  - title: "Kyiv:"
-    children:
-      - title: "About"
-        url: "/kyiv#about"
-      - title: "Traveling to Kyiv"
-        url: "/kyiv#traveling-to-kyiv"
-      - title: "Where to stay"
-        url: "/kyiv#where-to-stay"
-      - title: "Getting around"
-        url: "/kyiv#getting-around"
-      - title: "Weather"
-        url: "/kyiv#weather"
-      - title: "Get excited"
-        url: "/kyiv#get-excited"
-
 reviewers:
   - title: "Information for Reviewers"
 
 registration:
   - title: "Registration"
-
-schedule:
-  - title: "Detailed Daily Schedule"
-    children:
-      - title: "D&I and Social Events"
-        url: "/schedule/diversity/"
-      - title: "Monday, April 19"
-        url: "/schedule/monday/"
-      - title: "Tuesday, April 20"
-        url: "/schedule/tuesday/"
-      - title: "Wednesday, April 21"
-        url: "/schedule/wednesday/"
-      - title: "Thursday, April 22"
-        url: "/schedule/thursday/"
-      - title: "Friday, April 23"
-        url: "/schedule/friday/"
