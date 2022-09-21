@@ -4,6 +4,8 @@ main:
     url: /calls/papers
   - title: "Code of Conduct"
     url: /code
+  - title: "Ethics"
+    url: /ethics/faq
   - title: "Committees"
     url: /committees/organization  
 
@@ -12,3 +14,11 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
+
+ethics:
+  - title: Ethics
+    children:
+      - title: "Ethics FAQ"
+        url: /ethics/faq/
+      - title: "Ethics Review Questions"
+        url: /ethics/review-questions/
