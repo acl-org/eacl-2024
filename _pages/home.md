@@ -14,14 +14,15 @@ Welcome to the 17th conference of the European Chapter of the Association for Co
 
 ## Important Dates
 
-
-Conference: May 3-5, 2023
-
-
 <table class="table-dates">
     <tbody>
         <tr>
             <td>Abstract registration deadline for START direct submissions</td>
+            <td>Thursday</td>
+            <td>13&nbsp;October 2022</td>
+        </tr>
+        <tr>
+            <td>Anonymity period begins</td>
             <td>Thursday</td>
             <td>13&nbsp;October 2022</td>
         </tr>
@@ -31,14 +32,14 @@ Conference: May 3-5, 2023
             <td>20&nbsp;October 2022</td>
         </tr>
         <tr>
-            <td>Submission deadline for ARR papers</td>
-            <td>Sunday</td>
-            <td>8&nbsp;January 2023</td>
-        </tr>
-        <tr>
             <td>Author response period</td>
             <td>Tuesday&ndash;Monday</td>
             <td>6&ndash;12&nbsp;December 2022</td>
+        </tr>
+        <tr>
+            <td>Submission deadline for ARR papers</td>
+            <td>Sunday</td>
+            <td>8&nbsp;January 2023</td>
         </tr>
         <tr>
             <td>Notification of acceptance <br/> (<i>long & short papers</i>)</td>
@@ -47,7 +48,7 @@ Conference: May 3-5, 2023
         </tr>
         <tr>
             <td>Camera-ready papers due <br/> (<i>long & short papers</i>)</td>
-            <td>Fiday</td>
+            <td>Friday</td>
             <td>10&nbsp;February 2023</td>
         </tr>
         <tr>
