@@ -2,6 +2,8 @@
 main:
   - title: "Call for Papers"
     url: /calls/papers
+  - title: "Code of Conduct"
+    url: /code
 
 calls:
   - title: Call for
