@@ -1,115 +1,24 @@
 # main links
 main:
-  - title: "Virtual Conference"
-    url: https://www.virtual2021.eacl.org/
-    highlight: true
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Program"
-    url: /program/keynotes/
-  - title: "News"
-    url: /news
-  - title: "Registration"
-    url: /registration
-  - title: "Sponsors"
-    url: /sponsors
+  - title: "Call for Papers"
+    url: /calls/papers
   - title: "Code of Conduct"
     url: /code
+  - title: "Ethics"
+    url: /ethics/faq
   - title: "Committees"
-    url: /committees/organization
-  - title: "Calls"
-    url: /calls/papers
-  - title: "Reviewers"
-    url: /reviewers
+    url: /committees/organization  
 
 calls:
   - title: Call for
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Workshop Proposals"
-        url: /calls/workshops/
-      - title: "Tutorial Proposals"
-        url: /calls/tutorials/
-      - title: "Student Workshop"
-        url: /calls/student/
-      - title: "Volunteers"
-        url: /calls/volunteers/
 
-program:
-  - title: Program Details
+ethics:
+  - title: Ethics
     children:
-      - title: "Keynote Speakers"
-        url: /program/keynotes/
-      - title: "Demos"
-        url: /program/demos/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
-      - title: "Accepted Papers"
-        url: /program/accepted/
-      - title: "Instructions for Authors"
-        url: /program/authors/
-      - title: "Diversity and Inclusion"
-        url: /program/diversity/
-      - title: "Best Paper Awards"
-        url: /best-paper/
-      - title: "Best Paper Committee"
-        url: "/best-paper/committee/"
-
-committees:
-   - title: "Committees"
-     children:
-       - title: "Organizing"
-         url: /committees/organization
-       - title: "Senior Program"
-         url: /committees/program
-
-sponsors:
-  - title: Sponsorship
-    children:
-      - title: "List of Sponsors"
-        url: /sponsors/list/
-      - title: "Tiers &amp; Pricing"
-        url: /sponsors/benefits/
-
-kyiv:
-  - title: "Kyiv:"
-    children:
-      - title: "About"
-        url: "/kyiv#about"
-      - title: "Traveling to Kyiv"
-        url: "/kyiv#traveling-to-kyiv"
-      - title: "Where to stay"
-        url: "/kyiv#where-to-stay"
-      - title: "Getting around"
-        url: "/kyiv#getting-around"
-      - title: "Weather"
-        url: "/kyiv#weather"
-      - title: "Get excited"
-        url: "/kyiv#get-excited"
-
-reviewers:
-  - title: "Information for Reviewers"
-
-registration:
-  - title: "Registration"
-
-schedule:
-  - title: "Detailed Daily Schedule"
-    children:
-      - title: "D&I and Social Events"
-        url: "/schedule/diversity/"
-      - title: "Monday, April 19"
-        url: "/schedule/monday/"
-      - title: "Tuesday, April 20"
-        url: "/schedule/tuesday/"
-      - title: "Wednesday, April 21"
-        url: "/schedule/wednesday/"
-      - title: "Thursday, April 22"
-        url: "/schedule/thursday/"
-      - title: "Friday, April 23"
-        url: "/schedule/friday/"
+      - title: "Ethics FAQ"
+        url: /ethics/faq/
+      - title: "Ethics Review Questions"
+        url: /ethics/review-questions/
