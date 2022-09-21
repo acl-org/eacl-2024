@@ -4,6 +4,8 @@ main:
     url: /calls/papers
   - title: "Code of Conduct"
     url: /code
+  - title: "Committees"
+    url: /committees/organization  
 
 calls:
   - title: Call for
