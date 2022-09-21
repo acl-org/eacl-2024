@@ -7,6 +7,12 @@ header:
   caption: 'Photo by <a href="https://unsplash.com/@d_mccullough">Daniel McCullough</a> on <a href="http://www.unsplash.com">Unsplash</a>'
 excerpt: "<br/><br/>"
 ---
+## News
+
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-call-for-papers">EACL 2023 Call for Papers</h2>
+  **September 22, 2022**. The [EACL 2023 Call for Papers]({{ "/calls/papers" | relative_url }}) is out!
+</div>
 
 ## Welcome!
 
