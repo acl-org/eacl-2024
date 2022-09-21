@@ -213,7 +213,7 @@ For all datasets used:
 - A zip file containing data or link to a downloadable version of the data
 - For new data collected, a complete description of the data collection process, such as instructions to annotators and methods for quality control.
 
-This list is based on Dodge et al, 2019 and Joelle Pineau's reproducibility checklist.
+This list is based on <a href="https://aclanthology.org/D19-1224/">Dodge et al., 2019</a> and <a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf">Joelle Pineau's reproducibility checklist</a>.
 
 
 ## Presentation Requirement
