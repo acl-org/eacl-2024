@@ -11,7 +11,7 @@ excerpt: "<br/><br/>"
 
 
 <div class="notice--info" markdown="1">
-  <h2 id="eacl-2023-call-for-papers">EACL 2023 Call for Papers</h2>
+  <h2 id="eacl-2023-call-for-papers">EACL 2023 Location</h2>
   **September 23, 2022**. An alternative location to Kyiv and related dates have been just confirmed: EACL 2023 will be a hybrid conference, and physically held in Dubrovnik, Croatia, from 2 to 6 of May 2023. Thank you for your patience while this plan was put into place on a much reduced timescale.
 </div>
 
