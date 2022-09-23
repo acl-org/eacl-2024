@@ -9,14 +9,23 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
+
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-call-for-papers">EACL 2023 Location</h2>
+  **September 23, 2022**. An alternative location to Kyiv and related dates have been just confirmed: EACL 2023 will be a hybrid conference, and physically held in Dubrovnik, Croatia, from 2 to 6 of May 2023. Thank you for your patience while this plan was put into place on a much reduced timescale.
+</div>
+
+
 <div class="notice--info" markdown="1">
   <h2 id="eacl-2023-call-for-papers">EACL 2023 Call for Papers</h2>
-  **September 22, 2022**. The [EACL 2023 Call for Papers]({{ "/calls/papers" | relative_url }}) is out!
+  **September 23, 2022**. The [EACL 2023 Call for Papers]({{ "/calls/papers" | relative_url }}) is out!
 </div>
 
 ## Welcome!
 
-Welcome to the 17th conference of the European Chapter of the Association for Computational Linguistics (EACL). EACL 2023 will be held from 3 to 5 of May, 2023. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
+Welcome to the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL had selected the Ukrainian community for the 16th EACL, which took place online due to the COVID pandemic. Unfortunately, the ongoing war made the organisation in Kyiv impossible. Considering the importance of physical interaction among researchers, especially after the restrictions  imposed by the COVID pandemic, in addition to an online mode, the conference will be held in Dubrovnik, Croatia, from 2 to 6 of May, 2023. The original aim of strengthening the connection with the Ukrainian community will not change as our program will feature a dedicated session and a workshop to highlight work on Ukrainian language technologies.
+As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
+
 
 ## Important Dates
 
@@ -43,7 +52,7 @@ Welcome to the 17th conference of the European Chapter of the Association for Co
             <td>6&ndash;12&nbsp;December 2022</td>
         </tr>
         <tr>
-            <td>Submission deadline for ARR papers</td>
+            <td>Commitment deadline for ARR papers</td>
             <td>Sunday</td>
             <td>8&nbsp;January 2023</td>
         </tr>
