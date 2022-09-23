@@ -221,4 +221,4 @@ All accepted papers must be presented at the conference—either on-line or in-p
 
 At least one author of each accepted paper must register for EACL 2023 by the early registration deadline.
 
-More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at eacl2023pcs@gmail.com.
+More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at eacl2023pcs@googlegroups.com.
