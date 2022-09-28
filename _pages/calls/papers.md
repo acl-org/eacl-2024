@@ -130,6 +130,14 @@ Short paper submissions must describe original and unpublished work. Please note
 
 Short papers may consist of up to 4 pages of content, plus unlimited references and appendix. Upon acceptance, short papers will be given 5 content pages in the proceedings. Authors are encouraged to use this additional page to address reviewers’ comments in their final versions.
 
+### Style Files and Formatting
+
+The templates can be downloaded directly. ([LaTeX]({{ "/downloads/eacl2023_latex.zip" | relative_url }}), [Word]({{ "/downloads/eacl2023.docx" | relative_url }})).
+
+Please follow the formatting documentation general to \*ACL conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). The templates themselves contain only specific notes (e.g., LaTeX notes in the .tex file).
+
+Extra space for ethical considerations: Please note that extra space is allowed after the 8th page (4th page for short papers) for an ethics/broader impact statement. At submission time, this means that if you need extra space for the ethical considerations section, it should be placed after the conclusion so that it is possible to rapidly check that the rest of the paper still fits in 8 pages (4 pages for short papers). For camera-ready versions 9 pages of content will be allowed for long (5 for short) papers. Ethical considerations sections, acknowledgements, and references do not count against these limits.
+
 ### Presentation Mode
 Long and short papers will be presented orally or as posters as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than the quality of the work. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between papers presented orally and as posters.
 
@@ -161,8 +169,9 @@ Authors are required to honor the ethical code set out in the ACL [Code of Ethic
 
 Authors will be allowed extra space after the 8th page (4th for short papers) for an optional broader impact statement or other discussion of ethics. The EACL review form will include a section addressing these issues and papers flagged for ethical concerns by reviewers or ACs will be further reviewed by an ethics committee. Note that an ethical considerations section is not required, but papers working with sensitive data or on sensitive tasks that do not discuss these issues will not be accepted. Conversely, the mere inclusion of an ethical considerations section does not guarantee acceptance. In addition to acceptance or rejection, papers may receive a conditional acceptance recommendation. Camera-ready versions of papers designated as conditional accept will be re-reviewed by the ethics committee to determine whether the concerns have been adequately addressed. Please read the [ethics FAQ]({{ "ethics/faq" | relative_url }}) for more guidance on some problems to look out for and key concerns to consider relative to the code of ethics.
 
-### Paper Submission and Templates
-Submission is electronic, using the Softconf START conference management system. Both long and short papers must follow the EACL 2023 two-column format, using the supplied official style files. <b>Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.</b>
+### Paper Submission
+
+Submission is electronic, using the Softconf START conference management system. 
 
 #### Verification
 
