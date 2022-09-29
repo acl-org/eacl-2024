@@ -12,7 +12,7 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="eacl-2023-call-for-papers">EACL 2023 templates</h2>
-  **September 28, 2022**. The EACL 2023 paper templates are now available. They can be found under the [paper submission information]({{ "calls/papers/#paper-submission-information" | relative_url }}) for main conference papers.
+  **September 28, 2022**. The EACL 2023 paper templates are now available. They can be found under the [Style Files and Formatting]({{ "calls/styles" | relative_url }}) information for calls.
 </div>
 
 
