@@ -91,7 +91,8 @@ Papers submitted directly to EACL will have the “regular” review process: pa
 ##### All deadlines are 11.59 pm [UTC -12h](https://www.timeanddate.com/time/zone/timezone/utc-12) ("anywhere on Earth").
 
 ## Mandatory abstract submission
-The paper title, author names, contact details, and a brief abstract must be submitted electronically through the EACL 2023 paper submission site by the abstract submission deadline <i>(October 13, 2022)</i>. It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; <b>Important</b>: if you miss the abstract submission deadline, then you cannot submit the full paper.
+For direct paper submissions, the paper title, author names, contact details, and a brief abstract must be submitted electronically through the EACL 2023 paper submission site by the abstract submission deadline <i>(October 13, 2022)</i>. It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; <b>Important</b>: if you miss the abstract submission deadline, then you cannot submit the full paper. <b>Note</b>: if you are planning to commit a fully reviewed ARR paper to EACL 2023 by January 9, 2023, you do not have to pre-register an abstract on Softconf by October 13, 2022.
+
 
 ## Submissions
 EACL 2023 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
@@ -101,7 +102,7 @@ EACL 2023 has the goal of a broad technical program. Relevant topics for the con
 - Dialogue and Interactive Systems
 - Document analysis, Text Categorization and Topic Models
 - Generation and Summarization
-- Green and Sustainable NLP
+- Ethical and Sustainable NLP
 - Information Retrieval and Search
 - Information Extraction
 - Interpretability and Model Analysis in NLP
