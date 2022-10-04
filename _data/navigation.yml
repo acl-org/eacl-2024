@@ -8,6 +8,8 @@ main:
     url: /ethics/faq
   - title: "Committees"
     url: /committees/organization  
+  - title: "FAQ"
+    url: /faq/faq
 
 calls:
   - title: Call for
@@ -24,3 +26,9 @@ ethics:
         url: /ethics/faq/
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
+
+faq:
+  - title: Main FAQ
+    children:
+      - title: "FAQ"
+        url: /faq/faq
