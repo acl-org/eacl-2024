@@ -21,3 +21,8 @@ sidebar:
 
 <a href="https://apepa.github.io/">Pepa Atanasova</a>, University of Copenhagen<br/>
 <a href="https://www.linkedin.com/in/julius-cheng-0040799/">Julius Cheng</a>, University of Cambridge
+
+### Publicity Chairs
+
+<a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
+<a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, IBM AI research, Hebrew University of Jerusalem

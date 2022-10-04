@@ -11,13 +11,24 @@ excerpt: "<br/><br/>"
 
 
 <div class="notice--info" markdown="1">
-  <h2 id="eacl-2023-call-for-papers">EACL 2023 templates</h2>
+  <h2 id="eacl-2023-abstract">Abstract submissions open</h2>
+  **October 4, 2022**. Abstract submissions are now enabled on Softconf at [this link](https://softconf.com/eacl2023/papers).
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-faq">FAQ now available</h2>
+  **October 4, 2022**. You can find answers to frequently asked questions in the new [FAQ]({{ "faq/faq" | relative_url }}) section, which will be continually updated.
+</div>
+
+
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-templates">EACL 2023 templates</h2>
   **September 28, 2022**. The EACL 2023 paper templates are now available. They can be found under the [Style Files and Formatting]({{ "calls/styles" | relative_url }}) information for calls.
 </div>
 
 
 <div class="notice--info" markdown="1">
-  <h2 id="eacl-2023-call-for-papers">EACL 2023 Location</h2>
+  <h2 id="eacl-2023-location">EACL 2023 Location</h2>
   **September 23, 2022**. An alternative location to Kyiv and related dates have been just confirmed: EACL 2023 will be a hybrid conference, and physically held in Dubrovnik, Croatia, from 2 to 6 of May 2023. Thank you for your patience while this plan was put into place on a much reduced timescale.
 </div>
 

@@ -8,6 +8,8 @@ main:
     url: /ethics/faq
   - title: "Committees"
     url: /committees/organization  
+  - title: "FAQ"
+    url: /faq
 
 calls:
   - title: Call for
