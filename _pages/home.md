@@ -11,6 +11,11 @@ excerpt: "<br/><br/>"
 
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-abstract">Abstract submissions open</h2>
+  **October 4, 2022**. Abstract submissions are now enabled on Softconf at [this link](https://softconf.com/eacl2023/papers).
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-faq">FAQ now available</h2>
   **October 4, 2022**. You can find answers to frequently asked questions in the new [FAQ]({{ "faq/faq" | relative_url }}) section, which will be continually updated.
 </div>
