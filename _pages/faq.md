@@ -2,7 +2,7 @@
 title: FAQ
 layout: single
 excerpt: "EACL 2023 FAQ."
-permalink: /faq/faq/
+permalink: /faq
 sidebar:
   nav: faq
 toc: true
@@ -21,7 +21,7 @@ A: No, this just holds for direct full paper submissions to EACL 2023.
 
 ### Q: Where can I register an abstract and submit my paper?
 
-A: You can submit it here via the Softconf portal: https://softconf.com/eacl2023/papers/  
+A: You can submit it here via the Softconf portal: [https://softconf.com/eacl2023/papers/](https://softconf.com/eacl2023/papers/)
 
 ### Q: How much can the abstract in the full submitted paper on 20 October change from the registered abstract on 13 October?
 
@@ -37,7 +37,7 @@ A: No – it is important this stays the same so that we can take conflicts of i
 
 ### Q: What other information is required when submitting my abstract?
 
-A: We require all authors to update their Softconf global profile global profiles and fill in their EACL 2023 profiles. This is necessary for making paper assignments, handling conflicts of interest, and so forth. We reserve the right to reject without review papers of authors who have not filled in their EACL 2023 profiles. If you are the submitting author, please make sure your co-authors, if any, have also filled in their profiles. 
+A: We require all authors to update their [Softconf global profile](https://softconf.com/eacl2023/super/scmd.cgi?ucmd=updateProfile) global profiles and fill in their [EACL 2023 profiles](https://softconf.com/eacl2023/papers/user/scmd.cgi?scmd=updateProfile). This is necessary for making paper assignments, handling conflicts of interest, and so forth. We reserve the right to reject without review papers of authors who have not filled in their EACL 2023 profiles. If you are the submitting author, please make sure your co-authors, if any, have also filled in their profiles. 
 
 ### Q: Are dual submission to workshops, such as those collocated with NeurIPS or EMNLP, allowed?
 

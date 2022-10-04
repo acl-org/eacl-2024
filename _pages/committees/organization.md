@@ -24,5 +24,5 @@ sidebar:
 
 ### Publicity Chairs
 
-<a href="mailto:tetreaul@gmail.com">Joel Tetreault</a>, Dataminr<br/>
-<a href="mailto:leshem.choshen@mail.huji.ac.il">Leshem Choshen</a>, IBM AI research, Hebrew University of Jerusalem
+<a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
+<a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, IBM AI research, Hebrew University of Jerusalem
