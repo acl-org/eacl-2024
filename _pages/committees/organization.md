@@ -2,7 +2,7 @@
 title: Organizing Committee
 layout: single
 excerpt: "EACL 2023 organizing committee."
-permalink: /committees/organization
+permalink: /committees/organization/
 sidebar:
   nav: committees
 ---
