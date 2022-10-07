@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h1>EACL 2023</h1>
 Hybrid<br />
-<https://2023.eacl.org/>
+<https://2023.eacl.org/> ; submission link: <https://softconf.com/eacl2023/papers/>
 
 The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals. 
 
