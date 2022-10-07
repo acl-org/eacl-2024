@@ -2,7 +2,7 @@
 title: Senior Program Committee
 layout: single
 excerpt: "EACL 2023 senior program committee."
-permalink: /committees/program
+permalink: /committees/program/
 sidebar:
   nav: committees
 ---
