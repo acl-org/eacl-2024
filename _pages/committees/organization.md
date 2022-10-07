@@ -19,7 +19,7 @@ sidebar:
  -->
 
 ### Demonstration Chairs
-<a href="http://sag.art.uniroma2.it/people/croce/">Danilo Croce</a>, University of Roma<br/>
+<a href="http://sag.art.uniroma2.it/people/croce/">Danilo Croce</a>, University of Rome, "Tor Vergata"<br/>
 <a href="https://soldaini.net/">Luca Soldaini</a>, Allen Institute for AI
 
 
