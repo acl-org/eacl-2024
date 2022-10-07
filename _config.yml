@@ -57,7 +57,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : eacl
+  username               : eaclmeeting
 facebook:
   username               : eacl
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "EACL Oganizers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
@@ -110,13 +110,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: 
+      url: https://twitter.com/eaclmeeting 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/eacl2021
+      # url: https://www.facebook.com/eacl2021
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/naacl-org/naacl-hlt-2019
+      url: https://github.com/acl-org/eacl-2023
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
