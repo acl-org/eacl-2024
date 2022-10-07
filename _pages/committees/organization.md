@@ -17,12 +17,18 @@ sidebar:
 <a href="https://andreasvlachos.github.io/">Andreas Vlachos</a>, University of Cambridge<br />
 <!-- <a href="/committees/program">Senior Area Chairs</a>
  -->
-### Website Chairs
 
-<a href="https://apepa.github.io/">Pepa Atanasova</a>, University of Copenhagen<br/>
-<a href="https://www.linkedin.com/in/julius-cheng-0040799/">Julius Cheng</a>, University of Cambridge
+### Demonstration Chairs
+<a href="http://sag.art.uniroma2.it/people/croce/">Danilo Croce</a>, University of Roma<br/>
+<a href="https://soldaini.net/">Luca Soldaini</a>, Allen Institute for AI
+
 
 ### Publicity Chairs
 
 <a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
 <a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, IBM AI research, Hebrew University of Jerusalem
+
+### Website Chairs
+
+<a href="https://apepa.github.io/">Pepa Atanasova</a>, University of Copenhagen<br/>
+<a href="https://www.linkedin.com/in/julius-cheng-0040799/">Julius Cheng</a>, University of Cambridge
