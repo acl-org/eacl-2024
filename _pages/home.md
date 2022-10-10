@@ -79,6 +79,11 @@ As the flagship European conference in the field of computational linguistics, E
             <td>20&nbsp;January 2023</td>
         </tr>
         <tr>
+            <td>Withdrawal deadline <br/> (<i>long & short papers</i>)</td>
+            <td>Friday</td>
+            <td>27&nbsp;January 2023</td>
+        </tr>
+        <tr>
             <td>Camera-ready papers due <br/> (<i>long & short papers</i>)</td>
             <td>Friday</td>
             <td>10&nbsp;February 2023</td>

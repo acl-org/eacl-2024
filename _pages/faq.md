@@ -42,3 +42,8 @@ A: We require all authors to update their [Softconf global profile](https://soft
 ### Q: Are dual submission to workshops, such as those collocated with NeurIPS or EMNLP, allowed?
 
 A: It does not violate the multiple submissions rules if it is non-archival. But, there is the anonymity period too that starts on 13th October. So, you would need to make sure that the paper from 13th October onwards does not appear on any preprint server or workshop website, isn’t publicised on social media, etc.
+
+
+### Q: Are cross-submissions to ACL 2023 allowed?
+
+A: Yes. We will allow this since the ACL 2023 submission deadline and the EACL 2023 notification deadline are on the same day, 20 January 2023. Should your paper be accepted to EACL and you still wish to publish it there, you [must notify ACL of withdrawal no later than 31 January 2023](https://2023.aclweb.org/calls/main_conference/). Note also that the deadline for notifying us of withdrawal of your manuscript is 27 January 2023.
