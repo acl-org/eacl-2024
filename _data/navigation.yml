@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Call for Papers"
+  - title: "Calls"
     url: /calls/papers
   - title: "Code of Conduct"
     url: /code
   - title: "Ethics"
     url: /ethics/faq
   - title: "Committees"
-    url: /committees/organization  
+    url: /committees/organization
   - title: "FAQ"
     url: /faq
 
@@ -16,6 +16,8 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
+      - title: "System Demonstrations"
+        url: /calls/demos/
       - title: "Style Files and Formatting"
         url: /calls/styles/
 

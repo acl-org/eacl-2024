@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Call for Main Conference Papers
 hide_title: true
 layout: single
 permalink: /calls/papers/
@@ -15,12 +15,12 @@ toc_icon: "cog"
 Hybrid<br />
 <https://2023.eacl.org/> ; submission link: <https://softconf.com/eacl2023/papers/>
 
-The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals. 
+The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023) invites the submission of long and short papers on substantial, original, and unpublished research on empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
 EACL 2023 will follow EMNLP 2022 and go with a <b>hybrid</b> format with respect to ARR. This means that while <b>EACL will accept ARR-reviewed papers</b>, it will <b>also accept submissions directly to EACL through the START system</b>.
 
 However, in order to keep the review load on the community as a whole manageable, we <b>ask authors to decide up-front if they want their papers to be reviewed through ARR or EACL</b>.
- 
+
 <b>Review Process:</b> <br/>
 Papers submitted directly to EACL will have the “regular” review process: paper reviewed by 3 reviewers, authors are invited to write an author response and revise their paper before the camera ready deadline, if accepted. ARR papers committed to EACL will be handled by the Senior Area Chairs. For these papers, the authors may provide an author response but not revise their paper (with the exception of adding the required “limitations” section, if it was missing from the ARR submission; see below).
 
@@ -30,7 +30,7 @@ Papers submitted directly to EACL will have the “regular” review process: pa
     - <b>Note</b>: Submissions from ARR cannot be modified except that they can be associated with an author response.
     - <b>Note</b>: EACL will consider any ARR paper that has been fully reviewed by <i>January 8, 2023</i>. We have been informed by ARR Editors in Chief that all papers submitted to ARR for the October 15, 2022 deadline will be guaranteed to receive necessary reviews in time for the EACL commitment deadline.
     - <b>Note</b>: The START system deadline for direct submission papers, namely non-ARR submission papers, is <i>October 20, 2022</i>.
-- Papers submitted to ARR before <i>October 13, 2022</i>, <b>can be withdrawn and submitted to EACL 2023</b>. 
+- Papers submitted to ARR before <i>October 13, 2022</i>, <b>can be withdrawn and submitted to EACL 2023</b>.
     - <b>Note</b>: In order for a paper to be submitted directly to EACL 2023, it must be inactive in the ARR system. This means that the submission must either be explicitly withdrawn by the authors, or the ARR reviews are finished and shared with the authors before <i>October 13, 2022</i>, and the paper was not re-submitted to ARR.
     - <b>Note</b>: The authors can [withdraw](https://aclrollingreview.org/cfp) their papers from ARR by <i>October 13, 2022</i>, regardless of how many reviews it has received.
 - Papers that are in the ARR system after <i>October 13, 2022</i>, either submitted after or submitted before and not withdrawn, <b>cannot be directly submitted to EACL 2023</b>.
@@ -40,7 +40,7 @@ Papers submitted directly to EACL will have the “regular” review process: pa
 <b>Cross-submission policy with ACL 2023:</b>
 - As the EACL 2023 notification deadline and ACL 2023 submission deadline are unfortunately on the same day, you may submit your paper to ACL 2023 while it is still under review at EACL 2023.
 - <b>Note</b>: Should your paper be accepted to EACL, you still wish to publish it there and have cross-submitted to ACL, you must notify ACL of withdrawal no later than January 31, 2023.
-- <b>Note</b>: Conversely, the deadline for notifying us of withdrawal of your manuscript is January 27, 2023. 
+- <b>Note</b>: Conversely, the deadline for notifying us of withdrawal of your manuscript is January 27, 2023.
 
 ## Important Dates
 <table class="table-dates">
@@ -100,11 +100,15 @@ Papers submitted directly to EACL will have the “regular” review process: pa
 
 ##### All deadlines are 11.59 pm [UTC -12h](https://www.timeanddate.com/time/zone/timezone/utc-12) ("anywhere on Earth").
 
-## Mandatory abstract submission
+
+## Paper Submission Information
+
+### Mandatory Abstract Submission
 For direct paper submissions, the paper title, author names, contact details, and a brief abstract must be submitted electronically through the EACL 2023 paper submission site by the abstract submission deadline <i>(October 13, 2022)</i>. It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; <b>Important</b>: if you miss the abstract submission deadline, then you cannot submit the full paper. <b>Note</b>: if you are planning to commit a fully reviewed ARR paper to EACL 2023 by January 9, 2023, you do not have to pre-register an abstract on Softconf by October 13, 2022.
 
 
-## Submissions
+### Topics of Interest
+
 EACL 2023 has the goal of a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
 
 - Anaphora, Discourse and Pragmatics
@@ -130,8 +134,6 @@ EACL 2023 has the goal of a broad technical program. Relevant topics for the con
 - Phonology, Morphology, and Word Segmentation
 - Tagging, Chunking, Syntax, and Parsing
 
-
-## Paper Submission Information
 
 ### Long Papers
 Long paper submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Review forms will be made available prior to the deadlines. Long papers may consist of up to 8 pages of content, plus unlimited pages for references and appendix; final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account.
@@ -185,7 +187,7 @@ Submission is electronic, using the Softconf START conference management system 
 
 To guarantee conformance to publication standards, we will be using the ACL Pubcheck tool ([https://github.com/acl-org/aclpubcheck](https://github.com/acl-org/aclpubcheck)). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time.
 
-## Anonymity Period
+### Anonymity Period
 The following rules and guidelines are meant to protect the integrity of double-blind review and ensure that submissions are reviewed fairly. The rules make reference to the anonymity period, which runs from 1 week before the direct full paper submission deadline (starting <i>October 13, 2022</i>) up to the date when your paper is accepted or rejected <i>(January 20, 2023)</i>. Papers that are withdrawn during this period will no longer be subject to these rules.
 
 - You <b>may not</b> make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period. Versions of the paper include papers having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length.
@@ -194,13 +196,13 @@ The following rules and guidelines are meant to protect the integrity of double-
 - You may make an anonymized version of your paper available (for example, on OpenReview), even during the anonymity period.
 - For arXiv submissions, <i>October 13, 2022</i> 11:59pm UTC-12h (anywhere on earth) is the latest time the paper can be uploaded.
 
-## Instructions For Double-Blind Review
+### Instructions For Double-Blind Review
 As reviewing will be double blind, papers must not include authors’ names and affiliations. Furthermore, self-references or links (such as github) that reveal the author’s identity, e.g., “We previously showed (Smith, 1991) …” must be avoided. Instead, use citations such as “Smith previously showed (Smith, 1991) …” Papers that do not conform to these requirements will be rejected without review. Papers should not refer, for further detail, to documents that are not available to the reviewers. For example, do not omit or redact important citation information to preserve anonymity. Instead, use third person or named reference to this work, as described above (“Smith showed” rather than “we showed”). If important citations are not available to reviewers (e.g., awaiting publication), these paper/s should be anonymised and included in the appendix. They can then be referenced from the submission without compromising anonymity. Papers may be accompanied by a resource (software and/or data) described in the paper, but these resources should also be anonymized.
 
-## Reproducibility Criteria
+### Reproducibility Criteria
 
 Reviewers will be asked to assess the reproducibility of the work as part of their reviews.
-The following are the criteria that reviews will take under consideration. 
+The following are the criteria that reviews will take under consideration.
 
 For all reported experimental results:
 - A clear description of the mathematical setting, algorithm, and/or model.
@@ -229,9 +231,12 @@ For all datasets used:
 This list is based on <a href="https://aclanthology.org/D19-1224/">Dodge et al., 2019</a> and <a href="https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf">Joelle Pineau's reproducibility checklist</a>.
 
 
-## Presentation Requirement
+### Presentation Requirements
+
 All accepted papers must be presented at the conference—either on-line or in-person—in order to appear in the proceedings.  Authors of papers accepted for presentation at EACL 2023 must notify the program chairs by the camera-ready deadline if they wish to withdraw the paper.
 
 At least one author of each accepted paper must register for EACL 2023 by the early registration deadline.
+
+## Contact Information
 
 More information can be found in the Committee blog. If you have questions that are not answered there, please email the program co-chairs at eacl2023pcs@googlegroups.com.
