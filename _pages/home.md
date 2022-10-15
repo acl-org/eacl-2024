@@ -10,6 +10,17 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-findings">Findings Proceedings</h2>
+   **October 15, 2022**. We will accept papers to Findings proceedings in addition to main conference proceedings, in line with [recent ACL conferences](https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp).
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-journals">CL and TACL Papers</h2>
+   **October 15, 2022**. Authors with papers accepted to [the Computational Linguistics journal](https://direct.mit.edu/coli) as well as [TACL](https://transacl.org/index.php/tacl) by 20 January will have the option of presenting their papers at EACL 2023.
+</div>
+
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-demo">Call for System Demonstrations posted</h2>
    **October 11, 2022**. The [Call for Demos]({{ "/calls/demos" | relative_url }}) is out!
   Deadline for submission is **Friday, December 2, 2022**.
