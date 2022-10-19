@@ -17,7 +17,7 @@ sidebar:
 <!-- <a href="/committees/program">Senior Area Chairs</a>
  -->
 
-### Workshop Chairs
+### Tutorial Chairs
 <a href="https://cemantix.org/">Sameer Pradhan</a>, University of Pennsylvania <br/>
 <a href="http://art.uniroma2.it/zanzotto/">Fabio Massimo Zanzotto</a>, University of Rome, "Tor Vergata"
 
@@ -28,7 +28,7 @@ sidebar:
 <a href="https://soldaini.net/">Luca Soldaini</a>, Allen Institute for AI
 
 
-### Tutorial Chairs
+### Workshop Chairs
 Zeerak Talat, Simon Fraser University<br/>
 <a href="https://antoniotor.al/">Antonio Toral</a>, University of Groningen
 
