@@ -18,6 +18,8 @@ calls:
         url: /calls/papers/
       - title: "System Demonstrations"
         url: /calls/demos/
+      - title: "Workshops"
+        url: /calls/workshops/
       - title: "Style Files and Formatting"
         url: /calls/styles/
 
