@@ -10,13 +10,18 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-tacl">TACL Papers</h2>
+   **November 7, 2022**. To be eligible for presentation at EACL 2023, TACL papers must satisfy both of the following conditions: first, be accepted with a decision type (a) by January 6, 2023 and second, have their final version submitted to TACL by January 27, 2023.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-findings">Findings Proceedings</h2>
    **October 15, 2022**. We will accept papers to Findings proceedings in addition to main conference proceedings, in line with [recent ACL conferences](https://2020.emnlp.org/blog/2020-04-19-findings-of-emnlp).
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2 id="eacl-2023-journals">CL and TACL Papers</h2>
-   **October 15, 2022**. Authors with papers accepted to [the Computational Linguistics journal](https://direct.mit.edu/coli) as well as [TACL](https://transacl.org/index.php/tacl) by 20 January will have the option of presenting their papers at EACL 2023.
+  <h2 id="eacl-2023-journals">CL Papers</h2>
+   **October 15, 2022**. Authors with papers accepted to [the Computational Linguistics journal](https://direct.mit.edu/coli) by 20 January will have the option of presenting their papers at EACL 2023.
 </div>
 
 
