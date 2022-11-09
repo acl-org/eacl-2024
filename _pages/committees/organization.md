@@ -17,6 +17,10 @@ sidebar:
 <!-- <a href="/committees/program">Senior Area Chairs</a>
  -->
 
+### Publication Chairs
+<a href="mailto:ryan.cotterell@inf.ethz.ch/">Ryan Cotterell</a>, ETH Zurich<br />
+<a href="mailto:c.scarton@sheffield.ac.uk/">Carolina Scarton</a>, University of Sheffield<br />
+
 ### Tutorial Chairs
 <a href="https://cemantix.org/">Sameer Pradhan</a>, University of Pennsylvania <br/>
 <a href="http://art.uniroma2.it/zanzotto/">Fabio Massimo Zanzotto</a>, University of Rome, "Tor Vergata"
@@ -32,6 +36,19 @@ sidebar:
 Zeerak Talat, Simon Fraser University<br/>
 <a href="https://antoniotor.al/">Antonio Toral</a>, University of Groningen
 
+### Student Research Workshop Chairs
+<a href="mailto:m.m.lindemann@sms.ed.ac.uk">Matthias Lindemann</a>, University of Edinburgh<br/>
+<a href="mailto:alban.petit@universite-paris-saclay.fr">Alban Petit</a>, Université Paris-Saclay<br/>
+<a href="mailto:elba@itu.dk">Elisa Bassignana</a>, IT University of Copenhagen<br/>
+
+### Faculty Advisors
+<a href="mailto:valerio.basile@unito.it">Valerio Basile</a>, University of Turin, Italy<br/>
+<a href="mailto:natschluter@apple.com">Natalie Schluter</a>, IT University of Copenhagen; Apple<br/>
+
+### Diversity and Inclusion Chairs
+<a href="mailto:elena.cabrio@univ-cotedazur.fr/">Elena Cabrio</a>, Université Côte d’Azur, Inria, CNRS, I3S, France<br/>
+<a href="mailto:satonelli@fbk.eu/">Sara Tonelli</a>, Fondazione Bruno Kessler <br/>
+<a href="mailto:vrieser1@gmail.com/">Verena Rieser</a>, Heriot-Watt University, Edinburgh<br/>
 
 ### Publicity Chairs
 <a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
