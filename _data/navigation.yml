@@ -20,6 +20,8 @@ calls:
         url: /calls/demos/
       - title: "Workshops"
         url: /calls/workshops/
+      - title: "Student Workshop"
+        url: /calls/student/
       - title: "Style Files and Formatting"
         url: /calls/styles/
 
