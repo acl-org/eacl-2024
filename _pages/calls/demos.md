@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h1>EACL 2023 </h1>
 <h2>Call for System Demonstrations</h2>
-**Submission link: [[coming soon](softconf.com/eacl2023/demo-track][1]**<br />
+**Submission link: [softconf.com/eacl2023/demo-track][1]**<br />
 
 The system demonstration track at EACL 2023 is a venue for papers describing system demonstrations, ranging from early prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest.
 
