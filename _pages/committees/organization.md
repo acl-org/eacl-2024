@@ -41,7 +41,7 @@ Zeerak Talat, Simon Fraser University<br/>
 <a href="mailto:alban.petit@universite-paris-saclay.fr">Alban Petit</a>, Université Paris-Saclay<br/>
 <a href="mailto:elba@itu.dk">Elisa Bassignana</a>, IT University of Copenhagen<br/>
 
-### Faculty Advisors
+### Faculty Advisors to Student Research Workshop Chairs
 <a href="mailto:valerio.basile@unito.it">Valerio Basile</a>, University of Turin, Italy<br/>
 <a href="mailto:natschluter@apple.com">Natalie Schluter</a>, IT University of Copenhagen; Apple<br/>
 
