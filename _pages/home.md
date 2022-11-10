@@ -9,6 +9,12 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
+
+<div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-abstract">System Demonstrations Submissions Open</h2>
+  **November 10, 2022**. Demo submission are now enabled on Softconf at [this link](https://softconf.com/eacl2023/demo-track/).
+</div>
+
 <div class="notice--info" markdown="1">
   <h2 id="eacl-2023-tacl">TACL Papers</h2>
    **November 7, 2022**. To be eligible for presentation at EACL 2023, TACL papers must satisfy both of the following conditions: first, be accepted with a decision type (a) by January 6, 2023 and second, have their final version submitted to TACL by January 27, 2023.

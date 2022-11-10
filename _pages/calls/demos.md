@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h1>EACL 2023 </h1>
 <h2>Call for System Demonstrations</h2>
-**Submission link: [coming soon][1]**<br />
+**Submission link: [[coming soon](softconf.com/eacl2023/demo-track][1]**<br />
 
 The system demonstration track at EACL 2023 is a venue for papers describing system demonstrations, ranging from early prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest.
 
@@ -76,7 +76,7 @@ Please note: Commercial sales and marketing activities are not appropriate in th
 All submissions should be made electronically via START.
 <b>Please note that the submission platform is different from the one used by the main conference</b>.
 
-Use this link to make your submission: [coming soon][1].
+Use this link to make your submission: [softconf.com/eacl2023/demo-track/][1].
 
 Submissions must include the following:
 
@@ -121,4 +121,4 @@ If you have questions that are not answered there, please email the program co-c
 - [Luca Soldaini](https://soldaini.net/) (Allen Institute for AI)
 
 <!-- [1]: https://www.softconf.com/eacl2023/demos -->
-[1]: #
+[1]: https://softconf.com/eacl2023/demo-track/
