@@ -104,7 +104,7 @@ Papers submitted directly to EACL will have the “regular” review process: pa
 ## Paper Submission Information
 
 ### Mandatory Abstract Submission
-For direct paper submissions, the paper title, author names, contact details, and a brief abstract must be submitted electronically through the EACL 2023 paper submission site by the abstract submission deadline <i>(October 13, 2022)</i>. It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; <b>Important</b>: if you miss the abstract submission deadline, then you cannot submit the full paper. <b>Note</b>: if you are planning to commit a fully reviewed ARR paper to EACL 2023 by January 9, 2023, you do not have to pre-register an abstract on Softconf by October 13, 2022.
+For direct paper submissions, the paper title, author names, contact details, and a brief abstract must be submitted electronically through the EACL 2023 paper submission site by the abstract submission deadline <i>(October 13, 2022)</i>. It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change authors and subject areas. Submissions with “placeholder” abstracts will be removed without consideration; <b>Important</b>: if you miss the abstract submission deadline, then you cannot submit the full paper. <b>Note</b>: if you are planning to commit a fully reviewed ARR paper to EACL 2023 by January 9, 2023, you do not have to pre-register an abstract on Softconf by January 9, 2023.
 
 
 ### Topics of Interest

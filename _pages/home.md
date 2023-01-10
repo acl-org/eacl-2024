@@ -11,6 +11,11 @@ excerpt: "<br/><br/>"
 
 
 <div class="notice--info" markdown="1">
+  <h2 id="program-workshops">EACL 2023 Workshops</h2>
+  **January 10, 2023**. List of workshops that will be held at EACL 2023 is now [available]({{ "/program/workshops" | relative_url }}).
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-abstract">System Demonstrations Submissions Open</h2>
   **November 10, 2022**. Demo submission are now enabled on Softconf at [this link](https://softconf.com/eacl2023/demo-track/).
 </div>

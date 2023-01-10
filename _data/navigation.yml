@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Program"
+    url: /program/workshops
   - title: "Calls"
     url: /calls/papers
   - title: "Code of Conduct"
@@ -10,6 +12,12 @@ main:
     url: /committees/organization
   - title: "FAQ"
     url: /faq
+
+program:
+  - title: Program
+    children:
+      - title: "Workshops"
+        url: /program/workshops/
 
 calls:
   - title: Call for
