@@ -75,7 +75,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td>Cross-Cultural Considerations in NLP
+    <td><a href='https://sites.google.com/view/c3nlp/home?'>Cross-Cultural Considerations in NLP</a>
     </td>
     <td>C3NLP</td>
   </tr>
