@@ -11,6 +11,11 @@ excerpt: "<br/><br/>"
 
 
 <div class="notice--info" markdown="1">
+  <h2 id="venue">EACL 2023 Venue</h2>
+  **January 16, 2023**. EACL 2023 will take place in the Valamar Lacroma Dubrovnik Hotel. [link]({{ "/venue" | relative_url }})
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="program-workshops">EACL 2023 Workshops</h2>
   **January 10, 2023**. List of workshops that will be held at EACL 2023 is now [available]({{ "/program/workshops" | relative_url }}).
 </div>

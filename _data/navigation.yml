@@ -12,6 +12,8 @@ main:
     url: /committees/organization
   - title: "FAQ"
     url: /faq
+  - title: "Venue"
+    url: /venue
 
 program:
   - title: Program
