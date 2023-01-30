@@ -18,19 +18,17 @@ sidebar:
  -->
 
 ### Publication Chairs
-<a href="mailto:ryan.cotterell@inf.ethz.ch/">Ryan Cotterell</a>, ETH Zurich<br />
-<a href="mailto:c.scarton@sheffield.ac.uk/">Carolina Scarton</a>, University of Sheffield<br />
+<a href="mailto:ryan.cotterell@inf.ethz.ch">Ryan Cotterell</a>, ETH Zurich<br />
+<a href="mailto:c.scarton@sheffield.ac.uk">Carolina Scarton</a>, University of Sheffield<br />
 
 ### Tutorial Chairs
 <a href="https://cemantix.org/">Sameer Pradhan</a>, University of Pennsylvania <br/>
 <a href="http://art.uniroma2.it/zanzotto/">Fabio Massimo Zanzotto</a>, University of Rome, "Tor Vergata"
 
-
 ### Demonstration Chairs
 <i>(contact: <a href = "mailto:eacl2023demos@googlegroups.com">eacl2023demos@googlegroups.com</a>)</i><br />
 <a href="http://sag.art.uniroma2.it/people/croce/">Danilo Croce</a>, University of Rome, "Tor Vergata"<br/>
 <a href="https://soldaini.net/">Luca Soldaini</a>, Allen Institute for AI
-
 
 ### Workshop Chairs
 Zeerak Talat, Simon Fraser University<br/>
@@ -54,6 +52,11 @@ Zeerak Talat, Simon Fraser University<br/>
 <a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
 <a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, IBM AI research, Hebrew University of Jerusalem <br/>
 <a href="https://www.laurabiester.com/">Laura Biester</a>, University of Michigan
+
+### Local Organising Committee
+<a href="https://www.ffzg.unizg.hr/oling/?page_id=1212&lang=en">Marko Tadić</a>, University of Zagreb (contact: <a href="mailto:marko.tadic@ffzg.hr">marko.tadic@ffzg.hr</a>)<br/>
+<a href="https://www.ffzg.unizg.hr/oling/?page_id=109">Krešimir Šojat</a>, University of Zagreb (contact: <a href="mailto:ksojat@ffzg.hr">ksojat@ffzg.hr</a>)<br/>
+Daša Farkaš, University of Zagreb (contact: <a href="mailto:dfarkas@ffzg.hr">dfarkas@ffzg.hr</a>)<br/>
 
 ### Website Chairs
 <a href="https://apepa.github.io/">Pepa Atanasova</a>, University of Copenhagen<br/>
