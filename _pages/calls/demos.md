@@ -35,7 +35,7 @@ This year we are incorporating ethical considerations in the review process. Aut
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>Friday</td>
+            <td>Wednesday</td>
             <td>8&nbsp;February 2023</td>
         </tr>
         <tr>
