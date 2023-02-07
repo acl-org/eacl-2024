@@ -47,3 +47,7 @@ A: It does not violate the multiple submissions rules if it is non-archival. But
 ### Q: Are cross-submissions to ACL 2023 allowed?
 
 A: Yes. We will allow this since the ACL 2023 submission deadline and the EACL 2023 notification deadline are on the same day, 20 January 2023. Should your paper be accepted to EACL and you still wish to publish it there, you [must notify ACL of withdrawal no later than 31 January 2023](https://2023.aclweb.org/calls/main_conference/). Note also that the deadline for notifying us of withdrawal of your manuscript is 27 January 2023.
+
+### Q: How do I obtain a visa invitation letter?
+
+A: Requests for visa invitation letters should be sent to Jennifer Rachford ([acl.rachford@gmail.com](mailto:acl.rachford@gmail.com)). This information is included in your acceptance notification email.

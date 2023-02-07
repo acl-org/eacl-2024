@@ -87,13 +87,13 @@ Papers submitted directly to EACL will have the “regular” review process: pa
         </tr>
         <tr>
             <td>Workshops & Tutorials</td>
-            <td>Tuesday and Saturday</td>
-            <td>2 and 6&nbsp;May 2023</td>
+            <td>Friday and Saturday</td>
+            <td>5 and 6&nbsp;May 2023</td>
         </tr>
         <tr>
             <td>Main Conference</td>
-            <td>Wednesday &ndash; Friday</td>
-            <td>3&ndash;5&nbsp;May 2023</td>
+            <td>Tuesday &ndash; Thursday</td>
+            <td>2&ndash;4&nbsp;May 2023</td>
         </tr>
     </tbody>
 </table>
