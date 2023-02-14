@@ -24,7 +24,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td>The Fourth Workshop on Resources for African Indigenous Languages</td>
+    <td><a href='https://sadilar.org/index.php/en/2/374'>The Fourth Workshop on Resources for African Indigenous Languages</a></td>
     <td>RAIL</td>
   </tr>
 
@@ -34,7 +34,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td>The 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP</td>
+    <td><a href='https://sigtyp.github.io/workshop.html'>The 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP</a></td> 
     <td>SIGTYP</td>
   </tr>
 
@@ -57,7 +57,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td>The Sixth Workshop on Technologies for Machine Translation of Low Resource Languages
+    <td><a href='https://sites.google.com/view/loresmt/'>The Sixth Workshop on Technologies for Machine Translation of Low-Resource Languages</a>
     </td>
     <td>LoResMT</td>
   </tr>
@@ -69,7 +69,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td>The 9th Biennial Workshop on Slavic NLP
+    <td><a href='http://bsnlp.cs.helsinki.fi/'>The 9th Workshop on Slavic Natural Language Processing</a>
     </td>
     <td>SlavNLP</td>
   </tr>
@@ -84,8 +84,10 @@ toc_icon: "cog"
     <td><a href='https://field-matters.github.io/'>The Second Workshop on NLP Applications to Field Linguistics</a>
     </td>
     <td>Field Matters
-</td>
+    </td>
   </tr>
+
+
 </table>
 
  
