@@ -44,9 +44,10 @@ Zeerak Talat, Simon Fraser University<br/>
 <a href="mailto:natschluter@apple.com">Natalie Schluter</a>, IT University of Copenhagen; Apple<br/>
 
 ### Diversity and Inclusion Chairs
-<a href="mailto:elena.cabrio@univ-cotedazur.fr/">Elena Cabrio</a>, Université Côte d’Azur, Inria, CNRS, I3S, France<br/>
-<a href="mailto:satonelli@fbk.eu/">Sara Tonelli</a>, Fondazione Bruno Kessler <br/>
-<a href="mailto:vrieser1@gmail.com/">Verena Rieser</a>, Heriot-Watt University, Edinburgh<br/>
+<a href="mailto:elena.cabrio@univ-cotedazur.fr">Elena Cabrio</a>, Université Côte d’Azur, Inria, CNRS, I3S, France<br/>
+<a href="mailto:satonelli@fbk.eu">Sara Tonelli</a>, Fondazione Bruno Kessler <br/>
+<a href="mailto:vrieser1@gmail.com">Verena Rieser</a>, Heriot-Watt University, Edinburgh<br/>
+<a href="mailto:spandanagella@gmail.com">Spandana Gella</a>, Amazon Alexa<br/>
 
 ### Publicity Chairs
 <a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
