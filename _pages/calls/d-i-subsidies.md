@@ -23,6 +23,10 @@ This is for getting a waiver for EACL registration. If you haven’t already reg
 
 Note that if you are applying for a registration fee waiver, it is expected that you DO NOT register for the conference until you hear from us about your D&I subsidy application. That way, you would not have to ask for a reimbursement, since you would not be charged in the first place. We strongly encourage folks to apply for a volunteership program in order to maximize their chances for getting their registration fees waived.
 
+### Travel subsidies and pre-paid accommodation
+
+We have a limited number of pre-paid accommodation available. These are shared double-rooms in the conference hotel. Please list any special requirements in your application form.  We also have a limited budget allocated to support international travel. Please make sure to outline how you will benefit from in-person attendance at this stage of your career.
+
 ### Caregiving and accessibility subsidies
 
 We can reimburse caregiving purchases that you need for the conferences. You need to provide receipts for your purchases. These can be babysitting, transportation costs, or other support required for yourself or your dependents, which would ease your participation. If you need any personal or technical assistance to access and navigate the conference due to a disability, we can reimburse you for the cost of it. This holds for example if you need assistance in using the platform for online participation due to a visual impairment. We acknowledge that accessibility needs are highly individual to each participant, so please feel free to reach out to us with any issues you might face in this regard.
