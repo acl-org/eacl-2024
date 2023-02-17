@@ -45,8 +45,8 @@ This year we are incorporating ethical considerations in the review process. Aut
         </tr>
         <tr>
             <td>Main Conference</td>
-            <td>Wednesday &ndash; Friday</td>
-            <td>3&ndash;5&nbsp;May 2023</td>
+            <td>Tuesday &ndash; Thursday</td>
+            <td>2&ndash;4&nbsp;May 2023</td>
         </tr>
     </tbody>
 </table>
