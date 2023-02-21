@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-accepted">Main Conference and Findings Accepted Papers</h2>
+  **February 21, 2023**. The accepted [main conference papers]({{ "/program/accepted" | relative_url }}) and [findings papers]({{ "/program/accepted-findings" | relative_url }}) are now available online!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-demo">Call for Diversion & Inclusion Subsidies posted</h2>
   **February 14, 2023**. The [Call for D&I Subsidies]({{ "/calls/d-i-subsidies" | relative_url }}) is out!
   Deadline for submission is **Monday, March 27th, 2023**.
