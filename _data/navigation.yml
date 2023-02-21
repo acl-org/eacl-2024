@@ -20,6 +20,10 @@ program:
     children:
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Main Conference Accepted Papers"
+        url: /program/accepted/
+      - title: "Findings Accepted Papers"
+        url: /program/accepted-findings/
 
 calls:
   - title: Call for
