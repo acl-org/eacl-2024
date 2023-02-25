@@ -14,6 +14,8 @@ main:
     url: /faq
   - title: "Venue"
     url: /venue
+  - title: "Registration"
+    url: /registration
 
 program:
   - title: Program
