@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-tutorials">Accepted Tutorials</h2>
+  **February 27, 2023**. The accepted [tutorials]({{ "/program/tutorials" | relative_url }}) are now available online!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-accepted">Main Conference and Findings Accepted Papers</h2>
   **February 21, 2023**. The accepted [main conference papers]({{ "/program/accepted" | relative_url }}) and [findings papers]({{ "/program/accepted-findings" | relative_url }}) are now available online!
 </div>

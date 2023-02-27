@@ -26,6 +26,8 @@ program:
         url: /program/accepted/
       - title: "Findings Accepted Papers"
         url: /program/accepted-findings/
+      - title: "Accepted Tutorials"
+        url: /program/tutorials/
 
 calls:
   - title: Call for
