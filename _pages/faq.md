@@ -50,4 +50,4 @@ A: Yes. We will allow this since the ACL 2023 submission deadline and the EACL 2
 
 ### Q: How do I obtain a visa invitation letter?
 
-A: Requests for visa invitation letters should be sent to Jennifer Rachford ([acl.rachford@gmail.com](mailto:acl.rachford@gmail.com)). This information is included in your acceptance notification email.
+A: Requests for visa invitation letters should be sent to Daša Farkaš, University of Zagreb ([dfarkas@ffzg.hr](mailto:dfarkas@ffzg.hr)). This information is included in your acceptance notification email.
