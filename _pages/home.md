@@ -20,7 +20,7 @@ excerpt: "<br/><br/>"
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2 id="eacl-2023-demo">Call for Diversion & Inclusion Subsidies posted</h2>
+  <h2 id="eacl-2023-demo">Call for Diversity & Inclusion Subsidies posted</h2>
   **February 14, 2023**. The [Call for D&I Subsidies]({{ "/calls/d-i-subsidies" | relative_url }}) is out!
   Deadline for submission is **Monday, March 27th, 2023**.
 </div>
