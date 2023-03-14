@@ -20,6 +20,10 @@ main:
 program:
   - title: Program
     children:
+      - title: "EACL 2023 Program of Events"
+        url: /program/main/
+      - title: "Invited Speakers"
+        url: /program/invited/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
