@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Program"
-    url: /program/workshops
+    url: /program/main
   - title: "Calls"
     url: /calls/papers
   - title: "Code of Conduct"
