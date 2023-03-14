@@ -19,7 +19,7 @@ toc_icon: "cog"
     <td><b>Tutorial</b></td>
     <td><b>Date</b></td>
     <td><b>Time</b></td>
-    <td><b>Room</b></td>
+    <!-- <td><b>Room</b></td> -->
   </tr>
   <tr>
   <td><b>Mining, Assessing, and Improving Arguments in NLP and the Social Sciences</b> <br/> 
@@ -27,7 +27,7 @@ Gabriella Lapesa, Eva Maria Vecchi, Serena Villata and Henning Wachsmuth
     </td>
     <td>Friday May 5</td>
     <td>9:00 - 18:00</td>
-    <td>Elafiti 3</td>
+    <!-- <td>Elafiti 3</td> -->
   </tr>
 
   <tr>
@@ -36,7 +36,7 @@ Sanja Stajner and Roman Klinger
     </td>
     <td>Friday May 5</td>
     <td>9 - 12:45</td>
-    <td>Elafiti 4</td>
+    <!-- <td>Elafiti 4</td> -->
   </tr>
 
   <tr>
@@ -45,7 +45,7 @@ Diyi Yang and Chenguang Zhu
     </td>
     <td>Friday May 5</td>
     <td>14:15 - 18:00</td>
-    <td>Elafiti 4</td>
+    <!-- <td>Elafiti 4</td> -->
   </tr>
    <tr>
     <td><b>Understanding Ethics in NLP Authoring and Reviewing</b>  <br/>               
@@ -53,7 +53,7 @@ Luciana Benotti, Karën Fort, Min-Yen Kan and Yulia Tsvetkov
     </td>
     <td>Saturday May 6</td>
     <td>9 - 12:45</td>
-    <td>Elafiti 4</td>
+    <!-- <td>Elafiti 4</td> -->
   </tr>
 
   <tr>
@@ -62,7 +62,7 @@ Kevin Duh and Xuan Zhang
     </td>
     <td>Saturday May 6</td>
     <td>14:15 - 18:00</td>
-    <td>Elafiti 3</td>
+    <!-- <td>Elafiti 3</td> -->
   </tr>
 
   <tr>
@@ -71,6 +71,6 @@ Ivan Habernal, Fatemehsadat Mireshghallah, Patricia Thaine, Sepideh Ghanavati an
     </td>
     <td>Saturday May 6</td>
     <td>14:15 - 18:00</td>
-    <td>Elafiti 4</td>
+    <!-- <td>Elafiti 4</td> -->
   </tr>
 </table>
