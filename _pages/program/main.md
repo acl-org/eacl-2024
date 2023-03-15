@@ -15,13 +15,13 @@ toc_icon: "cog"
 
 <table>
   <tr style="background-color:#f1f2fa"><td colspan="2"><b>Monday May 1, 2023</b></td></tr>
-  <tr><td nowrap="nowrap">18:30 - 21:00</td> <td>Welcome Receptions</td></tr>
+  <tr><td nowrap="nowrap">18:30 - 21:00</td> <td>Welcome Reception</td></tr>
   <tr></tr>
 
   <tr style="background-color:#f1f2fa"><td colspan="2"><b>Tuesday May 2, 2023</b></td></tr>
   <tr><td>7:30</td> <td>  Registration</td></tr>
   <tr><td>9:00</td> <td>  Session 1  Welcome</td></tr>
-  <tr><td>9:30</td> <td>  Session 2 Keynote: Edward Grefenstette</td></tr>
+  <tr><td>9:30</td> <td>  Session 2 Keynote - Edward Grefenstette</td></tr>
   <tr><td>10:30</td> <td> Coffee Break</td></tr>
   <tr><td>11:15</td> <td> Session 3 Oral Sessions </td></tr>
   <tr><td>12:45</td> <td> Lunch Break </td></tr>
