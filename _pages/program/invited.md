@@ -25,7 +25,15 @@ toc_icon: "cog"
 
 
 <h2><a href="http://www.kevinmunger.com/" target="_blank">Kevin Munger</a></h2><br/>
+<img src="/assets/images/kevinmunger.jpg" alt="Kevin Munger">
+
+<b>Title:</b> Chatbots for Good and Evil <br/>
+
 <b>Date:</b> 3 May 14:45-15:45<br/>
+
+<b>Abstract:</b> The capacities of LLM-powered chatbots have been progressing on the order of months and have recently passed into mainstream public awareness and adoption. These tools have been used for a variety of scientific and policy interventions, but these advances call for a significant re-thinking of their place in society. Psychological research suggests that "intentionality" is a key factor in persuasion and social norm enforcement, and the proliferation of LLMs represents a significant shock to the "intentionality" contained in text and particularly in immediate, personalized chat. I argue that we are in a period of "informational disequilibrium," where different actors have different levels of awareness of this technological shock. This period may thus represent a golden age for actors aiming to use these technologies at scale, for any number of normative ends; this includes social scientists and computational linguists. More broadly, I argue that the "ethical" frameworks for evaluating research practices using LLM-powered chatbots are insufficient to the scale of the current challenge. This is a potentially revolutionary technology that requires thinking in moral and political terms: given the power imbalances involved, it is of paramount importance that chatbots for good do not inadvertently become chatbots for evil.<br/>
+
+<b>Speaker Bio:</b> Kevin Munger is the Jeffrey L. Hyde and Sharon D. Hyde and Political Science Board of Visitors Early Career Professor of Political Science and Assistant Professor of Political Science and Social Data Analytics at Penn State University.Kevin's research focuses on the implications of the internet and social media for the communication of political information. His speciality is the investigation of the economics of online media; current research models "Clickbait Media" and uses digital experiments to test the implications of these models on consumers of political information.
 
 <h2><a href="https://web.eecs.umich.edu/~chaijy/" target="_blank">Joyce Chai</a></h2><br/>
 <img src="/assets/images/joycechai.jpg" alt="Joyce Chai">
