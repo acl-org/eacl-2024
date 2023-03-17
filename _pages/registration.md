@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-Registration is projected to open Monday, 7 March 2023. We are making every effort to keep registration fees affordable. Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops. For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing. We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend a particular workshop(s).
+Registration is now open at: <a href="https://acl.swoogo.com/EACL2023" target="_blank">https://acl.swoogo.com/EACL2023</a> . We are making every effort to keep registration fees affordable. Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops. For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing. We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend a particular workshop(s).
 
 The in-person registration fee includes:
 - Admission to all in-person Meeting sessions and the exhibition as well as the entire virtual program
@@ -28,7 +28,7 @@ The virtual registration fee includes:
 - Attendance to all recorded sessions on demand for at least one month following the Meeting
 
 Note that:
-- Early registration will be open 7 March 2023 and ends 11 April 2023, 11:59 PM (EDT).
+- Early registration ends 11 April 2023, 11:59 PM (EDT).
 - Late registration starts 12 April 2023 and ends 1 May 2022, 11:59 PM (EDT).
 - On-site registration begins 2 May 2022.It is strongly advised that onsite registration be completed and paid before you arrive at the registration desk. Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
 - If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed. Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference.

@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-registration">Registration is now open!</h2>
+  **March 17, 2023**. The registration for EACL 2023 is now open, check the [registration page]({{ "/registration" | relative_url }}) for more details!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-tutorials">Accepted Tutorials</h2>
   **February 27, 2023**. The accepted [tutorials]({{ "/program/tutorials" | relative_url }}) are now available online!
 </div>
