@@ -61,6 +61,12 @@ Daša Farkaš, University of Zagreb (contact: <a href="mailto:dfarkas@ffzg.hr">d
 
 ### Website Chairs
 <a href="https://apepa.github.io/">Pepa Atanasova</a>, University of Copenhagen<br/>
-<a href="https://www.linkedin.com/in/julius-cheng-0040799/">Julius Cheng</a>, University of Cambridge
+<a href="https://www.linkedin.com/in/julius-cheng-0040799/">Julius Cheng</a>, University of Cambridge<br/>
+
+### Ukraine Local Committee
+Viktoria Kolomiets, Grammarly<br/>
+Mariana Romanyshyn, Grammarly<br/>
+Oleksii Molchanovskyi, Ukrainian Catholic University<br/>
+Oles Dobosevych, Ukrainian Catholic University
 
 
