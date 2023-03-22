@@ -13,6 +13,33 @@ toc_icon: "cog"
 
 Registration is now open at: <a href="https://acl.swoogo.com/EACL2023" target="_blank">https://acl.swoogo.com/EACL2023</a> . We are making every effort to keep registration fees affordable. Please note that, for the virtual attendees, by paying the registration fee, you will enjoy full access to all tutorials, main conference, and workshops. For in-person attendees, by paying the full registration fee, you will be able to attend all tutorials, main conference, and workshops of your choosing. We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend a particular workshop(s).
 
+The registration fees are as follows:
+<table>
+  <tr style="background-color:#cccccc">
+    <td><b>Type</b></td>
+    <td><b>In-Person</b></td>
+    <td><b>Virtual</b></td>
+  </tr>
+
+  <tr><td>Regular Early</td><td>$850.00</td><td>$350.00</td></tr>
+  <tr><td>Regular Late</td><td>$925.00</td><td>$450.00</td></tr>
+  <tr><td>Regular Onsite</td><td>$1,000.00</td><td>$450.00</td></tr>
+  <tr><td>Regular Early</td><td>$300.00</td><td>$150.00</td></tr>
+  <tr><td>Regular Late</td><td>$375.00</td><td>$200.00</td></tr>
+  <tr><td>Regular Onsite</td><td>$450.00</td><td>$200.00</td></tr>
+  <tr><td>In-person Workshop Only - Regular Early</td><td>$300.00</td><td>N/A</td></tr>
+  <tr><td>In-person Workshop Only - Regular Late</td><td>$350.00</td><td>N/A</td></tr>
+  <tr><td>In-person Workshop Only - Onsite</td><td>$450.00</td><td>N/A</td></tr>
+  <tr><td>In-person Workshop Only - Student Early</td><td>$100.00</td><td>N/A</td></tr>
+  <tr><td>In-person Workshop Only - Student Late</td><td>$150.00</td><td>N/A</td></tr>
+  <tr><td>In-person Workshop Only - Student Onsite</td><td>$250.00</td><td>N/A</td></tr>
+  <tr><td>Volunteers</td><td>$0.00</td><td>$0.00</td></tr>
+  <tr><td>D&I Awardees</td><td>$0.00</td><td>$0.00</td></tr>
+  <tr><td>Ukrainian Student Awardees</td><td>$0.00</td><td>$0.00</td></tr>
+  <tr><td>Invited Speakers/Workshop/Tutorial Presenters (1 Per Workshop/Tutorial)</td><td>$0.00</td><td>$0.00</td></tr>
+  <tr><td>Sponsors/Exhibitors Per 2023 Sponsorship Brochure</td><td>$0.00</td><td>$0.00</td></tr>
+</table>
+
 The in-person registration fee includes:
 - Admission to all in-person Meeting sessions and the exhibition as well as the entire virtual program
 - Conference Bag and Materials
@@ -28,9 +55,9 @@ The virtual registration fee includes:
 - Attendance to all recorded sessions on demand for at least one month following the Meeting
 
 Note that:
-- Early registration ends 11 April 2023, 11:59 PM (EDT).
-- Late registration starts 12 April 2023 and ends 1 May 2022, 11:59 PM (EDT).
-- On-site registration begins 2 May 2022.It is strongly advised that onsite registration be completed and paid before you arrive at the registration desk. Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
+- **Early registration ends 11 April 2023, 11:59 PM (EDT)**.
+- **Late registration starts 12 April 2023 and ends 1 May 2022, 11:59 PM (EDT)**.
+- **On-site registration begins 2 May 2022**.It is strongly advised that onsite registration be completed and paid before you arrive at the registration desk. Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
 - If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed. Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference.
                   
 
