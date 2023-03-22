@@ -56,8 +56,8 @@ The virtual registration fee includes:
 
 Note that:
 - **Early registration ends 11 April 2023, 11:59 PM (EDT)**.
-- **Late registration starts 12 April 2023 and ends 1 May 2022, 11:59 PM (EDT)**.
-- **On-site registration begins 2 May 2022**.It is strongly advised that onsite registration be completed and paid before you arrive at the registration desk. Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
+- **Late registration starts 12 April 2023 and ends 1 May 2023, 11:59 PM (EDT)**.
+- **On-site registration begins 2 May 2023**.It is strongly advised that onsite registration be completed and paid before you arrive at the registration desk. Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
 - If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed. Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference.
                   
 
@@ -67,7 +67,7 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 ## Reduced Rate Memberships
 The ACL offers a discount to members from developing countries. We hope this discount will allow for more people from these countries to become a part of the ACL and enjoy its benefits. To be able to benefit from reduced rate memberships, you need to become a member through the ACL portal. You can then register for the conference as a member. For more information follow this link: [https://www.aclweb.org/portal/content/membership-fees](https://www.aclweb.org/portal/content/membership-fees)
 
-## ACL 2022 Conference Cancellation Policy:
+## ACL 2023 Conference Cancellation Policy:
 Conference Cancelation Policy:
 Anyone cancelling their registration one month (April 2, 2023), or more prior to the conference will be refunded the full amount paid.
 
