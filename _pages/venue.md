@@ -24,7 +24,7 @@ A block of rooms has been reserved for our guests at a discounted rate.
 
 Please reference the link below when making your reservations.
 
-Kindly reserve your room by April 18, 2023, while supplies last.
+Kindly reserve your room by April 1, 2023, while supplies last.
 
 Make sure to click on the dates you are traveling as the hotel has extended our inclusive rate 3 day before and after the conference for you to enjoy a Croation (Croatia+Vacation) based on availability. 
 
