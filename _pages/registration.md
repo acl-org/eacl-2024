@@ -64,6 +64,9 @@ Note that:
 ## ACL Membership
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2023) ACL member. So, in addition to the above registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2023 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
 
+## Visas
+Once you register you will receive a letter of invitation that you can use for your visa process. Please email Daša Farkaš, University of Zagreb \([dfarkas@ffzg.hr](mailto:dfarkas@ffzg.hr)\) for any special visa requests once registered.
+
 ## Reduced Rate Memberships
 The ACL offers a discount to members from developing countries. We hope this discount will allow for more people from these countries to become a part of the ACL and enjoy its benefits. To be able to benefit from reduced rate memberships, you need to become a member through the ACL portal. You can then register for the conference as a member. For more information follow this link: [https://www.aclweb.org/portal/content/membership-fees](https://www.aclweb.org/portal/content/membership-fees)
 
