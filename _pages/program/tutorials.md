@@ -22,7 +22,7 @@ toc_icon: "cog"
     <!-- <td><b>Room</b></td> -->
   </tr>
   <tr>
-  <td><b>Mining, Assessing, and Improving Arguments in NLP and the Social Sciences</b> <br/> 
+  <td><b><a href="https://sites.google.com/view/argmintutorialeacl2023/home-page" target="_blank">Mining, Assessing, and Improving Arguments in NLP and the Social Sciences</a></b><br/> 
 Gabriella Lapesa, Eva Maria Vecchi, Serena Villata and Henning Wachsmuth
     </td>
     <td>Friday May 5</td>
