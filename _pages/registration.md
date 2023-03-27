@@ -24,9 +24,9 @@ The registration fees are as follows:
   <tr><td>Regular Early</td><td>$850.00</td><td>$350.00</td></tr>
   <tr><td>Regular Late</td><td>$925.00</td><td>$450.00</td></tr>
   <tr><td>Regular Onsite</td><td>$1,000.00</td><td>$450.00</td></tr>
-  <tr><td>Regular Early</td><td>$300.00</td><td>$150.00</td></tr>
-  <tr><td>Regular Late</td><td>$375.00</td><td>$200.00</td></tr>
-  <tr><td>Regular Onsite</td><td>$450.00</td><td>$200.00</td></tr>
+  <tr><td>Student Early</td><td>$300.00</td><td>$150.00</td></tr>
+  <tr><td>Student Late</td><td>$375.00</td><td>$200.00</td></tr>
+  <tr><td>Student Onsite</td><td>$450.00</td><td>$200.00</td></tr>
   <tr><td>In-person Workshop Only - Regular Early</td><td>$300.00</td><td>N/A</td></tr>
   <tr><td>In-person Workshop Only - Regular Late</td><td>$350.00</td><td>N/A</td></tr>
   <tr><td>In-person Workshop Only - Onsite</td><td>$450.00</td><td>N/A</td></tr>
