@@ -16,6 +16,8 @@ main:
     url: /venue
   - title: "Registration"
     url: /registration
+  - title: "Sponsors"
+    url: /sponsors
 
 program:
   - title: Program
@@ -60,6 +62,14 @@ ethics:
 
 committees:
   - title: Committees
+    children:
+      - title: "Organizing"
+        url: /committees/organization/
+      - title: "Senior Program"
+        url: /committees/program/
+
+committees:
+  - title: Sponsors
     children:
       - title: "Organizing"
         url: /committees/organization/
