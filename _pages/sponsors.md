@@ -37,7 +37,7 @@ bronze:
     image_path: /assets/images/logos/adobe.png
     alt: Adobe
     title: Adobe
-  - url: https://research.adobe.com/
+  - url: https://babelscape.com/
     image_path: /assets/images/logos/babelscape.png
     alt: Babelscape
     title: Babelscape
