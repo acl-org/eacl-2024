@@ -50,6 +50,8 @@ calls:
         url: /calls/styles/
       - title: "Diversity & Inclusion Subsidies"
         url: /calls/d-i-subsidies/
+      - title: "Volunteers"
+        url: /calls/volunteers/
 
 ethics:
   - title: Ethics
