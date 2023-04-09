@@ -71,7 +71,7 @@ toc_icon: "cog"
   <tr></tr>
 
   <tr style="background-color:#f1f2fa"><td colspan="2"><b>Saturday May 6, 2023</b></td></tr>
-  <tr><td></td><td>Workshops 7 - Workshop Proposal: The Sixth Workshop on Technologies for Machine Translation of Low Resource Languages (LoResMT 2023)</td></tr>
+  <tr><td></td><td>Workshops 7 - The Sixth Workshop on Technologies for Machine Translation of Low Resource Languages (LoResMT 2023)</td></tr>
   <tr><td></td><td>Workshops 8 - The 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</td></tr>
   <tr><td></td><td>Workshops 9 - SlavNLP-2023: The 9th Biennial Workshop on Slavic NLP</td></tr>
   <tr><td></td><td>Workshops 10 - The fourth workshop on Resources for African Indigenous Languages (RAIL)</td></tr>
