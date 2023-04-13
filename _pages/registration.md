@@ -27,12 +27,12 @@ The registration fees are as follows:
   <tr><td>Student Early</td><td>$300.00</td><td>$150.00</td></tr>
   <tr><td>Student Late</td><td>$375.00</td><td>$200.00</td></tr>
   <tr><td>Student Onsite</td><td>$450.00</td><td>$200.00</td></tr>
-  <tr><td>In-person Workshop Only - Regular Early</td><td>$300.00</td><td>N/A</td></tr>
-  <tr><td>In-person Workshop Only - Regular Late</td><td>$350.00</td><td>N/A</td></tr>
-  <tr><td>In-person Workshop Only - Onsite</td><td>$450.00</td><td>N/A</td></tr>
-  <tr><td>In-person Workshop Only - Student Early</td><td>$100.00</td><td>N/A</td></tr>
-  <tr><td>In-person Workshop Only - Student Late</td><td>$150.00</td><td>N/A</td></tr>
-  <tr><td>In-person Workshop Only - Student Onsite</td><td>$250.00</td><td>N/A</td></tr>
+  <tr><td>Workshop/Tutorial Only - Regular Early</td><td>$300.00</td><td>$150.00</td></tr>
+  <tr><td>Workshop/Tutorial Only - Regular Late</td><td>$350.00</td><td>$200.00</td></tr>
+  <tr><td>Workshop/Tutorial Only - Onsite</td><td>$450.00</td><td>$250.00</td></tr>
+  <tr><td>Workshop/Tutorial Only - Student Early</td><td>$100.00</td><td>$75.00</td></tr>
+  <tr><td>Workshop/Tutorial Only - Student Late</td><td>$150.00</td><td>$125.00</td></tr>
+  <tr><td>Workshop/Tutorial Only - Student Onsite</td><td>$250.00</td><td>$175.00</td></tr>
   <tr><td>Volunteers</td><td>$0.00</td><td>$0.00</td></tr>
   <tr><td>D&I Awardees</td><td>$0.00</td><td>$0.00</td></tr>
   <tr><td>Ukrainian Student Awardees</td><td>$0.00</td><td>$0.00</td></tr>
