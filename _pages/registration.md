@@ -36,7 +36,7 @@ The registration fees are as follows:
   <tr><td>Volunteers</td><td>$0.00</td><td>$0.00</td></tr>
   <tr><td>D&I Awardees</td><td>$0.00</td><td>$0.00</td></tr>
   <tr><td>Ukrainian Student Awardees</td><td>$0.00</td><td>$0.00</td></tr>
-  <tr><td>Invited Speakers/Workshop/Tutorial Presenters (1 Per Workshop/Tutorial)</td><td>$0.00</td><td>$0.00</td></tr>
+  <tr><td>Invited Speakers/Workshop/Tutorial Presenters (1 Per Workshop/ 3 Per Tutorial)</td><td>$0.00</td><td>$0.00</td></tr>
   <tr><td>Sponsors/Exhibitors Per 2023 Sponsorship Brochure</td><td>$0.00</td><td>$0.00</td></tr>
 </table>
 
