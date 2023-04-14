@@ -31,7 +31,7 @@ Gabriella Lapesa, Eva Maria Vecchi, Serena Villata and Henning Wachsmuth
   </tr>
 
   <tr>
-    <td><b>Emotion Analysis from Texts</b><br/>
+    <td><b><a href="https://eacl2023tutorial.github.io/">Emotion Analysis from Texts</a></b><br/>
 Sanja Stajner and Roman Klinger
     </td>
     <td>Friday May 5</td>
