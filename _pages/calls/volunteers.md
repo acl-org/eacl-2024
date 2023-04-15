@@ -12,7 +12,8 @@ toc_icon: "cog"
 ---
 
 # NEW: ACCEPTED VOLUNTEERS
-We are pleased to inform you that application process for volunteering at the 17th Conference of the European Chapter of the Association for Computational Linguistics has been completed. The list of accepted applicants for volunteering can be found <a href="/downloads/EACL_2023_volonteers_list_stripped.xlsx" download>here</a>.
+We are pleased to inform you that application process for volunteering at the 17th Conference of the European Chapter of the Association for Computational Linguistics has been completed. The list of accepted applicants for volunteering can be found <a href="/downloads/EACL_2023_volonteers_list_stripped.xlsx" download>here</a>. <b>Please, confirm your acceptance as the EACL2023 volunteer by email to Krešimir Šojat (ksojat@ffzg.unizg.hr) by April 19, 2023.</b>
+
 The main conference starts on May 2, 2023. The workshops and tutorials end on May 6, 2023.
 The meeting of organisers with volunteers will take place on May 1st at the venue:
 
