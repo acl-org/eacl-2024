@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-volunteers">Accepted volunteers!</h2>
+  **April 15, 2023**. The list of accepted volunteers is now available [here]({{ "/calls/volunteers" | relative_url }}) ! Please, make sure to confirm your participation by e-mail in case of acceptance!
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-registration">Registration is now open!</h2>
   **March 17, 2023**. The registration for EACL 2023 is now open, check the [registration page]({{ "/registration" | relative_url }}) for more details!
 </div>
