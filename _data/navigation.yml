@@ -34,6 +34,8 @@ program:
         url: /program/accepted/
       - title: "Findings Accepted Papers"
         url: /program/accepted-findings/
+      - title: "System Demonstrations Accepted Papers"
+        url: /program/accepted-demos/
 
 calls:
   - title: Call for
