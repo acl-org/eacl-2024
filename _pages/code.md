@@ -5,7 +5,7 @@ excerpt: "EACL 2023 Code of Conduct."
 permalink: /code/
 ---
 
-By registering, participants acknowledge and agree to follow the [ACL's code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), the [ACL's anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and the ACL code of conduct below. Violations against those should be reported to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) or/and [EACL exec board](http://eacl.org/general/#officers). You can also report incidents in the PCC RocketChat channel, your messages will be treated absolutely confidential.
+By registering, participants acknowledge and agree to follow the [ACL's code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), the [ACL's anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and the ACL code of conduct below. Violations against those should be reported to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) or/and [EACL exec board](http://eacl.org/general/#officers).
  
 ## ACL Code of Conduct
 The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the aims and goals of the ACL. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, ACL is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs.
