@@ -57,7 +57,7 @@ Luciana Benotti, Karën Fort, Min-Yen Kan and Yulia Tsvetkov
   </tr>
 
   <tr>
-    <td><b>AutoML for NLP</b><br/>
+    <td><b><a href="https://www.cs.jhu.edu/~kevinduh/a/automl-tutorial-2023/">AutoML for NLP</a></b><br/>
 Kevin Duh and Xuan Zhang
     </td>
     <td>Saturday May 6</td>
