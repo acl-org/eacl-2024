@@ -91,3 +91,30 @@ Ways to get to the [Valamar Lacroma](https://www.valamar.com/en/hotels-dubrovnik
 **Shuttle** can take 24 – 45 min. cost is €10 – €18 Euros
 
 **Bus:** line 6 bus· 55 min. €11 – €12 Euros
+
+## Poster Printing
+
+For those of you who need to print your posters and plan to do so in Dubrovnik, the onsite team has connected with the local printer and put the following together to assist in printing and collecting your Poster. 
+
+### Poster Details: 
+
+Poster size : A0 Portrait <br/>
+Specs for bleeds : minimum 3mm bleed<br/>
+Format : pdf document in vector format<br/>
+
+Email to send : katija@adria-congress.com with the following information boldened: (please note this is needed for pick up) <br/>
+
+<b>Author Name</b><br/>
+<b>Paper ID</b><br/>
+<b>Day of presentation</b><br/>
+<b>Time of presentation</b><br/>
+
+<b>Details with blank spaces (bold) should be filled by the poster author</b>
+
+Price per poster : $65 (inclusive) to be paid at the registration desk upon poster pick up. All posters must be paid for before they can collect.
+
+Posters will be delivered daily around 3PM CET (Dubrovnik time) the next day after the poster has been sent for printing.
+
+ACL will be onsite to collect payment either through CC or cash. You can head to the ACL office for payment and pick up. 
+
+
