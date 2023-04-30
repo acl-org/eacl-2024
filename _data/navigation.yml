@@ -36,6 +36,8 @@ program:
         url: /program/accepted-findings/
       - title: "System Demonstrations Accepted Papers"
         url: /program/accepted-demos/
+      - title: "Birds-of-a-Feather Meetups"
+        url: /program/bof/
 
 calls:
   - title: Call for
