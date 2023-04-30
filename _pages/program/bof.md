@@ -37,9 +37,10 @@ At EACL 2023, we are continuing the tradition of conducting birds-of-a-feather (
 <tr><td>Linguistic variation</td>  <td>Tuesday, 2 May </td><td> 16:30 - 17:15</td><td> Alan Ramponi </td> <td>Glass</td></tr>
 <tr><td>Information extraction</td>  <td>Tuesday, 2 May </td><td> 17:15-18:15</td><td> Parisa  Kordjamshidi</td>  <td>Glass</td></tr>
 <tr><td>Literary text analysis</td>  <td>Wednesday, 3 May </td><td> 9:30 - 10:30</td><td>  Yuri Bizzoni</td>  <td>Glass</td></tr>
-<tr><td>NLP in industry vs. academia</td>  <td>Wednesday, 3 May </td><td> 9:30 - 10:30</td><td>  Christos Christodoulopoulos Elafiti</td> <td>Ballroom 1</td></tr>
+<tr><td>NLP in industry vs. academia</td>  <td>Wednesday, 3 May </td><td> 9:30 - 10:30</td><td>  Christos Christodoulopoulos </td> <td>Elafiti Ballroom 1</td></tr>
+<tr><td>ARR info session</td>  <td>Wednesday, 3 May </td><td> 13:30 - 14:40</td><td>  ARR editors in chief </td> <td>Glass</td></tr>
 <tr><td>Multilinguality</td> <td>Thursday, 4 May </td><td> 9:30 - 10:30</td><td>  Koustava Goswami </td> <td>Glass</td></tr>
-<tr><td>NLP in healthcare</td> <td>Thursday, 4 May </td><td> 9:30 - 10:30</td><td>  Lifeng  Han   Elafiti</td> <td>Ballroom 1</td></tr>
+<tr><td>NLP in healthcare</td> <td>Thursday, 4 May </td><td> 9:30 - 10:30</td><td>  Lifeng  Han </td> <td>Elafiti Ballroom 1</td></tr>
 
 </table>
 
