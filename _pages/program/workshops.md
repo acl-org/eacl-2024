@@ -16,14 +16,16 @@ toc_icon: "cog"
     <td><b>Workshop</b></td>
     <td><b>Acronym</b></td>
     <td><b>Day</b></td>
-    <!-- <td><b>Room</b></td> -->
+    <td><b>Poster Time</b></td>
+    <td><b>Room</b></td>
   </tr>
   <tr>
     <td><a href='https://insights-workshop.github.io/'>Fourth Workshop on Insights from Negative Results in NLP</a>
     </td>
     <td>Insights</td>
     <td>Friday May 5</td>
-    <!-- <td>Elafiti 1</td> -->
+    <td>16:30 - 18:00</td>
+    <td>Elafiti 4</td>
   </tr>
 
   <tr>
@@ -31,7 +33,8 @@ toc_icon: "cog"
     </td>
     <td>VarDial</td>
     <td>Friday May 5</td>
-    <!-- <td>Elafiti 2</td> -->
+    <td>16:15 - 18:00</td>
+    <td>Divona 1</td>
   </tr>
 
   <tr>
@@ -39,14 +42,16 @@ toc_icon: "cog"
     </td>
     <td>C3NLP</td>
     <td>Friday May 5</td>
-    <!-- <td>Elafiti Foyer</td> -->
+    <td>No Posters</td>
+    <td>Elafiti 3</td>
   </tr>
 
   <tr>
     <td><a href='https://unlp.org.ua/'>The Second Ukrainian Natural Language Processing Workshop</a></td>
     <td>UNLP</td>
     <td>Friday May 5</td>
-    <!-- <td>Divona 1</td> -->
+    <td>No Posters </td>
+    <td>Bokar, Virtual</td>
   </tr>
 
   <tr>
@@ -54,7 +59,8 @@ toc_icon: "cog"
     </td>
     <td>FEVER</td>
     <td>Friday May 5</td>
-    <!-- <td>Dinvona 2</td> -->
+    <td>12:00 - 12:45</td>
+    <td>Divona 2</td>
   </tr>
 
   <tr>
@@ -62,7 +68,8 @@ toc_icon: "cog"
     </td>
     <td>LaTeCH-CLfL</td>
     <td>Friday May 5</td>
-    <!-- <td>Asimon</td> -->
+    <td>14:15-15:45</td>
+    <td>Asimon</td>
   </tr>
 
   <tr>
@@ -70,14 +77,16 @@ toc_icon: "cog"
     </td>
     <td>LoResMT</td>
     <td>Saturday May 6</td>
-    <!-- <td>Elafiti 1</td> -->
+    <td>No Posters </td>
+    <td>Elafiti 4</td>
   </tr>
 
   <tr>
       <td><a href='https://sigtyp.github.io/workshop.html'>The 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP</a></td> 
       <td>SIGTYP</td>
       <td>Saturday May 6</td>
-      <!-- <td>Elafiti 2</td> -->
+      <td>No Posters </td>
+      <td>Elafiti 3</td>
     </tr>
 
   <tr>
@@ -85,14 +94,16 @@ toc_icon: "cog"
     </td>
     <td>SlavNLP</td>
     <td>Saturday May 6</td>
-    <!-- <td>Elafiti Foyer</td> -->
+    <td>15:45 - 17:00</td>
+    <td>Divona 1</td>
   </tr>
 
   <tr>
     <td><a href='https://sadilar.org/index.php/en/2/374'>The Fourth Workshop on Resources for African Indigenous Languages</a></td>
     <td>RAIL</td>
     <td>Saturday May 6</td>
-    <!-- <td>Dinvona 1</td> -->
+    <td>No Posters </td>
+    <td>Divona 2</td>
   </tr>
 
   <tr>
@@ -100,7 +111,8 @@ toc_icon: "cog"
     </td>
     <td>MWE</td>
     <td>May 6, 2023</td>
-    <!-- <td>Dinvona 2</td> -->
+    <td>16:15 - 17:15</td>
+    <td>Bokar</td>
   </tr>
 
   <tr>
@@ -108,7 +120,8 @@ toc_icon: "cog"
     </td>
     <td>Field Matters</td>
     <td>May 6, 2023</td>
-    <!-- <td>Asimon</td> -->
+    <td>16:30 - 18:00</td>
+    <td>Asimon</td>
   </tr>
 
 </table>
