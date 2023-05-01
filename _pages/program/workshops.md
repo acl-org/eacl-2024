@@ -27,7 +27,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td><a href='https://sites.google.com/view/vardial-2023?pli=1'>Tenth Workshop on NLP for Similar Languages, Varieties and Dialects</a>
+    <td><a href='https://sites.google.com/view/vardial-2023?pli=1'>Tenth Workshop on NLP for Similar Languages, Varieties and Dialects</a> (<a href="https://aclanthology.org/events/eacl-2023/#2023vardial-1" target='_blank'>ACL Anthology</a>)
     </td>
     <td>VarDial</td>
     <td>Friday May 5</td>

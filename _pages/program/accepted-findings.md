@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h1>Findings Accepted Papers</h1>
 
-<!-- Read more about the conference program and check out the conference schedule. -->
+*You can find the findings accepted papers in the ACL Anthology: <a href="https://aclanthology.org/events/eacl-2023/#2023findings-eacl" target="_blank">https://aclanthology.org/events/eacl-2023/#2023findings-eacl</a>*
 
 # Long Papers
 

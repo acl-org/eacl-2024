@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-proceedings">EACL 2023 proceedings are now available!</h2>
+  **May 1, 2023**. The proceedings for EACL 2023 are now available in the <a href="https://aclanthology.org/events/eacl-2023/" target="_blank">ACL Anthology</a>! 
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-volunteers">Accepted volunteers!</h2>
   **April 15, 2023**. The list of accepted volunteers is now available [here]({{ "/calls/volunteers" | relative_url }}) ! Please, make sure to confirm your participation by e-mail in case of acceptance!
 </div>

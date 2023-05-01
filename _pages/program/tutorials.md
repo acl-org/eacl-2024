@@ -13,6 +13,8 @@ toc_icon: "cog"
 
 <h1>Accepted Tutorials</h1>
 
+*You can find the accepted tutorial abstracts in the ACL Anthology: <a href="https://aclanthology.org/events/eacl-2023/#2023eacl-tutorials" target="_blank">https://aclanthology.org/events/eacl-2023/#2023eacl-tutorials</a>*
+
 
 <table>
   <tr style="background-color:#cccccc">
