@@ -9,10 +9,10 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
-<div class="notice--info" markdown="1">
+<!-- <div class="notice--info" markdown="1">
   <h2 id="eacl-2023-handbook">EACL 2023 handbook!</h2>
   **May 1, 2023**. The conference handbook is now available, providing a brief overview of the important aspects of the programme: <a href="" target="_blank"></a>.
-</div>
+</div> -->
 
 <div class="notice--info" markdown="1">
   <h2 id="eacl-2023-proceedings">EACL 2023 proceedings are now available!</h2>
