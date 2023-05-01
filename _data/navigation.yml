@@ -26,6 +26,8 @@ program:
         url: /program/main/
       - title: "Invited Speakers"
         url: /program/invited/
+      - title: "Social Event"
+        url: /program/social/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
