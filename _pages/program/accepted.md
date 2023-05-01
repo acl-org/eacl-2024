@@ -13,6 +13,8 @@ toc_icon: "cog"
 
 <h1>Main Conference Accepted Papers</h1>
 
+*You can find the main conference accepted papers in the ACL Anthology: <a href="https://aclanthology.org/events/eacl-2023/#2023eacl-main" target="_blank">https://aclanthology.org/events/eacl-2023/#2023eacl-main</a>*
+
 <!-- Read more about the conference program and check out the conference schedule. -->
 
 # Long Papers

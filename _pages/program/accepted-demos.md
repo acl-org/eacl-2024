@@ -13,6 +13,9 @@ toc_icon: "cog"
 
 <h1>System Demonstrations–Accepted Papers</h1>
 
+*You can find the accepted system demonstration papers in the ACL Anthology: <a href="https://aclanthology.org/events/eacl-2023/#2023eacl-demo" target="_blank">https://aclanthology.org/events/eacl-2023/#2023eacl-demo</a>*
+
+
 <b>Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains</b><br/>Alon Albalak, Sharon Levy and William Yang Wang<br/><br/>
 <b>CodeAnno: Extending WebAnno with Hierarchical Document Level Annotation and Automation</b><br/>Florian Schneider, Seid Muhie Yimam, Fynn Petersen-Frey, Gerret von Nordheim, Katharina Kleinen-von Königslöw and Chris Biemann<br/><br/>
 <b>NLP Workbench: Efficient and Extensible Integration of State-of-the-art Text Mining Tools</b><br/>Peiran Yao, Matej Kosmajac, Abeer Waheed, Kostyantyn Guzhva, Natalie Hervieux and Denilson Barbosa<br/><br/>
