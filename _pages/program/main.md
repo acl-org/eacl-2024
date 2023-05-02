@@ -14,6 +14,8 @@ toc_icon: "cog"
 <h1>EACL 2023 Program of Events</h1>
 
 *You can find the proceedings for EACL 2023 in the ACL Anthology: <a href="https://aclanthology.org/events/eacl-2023/" target="_blank">https://aclanthology.org/events/eacl-2023/</a>*
+<br/> <br/>
+***You can find the most up-to-date schedule for EACL 2023 in <a href="https://underline.io/events/383/schedule?timeZone=Europe%2FMadrid&day=2023-05-02T16%3A30%3A00.000Z" target="_blank">Underline</a>!***
 
 
 <table>
