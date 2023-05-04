@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="eacl-2023-internet">Hotel Internet</h2>
+The hotel venue lost Internet due construction nearby. The plenary Keynote is being recorded for you to view later. 
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="eacl-2023-handbook">EACL 2023 handbook!</h2>
   **May 1, 2023**. The conference handbook <a href="/downloads/handbook-1.pdf" download>(download link)</a> is now available, providing a brief overview of the important aspects of the programme. *Note that you can find the most up-to-date schedule for EACL 2023 in <a href="https://underline.io/events/383/schedule?timeZone=Europe%2FMadrid&day=2023-05-02T16%3A30%3A00.000Z" target="_blank">Underline</a>!*
 </div>
