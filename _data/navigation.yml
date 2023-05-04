@@ -38,6 +38,8 @@ program:
         url: /program/accepted-findings/
       - title: "System Demonstrations Accepted Papers"
         url: /program/accepted-demos/
+      - title: "Best Paper Awards"
+        url: /program/best-paper/
       - title: "Birds-of-a-Feather Meetups"
         url: /program/bof/
 
