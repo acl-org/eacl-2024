@@ -1,23 +1,11 @@
 # main links
 main:
-  - title: "Program"
-    url: /program/main
   - title: "Calls"
-    url: /calls/papers
-  - title: "Code of Conduct"
-    url: /code
-  - title: "Ethics"
-    url: /ethics/faq
+    url: /calls/workshops
   - title: "Committees"
     url: /committees/organization
-  - title: "FAQ"
-    url: /faq
   - title: "Venue"
     url: /venue
-  - title: "Registration"
-    url: /registration
-  - title: "Sponsors"
-    url: /sponsors
 
 program:
   - title: Program
@@ -46,21 +34,9 @@ program:
 calls:
   - title: Call for
     children:
-      - title: "Main Conference Papers"
-        url: /calls/papers/
-      - title: "System Demonstrations"
-        url: /calls/demos/
       - title: "Workshops"
         url: /calls/workshops/
-      - title: "Student Workshop"
-        url: /calls/student/
-      - title: "Style Files and Formatting"
-        url: /calls/styles/
-      - title: "Diversity & Inclusion Subsidies"
-        url: /calls/d-i-subsidies/
-      - title: "Volunteers"
-        url: /calls/volunteers/
-
+      
 ethics:
   - title: Ethics
     children:
@@ -72,14 +48,6 @@ ethics:
 
 committees:
   - title: Committees
-    children:
-      - title: "Organizing"
-        url: /committees/organization/
-      - title: "Senior Program"
-        url: /committees/program/
-
-committees:
-  - title: Sponsors
     children:
       - title: "Organizing"
         url: /committees/organization/
