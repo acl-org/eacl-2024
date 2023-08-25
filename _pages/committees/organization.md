@@ -1,72 +1,59 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "EACL 2023 organizing committee."
+excerpt: "EACL 2024 organizing committee."
 permalink: /committees/organization/
 sidebar:
   nav: committees
 ---
 
 ### General Chair
-<a href="http://disi.unitn.it/~moschitti/">Alessandro Moschitti</a>, Amazon Alexa
+<a href="http://michael.kimstrube.de/">Michael Strube</a>, Heidelberg Institute for Theoretical Studies
 
 ### Program Chairs 
-<i>(contact: <a href = "mailto:eacl2023pcs@googlegroups.com">eacl2023pcs@googlegroups.com</a>)</i><br />
-<a href="http://isabelleaugenstein.github.io/">Isabelle Augenstein</a>, University of Copenhagen<br />
-<a href="https://andreasvlachos.github.io/">Andreas Vlachos</a>, University of Cambridge<br />
+<a href="https://www.scss.tcd.ie/~ygraham/">Yvette Graham</a>, Trinity College Dublin<br />
+<a href="https://www.eecs.qmul.ac.uk/~mpurver/">Matthew Purver</a>, Queen Mary University, London<br />
 <!-- <a href="/committees/program">Senior Area Chairs</a>
  -->
 
-### Publication Chairs
-<a href="mailto:ryan.cotterell@inf.ethz.ch">Ryan Cotterell</a>, ETH Zurich<br />
-<a href="mailto:c.scarton@sheffield.ac.uk">Carolina Scarton</a>, University of Sheffield<br />
+### Workshop Chairs 
+<a href="https://ns-moosavi.github.io/">Nafise Moosavi</a>, University of Sheffield<br />
+<a href="https://zeerak.org/">Zeerak Talat</a>, Simon Fraser University<br />
 
 ### Tutorial Chairs
-<a href="https://cemantix.org/">Sameer Pradhan</a>, University of Pennsylvania <br/>
-<a href="http://art.uniroma2.it/zanzotto/">Fabio Massimo Zanzotto</a>, University of Rome, "Tor Vergata"
+<a href="https://sites.google.com/site/loaicigasharid/">Sharid Loaiciga</a>, University of Gothenburg <br/>
+<a href="https://mohsen-mesgar.io/">Mohsen Mesgar</a>, Bosch Center for Artificial Intelligence
 
 ### Demonstration Chairs
-<i>(contact: <a href = "mailto:eacl2023demos@googlegroups.com">eacl2023demos@googlegroups.com</a>)</i><br />
-<a href="http://sag.art.uniroma2.it/people/croce/">Danilo Croce</a>, University of Rome, "Tor Vergata"<br/>
-<a href="https://soldaini.net/">Luca Soldaini</a>, Allen Institute for AI
-
-### Workshop Chairs
-Zeerak Talat, Simon Fraser University<br/>
-<a href="https://antoniotor.al/">Antonio Toral</a>, University of Groningen
+<a href="https://nikosaletras.com/">Nikolaos Aletras</a>, University of Sheffield<br/>
+<a href="https://research.flw.ugent.be/nl/orphee.declercq">Orphee de Clercq</a>, Ghent University
 
 ### Student Research Workshop Chairs
-<a href="mailto:m.m.lindemann@sms.ed.ac.uk">Matthias Lindemann</a>, University of Edinburgh<br/>
-<a href="mailto:alban.petit@universite-paris-saclay.fr">Alban Petit</a>, Université Paris-Saclay<br/>
-<a href="mailto:elba@itu.dk">Elisa Bassignana</a>, IT University of Copenhagen<br/>
+<a href="https://www.ims.uni-stuttgart.de/institut/team/Falk/">Neele Falk</a>, University of Stuttgart <br/>
+<a href="mailto:spapi@fbk.eu">Sara Papi</a>, University of Trento & Fondazione Bruno Kessler <br/>
+<a href="https://jjzha.github.io//">Mike Zhang</a>, IT University Copenhagen <br/>
 
 ### Faculty Advisors to Student Research Workshop Chairs
-<a href="mailto:valerio.basile@unito.it">Valerio Basile</a>, University of Turin, Italy<br/>
-<a href="mailto:natschluter@apple.com">Natalie Schluter</a>, IT University of Copenhagen; Apple<br/>
+<a href="https://steffeneger.github.io/">Steffen Eger</a>, University of Bielefeld<br/>
+<a href="https://www.cse.msu.edu/~kordjams/">Parisa Kordjamshidi</a>, Michigan State University<br/>
 
-### Diversity and Inclusion Chairs
-<a href="mailto:elena.cabrio@univ-cotedazur.fr">Elena Cabrio</a>, Université Côte d’Azur, Inria, CNRS, I3S, France<br/>
-<a href="mailto:satonelli@fbk.eu">Sara Tonelli</a>, Fondazione Bruno Kessler <br/>
-<a href="mailto:vrieser1@gmail.com">Verena Rieser</a>, Heriot-Watt University, Edinburgh<br/>
-<a href="mailto:spandanagella@gmail.com">Spandana Gella</a>, Amazon Alexa<br/>
+### Publication Chairs
+<a href="http://art.uniroma2.it/croce/">Danilo Croce</a>, University of Rome, Tor Vergata<br/>
+<a href="https://gozdesahin.github.io/">Goezde Guel Sahin</a>, Koc University<br/>
+
+### Handbook Chair
+<a href="http://www.di.uniba.it/~swap/index.php?n=Membri.MarcoPolignano">Marco Polignano</a>, University of Bari<br/>
+
+### Sponsorship Chairs
+<a href="https://www.cl.uni-heidelberg.de/~dahlmeier/">Daniel Dahlmeier</a>, SAP <br/>
+<a href="http://www.neuralnoise.com/">Pasquale Minervini</a>, University of Edinburgh <br/>
 
 ### Publicity Chairs
-<a href="https://www.cs.rochester.edu/~tetreaul/">Joel Tetreault</a>, Dataminr<br/>
-<a href="https://ktilana.wixsite.com/leshem-choshen">Leshem Choshen</a>, IBM AI research, Hebrew University of Jerusalem <br/>
-<a href="https://www.laurabiester.com/">Laura Biester</a>, University of Michigan
-
-### Local Organising Committee
-<a href="https://www.ffzg.unizg.hr/oling/?page_id=1212&lang=en">Marko Tadić</a>, University of Zagreb (contact: <a href="mailto:marko.tadic@ffzg.hr">marko.tadic@ffzg.hr</a>)<br/>
-<a href="https://www.ffzg.unizg.hr/oling/?page_id=109">Krešimir Šojat</a>, University of Zagreb (contact: <a href="mailto:ksojat@ffzg.hr">ksojat@ffzg.hr</a>)<br/>
-Daša Farkaš, University of Zagreb (contact: <a href="mailto:dfarkas@ffzg.hr">dfarkas@ffzg.hr</a>)<br/>
+<a href="https://people.cs.kuleuven.be/~miryam.delhoneux/">Miryam de Lhoneux</a>, KU Leuven <br/>
+<a href="https://sdeva14.github.io/">Sungho Jeon</a>, Heidelberg Institute for Theoretical Studies <br/>
+<a href="hhttps://www.cs.bgu.ac.il/~pintery/">Yuval Pinter</a>, Ben-Gurion University of the Negev <br/>
 
 ### Website Chairs
-<a href="https://apepa.github.io/">Pepa Atanasova</a>, University of Copenhagen<br/>
-<a href="https://www.linkedin.com/in/julius-cheng-0040799/">Julius Cheng</a>, University of Cambridge<br/>
-
-### Ukraine Local Committee
-Viktoria Kolomiets, Grammarly<br/>
-Mariana Romanyshyn, Grammarly<br/>
-Oleksii Molchanovskyi, Ukrainian Catholic University<br/>
-Oles Dobosevych, Ukrainian Catholic University
-
+<a href="mailto:wei.zhao@h-its.org">Wei Zhao</a>, Heidelberg Institute for Theoretical Studies<br/>
+<a href="mailto:m.karan@qmul.ac.uk">Mladen Karan</a>, Queen Mary University of London<br/>
 

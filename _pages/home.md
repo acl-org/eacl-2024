@@ -1,5 +1,5 @@
 ---
-title: "The&nbsp;17th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br> of&nbsp;the&nbsp;Association for&nbsp;Computational Linguistics<br>May 2-6, 2024"
+title: "The&nbsp;18th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br> of&nbsp;the&nbsp;Association for&nbsp;Computational Linguistics<br>March 17-22, 2024"
 layout: splash
 permalink: /
 header:
@@ -11,21 +11,75 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="venue">EACL 2024 Venue</h2>
-  **January 16, 2024**. EACL 2024 will take place in the Valamar Lacroma Dubrovnik Hotel. [link]({{ "/venue" | relative_url }})
+  **August 28, 2023**. EACL 2024 will take place in the Hotels Radisson Blu, St. Julians in Malta. [link]({{ "/venue" | relative_url }})
 </div>
 
 <div class="notice--info" markdown="1">
   <h2 id="program-workshops">EACL 2024 Workshops</h2>
-  **January 10, 2024**. List of workshops that will be held at EACL 2024 is now [available]({{ "/program/workshops" | relative_url }}).
+  **August 28, 2023**. Deadline for Call for Workshop proposals is on September 1st, 2023. [link]({{ "/calls/workshops" | relative_url }}).
+</div>
+
+<div class="notice--info" markdown="1">
+  <h2 id="program-workshops">EACL 2024 Tutorials</h2>
+  **August 28, 2023**. Deadline for Call for Tutorials proposals is on September 1st, 2023. [link]({{ "/calls/tutorials" | relative_url }}).
 </div>
 
 ## Welcome!
 
-Welcome to the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL had selected the Ukrainian community for the 16th EACL, which took place online due to the COVID pandemic. Unfortunately, the ongoing war made the organisation in Kyiv impossible. Considering the importance of physical interaction among researchers, especially after the restrictions  imposed by the COVID pandemic, in addition to an online mode, the conference will be held in Dubrovnik, Croatia, from 2 to 6 of May, 2024. The original aim of strengthening the connection with the Ukrainian community will not change as our program will feature a dedicated session and a workshop to highlight work on Ukrainian language technologies.
-As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
+Welcome to the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL has selected the Malta community for the 18th EACL. Considering the importance of physical interaction among researchers, especially after the restrictions imposed by the COVID pandemic, in addition to an online mode, the conference will be held in the Hotels Radisson Blu, St. Julians in Malta, from 17 to 22 of March, 2024. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
 
 
 ## Important Dates
+
+<table class="table-dates">
+    <tbody>
+        <tr>
+            <td>Anonymity period begins</td>
+            <td>Friday</td>
+            <td>15&nbsp;September 2023</td>
+        </tr>
+        <tr>
+            <td>Paper submission deadline (via ARR)</td>
+            <td>Sunday</td>
+            <td>15&nbsp;October 2023</td>
+        </tr>
+        <tr>
+            <td>Author response period</td>
+            <td>Friday-Tuesday</td>
+            <td>8-12&nbsp;December 2023</td>
+        </tr>
+        <tr>
+            <td>Paper commitment deadline</td>
+            <td>Sunday</td>
+            <td>20&nbsp;December 2023</td>
+        </tr>
+        <tr>
+            <td>Notification of acceptance (long & short papers)</td>
+            <td>Monday</td>
+            <td>15&nbsp;January 2024</td>
+        </tr>
+        <tr>
+            <td>Withdrawal deadline (long & short papers)</td>
+            <td>Monday</td>
+            <td>22&nbsp;January 2024</td>
+        </tr>
+        <tr>
+            <td>Camera-ready papers due (long & short papers)</td>
+            <td>Wednesday</td>
+            <td>31&nbsp;January 2024</td>
+        </tr>
+        <tr>
+            <td>Workshops & Tutorials</td>
+            <td>Sunday; Thu-Fri</td>
+            <td>17 & 21-22&nbsp;March 2024</td>
+        </tr>
+        <tr>
+            <td>Main Conference</td>
+            <td>Monday-Wed</td>
+            <td>18-20&nbsp;March 2024</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### All deadlines are 11.59 pm [UTC -12h](https://www.timeanddate.com/time/zone/timezone/utc-12) ("anywhere on Earth").
 

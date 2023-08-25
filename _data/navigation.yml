@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Calls"
-    url: /calls/workshops
+    url: /calls/papers
   - title: "Committees"
     url: /committees/organization
   - title: "Venue"
@@ -10,7 +10,7 @@ main:
 program:
   - title: Program
     children:
-      - title: "EACL 2023 Program of Events"
+      - title: "EACL 2024 Program of Events"
         url: /program/main/
       - title: "Invited Speakers"
         url: /program/invited/
@@ -34,9 +34,12 @@ program:
 calls:
   - title: Call for
     children:
+      - title: "Main Conference Papers"
+        url: /calls/papers/
       - title: "Workshops"
         url: /calls/workshops/
-      
+      - title: "Tutorials"
+        url: /calls/tutorials/
 ethics:
   - title: Ethics
     children:
@@ -51,5 +54,3 @@ committees:
     children:
       - title: "Organizing"
         url: /committees/organization/
-      - title: "Senior Program"
-        url: /committees/program/
