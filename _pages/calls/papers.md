@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024) invites the submission of long and short papers on substantial, original, and unpublished research on Natural Language Processing. EACL 2024 will be held in Malta on 17th-22nd March 2024, with online attendance possible.
 
-Papers must be submitted to EACL 2024 via the [ACL Rolling Review (ARR) system]((https://aclrollingreview.org/cfp)). As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
+Papers must be submitted to EACL 2024 via the [ACL Rolling Review (ARR) system](https://aclrollingreview.org/cfp). As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
 ## Important Dates
 
@@ -149,11 +149,11 @@ All accepted papers must be presented at the conference—either online or in-pe
 
 ### Paper Submission and Anonymity
 
-Following standard ACL and ARR policy, submitted papers must be prepared for two-way anonymized review, and no deanonymized preprint may be posted in the month prior to submission. Please see the [ARR CfP]((https://aclrollingreview.org/cfp)) for more detail.
+Following standard ACL and ARR policy, submitted papers must be prepared for two-way anonymized review, and no deanonymized preprint may be posted in the month prior to submission. Please see the [ARR CfP](https://aclrollingreview.org/cfp) for more detail.
 
 ### Policies on Authorship, Citation and Ethics
 
-EACL 2024 follows the ARR policies on authorship, citation and comparison and ethics - please see the [ARR CfP]((https://aclrollingreview.org/cfp)).
+EACL 2024 follows the ARR policies on authorship, citation and comparison and ethics - please see the [ARR CfP](https://aclrollingreview.org/cfp).
 
 ### Multiple Submission Policy
 
