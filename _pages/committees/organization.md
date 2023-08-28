@@ -51,7 +51,7 @@ sidebar:
 ### Publicity Chairs
 <a href="https://people.cs.kuleuven.be/~miryam.delhoneux/">Miryam de Lhoneux</a>, KU Leuven <br/>
 <a href="https://sdeva14.github.io/">Sungho Jeon</a>, Heidelberg Institute for Theoretical Studies <br/>
-<a href="hhttps://www.cs.bgu.ac.il/~pintery/">Yuval Pinter</a>, Ben-Gurion University of the Negev <br/>
+<a href="https://www.cs.bgu.ac.il/~pintery/">Yuval Pinter</a>, Ben-Gurion University of the Negev <br/>
 
 ### Website Chairs
 <a href="mailto:m.karan@qmul.ac.uk">Mladen Karan</a>, Queen Mary University of London<br/>

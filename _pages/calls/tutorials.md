@@ -62,7 +62,7 @@ Up to 3 instructors per tutorial can have their registration fees waived for the
 
 To foster a really inclusive culture in our field, we particularly encourage submissions from members of underrepresented groups in computational linguistics, i.e., researchers from any demographic or geographic minority, researchers with disabilities, among others. The overall diversity of the tutorial organizers and potential audience will be taken into account to ensure that the conference program is varied and balanced.
 
-Tutorial proposals should describe and will be evaluated according to how the tutorial contributes to <b>topics promoting diversity</b> (e.g., working on minority languages or groups), <b>participation diversity</b> (e.g., coordinating with social affinity groups, providing subsidies, making a promotional plan for the tutorial), and <b>representation diversity among tutorial presenters</b>. For more information or advice, organizers may consult resources such as the [BIG directory]({{ "http://www.winlp.org/big-directory/" | relative_url }}), [Black in AI]({{ "https://blackinai.github.io/#/membership" | relative_url }}), [Disability in AI]({{ "https://elesa.github.io/ability_in_AI/" | relative_url }}), [Indigenous AI]({{ "https://www.indigenous-ai.net/" | relative_url }}), [LatinX in AI]({{ "https://lxai.app/PUBLIC-DIRECTORY" | relative_url }}), [Masakhane]({{ "https://www.masakhane.io/" | relative_url }}), [500 Queer Scientists]({{ "https://500queerscientists.com/" | relative_url }}), and [Women-in-ML’s directory]({{ "hhttps://wimlworkshop.org/sh_projects/directory/" | relative_url }}).
+Tutorial proposals should describe and will be evaluated according to how the tutorial contributes to <b>topics promoting diversity</b> (e.g., working on minority languages or groups), <b>participation diversity</b> (e.g., coordinating with social affinity groups, providing subsidies, making a promotional plan for the tutorial), and <b>representation diversity among tutorial presenters</b>. For more information or advice, organizers may consult resources such as the [BIG directory]({{ "http://www.winlp.org/big-directory/" | relative_url }}), [Black in AI]({{ "https://blackinai.github.io/#/membership" | relative_url }}), [Disability in AI]({{ "https://elesa.github.io/ability_in_AI/" | relative_url }}), [Indigenous AI]({{ "https://www.indigenous-ai.net/" | relative_url }}), [LatinX in AI]({{ "https://lxai.app/PUBLIC-DIRECTORY" | relative_url }}), [Masakhane]({{ "https://www.masakhane.io/" | relative_url }}), [500 Queer Scientists]({{ "https://500queerscientists.com/" | relative_url }}), and [Women-in-ML’s directory]({{ "https://wimlworkshop.org/sh_projects/directory/" | relative_url }}).
 
 ## Submission Details
 
@@ -126,25 +126,25 @@ Accepted tutorial presenters will be notified by <b>October 1st, 2023</b>. They 
 
 ### EACL
 
-- Sharid Loáiciga [sharid.loaiciga@gu.se]({{sharid.loaiciga@gu.se}})
+- Sharid Loáiciga [sharid.loaiciga@gu.se](mailto:sharid.loaiciga@gu.se)
 
-- Mohsen Mesgar [mohsen.mesgar@bosch.com]({{mohsen.mesgar@bosch.com}})
+- Mohsen Mesgar [mohsen.mesgar@bosch.com](mailto:mohsen.mesgar@bosch.com)
 
 ### NAACL-HLT
 
-- Rui Zhang [rmz5227@psu.edu]({{rmz5227@psu.edu}})
+- Rui Zhang [rmz5227@psu.edu](mailto:rmz5227@psu.edu)
 
-- Nathan Schneider [nathan.schneider@georgetown.edu]({{nathan.schneider@georgetown.edu}})
+- Nathan Schneider [nathan.schneider@georgetown.edu](mailto:nathan.schneider@georgetown.edu)
 
-- Snigdha Chaturvedi [snigdha@cs.unc.edu]({{snigdha@cs.unc.edu}})
+- Snigdha Chaturvedi [snigdha@cs.unc.edu](mailto:snigdha@cs.unc.edu)
 
 ### ACL
 
-- Luis Chiruzzo [luis.chiruzzo@gmail.com]({{luis.chiruzzo@gmail.com}})
+- Luis Chiruzzo [luis.chiruzzo@gmail.com](mailto:luis.chiruzzo@gmail.com)
 
-- Hung-yi Lee [tlkagkb93901106@gmail.com]({{tlkagkb93901106@gmail.com}})
+- Hung-yi Lee [tlkagkb93901106@gmail.com](mailto:tlkagkb93901106@gmail.com)
 
-- Leonardo Ribeiro [leonardofribeiro@gmail.com]({{leonardofribeiro@gmail.com}})
+- Leonardo Ribeiro [leonardofribeiro@gmail.com](mailto:leonardofribeiro@gmail.com)
 
 ### EMNLP
 
