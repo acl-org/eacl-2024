@@ -19,7 +19,7 @@ St Julian's STJ 3391, Malta
 Reception: +356 2137 4894
 
 ## About Malta: 
-That area isn't ideal for close food options unfortunately although the hotel is pretty decent. There's Sole close by which is excellent but a bit high end and Melting Pot (the restaurant of the local football club) is a good choice for a quick snack. Paceville is a short 5-10min walk away. That's the main clubbing area on the island and gets very crowded but might be worth a visit.
+Food options: There's Sole close by which is excellent but a bit high end and Melting Pot (the restaurant of the local football club) is a good choice for a quick snack. Paceville is a short 5-10 min walk away. That's the main clubbing area on the island and gets very crowded but might be worth a visit.
 
 - My general advice would be to encourage attendees to explore the whole island in particular:
 - Valletta
@@ -34,9 +34,9 @@ That area isn't ideal for close food options unfortunately although the hotel is
 - Mgarr for traditional food like rabbit, horse meat and quail
 
 ## Host Hotel
-[**Hotel Radisson Blu\***](https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-03-17&checkOutDate=2024-03-18&adults%5B%5D=2&children%5B%5D=0&searchType=lowest&promotionCode=&voucher=&brandFirst=rdb&hotelCode=MTMLASTJ)
+[**Hotel Radisson Blu**](https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-03-17&checkOutDate=2024-03-18&adults%5B%5D=2&children%5B%5D=0&searchType=lowest&promotionCode=&voucher=&brandFirst=rdb&hotelCode=MTMLASTJ)
 
-€129.79 Double Rate includes accommodations and tax. St Julian's STJ 3391, Malta. Reception: +356 2137 4894
+<!--€129.79 Double Rate includes accommodations and tax. St Julian's STJ 3391, Malta. Reception: +356 2137 4894 -->
 
 The Hotel Radisson Blu is surrounded by views of the Mediterranean Sea. Conveniently located in St. Julian's, the resort is only 13.5 kilometers from Malta International Airport and under 10 kilometers from Valletta, the Maltese capital. The modern rooms and suites have free Wi-Fi, television, desk, minibar and tea and coffee making facilities. Many offer a balcony, the suites also have a terrace and/or sea view. Some suites are also equipped with a whirlpool bathtub.
 

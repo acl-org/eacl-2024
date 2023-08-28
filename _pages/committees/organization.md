@@ -30,7 +30,7 @@ sidebar:
 
 ### Student Research Workshop Chairs
 <a href="https://www.ims.uni-stuttgart.de/institut/team/Falk/">Neele Falk</a>, University of Stuttgart <br/>
-<a href="mailto:spapi@fbk.eu">Sara Papi</a>, University of Trento & Fondazione Bruno Kessler <br/>
+<a href="#">Sara Papi</a>, University of Trento & Fondazione Bruno Kessler <br/>
 <a href="https://jjzha.github.io//">Mike Zhang</a>, IT University Copenhagen <br/>
 
 ### Faculty Advisors to Student Research Workshop Chairs
@@ -54,6 +54,5 @@ sidebar:
 <a href="hhttps://www.cs.bgu.ac.il/~pintery/">Yuval Pinter</a>, Ben-Gurion University of the Negev <br/>
 
 ### Website Chairs
-<a href="mailto:wei.zhao@h-its.org">Wei Zhao</a>, Heidelberg Institute for Theoretical Studies<br/>
 <a href="mailto:m.karan@qmul.ac.uk">Mladen Karan</a>, Queen Mary University of London<br/>
-
+<a href="mailto:wei.zhao@h-its.org">Wei Zhao</a>, Heidelberg Institute for Theoretical Studies<br/>

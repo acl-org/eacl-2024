@@ -11,22 +11,22 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="venue">EACL 2024 Venue</h2>
-  **August 28, 2023**. EACL 2024 will take place in the Hotels Radisson Blu, St. Julians in Malta. [link]({{ "/venue" | relative_url }})
+  **August 28, 2023**. EACL 2024 will take place at the Hotels Radisson Blu, St. Julians, in Malta. [link]({{ "/venue" | relative_url }})
 </div>
 
 <div class="notice--info" markdown="1">
   <h2 id="program-workshops">EACL 2024 Workshops</h2>
-  **August 28, 2023**. Deadline for Call for Workshop proposals is on September 1st, 2023. [link]({{ "/calls/workshops" | relative_url }}).
+  **August 28, 2023**. Deadline for the Call for Workshop proposals is on September 1st, 2023. [link]({{ "/calls/workshops" | relative_url }}).
 </div>
 
 <div class="notice--info" markdown="1">
   <h2 id="program-workshops">EACL 2024 Tutorials</h2>
-  **August 28, 2023**. Deadline for Call for Tutorials proposals is on September 1st, 2023. [link]({{ "/calls/tutorials" | relative_url }}).
+  **August 28, 2023**. Deadline for the Call for Tutorials proposals is on September 1st, 2023. [link]({{ "/calls/tutorials" | relative_url }}).
 </div>
 
 ## Welcome!
 
-Welcome to the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL has selected the Malta community for the 18th EACL. Considering the importance of physical interaction among researchers, especially after the restrictions imposed by the COVID pandemic, in addition to an online mode, the conference will be held in the Hotels Radisson Blu, St. Julians in Malta, from 17 to 22 of March, 2024. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
+Welcome to the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL has selected the Malta community for the 18th EACL. Considering the importance of physical interaction among researchers, the conference will be held at the Hotels Radisson Blu, St. Julians, in Malta, from 17 to 22 of March, 2024. The conference will also feature the possibility to participate virtually. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
 
 
 ## Important Dates

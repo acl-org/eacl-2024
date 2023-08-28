@@ -167,5 +167,5 @@ While we are open to different types of limitations, just mentioning that a set 
 
 ## Contact Information
 
-- Yvette Graham, Trinity College Dublin
-- Matthew Purver, Queen Mary University, London
+- <a href="https://www.scss.tcd.ie/~ygraham/">Yvette Graham</a>, Trinity College Dublin<br />
+- <a href="https://www.eecs.qmul.ac.uk/~mpurver/">Matthew Purver</a>, Queen Mary University, London<br />
