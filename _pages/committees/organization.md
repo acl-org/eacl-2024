@@ -30,7 +30,7 @@ sidebar:
 
 ### Student Research Workshop Chairs
 <a href="https://www.ims.uni-stuttgart.de/institut/team/Falk/">Neele Falk</a>, University of Stuttgart <br/>
-<a href="#">Sara Papi</a>, University of Trento & Fondazione Bruno Kessler <br/>
+Sara Papi, University of Trento & Fondazione Bruno Kessler <br/>
 <a href="https://jjzha.github.io//">Mike Zhang</a>, IT University Copenhagen <br/>
 
 ### Faculty Advisors to Student Research Workshop Chairs
@@ -47,6 +47,13 @@ sidebar:
 ### Sponsorship Chairs
 <a href="https://www.cl.uni-heidelberg.de/~dahlmeier/">Daniel Dahlmeier</a>, SAP <br/>
 <a href="http://www.neuralnoise.com/">Pasquale Minervini</a>, University of Edinburgh <br/>
+
+
+### Diversity and Inclusion Chairs
+<a href="https://mbzuai.ac.ae/study/faculty/hanan-al-darmaki/">Hanan Al Darmaki</a>, MBZUAI <br/>
+<a href="http://zil.ipipan.waw.pl/MaciejOgrodniczuk">Maciej Ogrodniczuk</a>, Institute of Computer Science, Polish Academy of Sciences <br/>
+Sabine Weber, VDI/VDE Innovation <br/>
+
 
 ### Publicity Chairs
 <a href="https://people.cs.kuleuven.be/~miryam.delhoneux/">Miryam de Lhoneux</a>, KU Leuven <br/>
