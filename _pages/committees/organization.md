@@ -63,3 +63,7 @@ Sabine Weber, VDI/VDE Innovation <br/>
 ### Website Chairs
 <a href="mailto:m.karan@qmul.ac.uk">Mladen Karan</a>, Queen Mary University of London<br/>
 <a href="mailto:wei.zhao@h-its.org">Wei Zhao</a>, Heidelberg Institute for Theoretical Studies<br/>
+
+
+### Local Ambassador
+<a href="https://www.maxbartolo.com/">Max Bartolo</a>, Cohere <br/>
