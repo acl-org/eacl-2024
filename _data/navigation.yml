@@ -6,7 +6,9 @@ main:
     url: /committees/organization
   - title: "Venue"
     url: /venue
-
+  - title: "Registration"
+    url: /registration
+    
 program:
   - title: Program
     children:
