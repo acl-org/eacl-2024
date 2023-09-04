@@ -31,7 +31,7 @@ Reception: +356 2137 4894-->
     <img src="/assets/images/malta.jpg" alt="Clickable Image">
 </a>
 
-Image credits: Max Bartolo (Local Ambassador)
+Click the image to view a presentation of Malta. Presentation and Image credits: Max Bartolo (Local Ambassador)
 
 Food options: There's Sole close by which is excellent but a bit high end and Melting Pot (the restaurant of the local football club) is a good choice for a quick snack. Paceville is a short 5-10 min walk away. That's the main clubbing area on the island and gets very crowded but might be worth a visit.
 
