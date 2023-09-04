@@ -51,7 +51,7 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 ## In-Person Pricing:
 
 Each main conference paper must have at least one Full Conference Regular In-Person attendee registered. Please see the ACL Executive Policy.  
-If you are presenting at a workshop, you do not need to register for the main conference, but you must register for the appropriate workshop. Please see the ACL Executive Policy 
+If you are presenting at a workshop, you do not need to register for the main conference, but you must register for the appropriate workshop. Please see the ACL Executive Policy. 
 
 ## Virtual Pricing
 
@@ -63,7 +63,7 @@ Given the large real costs of all conference paper presentations (whether virtua
 
 ## Cancellation Policy
 
-Cancellation of registration one month or more prior to the conference (November 06, 2023, or before), will be refunded the full amount paid. (Minus up to $50 processing fee)
+Cancellation of registration one month or more prior to the conference (November 06, 2023, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
 
 Cancellations up to three weeks prior to the conference (November 15, 2023) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200. Cancellations 2 weeks prior to start of the conference (November 22, 2023), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
 
