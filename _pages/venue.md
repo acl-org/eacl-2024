@@ -35,7 +35,7 @@ Click the image to view a presentation of Malta. Presentation and Image credits:
 
 Food options: There's Sole close by which is excellent but a bit high end and Melting Pot (the restaurant of the local football club) is a good choice for a quick snack. Paceville is a short 5-10 min walk away. That's the main clubbing area on the island and gets very crowded but might be worth a visit.
 
-- My general advice would be to encourage attendees to explore the whole island in particular:
+Encourage attendees to explore the whole island in particular:
 - Valletta
 - Mdina
 - Hagar Qim and Mnajdra prehistoric temples
@@ -70,7 +70,7 @@ Corinthia St. George Bay
 
 The Hotel Radisson Blu is surrounded by views of the Mediterranean Sea. Conveniently located in St. Julian’s, the resort is only 13.5 kilometers from Malta International Airport and under 10 kilometers from Valletta, the Maltese capital. The modern rooms and suites have free Wi-Fi, television, desk, minibar and tea and coffee making facilities. Many offer a balcony; the suites also have a terrace and/or sea view. Some suites are also equipped with a whirlpool bathtub.
 
-The breakfast buffet is included in our ACL Room Block and for those booking outside the block it is available at an additional cost. There are 3 restaurants, a bar, a heated indoor pool and several outdoor pools. Other facilities include a business center, a spa with massage treatments, and activities like scuba diving and jet skiing. Parking is included in the price
+The breakfast buffet is included in our ACL Room Block and for those booking outside the block it is available at an additional cost. There are 3 restaurants, a bar, a heated indoor pool and several outdoor pools. Other facilities include a business center, a spa with massage treatments, and activities like scuba diving and jet skiing. Parking is included in the price.
 
 **Corinthia St. George Bay:**
 
