@@ -8,7 +8,9 @@ main:
     url: /venue
   - title: "Registration"
     url: /registration
-    
+  - title: "Program"
+    url: /program/main    
+
 program:
   - title: Program
     children:

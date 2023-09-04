@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: single
-excerpt: "EACL 2023 Registration"
+excerpt: "EACL 2024 Registration"
 permalink: /registration
 sidebar:
   nav: faq
