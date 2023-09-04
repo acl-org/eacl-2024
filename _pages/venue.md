@@ -19,6 +19,11 @@ St Julian's STJ 3391, Malta
 Reception: +356 2137 4894
 
 ## About Malta: 
+
+<a href="/downloads/Malta.pdf" target="_blank">
+    <img src="/assets/images/Malta.jpg" alt="Clickable Image">
+</a>
+
 Food options: There's Sole close by which is excellent but a bit high end and Melting Pot (the restaurant of the local football club) is a good choice for a quick snack. Paceville is a short 5-10 min walk away. That's the main clubbing area on the island and gets very crowded but might be worth a visit.
 
 - My general advice would be to encourage attendees to explore the whole island in particular:
