@@ -15,25 +15,7 @@ program:
   - title: Program
     children:
       - title: "EACL 2024 Program of Events"
-        url: /program/main/
-      - title: "Invited Speakers"
-        url: /program/invited/
-      - title: "Social Event"
-        url: /program/social/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
-      - title: "Main Conference Accepted Papers"
-        url: /program/accepted/
-      - title: "Findings Accepted Papers"
-        url: /program/accepted-findings/
-      - title: "System Demonstrations Accepted Papers"
-        url: /program/accepted-demos/
-      - title: "Best Paper Awards"
-        url: /program/best-paper/
-      - title: "Birds-of-a-Feather Meetups"
-        url: /program/bof/
+        url: /program/main/        
 
 calls:
   - title: Call for
