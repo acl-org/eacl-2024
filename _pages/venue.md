@@ -45,13 +45,11 @@ Food options: There's Sole close by which is excellent but a bit high end and Me
 - Beaches: Mellieha Bay, Paradise Bay, Golden Bay, Ghajn Tuffieha
 - Mgarr for traditional food like rabbit, horse meat and quail
 
-## Host Hotel
+## Hotels
 
 Discount Hotel Links to come.
 
-The ACL has the following Discounted Room Blocks for our attendees to take advantage of at a first come first serve basis. 
-
-Please note the Room blocks end on Tuesday December 7, 2023, or when the block sells out. 
+The ACL has the following Discounted Room Blocks for our attendees to take advantage of at a first come first serve basis. Please note the Room blocks end on Tuesday December 7, 2023, or when the block sells out. 
 
 Radisson Blu, St. Julians 
 - Twin sharing accommodation with Breakfast: EUR 145.00 per person per night 
