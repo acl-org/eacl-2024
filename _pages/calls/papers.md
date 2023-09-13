@@ -15,9 +15,13 @@ toc_icon: "cog"
 
 The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024) invites the submission of long and short papers on substantial, original, and unpublished research on Natural Language Processing. EACL 2024 will be held in Malta on 17th-22nd March 2024, with online attendance possible.
 
-Papers must be submitted to EACL 2024 via the [ACL Rolling Review (ARR) system](https://aclrollingreview.org/cfp). As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
-
 ## Important Dates
+
+For paper submission EACL 2024 will use the [ACL Rolling Review (ARR) system](https://aclrollingreview.org/cfp) only. This is the case for all *ACL conferences in 2024. ARR works on a monthly review cycle, beginning on the 15th of every month. The "paper submission deadline" shown below is the latest date that new papers can be submitted to ARR and be reviewed in time to be considered by EACL 2024; however, papers submitted in previous ARR rounds can of course also be considered. The "paper commitment deadline" is the date by which authors must choose, based on the reviews so far, whether to "commit" their ARR papers to be considered by EACL 2024. Papers that are committed but not accepted for EACL 2024 are not lost - they remain available in the standard ARR cycle for revision and resubmission and/or commitment to other future conferences as before.
+
+The authors should contact ARR with any questions about the review process etc., on [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org).
+
+As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
 <table class="table-dates">
     <tbody>
@@ -32,9 +36,9 @@ Papers must be submitted to EACL 2024 via the [ACL Rolling Review (ARR) system](
             <td>15&nbsp;October 2023</td>
         </tr>
         <tr>
-            <td>Author response period</td>
-            <td>Friday-Tuesday</td>
-            <td>8-12&nbsp;December 2023</td>
+            <td>Author discussion period</td>
+            <td>Sunday-Wednesday</td>
+            <td>19-22&nbsp;November 2023</td>
         </tr>
         <tr>
             <td>Paper commitment deadline</td>

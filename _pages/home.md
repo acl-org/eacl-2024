@@ -11,7 +11,7 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="venue">EACL 2024 Venue</h2>
-  **August 28, 2023**. EACL 2024 will take place at the Hotels Radisson Blu, St. Julians, in Malta. [link]({{ "/venue" | relative_url }})
+  **August 28, 2023**. EACL 2024 will take place at the Hotel Radisson Blu, St. Julians, in Malta. [link]({{ "/venue" | relative_url }})
 </div>
 
 <div class="notice--info" markdown="1">
@@ -26,10 +26,16 @@ excerpt: "<br/><br/>"
 
 ## Welcome!
 
-Welcome to the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL has selected the Malta community for the 18th EACL. Considering the importance of physical interaction among researchers, the conference will be held at the Hotels Radisson Blu, St. Julians, in Malta, from 17 to 22 of March, 2024. The conference will also feature the possibility to participate virtually. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
+Welcome to the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL has selected the Malta community for the 18th EACL. Considering the importance of physical interaction among researchers, the conference will be held at the Hotel Radisson Blu, St. Julians, in Malta, from 17 to 22 of March, 2024. The conference will also feature the possibility to participate virtually. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
 
 
 ## Important Dates
+
+For paper submission EACL 2024 will use the [ACL Rolling Review (ARR) system](https://aclrollingreview.org/cfp) only. This is the case for all *ACL conferences in 2024. ARR works on a monthly review cycle, beginning on the 15th of every month. The "paper submission deadline" shown below is the latest date that new papers can be submitted to ARR and be reviewed in time to be considered by EACL 2024; however, papers submitted in previous ARR rounds can of course also be considered. The "paper commitment deadline" is the date by which authors must choose, based on the reviews so far, whether to "commit" their ARR papers to be considered by EACL 2024. Papers that are committed but not accepted for EACL 2024 are not lost - they remain available in the standard ARR cycle for revision and resubmission and/or commitment to other future conferences as before.
+
+The authors should contact ARR with any questions about the review process etc., on [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org).
+
+As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.
 
 <table class="table-dates">
     <tbody>
@@ -44,9 +50,9 @@ Welcome to the 18th Conference of the European Chapter of the Association for Co
             <td>15&nbsp;October 2023</td>
         </tr>
         <tr>
-            <td>Author response period</td>
-            <td>Friday-Tuesday</td>
-            <td>8-12&nbsp;December 2023</td>
+            <td>Author discussion period</td>
+            <td>Sunday-Wednesday</td>
+            <td>19-22&nbsp;November 2023</td>
         </tr>
         <tr>
             <td>Paper commitment deadline</td>
