@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h1>EACL 2024 </h1>
 <h2>Call for System Demonstrations</h2>
-**Submission link: [softconf.com/eacl2024/demo-track][1]**<br />
+**Submission link: [https://softconf.com/eacl2024/demo-track](https://softconf.com/eacl2024/demo-track/)**<br />
 
 The system demonstration track at EACL 2024 is a venue for papers describing system demonstrations, ranging from early prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest.
 
