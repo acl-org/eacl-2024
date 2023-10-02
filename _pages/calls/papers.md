@@ -169,6 +169,14 @@ We believe that it is also important to discuss the limitations of your work, in
 
 While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative. In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire further investigation are welcome.
 
+### Submission Link
+
+The submission deadline of the last ARR round still eligible for commiting to EACL 2024 is in October, 2023. You can submit your work at the link below:
+[https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/October](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/October)
+
+If you have already submitted to one of the earlier ARR deadlines, those submissions are also eligible and you do not need to (re)submit above.
+
+
 ## Contact Information
 
 - <a href="https://www.scss.tcd.ie/~ygraham/">Yvette Graham</a>, Trinity College Dublin<br />
