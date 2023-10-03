@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024) invites the submission of long and short papers on substantial, original, and unpublished research on Natural Language Processing. EACL 2024 will be held in Malta on 17th-22nd March 2024, with online attendance possible.
 
-## Submission Link
+## Submit
 
 Papers must be submitted via ARR at this link:
 
