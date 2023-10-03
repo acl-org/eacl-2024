@@ -76,7 +76,17 @@ As in recent years, some of the presentations at the conference will be for pape
 
 ##### All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
+## Submission Link
+
+Papers must be submitted via ARR at this link:
+[https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/October](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/October)
+
+If you have already submitted to one of the earlier ARR deadlines, those submissions are also eligible and you do not need to (re)submit above.
+
+
+
 ## Paper Submission Information
+
 
 ### Topics of Interest
 
@@ -168,13 +178,6 @@ EACL 2024 follows the ARR policy on multiple submission: we will not consider an
 We believe that it is also important to discuss the limitations of your work, in addition to its strengths. <b>Following EACL 2023, EACL 2024 requires all papers to have a clear discussion of limitations, in a dedicated section titled “Limitations”</b>. This section will appear at the end of the paper, after the discussion/conclusions section and before the references, and will not count towards the page limit. <b>Papers without a limitations section will be automatically rejected without review</b>. Papers resubmitted from previous ARR review rounds that did not include a limitations section must ensure that such a section is included in the EACL 2024 version.
 
 While we are open to different types of limitations, just mentioning that a set of results have been shown for English only probably does not reflect what we expect. Mentioning that the method works mostly for languages with limited morphology, like English, is a much better alternative. In addition, limitations such as low scalability to long text, the requirement of large GPU resources, or other things that inspire further investigation are welcome.
-
-### Submission Link
-
-The submission deadline of the last ARR round still eligible for commiting to EACL 2024 is in October, 2023. You can submit your work at the link below:
-[https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/October](https://openreview.net/group?id=aclweb.org/ACL/ARR/2023/October)
-
-If you have already submitted to one of the earlier ARR deadlines, those submissions are also eligible and you do not need to (re)submit above.
 
 
 ## Contact Information
