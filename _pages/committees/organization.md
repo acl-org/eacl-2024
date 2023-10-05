@@ -30,7 +30,7 @@ sidebar:
 
 ### Student Research Workshop Chairs
 <a href="https://www.ims.uni-stuttgart.de/institut/team/Falk/">Neele Falk</a>, University of Stuttgart <br/>
-Sara Papi, University of Trento & Fondazione Bruno Kessler <br/>
+<a href="https://mt.fbk.eu/author/spapi/">Sara Papi</a>, University of Trento & Fondazione Bruno Kessler <br/>
 <a href="https://jjzha.github.io//">Mike Zhang</a>, IT University Copenhagen <br/>
 
 ### Faculty Advisors to Student Research Workshop Chairs
