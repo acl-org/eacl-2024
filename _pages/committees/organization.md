@@ -11,8 +11,9 @@ sidebar:
 <a href="http://michael.kimstrube.de/">Michael Strube</a>, Heidelberg Institute for Theoretical Studies
 
 ### Program Chairs 
-<i>(contact: <a href = "mailto:eacl2024pcs@googlegroups.com.">eacl2024pcs@googlegroups.com</a>)</i><br />
+<i>(contact: <a href = "mailto:eacl2024pcs@googlegroups.com">eacl2024pcs@googlegroups.com</a>)</i><br />
 <i>(ARR submission/process: <a href = "mailto:editors@aclrollingreview.org">editors@aclrollingreview.org</a>)</i><br />
+<i>(General queries: <a href = "mailto:eacl2024general@googlegroups.com">eacl2024general@googlegroups.com</a>)</i><br />
 
 <a href="https://www.scss.tcd.ie/~ygraham/">Yvette Graham</a>, Trinity College Dublin<br />
 <a href="https://www.eecs.qmul.ac.uk/~mpurver/">Matthew Purver</a>, Queen Mary University, London<br />
