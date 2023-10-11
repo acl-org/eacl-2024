@@ -173,7 +173,7 @@ EACL 2024 follows the ARR policies on authorship, citation and comparison and et
 
 ### Multiple Submission Policy
 
-EACL 2024 follows the ARR policy on multiple submission: we will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the review period. See the [ARR CfP]((https://aclrollingreview.org/cfp)) for more detail. Please note that the EACL 2024 submission deadline is currently timed to come after EMNLP 2023 decisions have been announced, and that EACL 2024 acceptance decisions will be announced before the likely submission deadline for ACL 2024, although after that for NAACL 2024.
+EACL 2024 follows the ARR policy on multiple submission: we will not consider any paper that is under review in a journal or another conference at the time of submission, and submitted papers must not be submitted elsewhere during the review period. See the [ARR CfP](https://aclrollingreview.org/cfp) for more detail. Please note that the EACL 2024 submission deadline is currently timed to come after EMNLP 2023 decisions have been announced, and that EACL 2024 acceptance decisions will be announced before the likely submission deadline for ACL 2024, although after that for NAACL 2024.
 
 ### Mandatory Discussion of Limitations
 
