@@ -16,6 +16,8 @@ program:
     children:
       - title: "EACL 2024 Program of Events"
         url: /program/main/        
+      - title: "Workshops"
+        url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
 calls:
