@@ -168,7 +168,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td><a href="">The 1st Workshop on Natural Language Processing for Human Resources</a>
+    <td>The 1st Workshop on Natural Language Processing for Human Resources
     </td>
     <td>NLP4HR</td>
     <td></td>
