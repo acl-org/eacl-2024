@@ -15,6 +15,7 @@ toc_icon: "cog"
 
 
 <table>
+
   <tr style="background-color:#f1f2fa"><td colspan="2"><b>March 17, 2024</b></td></tr>
   <tr><td nowrap="nowrap">18:30 - 20:30</td> <td>Welcome Reception</td></tr>
   <tr></tr>
