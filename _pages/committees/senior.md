@@ -1,5 +1,5 @@
 ---
-title: Senior Committee
+title: Senior Program Committee
 layout: single
 excerpt: "EACL 2024 senior committee."
 permalink: /committees/senior/
