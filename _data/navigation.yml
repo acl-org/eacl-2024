@@ -45,3 +45,6 @@ committees:
     children:
       - title: "Organizing"
         url: /committees/organization/
+      -title: "Senior"
+        url: /committees/senior/
+
