@@ -1,5 +1,5 @@
 ---
-title: Organizing Committee
+title: Senior Committee
 layout: single
 excerpt: "EACL 2024 senior committee."
 permalink: /committees/senior/
