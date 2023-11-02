@@ -8,6 +8,11 @@ header:
 excerpt: "<br/><br/>"
 ---
 ## News
+<div class="notice--info" markdown="1">
+  <h2 id="submissions-received">EACL 2024 Submissions Received</h2>
+  **November 2, 2023**. We are happy to announce EACL 2024 received a total of 1271 submissions - and particularly encouraged to see increases in some topical areas such as "Ethics & NLP" and "Multilinguality and Language Diversity". Now for the reviewing process ...
+</div>
+
 
 <div class="notice--info" markdown="1">
   <h2 id="venue">EACL 2024 Venue</h2>
