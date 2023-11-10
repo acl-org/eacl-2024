@@ -71,3 +71,12 @@ Sabine Weber, VDI/VDE Innovation <br/>
 
 ### Local Ambassador
 <a href="https://www.maxbartolo.com/">Max Bartolo</a>, Cohere <br/>
+
+### Ethics Chairs
+<a href="https://annefried.github.io/">Annemarie Friedrich</a>, University of Augsburg<br/>
+<a href="https://anne-lauscher.de/">Anne Lauscher</a>, University of Hamburg<br/>
+
+
+ 
+ 
+
