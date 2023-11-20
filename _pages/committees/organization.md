@@ -76,6 +76,11 @@ Sabine Weber, VDI/VDE Innovation <br/>
 <a href="https://annefried.github.io/">Annemarie Friedrich</a>, University of Augsburg<br/>
 <a href="https://anne-lauscher.de/">Anne Lauscher</a>, University of Hamburg<br/>
 
+### Student Volunteer Chairs
+<a href="https://www.um.edu.mt/profile/claudiaborg">Claudia Borg</a>, University of Malta<br/>
+<a href="https://di.ku.dk/english/staff/vip/researchers_nlp/?pure=en/persons/631668">Desmond Eliott</a>, University of Copenhagen<br/>
+<a href="https://www.juntaoyu.com/">Juntao Yu</a>, Queen Mary University of London<br/>
+
 
  
  
