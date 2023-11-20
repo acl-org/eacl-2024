@@ -56,8 +56,8 @@ As in recent years, some of the presentations at the conference will be for pape
         </tr>
         <tr>
             <td>Author discussion period</td>
-            <td>Sunday-Wednesday</td>
-            <td>19-22&nbsp;November 2023</td>
+            <td>Thursday-Tuesday</td>
+            <td>23-28&nbsp;November 2023</td>
         </tr>
         <tr>
             <td>Paper commitment deadline</td>
