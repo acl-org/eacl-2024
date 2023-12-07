@@ -168,7 +168,7 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td>The 1st Workshop on Natural Language Processing for Human Resources
+    <td><a href="https://megagon.ai/nlp4hr-2024/">The 1st Workshop on Natural Language Processing for Human Resources</a>
     </td>
     <td>NLP4HR</td>
     <td></td>
