@@ -23,6 +23,7 @@ Papers must be submitted via ARR at this link:
 
 If you have already submitted to one of the earlier ARR deadlines, those submissions are also eligible and you do not need to (re)submit above.
 
+As for <b>paper commitment</b>, we accept commitments from papers submitted and reviewed via ARR in the October 2023 cycle or earlier. If you opt to commit the papers to EACL 2024, please submit via the [link](https://openreview.net/group?id=eacl.org/EACL/2024/Conference).
 
 
 ## Important Dates
