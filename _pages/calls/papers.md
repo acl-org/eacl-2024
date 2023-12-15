@@ -53,7 +53,7 @@ As in recent years, some of the presentations at the conference will be for pape
         </tr>
         <tr>
             <td>Paper commitment deadline</td>
-            <td>Sunday</td>
+            <td>Wednesday</td>
             <td>20&nbsp;December 2023</td>
         </tr>
         <tr>
