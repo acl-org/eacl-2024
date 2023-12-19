@@ -36,14 +36,14 @@ sidebar:
 
 ### Generation 
 <p><a href="mailto:huangsj@nju.edu.cn">Shujian Huang</a><br />
-<a href="mailto:angelafan@meta.com">Angela Fan</a>
+<a href="mailto:angelafan@meta.com">Angela Fan</a><br />
 <a href="mailto:guerini@fbk.eu">Marco Guerini</a></p>
 
 
 
 ### Ethics and NLP 
 <p><a href="mailto:uvgotsaif@gmail.com">Saif Mohammad</a><br />
-<a href="mailto:cagri.coeltekin@uni-tuebingen.de">Cagri Coltekin</a>
+<a href="mailto:cagri.coeltekin@uni-tuebingen.de">Cagri Coltekin</a><br />
 <a href="mailto:kw@kwchang.net">Kai-Wei Chang</a></p>
 
 
@@ -65,7 +65,7 @@ sidebar:
 
 ### Information Retrieval and Text Mining 
 <p><a href="mailto:liuzy@tsinghua.edu.cn">Zhiyuan Liu</a><br />
-<a href="mailto:sophia.ananiadou@manchester.ac.uk">Sophia Ananiadou</a>
+<a href="mailto:sophia.ananiadou@manchester.ac.uk">Sophia Ananiadou</a><br />
 <a href="mailto:eugene.agichtein@emory.edu">Eugene Agichten</a></p>
 
 
@@ -104,21 +104,21 @@ sidebar:
 
 ### Machine Learning for NLP 
 <p><a href="mailto:augenstein@di.ku.dk">Isabelle Augenstein</a><br />
-<a href="mailto:nppappa@amazon.com">Nikolaos Pappas</a>
+<a href="mailto:nppappa@amazon.com">Nikolaos Pappas</a><br />
 <a href="mailto:colin.a.cherry@gmail.com">Colin Cherry</a></p>
 
 
 
 ### Machine Translation 
 <p><a href="mailto:francois.yvon@limsi.fr">Francois Yvon</a><br />
-<a href="mailto:https://costa-jussa.com/">Marta R. Costa-jussà</a></p>
+<a href="mailto:phkoehn@gmail.com">Philipp Koehn</a></p>
 
 
 
 
 ### Multilinguality and Language Diversity 
 <p><a href="mailto:goran.glavas@uni-wuerzburg.de">Goran Glavaš</a><br />
-<a href="mailto:steven.bird@cdu.edu.au">Steven Bird</a>
+<a href="mailto:steven.bird@cdu.edu.au">Steven Bird</a><br />
 <a href="mailto:fengyang@ict.ac.cn">Yang Feng</a></p>
 
 
@@ -126,7 +126,7 @@ sidebar:
 
 ### NLP Applications 
 <p><a href="mailto:diarmuid.oseaghdha@gmail.com">Diarmuid Ó Séaghdha</a><br />
-<a href="mailto:karin.verspoor@rmit.edu.au">Karin Verspoor</a>
+<a href="mailto:karin.verspoor@rmit.edu.au">Karin Verspoor</a><br />
 <a href="mailto:shuaiwanghk@gmail.com">Shuai Wang</a></p>
 
 
@@ -137,7 +137,7 @@ sidebar:
 
 ### Question Answering 
 <p><a href="mailto:amoschitti@gmail.com">Alessandro Moschitti</a><br />
-<a href="mailto:fengyansong@pku.edu.cn">Yansong Feng</a>
+<a href="mailto:fengyansong@pku.edu.cn">Yansong Feng</a><br />
 <a href="mailto:wenpeng@psu.edu">Wenpeng Yin</a></p>
 
 
@@ -150,7 +150,7 @@ sidebar:
 
 ### Semantics: Sentence-level Semantics, Textual Inference and other areas 
 <p><a href="mailto:gulsenc@itu.edu.tr">Gülşen Eryiğit</a><br />
-<!-- <a href="mailto:tushark@allenai.org">Tushar Khot</a> -->
+<a href="mailto:tushark@allenai.org">Tushar Khot</a>
 </p>
 
 
