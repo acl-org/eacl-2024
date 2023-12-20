@@ -16,7 +16,7 @@ sidebar:
 <i>(General queries: <a href = "mailto:eacl2024general@googlegroups.com">eacl2024general@googlegroups.com</a>)</i><br />
 
 <a href="https://www.scss.tcd.ie/~ygraham/">Yvette Graham</a>, Trinity College Dublin<br />
-<a href="https://www.eecs.qmul.ac.uk/~mpurver/">Matthew Purver</a>, Queen Mary University, London<br />
+<a href="https://www.eecs.qmul.ac.uk/~mpurver/">Matthew Purver</a>, Queen Mary University of London & Jožef Stefan Institute<br />
 <!-- <a href="/committees/program">Senior Area Chairs</a>
  -->
 
