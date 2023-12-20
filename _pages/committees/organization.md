@@ -84,6 +84,7 @@ Sabine Weber, VDI/VDE Innovation <br/>
 ### Student Volunteer Chairs
 <a href="https://www.um.edu.mt/profile/claudiaborg">Claudia Borg</a>, University of Malta<br/>
 <a href="https://yufanghou.github.io/">Yufang Hou</a>, IBM Research Ireland<br/>
+<a href = "">Megan Haddad</a>, ACL Office<br/>
 
 
 
