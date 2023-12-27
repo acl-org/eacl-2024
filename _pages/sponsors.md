@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Sponsorship
 layout: single
 excerpt: "EACL 2024 Sponsors"
 permalink: /sponsors
