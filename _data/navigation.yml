@@ -10,6 +10,9 @@ main:
     url: /registration
   - title: "Program"
     url: /program/main    
+  - title: "Sponsors"
+    url: /sponsors
+
 
 program:
   - title: Program
@@ -47,4 +50,3 @@ committees:
         url: /committees/organization/
       - title: "Senior Program"
         url: /committees/senior/
-
