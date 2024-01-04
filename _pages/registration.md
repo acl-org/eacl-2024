@@ -46,11 +46,12 @@ The ACL policy is that everyone attending an ACL conference must be a current (C
 
 <b>Note that</b>:
 - Bring a copy of your registration confirmation to Registration Check-in to pick up your badge.
-- If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed. Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference (fees may apply).
+- If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed. Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference (<b>fees may apply</b>).
 
 ## In-Person Pricing:
 
 Each main conference paper must have at least one Full Conference Regular In-Person attendee registered. Please see the ACL Executive Policy.  
+
 If you are presenting at a workshop, you do not need to register for the main conference, but you must register for the appropriate workshop. Please see the ACL Executive Policy. 
 
 ## Virtual Pricing
