@@ -13,6 +13,8 @@ toc_icon: "cog"
 
 <h1>EACL 2024 Program of Events</h1>
 
+Detailed schedule coming soon.
+
 <table>
   <tr>
    <td nowrap="nowrap" style="vertical-align: top;">
