@@ -15,7 +15,7 @@ toc_icon: "cog"
 
 <table>
   <tr>
-   <td nowrap="nowrap">
+   <td nowrap="nowrap" style="vertical-align: top;">
         Welcome Reception
    </td> 
    <td>
@@ -27,7 +27,7 @@ toc_icon: "cog"
    </td>
   </tr>
   <tr>
-   <td nowrap="nowrap">
+   <td nowrap="nowrap" style="vertical-align: top;">
       Main Conference
    </td> 
    <td>
@@ -40,7 +40,7 @@ toc_icon: "cog"
    </td>
   </tr>
   <tr>
-   <td nowrap="nowrap">
+   <td nowrap="nowrap" style="vertical-align: top;">
       Social Event           
    </td> 
    <td>
@@ -51,7 +51,7 @@ toc_icon: "cog"
    </td>
   </tr>
   <tr>
-   <td nowrap="nowrap">
+   <td nowrap="nowrap" style="vertical-align: top;">
      Tutorials   
    </td> 
    <td>
@@ -63,7 +63,7 @@ toc_icon: "cog"
    </td>
   </tr>
   <tr>
-   <td nowrap="nowrap">
+   <td nowrap="nowrap" style="vertical-align: top;">
       Workshops
    </td> 
    <td>
