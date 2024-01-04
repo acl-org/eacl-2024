@@ -82,8 +82,8 @@ Detailed schedule coming soon.
 <b>Panels:</b> TBA
 
 <b>Tutorials:</b> TBA <br>
-March 21, 2024
-Morning 09:00 – 12:30
+March 21, 2024 <br>
+Morning 09:00 – 12:30 <br>
 Afternoon 14:00 – 17:30
 
 <b>Workshop:</b> TBA <br>
