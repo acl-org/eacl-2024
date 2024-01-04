@@ -16,75 +16,75 @@ toc_icon: "cog"
 <table>
   <tr>
    <td nowrap="nowrap">
-        Welcome Receptions:
+        Welcome Reception
    </td> 
    <td>
-        March 17, 2023 
-		18:30 – 20:30 
-		Light hors d’oeuvre and 1 drink ticket provided. 
-        Admission ticket included with Full Conference Registration 
-		Dinner will be on your own.
+        March 17, 2023 <br>
+		18:30 – 20:30 <br>
+		Light hors d’oeuvre and 1 drink ticket provided. <br>
+        Admission ticket included with Full Conference Registration <br>
+		Dinner will be on your own. <br>
    </td>
   </tr>
   <tr>
    <td nowrap="nowrap">
-      Main Conference: Main Conference: 
+      Main Conference
    </td> 
    <td>
-     March 18, 19, 20, 2023
-     2 Coffee Breaks Pastries will be offered. 
-     Lunch Provided
-     Dinner on your own 
-     Breakfast included if you book within the EACL Room Block
+     March 18, 19, 20, 2023 <br>
+     2 Coffee Breaks Pastries will be offered. <br>
+     Lunch Provided <br>
+     Dinner on your own  <br>
+     Breakfast included if you book within the EACL Room Block <br>
 
    </td>
   </tr>
   <tr>
    <td nowrap="nowrap">
-      Social Event:           
+      Social Event           
    </td> 
    <td>
-     March 19, 2023
-     Buffet Dinner from 7 – 9 Location TBA
-     Admission ticket to both included with Full Conference Registration 
-     Breakfast included if you book within the EACL Room Block
+     March 19, 2023 <br>
+     Buffet Dinner from 7 – 9 Location TBA <br>
+     Admission ticket to both included with Full Conference Registration  <br>
+     Breakfast included if you book within the EACL Room Block <br>
    </td>
   </tr>
   <tr>
    <td nowrap="nowrap">
-     Tutorials:      
+     Tutorials   
    </td> 
    <td>
-     March 21, 2023 
-     09:00 – 17:30
-     2 Coffee Breaks Pastries will be offered. 
-     Lunch and Dinner on your own 
-     Breakfast included if you book within the EACL Room Block
+     March 21, 2023 <br>
+     09:00 – 17:30 <br>
+     2 Coffee Breaks Pastries will be offered.  <br>
+     Lunch and Dinner on your own  <br>
+     Breakfast included if you book within the EACL Room Block <br>
    </td>
   </tr>
   <tr>
    <td nowrap="nowrap">
-      Workshops:
+      Workshops
    </td> 
    <td>
-      March 21 & 22, 2023 
-      2 Coffee Breaks Pastries will be offered. 
-      Lunch and Dinner on your own 
-      Breakfast included if you book within the EACL Room Block
+      March 21 & 22, 2023  <br>
+      2 Coffee Breaks Pastries will be offered. <br>
+      Lunch and Dinner on your own <br>
+      Breakfast included if you book within the EACL Room Block <br>
    </td>
   </tr>
 </table>
 
-<b>Keynotes:</b> - TBA
+<b>Keynotes:</b> TBA
 
-<b>Panels:</b> - TBA
+<b>Panels:</b> TBA
 
-<b>Tutorials:</b> - TBA
+<b>Tutorials:</b> TBA <br>
 March 21, 2024
 Morning 09:00 – 12:30
 Afternoon 14:00 – 17:30
 
-<b>Workshop:</b> - TBA
+<b>Workshop:</b> TBA <br>
 March 21st & 22nd 
 
 
