@@ -81,7 +81,7 @@ Sabine Weber, VDI/VDE Innovation <br/>
 <a href="https://di.ku.dk/english/staff/vip/researchers_nlp/?pure=en/persons/631668">Desmond Eliott</a>, University of Copenhagen<br/>
 <a href="https://www.juntaoyu.com/">Juntao Yu</a>, Queen Mary University of London<br/>
 
-### Student Volunteer Chairs
+### Visa Chairs
 <a href="https://www.um.edu.mt/profile/claudiaborg">Claudia Borg</a>, University of Malta<br/>
 <a href="https://yufanghou.github.io/">Yufang Hou</a>, IBM Research Ireland<br/>
 <a href = "">Megan Haddad</a>, ACL Office<br/>
