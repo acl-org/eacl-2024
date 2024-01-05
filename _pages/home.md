@@ -1,5 +1,5 @@
 ---
-title: "<br>The&nbsp;18th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br> of&nbsp;the&nbsp;Association for&nbsp;Computational Linguistics<br>March 17-22, 2024<br>"
+title: "<br>The&nbsp;18th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br> of&nbsp;the&nbsp;Association for&nbsp;Computational Linguistics<br>March 17-22, 2024<br><br><br> "
 layout: splash
 permalink: /
 header:
