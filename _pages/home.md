@@ -3,7 +3,7 @@ title: "The&nbsp;18th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter<br>
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/header.jpeg"
+  overlay_image: "/assets/images/header.png"
   caption: 'Photo by <a href="https://unsplash.com/@d_mccullough">Daniel McCullough</a> on <a href="http://www.unsplash.com">Unsplash</a>'
 excerpt: "<br/><br/>"
 ---
