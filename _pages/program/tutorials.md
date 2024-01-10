@@ -30,7 +30,7 @@ Hosein Mohebbi, Jaap Jumelet, Michael Hanna, Afra Alishahi and Willem Zuidema
   </tr>
 
   <tr>
-    <td><b>[LLMs for Low Resource Languages in Multilingual, Multimodal and Dialectal Settings](https://llm-low-resource-lang.github.io/)</b><br/>
+    <td><b><a href="https://llm-low-resource-lang.github.io/">LLMs for Low Resource Languages in Multilingual, Multimodal and Dialectal Settings</a></b><br/>
 Firoj Alam, Shammur Absar Chowdhury, Sabri Boughorbel and Maram Hasanain
     </td>
     <td></td>
@@ -47,7 +47,7 @@ João Sedoc, John P. Lalor, Pedro Rodriguez and Jose Hernandez-Orallo
     <!-- <td>Elafiti 4</td> -->
   </tr>
    <tr>
-    <td><b>[Language + Molecules](https://language-plus-molecules.github.io/posts/tutorial/)</b><br/>
+    <td><b><a href="https://language-plus-molecules.github.io/posts/tutorial/">Language + Molecules</a></b><br/>
 Carl Edwards, Qingyun Wang and Heng Ji
     </td>
     <td></td>
