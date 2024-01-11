@@ -34,13 +34,12 @@ Corinthia St. George Bay
 
 The promocode for both hotels is "EACL".
 
-For the discounted EACL rate at the Radisson Blu Resort St. Julian please follow <a href = "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians">this link</a>.
-Enter check-in and check-out dates
-Occupancy : 1 room 2 Adults
-Select rates : click on Promotional code
-Enter promocode: EACL
-Check availability
-Select the room type and click book now
+For the discounted EACL rate at the Radisson Blu Resort St. Julian please follow <a href = "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians">this link</a>.<br>
+Enter check-in and check-out dates<br>
+Occupancy : 1 room 2 Adults <br>
+Select rates : click on Promotional code and enter promocode "EACL" <br>
+Check availability <br>
+Select the room type and click book now <br>
 
 For the discounted EACL rate at the Corinthia St George's Bay hotel please follow <a href = "https://reservations.corinthia.com/?Hotel=28702&Chain=11693&adult=1&child=0&promo=EACL">this link</a>.
 
