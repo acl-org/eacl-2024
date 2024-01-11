@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<b>Registration will be opening between December 17 – January  7th<b/>
+<b>Registration will be opening soon.</b><br>
 
 Based on feedback from our members, all papers in the program (oral or poster) must have at least one author who has registered at the appropriate rate for their presentation modality and status. ACL Executive Policy will be available when registration opens.
 
@@ -23,7 +23,6 @@ If any of the above would cause financial hardship, please apply for D&I subsidi
 
 <b>The Full Conference In-person Registration Fee Includes</b>:
 - Admission to all in-person meeting sessions and the exhibition as well as the entire virtual program
-- Conference bag and materials
 - Morning and Afternoon tea and coffee break throughout the meeting 
 - Admission to the Welcome Reception on Sunday, 17th of March located poolside at the Radisson Blu St. Julians. Included Light hors d’oeuvre and 1 drink ticket provided.
 - Admission to the Social Dinner on Tuesday, 19th March Location to be announced
@@ -37,12 +36,12 @@ If any of the above would cause financial hardship, please apply for D&I subsidi
 
 <b>Membership Fee & Policy</b>:
 
-The ACL policy is that everyone attending an ACL conference must be a current (CY 2023) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2024 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
+The ACL policy is that everyone attending an ACL conference must be a current (CY 2024) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2024 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
 
 <b>Registration Deadlines</b>:
-- Early registration will end on Friday, February 23, 2023, 11:59 PM (EDT).
-- Late registration starts on Saturday, February 24 and ends on Friday, March 15, 2023, 11:59 PM (EDT).
-- On-site registration begins on Saturday, March 16, 2023.
+- Early registration will end on Friday, February 23, 2024, 11:59 PM (EDT).
+- Late registration starts on Saturday, February 24 and ends on Friday, March 15, 2024, 11:59 PM (EDT).
+- On-site registration begins on Saturday, March 16, 2024.
 
 <b>Note that</b>:
 - Bring a copy of your registration confirmation to Registration Check-in to pick up your badge.
@@ -61,11 +60,128 @@ Criteria for selection for financial aid will include your (a) country of reside
 
 Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered. If this is prohibitive, please contact the D&I committee.
 
+## Pricing breakdown:
+<table>
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top;">
+        Main Conference
+   </td> 
+   <td>
+        In-Person
+   </td>
+   <td>
+        Virtual
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top;">
+      Early Registration (Jan 12 - Feb 23)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $275.00
+   </td>
+   <td> 
+      $150.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $825.00
+   </td>
+   <td> 
+    $350.00
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top;">
+      Late Registration (Feb 24 - March 15)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $375.00
+   </td>
+   <td> 
+      $200.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $950.00
+   </td>
+   <td> 
+    $475.00
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top;">
+      On site Registration (Mar 16 - March 22)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $450.00
+   </td>
+   <td> 
+      $200.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $1000.00
+   </td>
+   <td> 
+    $500.00
+   </td>
+  </tr>
+
+
+
+
+
+</table>
+
+
 
 ## Cancellation Policy
 
-Cancellation of registration one month or more prior to the conference (November 06, 2023, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
+Cancellation of registration one month or more prior to the conference (February 18th, 2024, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
 
-Cancellations up to three weeks prior to the conference (November 15, 2023) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200. Cancellations 2 weeks prior to start of the conference (November 22, 2023), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
+Cancellations up to three weeks prior to the conference (February 26th, 2024) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200. Cancellations 2 weeks prior to start of the conference (March 3rd, 2024), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
 
 Exceptions: Cancellation due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting the above cancellation exceptions.

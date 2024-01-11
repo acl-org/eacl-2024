@@ -21,8 +21,8 @@ Detailed schedule coming soon.
         Welcome Reception
    </td> 
    <td>
-        March 17, 2023 <br>
-		18:30 – 20:30 <br>
+        March 17, 2024 <br>
+		18:00 – 20:30 <br>
 		Light hors d’oeuvre and 1 drink ticket provided. <br>
         Admission ticket included with Full Conference Registration <br>
 		Dinner will be on your own. <br>
@@ -33,7 +33,7 @@ Detailed schedule coming soon.
       Main Conference
    </td> 
    <td>
-     March 18, 19, 20, 2023 <br>
+     March 18, 19, 20, 2024 <br>
      2 Coffee Breaks Pastries will be offered. <br>
      Lunch Provided <br>
      Dinner on your own  <br>
@@ -46,17 +46,16 @@ Detailed schedule coming soon.
       Social Event           
    </td> 
    <td>
-     March 19, 2023 <br>
-     Buffet Dinner from 7 – 9 Location TBA <br>
+     March 19, 2024 <br>
+     Buffet Dinner from 19:00 – 22:00 Location TBA <br>
      Admission ticket to both included with Full Conference Registration  <br>
-     Breakfast included if you book within the EACL Room Block <br>
    </td>
   </tr>
   <tr>
    <td nowrap="nowrap" style="vertical-align: top;">
      Tutorials   
    </td> 
-   <td>
+   <!-- <td>
      March 21, 2023 <br>
      09:00 – 17:30 <br>
      2 Coffee Breaks Pastries will be offered.  <br>
@@ -74,19 +73,19 @@ Detailed schedule coming soon.
       Lunch and Dinner on your own <br>
       Breakfast included if you book within the EACL Room Block <br>
    </td>
-  </tr>
+  </tr> -->
 </table>
 
 <b>Keynotes:</b> TBA
 
 <b>Panels:</b> TBA
 
-<b>Tutorials:</b> TBA <br>
+<b><a hreaf="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> TBA <br>
 March 21, 2024 <br>
 Morning 09:00 – 12:30 <br>
 Afternoon 14:00 – 17:30
 
-<b>Workshop:</b> TBA <br>
+<b><a href="https://2024.eacl.org/program/workshops/">Workshop</a>:</b> TBA <br>
 March 21st & 22nd 
 
 
