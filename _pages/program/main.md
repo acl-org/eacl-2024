@@ -81,12 +81,12 @@ Detailed schedule coming soon.
 
 <b>Panels:</b> TBA
 
-<b><a hreaf="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> TBA <br>
+<b><a href="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> TBA <br>
 March 21, 2024 <br>
 Morning 09:00 – 12:30 <br>
 Afternoon 14:00 – 17:30
 
-<b><a href="https://2024.eacl.org/program/workshops/">Workshop</a>:</b> TBA <br>
+<b><a href="https://2024.eacl.org/program/workshops/">Workshops:</a></b> TBA <br>
 March 21st & 22nd 
 
 
