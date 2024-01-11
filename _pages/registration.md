@@ -63,8 +63,8 @@ Given the large real costs of all conference paper presentations (whether virtua
 ## Pricing breakdown:
 <table>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#cccccc;">
+  <tr style="background-color:#cccccc">
+   <td nowrap="nowrap" style="vertical-align: top;">
         Main Conference
    </td> 
    <td>
@@ -75,8 +75,8 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       Early Registration (Jan 12 - Feb 23)
    </td> 
    <td>
@@ -107,8 +107,9 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top; ">
       Late Registration (Feb 24 - March 15)
    </td> 
    <td>
@@ -139,8 +140,9 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+ 
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       On site Registration (Mar 16 - March 22)
    </td> 
    <td>
@@ -172,8 +174,8 @@ Given the large real costs of all conference paper presentations (whether virtua
   </tr>
 
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#cccccc;">
+  <tr style="background-color:#cccccc">
+   <td nowrap="nowrap" style="vertical-align: top;">
         Workshops    
    </td> 
    <td>
@@ -184,8 +186,9 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top; ">
       Early Registration (Jan 12 - Feb 23)
    </td> 
    <td>
@@ -216,8 +219,8 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       Late Registration (Feb 24 - March 15)
    </td> 
    <td>
@@ -248,8 +251,8 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       On site Registration (Mar 16 - March 22)
    </td> 
    <td>
@@ -283,8 +286,8 @@ Given the large real costs of all conference paper presentations (whether virtua
 
 
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#cccccc;">
+  <tr style="background-color:#cccccc">
+   <td nowrap="nowrap" style="vertical-align: top;">
         Tutorials
    </td> 
    <td>
@@ -295,8 +298,8 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       Early Registration (Jan 12 - Feb 23)
    </td> 
    <td>
@@ -327,8 +330,8 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       Late Registration (Feb 24 - March 15)
    </td> 
    <td>
@@ -359,8 +362,8 @@ Given the large real costs of all conference paper presentations (whether virtua
    </td>
   </tr>
 
-  <tr>
-   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+  <tr style="background-color:#eeeeee;"> 
+   <td nowrap="nowrap" style="vertical-align: top;">
       On site Registration (Mar 16 - March 22)
    </td> 
    <td>
