@@ -62,8 +62,9 @@ Given the large real costs of all conference paper presentations (whether virtua
 
 ## Pricing breakdown:
 <table>
+
   <tr>
-   <td nowrap="nowrap" style="vertical-align: top;">
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#cccccc;">
         Main Conference
    </td> 
    <td>
@@ -75,7 +76,7 @@ Given the large real costs of all conference paper presentations (whether virtua
   </tr>
 
   <tr>
-   <td nowrap="nowrap" style="vertical-align: top;">
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
       Early Registration (Jan 12 - Feb 23)
    </td> 
    <td>
@@ -107,7 +108,7 @@ Given the large real costs of all conference paper presentations (whether virtua
   </tr>
 
   <tr>
-   <td nowrap="nowrap" style="vertical-align: top;">
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
       Late Registration (Feb 24 - March 15)
    </td> 
    <td>
@@ -139,7 +140,7 @@ Given the large real costs of all conference paper presentations (whether virtua
   </tr>
 
   <tr>
-   <td nowrap="nowrap" style="vertical-align: top;">
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
       On site Registration (Mar 16 - March 22)
    </td> 
    <td>
@@ -169,6 +170,228 @@ Given the large real costs of all conference paper presentations (whether virtua
     $500.00
    </td>
   </tr>
+
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#cccccc;">
+        Workshops    
+   </td> 
+   <td>
+        In-Person
+   </td>
+   <td>
+        Virtual
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+      Early Registration (Jan 12 - Feb 23)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $150.00
+   </td>
+   <td> 
+      $75.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $450.00
+   </td>
+   <td> 
+    $225.00
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+      Late Registration (Feb 24 - March 15)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $200.00
+   </td>
+   <td> 
+      $100.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $550.00
+   </td>
+   <td> 
+    $250.00
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+      On site Registration (Mar 16 - March 22)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $225.00
+   </td>
+   <td> 
+      $125.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $600.00
+   </td>
+   <td> 
+    $275.00
+   </td>
+  </tr>
+
+
+
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#cccccc;">
+        Tutorials
+   </td> 
+   <td>
+        In-Person
+   </td>
+   <td>
+        Virtual
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+      Early Registration (Jan 12 - Feb 23)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $35.00
+   </td>
+   <td> 
+      $25.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $75.00
+   </td>
+   <td> 
+    $50.00
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+      Late Registration (Feb 24 - March 15)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $75.00
+   </td>
+   <td> 
+      $50.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $150.00
+   </td>
+   <td> 
+    $100.00
+   </td>
+  </tr>
+
+  <tr>
+   <td nowrap="nowrap" style="vertical-align: top; background-color:#bbbbbb;">
+      On site Registration (Mar 16 - March 22)
+   </td> 
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td> 
+      Student 
+   </td>
+   <td> 
+      $125.00
+   </td>
+   <td> 
+      $75.00
+   </td>
+  </tr>
+  <tr>
+  <td> 
+    Regular
+  </td>
+   <td> 
+    $225.00
+   </td>
+   <td> 
+    $175.00
+   </td>
+  </tr>
+
+
 
 
 
