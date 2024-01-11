@@ -51,11 +51,12 @@ Detailed schedule coming soon.
      Admission ticket to both included with Full Conference Registration  <br>
    </td>
   </tr>
+  <!--
   <tr>
    <td nowrap="nowrap" style="vertical-align: top;">
      Tutorials   
    </td> 
-   <!-- <td>
+   <td>
      March 21, 2023 <br>
      09:00 – 17:30 <br>
      2 Coffee Breaks Pastries will be offered.  <br>
