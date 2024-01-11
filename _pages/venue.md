@@ -1,5 +1,5 @@
 ---
-title: Local Information
+title: One Conference - Two Hotels - One Amazing Event
 layout: single
 excerpt: "EACL 2024 Venue."
 permalink: /venue
@@ -11,9 +11,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## One Conference – Two Hotels – One Amazing Event
-
-Conference Venue(s):
+## Conference Venue(s):
 
 This years EACL has 2 Venues: While the main conference will be held at the Radisson Blu in St. George's Bay.
 Workshops and Tutorials will be split between 2 Venues: Radisson Blu and Corinthia St. George's Bay
