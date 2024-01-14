@@ -34,6 +34,8 @@ calls:
         url: /calls/workshops/
       - title: "Tutorials"
         url: /calls/tutorials/
+      - title: "Diversity & Inclusion Subsidies"
+        url: /calls/d-i-subsidies/        
 ethics:
   - title: Ethics
     children:
