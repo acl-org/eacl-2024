@@ -21,7 +21,7 @@ toc_icon: "cog"
     <!-- <td><b>Room</b></td> -->
   </tr>
   <tr>
-    <td><b>Transformer-specific Interpretability</b><br/>
+    <td><b><a href="https://projects.illc.uva.nl/indeep/tutorial/">Transformer-specific Interpretability</a></b><br/>
 Hosein Mohebbi, Jaap Jumelet, Michael Hanna, Afra Alishahi and Willem Zuidema
     </td>
     <td></td>
