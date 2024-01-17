@@ -9,7 +9,7 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
-<div class="notice-info" markdown="1">
+<div class="notice--info" markdown="1">
   <h2 id="decisions-delayed">Paper decisions delayed by 48 hours</h2>
   **January 15, 2023**. Paper acceptance decisions are not yet fully complete. They will be sent out as soon as possible; this should be within the next 48 hours. We apologise for the delay.
 </div>
