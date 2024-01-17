@@ -14,7 +14,7 @@ toc_icon: "cog"
 <h1>Workshops program:</h1>
 
 
-## Thursday, March 21
+### Thursday, March 21
 <table>
   <tr style="background-color:#cccccc">
     <td><b>Workshop</b></td>
@@ -107,7 +107,7 @@ toc_icon: "cog"
 
 
 
-## Friday, March 22
+### Friday, March 22
 
 <table>
   <tr style="background-color:#cccccc">
