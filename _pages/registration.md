@@ -313,10 +313,10 @@ Given the large real costs of all conference paper presentations (whether virtua
       Student 
    </td>
    <td> 
-      $35.00
+      $75.00
    </td>
    <td> 
-      $25.00
+      $35.00
    </td>
   </tr>
   <tr>
@@ -324,10 +324,10 @@ Given the large real costs of all conference paper presentations (whether virtua
     Regular
   </td>
    <td> 
-    $75.00
+    $150.00
    </td>
    <td> 
-    $50.00
+    $75.00
    </td>
   </tr>
 
@@ -345,10 +345,10 @@ Given the large real costs of all conference paper presentations (whether virtua
       Student 
    </td>
    <td> 
-      $75.00
+      $100.00
    </td>
    <td> 
-      $50.00
+      $60.00
    </td>
   </tr>
   <tr>
@@ -356,10 +356,10 @@ Given the large real costs of all conference paper presentations (whether virtua
     Regular
   </td>
    <td> 
-    $150.00
+    $225.00
    </td>
    <td> 
-    $100.00
+    $125.00
    </td>
   </tr>
 
@@ -380,7 +380,7 @@ Given the large real costs of all conference paper presentations (whether virtua
       $125.00
    </td>
    <td> 
-      $75.00
+      $70.00
    </td>
   </tr>
   <tr>
@@ -388,10 +388,10 @@ Given the large real costs of all conference paper presentations (whether virtua
     Regular
   </td>
    <td> 
-    $225.00
+    $300.00
    </td>
    <td> 
-    $175.00
+    $150.00
    </td>
   </tr>
 
