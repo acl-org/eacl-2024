@@ -150,15 +150,6 @@ toc_icon: "cog"
   </tr>
 
   <tr>
-    <td><a href="https://sigtyp.github.io/workshop.html">The 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP</a>
-    </td>
-    <td>SIGTYP</td>
-    <td></td>
-    <td></td>
-    <!-- <td>Elafiti 3</td> -->
-  </tr>
-
-  <tr>
     <td><a href="https://sites.google.com/view/teicai2024">Towards Ethical and Inclusive Conversational AI: Language Attitudes, Linguistic Diversity, and Language Rights</a>
     </td>
     <td>TEICAI</td>
