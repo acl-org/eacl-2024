@@ -55,7 +55,8 @@ If you are presenting at a workshop, you do not need to register for the main co
 
 ## Virtual Pricing
 
-A discounted/sliding scale application will be available for financial aid when registration opens. 
+For a Discounted/sliding scale Virtual Registration ($0-100), apply <a href="https://forms.office.com/r/u0VKWMHbmi">here</a> by February 23, 2024.
+
 Criteria for selection for financial aid will include your (a) country of residence, (b) employment position, (c) monthly income range, (d) available financial support from your employer/university, and (e) special circumstances. Given prioritization for those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand and higher income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.
 
 Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered. If this is prohibitive, please contact the D&I committee.

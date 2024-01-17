@@ -8,8 +8,17 @@ header:
 excerpt: "<br/><br/>"
 ---
 ## News
+
+<div class="notice-info" markdown="1">
+  <h2 id="decisions-delayed">Paper decisions delayed by 48 hours</h2>
+  **January 15, 2023**. Paper acceptance decisions are not yet fully complete. They will be sent out as soon as possible; this should be within the next 48 hours. We apologise for the delay.
+</div>
+
+
+
+
 <div class="notice--info" markdown="1">
-  <h2 id="submissions-received">EACL 2024 Paper Commitment</h2>
+  <h2 id="accepting-commitments">EACL 2024 Paper Commitment</h2>
   **December 13, 2023**. We are now accepting commitments from papers submitted and reviewed via ARR in the October 2023 cycle or earlier. If you opt to commit the papers to EACL 2024, please submit via the [link](https://openreview.net/group?id=eacl.org/EACL/2024/Conference).
 </div>
 
