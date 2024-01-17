@@ -11,7 +11,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<b>Registration will be opening soon.</b><br>
+<b>Registration is officially open please find all details below and click <a hreaf="https://acl.swoogo.com/EACL2024">here</a> to register.</b><br>
 
 Based on feedback from our members, all papers in the program (oral or poster) must have at least one author who has registered at the appropriate rate for their presentation modality and status. ACL Executive Policy will be available when registration opens.
 
@@ -62,6 +62,11 @@ Criteria for selection for financial aid will include your (a) country of reside
 Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered. If this is prohibitive, please contact the D&I committee.
 
 ## Pricing breakdown:
+
+
+
+<b>Click <a hreaf="https://acl.swoogo.com/EACL2024">here</a> to register.</b><br>
+
 <table>
 
   <tr style="background-color:#cccccc">
