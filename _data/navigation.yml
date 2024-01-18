@@ -7,7 +7,7 @@ main:
   - title: "Venue"
     url: /venue
   - title: "Registration"
-    url: /registration
+    url: /registration/registration
   - title: "Program"
     url: /program/main    
   - title: "Sponsors"
