@@ -39,7 +39,7 @@ Firoj Alam, Shammur Absar Chowdhury, Sabri Boughorbel and Maram Hasanain
   </tr>
 
   <tr>
-    <td><b>Item Response Theory for Natural Language Processing</b><br/>
+    <td><b><a href="https://eacl2024irt.github.io/">Item Response Theory for Natural Language Processing</a></b><br/>
 João Sedoc, John P. Lalor, Pedro Rodriguez and Jose Hernandez-Orallo
     </td>
     <td></td>
@@ -56,7 +56,7 @@ Carl Edwards, Qingyun Wang and Heng Ji
   </tr>
 
   <tr>
-    <td><b>Computational Modeling of Semantic Change</b><br/>
+    <td><b><a href="https://www.changeiskey.org/event/2024-eacl-tutorial/">Computational Modeling of Semantic Change</a></b><br/>
 Pierluigi Cassotti, Francesco Periti, Stefano De Pascale, Haim Dubossarsky and Nina Tahmasebi
     </td>
     <td></td>
