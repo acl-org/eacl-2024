@@ -10,11 +10,9 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
-  <h2 id="decisions-delayed">Paper decisions delayed by 48 hours</h2>
-  **January 15, 2023**. Paper acceptance decisions are not yet fully complete. They will be sent out as soon as possible; this should be within the next 48 hours. We apologise for the delay.
+  <h2 id="decisions-delayed">Paper acceptance decisions have now been made</h2>
+  **January 18, 2023**. Authors should have received an email notification from OpenReview. 226 papers are accepted to the main conference, and 162 to Findings of the ACL. We're looking forward to hearing more about them in Malta!
 </div>
-
-
 
 
 <div class="notice--info" markdown="1">
