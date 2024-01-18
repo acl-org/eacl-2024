@@ -57,7 +57,7 @@ If you are presenting at a workshop, you do not need to register for the main co
 
 Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered. If this is prohibitive, please contact the D&I committee.
 
-Finacial aid via a Discounted/sliding scale Virtual Registration ($0-100) is availale. For more information and how to apply please see  <a href="https://2024.eacl.org/virtualdiscounts">here</a>.
+Finacial aid via a discounted/sliding scale Virtual Registration ($0-100) is availale. For more information and how to apply please see  <a href="https://2024.eacl.org/virtualdiscounts">here</a>.
 
 
 ## Pricing breakdown:
