@@ -4,7 +4,7 @@ layout: single
 excerpt: "EACL 2024 Registration"
 permalink: /registration
 sidebar:
-  nav: faq
+  nav: registration
 toc: true
 toc_only: true
 toc_sticky: true
@@ -55,14 +55,12 @@ If you are presenting at a workshop, you do not need to register for the main co
 
 ## Virtual Pricing
 
-For a Discounted/sliding scale Virtual Registration ($0-100), apply <a href="https://forms.office.com/r/u0VKWMHbmi">here</a> by February 23, 2024.
-
-Criteria for selection for financial aid will include your (a) country of residence, (b) employment position, (c) monthly income range, (d) available financial support from your employer/university, and (e) special circumstances. Given prioritization for those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand and higher income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.
-
 Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author who has registered. If this is prohibitive, please contact the D&I committee.
 
-## Pricing breakdown:
+Finacial aid via a Discounted/sliding scale Virtual Registration ($0-100) is availale. For more information and how to apply please see  <a href="https://2024.eacl.org/virtualdiscounts">here</a>.
 
+
+## Pricing breakdown:
 
 
 <b>Click <a href="https://acl.swoogo.com/EACL2024">here</a> to register.</b><br>

@@ -23,6 +23,16 @@ program:
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
+
+
+registration:
+  - title: Registration
+    children:
+      - title: "EACL 2024 Registration"
+        url: /registrations       
+      - title: "Virtual Discounted Registration"
+        url: /virtualdiscounts
+
 calls:
   - title: Call for
     children:
