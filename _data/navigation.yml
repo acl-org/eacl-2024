@@ -29,7 +29,7 @@ registration:
   - title: Registration
     children:
       - title: "EACL 2024 Registration"
-        url: /registrations       
+        url: /registration       
       - title: "Virtual Discounted Registration"
         url: /virtualdiscounts
 
