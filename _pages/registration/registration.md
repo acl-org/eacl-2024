@@ -5,7 +5,7 @@ excerpt: "EACL 2024 Registration"
 permalink: /registration
 sidebar:
   nav: registration
-toc: true
+toc: false
 toc_only: true
 toc_sticky: true
 toc_icon: "cog"
