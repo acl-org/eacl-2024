@@ -33,7 +33,7 @@ Candidates will be assessed based on their application package (details below). 
 
 * Applicants must be full-time students.
 * Submission requires a completed application form <a href="https://forms.gle/SUyMyQWPAcQv1tLu7">here</a> with a few questions and a concise one-page CV (resume).
-* Travel and accommodations should be arranged independently, regardless of the application outcome. Special Rate Lodging is secured by ACL Months in advance to the conference. The discounted rates can be seen and secured by following instructions at the <a href"https://2024.eacl.org/venue">following link</a>.
+* Travel and accommodations should be arranged independently, regardless of the application outcome. Special Rate Lodging is secured by ACL Months in advance to the conference. The discounted rates can be seen and secured by following instructions at the <a href="https://2024.eacl.org/venue">following link</a>.
 
 ### Application Instructions: 
 
@@ -53,8 +53,11 @@ Once more, volunteering grants you complimentary registration solely for the EAC
 *If you miss these dates there is no exception to policy for re-consideration so please be cognizant*
 
 **Application Opens:** January 20, 2024 
+
 **Early Registration Opens:** January 7, 2024 
+
 **Application Deadline:** January 31, 2024 
+
 **Acceptance Notifications:** February 5, 2024 
 
   
@@ -64,6 +67,8 @@ Once more, volunteering grants you complimentary registration solely for the EAC
 For any inquiries, please reach out to the Student Volunteer Chairs: 
 
 **Claudia Borg:** claudia.borg@um.edu.mt 
+
 **Desmond Eliott:** de@di.ku.dk 
+
 **Juntao Yu:** juntao.yu@qmul.ac.uk 
  
