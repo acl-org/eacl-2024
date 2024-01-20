@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="call-for-student-volunteers">Call for Student Volunteers</h2>
+  **January 20, 2023**. The call for student volunteers has been published. We look forward to your applications, please see <a href="https://2024.eacl.org/calls/student-volunteers/">here</a> for more information.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="decisions-delayed">Paper acceptance decisions have now been made</h2>
   **January 18, 2023**. Authors should have received an email notification from OpenReview. 226 papers are accepted to the main conference, and 162 to Findings of the ACL. We're looking forward to hearing more about them in Malta!
 </div>

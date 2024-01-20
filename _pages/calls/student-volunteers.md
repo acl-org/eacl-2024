@@ -54,7 +54,7 @@ Once more, volunteering grants you complimentary registration solely for the EAC
 
 **Application Opens:** January 20, 2024 
 
-**Early Registration Opens:** January 7, 2024 
+**Early Registration Deadline:** Februrary 23, 2024 
 
 **Application Deadline:** January 31, 2024 
 
