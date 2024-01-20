@@ -44,8 +44,10 @@ calls:
         url: /calls/workshops/
       - title: "Tutorials"
         url: /calls/tutorials/
-      - title: "Diversity & Inclusion Subsidies"
+      - title: "diversity & inclusion subsidies"
         url: /calls/d-i-subsidies/        
+      - title: "Student Volunteers"
+        url: /calls/student-volunteers/
 ethics:
   - title: Ethics
     children:
