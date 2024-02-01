@@ -85,8 +85,8 @@ As in recent years, some of the presentations at the conference will be for pape
         </tr>
         <tr>
             <td>Notification of acceptance (long & short papers)</td>
-            <td>Monday</td>
-            <td>15&nbsp;January 2024</td>
+            <td>Wednesday</td>
+            <td><s>15&nbsp;January 2024</s>&nbsp;17&nbsp;January 2024 </td>
         </tr>
         <tr>
             <td>Withdrawal deadline (long & short papers)</td>
@@ -95,9 +95,9 @@ As in recent years, some of the presentations at the conference will be for pape
         </tr>
         <tr>
             <td>Camera-ready papers due (long & short papers)</td>
-            <td>Wednesday</td>
-            <td>31&nbsp;January 2024</td>
-        </tr>
+            <td>Friday</td>
+            <td><s>31&nbsp;January 2024</s>&nbsp;2&nbsp;February 2024 </td>
+       </tr>
         <tr>
             <td>Workshops & Tutorials</td>
             <td>Sunday; Thu-Fri</td>
