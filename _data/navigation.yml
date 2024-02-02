@@ -23,6 +23,11 @@ program:
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
+      - title: "Main Conference Accepted Papers"
+        url: /program/main-accepted/
+      - title: "Findings Accepted Papers"
+        url: /program/findings-accepted/
+     
 
 
 registration:
