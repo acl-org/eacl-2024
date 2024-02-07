@@ -99,9 +99,9 @@ Encourage attendees to explore the whole island in particular:
 ### Practicalities
 
 Electrical sockets in Malta are designed to use the british style of plug (shown below). If your devices have a different type of plug you will need to have an appropriate adapter.
+<center>
 <img src="/assets/images/plug.jpg" alt="Image of British electrical plug">
-
-
+</center>
 
 
 <!-- [**Hotel Radisson Blu**](https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-03-17&checkOutDate=2024-03-18&adults%5B%5D=2&children%5B%5D=0&searchType=lowest&promotionCode=&voucher=&brandFirst=rdb&hotelCode=MTMLASTJ)
