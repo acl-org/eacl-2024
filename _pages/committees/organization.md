@@ -86,4 +86,8 @@ Sabine Weber, VDI/VDE Innovation <br/>
 <a href="https://yufanghou.github.io/">Yufang Hou</a>, IBM Research Ireland<br/>
 <a href = "">Megan Haddad</a>, ACL Office<br/>
 
+### Technical Infrastructure Chairs 
+<a href="https://www.h-its.org/people/wei-liu/">Wei Liu</a>, Heidelberg Institute for Theoretical Studies<br/>
+<a href="https://sdeva14.github.io/">Sungho Jeon</a>, Heidelberg Institute for Theoretical Studies<br/>
+
 
