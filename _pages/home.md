@@ -10,13 +10,18 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="rooms-still-available">Discounted rooms still available at the Radisson</h2>
+  **February 7, 2024**. There are still rooms available at the Radisson and blocked for EACL. The accomodation includes breakfast (unlike other offers which may at appear cheaper at first sight). You only have to click on <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians">this link</a> and enter the promocode "EACL" to get the conference rate.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="call-for-student-volunteers">Call for Student Volunteers</h2>
-  **January 20, 2023**. The call for student volunteers has been published. We look forward to your applications, please see <a href="https://2024.eacl.org/calls/student-volunteers/">here</a> for more information.
+  **January 20, 2024**. The call for student volunteers has been published. We look forward to your applications, please see <a href="https://2024.eacl.org/calls/student-volunteers/">here</a> for more information.
 </div>
 
 <div class="notice--info" markdown="1">
   <h2 id="decisions-delayed">Paper acceptance decisions have now been made</h2>
-  **January 18, 2023**. Authors should have received an email notification from OpenReview. 226 papers are accepted to the main conference, and 162 to Findings of the ACL. We're looking forward to hearing more about them in Malta!
+  **January 18, 2024**. Authors should have received an email notification from OpenReview. 226 papers are accepted to the main conference, and 162 to Findings of the ACL. We're looking forward to hearing more about them in Malta!
 </div>
 
 
