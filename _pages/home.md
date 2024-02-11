@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="invitation-letter">Call for Student Volunteers</h2>
+  **February 11, 2024**. Invitation letters for visa applications would be automatically issued when you complete the conference registration process.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="rooms-still-available">Discounted rooms still available at the Radisson</h2>
   **February 7, 2024**. There are still rooms available at the Radisson and blocked for EACL. The accomodation includes breakfast (unlike other offers which may appear cheaper at first sight). You only have to click on <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians">this link</a> and enter the promocode "EACL" to get the conference rate.
 </div>
