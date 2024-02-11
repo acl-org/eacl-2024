@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
-  <h2 id="invitation-letter">Call for Student Volunteers</h2>
+  <h2 id="invitation-letter">Invitation letters</h2>
   **February 11, 2024**. Invitation letters for visa applications would be automatically issued when you complete the conference registration process.
 </div>
 
