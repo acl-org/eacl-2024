@@ -77,11 +77,11 @@ Detailed schedule coming soon.
   </tr> -->
 </table>
 
-<b>Keynotes:</b> TBA
+<b><a href="https://2024.eacl.org/program/invited/">Keynotes:</a></b> Mirella Lapata and Hinrich Schütze
 
 <b>Panels:</b> TBA
 
-<b><a href="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> TBA <br>
+<b><a href="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> <br>
 March 21, 2024 <br>
 Morning 09:00 – 12:30 <br>
 Afternoon 14:00 – 17:30
