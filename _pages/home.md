@@ -9,8 +9,10 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
-
-
+<div class="notice--info" markdown="1">
+  <h2 id="invited-talks">Invitation letters</h2>
+  **February 12, 2024**. Exciting news: Mirella Lapata (U Edinburgh) and Hinrich Schütze (LMU Munich) will give keynote talks at EACL 2024!
+</div>
 
 <div class="notice--info" markdown="1">
   <h2 id="invitation-letter">Invitation letters</h2>
