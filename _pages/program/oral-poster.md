@@ -123,7 +123,7 @@ If you are presenting an oral talk, please use <a href="https://forms.gle/9zi3fG
 <br><br>Over-Reasoning and Redundant Calculation of Large Language Models
 <br><br>Plan-Grounded Large Language Models for Dual Goal Conversational Settings
 <br><br>Pre-Training Methods for Question Reranking
-<br><br>Predict the Next Word: <Humans exhibit uncertainty in this task and language models _____>
+<br><br>Predict the Next Word: Humans exhibit uncertainty in this task and language models
 <br><br>Predicting Client Emotions and Therapist Interventions in Psychotherapy Dialogues
 <br><br>Presentations by the Humans and For the Humans: Harnessing LLMs for Generating Persona-Aware Slides from Documents
 <br><br>Putting Context in Context: the Impact of Discussion Structure on Text Classification
@@ -166,7 +166,7 @@ If you are presenting an oral talk, please use <a href="https://forms.gle/9zi3fG
 <br><br>WSC+: Enhancing The Winograd Schema Challenge Using Tree-of-Experts<br>
 </p>
 
-# Poster Presentations (+ 12 minute video recording)
+## Poster Presentations (+ 12 minute video recording)
 
 <p>
 A Classification-Guided Approach for Adversarial Attacks against Neural Machine Translation
