@@ -12,7 +12,7 @@ toc_icon: "cog"
 ---
 <h1>Invited Speakers</h1>
 
-<h2><a href="https://homepages.inf.ed.ac.uk/mlap/" target="_blank">Mirella Lapata</a></h2><br/>
+<h2>Keynote: <a href="https://homepages.inf.ed.ac.uk/mlap/" target="_blank">Mirella Lapata</a></h2><br/>
 <img src="/assets/images/mirella.png" alt="Mirella Lapata">
 
 <b>Title:</b> Prompting is *not* all you need! Or why Structure and Representations still matter in NLP <br/>
@@ -26,7 +26,7 @@ toc_icon: "cog"
 <br/>
 
 
-<h2><a href="https://www.cis.lmu.de/schuetze/" target="_blank">Hinrich Schütze</a></h2><br/>
+<h2>Keynote: <a href="https://www.cis.lmu.de/schuetze/" target="_blank">Hinrich Schütze</a></h2><br/>
 <img src="/assets/images/hinrich.png" alt="Hinrich Schütze">
 
 <b>Title:</b> Quality Data for LLMs: Challenges and Opportunities for NLP <br/>
@@ -39,9 +39,7 @@ toc_icon: "cog"
 <b>Speaker Bio:</b> Hinrich Schuetze is Professor at the Center for Information
 and Language Processing at LMU Munich.  His lab is engaged in research on multilinguality, representation learning and linguistic analysis of NLP models.  His research has been funded by NSF, the German National Science Foundation and the European Research Council (ERC Advanced Grant), inter alia. Hinrich is coauthor of two well-known textbooks (Foundations of Statistical Natural Language Processing and Introduction to Information Retrieval), a fellow of HessianAI, ELLIS (the European Laboratory for Learning and Intelligent Systems) and ACL (Association for Computational Linguistics) and (co-)awardee of several best paper awards and the ACL 2023 25-year test of time award.
 
-<h1>Karen Spärck Jones Award Lecture</h1>
-
-<h2><a href="https://www.cs.virginia.edu/~hw5x/" target="_blank">Hongning Wang</a></h2><br/>
+<h2>Karen Spärck Jones Award Lecture: <a href="https://www.cs.virginia.edu/~hw5x/" target="_blank">Hongning Wang</a></h2><br/>
 <img src="/assets/images/hongning.jpg" alt="Hongning Wang">
 
 <b>Title:</b> Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict? <br/>
