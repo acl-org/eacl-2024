@@ -39,6 +39,8 @@ toc_icon: "cog"
 <b>Speaker Bio:</b> Hinrich Schuetze is Professor at the Center for Information
 and Language Processing at LMU Munich.  His lab is engaged in research on multilinguality, representation learning and linguistic analysis of NLP models.  His research has been funded by NSF, the German National Science Foundation and the European Research Council (ERC Advanced Grant), inter alia. Hinrich is coauthor of two well-known textbooks (Foundations of Statistical Natural Language Processing and Introduction to Information Retrieval), a fellow of HessianAI, ELLIS (the European Laboratory for Learning and Intelligent Systems) and ACL (Association for Computational Linguistics) and (co-)awardee of several best paper awards and the ACL 2023 25-year test of time award.
 
+<h1>Karen Spärck Jones Award Lecture</h1>
+
 <h2><a href="https://www.cs.virginia.edu/~hw5x/" target="_blank">Hongning Wang</a></h2><br/>
 <img src="/assets/images/hongning.jpg" alt="Hongning Wang">
 
