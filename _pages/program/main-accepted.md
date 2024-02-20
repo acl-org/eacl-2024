@@ -193,7 +193,7 @@ toc_icon: "cog"
 <b>Backward Compatibility During Data Updates by Weight Interpolation</b><br />Raphael Schumann, Elman Mansimov, Yi-an Lai, Nikolaos Pappas, Xibin Gao and Yi Zhang<br /><br />
 <b>Gradient-Based Language Model Red Teaming</b><br />Nevan Wichers, Carson Denison and Ahmad Beirami<br /><br />
 <b>Do Moral Judgment and Reasoning Capability of LLMs Change with Language? A Study using the Multilingual Defining Issues Test</b><br />Aditi Khandelwal, Utkarsh Agarwal, Kumar Tanmay and Monojit Choudhury<br /><br />
-<b>Shifting Perspectives: Rethinking Zero-shot Cross-Lingual Ability of Multilingual Language Models</b><br />Sara Rajaee and Christof Monz<br /><br />
+<b>Analyzing the Evaluation of Cross-Lingual Knowledge Transfer in Multilingual Language Models</b><br />Sara Rajaee and Christof Monz<br /><br />
 <b>Large-Scale Label Interpretation Learning for Few-Shot Named Entity Recognition</b><br />Jonas Golde, Felix Hamborg and Alan Akbik<br /><br />
 <b>MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks</b><br />Lei Zhang, Yuge Zhang, Kan Ren, Dongsheng Li and Yuqing Yang<br /><br />
 <b>Text-Guided Image Clustering</b><br />Andreas Stephan, Lukas Miklautz, Kevin Sidak, Jan Philip Wahle, Bela Gipp, Claudia Plant and Benjamin Roth<br /><br />
