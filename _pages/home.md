@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="early-reg-ends-soon">Early registration ending soon</h2>
+  **February 21, 2024**. Early bird registration ends this Friday, February 23, 2024, 11:59 PM (EDT). Also, there are still a few rooms available at the Radisson.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="invited-talks">Exciting news</h2>
   **February 12, 2024**. Mirella Lapata (U Edinburgh), Hinrich Schütze (LMU Munich) will give keynote talks at EACL 2024! Furthermore, the Karen Spärck Jones Award Lecture will be given by Hongning Wang (Tsinghua University)! 
 </div>
