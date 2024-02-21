@@ -17,7 +17,7 @@ toc_icon: "cog"
 
 <b>Title:</b> Prompting is *not* all you need! Or why Structure and Representations still matter in NLP <br/>
 
-<b>Date:</b> Wednesday 20/03, 14:00-15:00 <br/>
+<b>Date:</b> Wednesday 20/03, 14:45-15:45 <br/>
 
 <b>Abstract:</b> Recent years have witnessed the rise of increasingly larger and more sophisticated language models (LMs) capable of performing every task imaginable, sometimes at (super)human level. In this talk, I will argue that there is still space for specialist models in today's NLP landscape. Such models can be dramatically more efficient, inclusive, and explainable. I will focus on two examples, opinion summarization and crosslingual semantic parsing and show how these two seemingly unrelated tasks can be addressed by explicitly learning task-specific representations. I will show how such representations can be further structured to allow search and retrieval, evidence-based generation, and cross-lingual alignment. Finally, I will  discuss why we need to to use LLMs for what they are good at and remove the need for them to do things that can be done much better by smaller models.
 <br/>
@@ -44,7 +44,7 @@ and Language Processing at LMU Munich.  His lab is engaged in research on multil
 
 <b>Title:</b> Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict? <br/>
 
-<b>Date:</b> Monday 18/03, 09:00-10:00 <br/>
+<b>Date:</b> Monday 18/03, 09:30-10:30 <br/>
 
 <b>Abstract:</b> The advent of generative AI technology produces transformative impact on the content creation landscape, offering alternative approaches to produce diverse, good-quality content across media, thereby reshaping the ecosystems of online content creation and publishing, but also raising concerns about market over-saturation and the potential marginalization of human creativity. Our recent work introduces a competition model generalized from the Tullock contest to analyze the tension between human creators and generative AI. Our theory and simulations suggest that despite challenges, a stable equilibrium between human and AI-generated content is possible. Our work contributes to understanding the competitive dynamics in the content creation industry, offering insights into the future interplay between human creativity and technological advancements in generative AI.
 <br/>
