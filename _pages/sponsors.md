@@ -16,19 +16,29 @@ toc_icon: "cog"
    <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a>
 
-<b><h2>Gold</h2></b>
-
+## Gold
+<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">
+   <img src="/assets/images/logos/bloomberg.jpg" alt="Clickable Megagon Logo" style="width:400px;">
+</a> 
  
- 
-<b><h2>Bronze</h2></b>
+## Bronze
+<a href="https://research.adobe.com/">
+   <img src="/assets/images/logos/adobe.jpg" alt="Clickable Megagon Logo" style="width:400px;">
+</a> 
 
-<b><h2>Diversity and inclusion</h2></b>
+<a href="https://babelscape.com/">
+   <img src="/assets/images/logos/babelscape.jpg" alt="Clickable Megagon Logo" style="width:400px;">
+</a> 
+
+## Diversity and inclusion
+
+<a href="https://www.h-its.org">
+   <img src="/assets/images/logos/hits.pdf" alt="Clickable Megagon Logo" style="width:400px;">
+</a> 
 
 
 
-
-
-
+<hr>
 <b>Sponsorship brochure</b>
 
 The sponsorship brochure for EACL 2024 is now available at <a href="/downloads/Sponsorship-brochure-for-ACL-2024-conferences-2023-12-19.pdf">this link</a>.
