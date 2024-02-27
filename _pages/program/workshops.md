@@ -141,7 +141,7 @@ toc_icon: "cog"
 
 
   <tr>
-    <td><a href="noisy-text.github.io/2024/">9th Workshop on Noisy and User-generated Text</a>
+    <td><a href="https://noisy-text.github.io/2024/">9th Workshop on Noisy and User-generated Text</a>
     </td>
     <td>WNUT</td>
     <td>Radisson</td>
