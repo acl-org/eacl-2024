@@ -10,10 +10,11 @@ toc_only: false
 toc_sticky: true
 toc_icon: "cog" 
 ---
+<!-- Please find more details in the [EACL 2024 Handbook](assets/downloads/handbook.pdf) -->
 
 <h1>EACL 2024 Program of Events</h1>
 
-Detailed schedule coming soon.
+More details coming soon.
 
 <table>
   <tr>
