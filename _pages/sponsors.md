@@ -11,9 +11,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<b><h2>Platinum</h2></b>
+<h2><b>Platinum</b></h2>
 <a href="https://megagon.ai/">
-   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo">
+   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:500px;">
 </a>
 
 <b><h2>Gold</h2></b>
