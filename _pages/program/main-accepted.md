@@ -198,6 +198,7 @@ toc_icon: "cog"
 <b>MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks</b><br />Lei Zhang, Yuge Zhang, Kan Ren, Dongsheng Li and Yuqing Yang<br /><br />
 <b>Text-Guided Image Clustering</b><br />Andreas Stephan, Lukas Miklautz, Kevin Sidak, Jan Philip Wahle, Bela Gipp, Claudia Plant and Benjamin Roth<br /><br />
 <b>CCPrefix: Counterfactual Contrastive Prefix-Tuning for Many-Class Classification</b><br />Yang Li, Canran Xu, Guodong Long, Tao Shen, Chongyang Tao and Jing Jiang<br /><br />
+<b>Threat Behavior Textual Search by Attention Graph Isomorphism</b><br />Chanwoo Bae, Guanhong Tao, Zhuo Zhang and Xiangyu Zhang<br /><br />
 </p>
 
 # Short Papers
@@ -224,7 +225,7 @@ toc_icon: "cog"
 <b>``It's how you do things that matters'': Attending to Process to Better Serve Indigenous Communities with Language Technologies</b><br />Ned Cooper, Courtney Heldreth and Ben Hutchinson<br /><br />
 <b>Source Identification in Abstractive Summarization</b><br />Yoshi Suhara and Dimitris Alikaniotis<br /><br />
 <b>From Partial to Strictly Incremental Constituent Parsing</b><br />Ana Ezquerro, Carlos Gómez-rodríguez and David Vilares<br /><br />
-<b>Predict the Next Word: <Humans exhibit uncertainty in this task and language models _____></b><br />Evgenia Ilia and Wilker Aziz<br /><br />
+<b>Predict the Next Word: &lt;Humans exhibit uncertainty in this task and language models _____&gt;</b><br />Evgenia Ilia and Wilker Aziz<br /><br />
 <b>A Prompt Response to the Demand for Automatic Gender-Neutral Translation</b><br />Beatrice Savoldi, Andrea Piergentili, Dennis Fucci, Matteo Negri and Luisa Bentivogli<br /><br />
 <b>Evaluating and Representing Uncertainty in NLP: Two (Conflicting?) Perspectives</b><br />Joris Baan, Raquel Fernández, Barbara Plank and Wilker Aziz<br /><br />
 <b>Smaller Language Models are Better Zero-shot Machine-Generated Text Detectors</b><br />Niloofar Mireshghallah, Justus Mattern, Sicun Gao, Reza Shokri and Taylor Berg-kirkpatrick<br /><br />
@@ -244,6 +245,8 @@ toc_icon: "cog"
 <b>SOCIALITE-LLAMA: An Instruction-Tuned Model for Social Scientific Tasks</b><br />Gourab Dey, Adithya V Ganesan, Yash Kumar Lal, Manal Shah, Shreyashee Sinha, Matthew Matero, Salvatore Giorgi, Vivek Kulkarni and H. Schwartz<br /><br />
 <b>Pre-Training Methods for Question Reranking</b><br />Stefano Campese, Ivano Lauriola and Alessandro Moschitti<br /><br />
 <b>Dynamic Masking Rate Schedules for MLM Pretraining</b><br />Zachary Ankner, Naomi Saphra, Davis Blalock, Jonathan Frankle and Matthew L Leavitt<br /><br />
+<b>CharSpan: Utilizing Lexical Similarity to Enable Zero-Shot Machine Translation for Extremely Low-resource Languages</b><br />Kaushal Kumar Maurya, Rahul Kejriwal, Maunendra Sankar Desarkar and Anoop Kunchukuttan<br /><br />
+  
 </p>
 
 
