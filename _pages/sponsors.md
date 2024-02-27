@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 ## Platinum
 <a href="https://megagon.ai/">
-   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:400px;">
+   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:450px;">
 </a>
 
 ## Gold
@@ -33,7 +33,7 @@ toc_icon: "cog"
 ## Diversity and inclusion
 
 <a href="https://www.h-its.org">
-   <img src="/assets/images/logos/hits.pdf" alt="Clickable Megagon Logo" style="width:400px;">
+   <img src="/assets/images/logos/hits.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a> 
 
 
