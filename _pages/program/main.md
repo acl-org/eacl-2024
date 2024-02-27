@@ -79,10 +79,10 @@ Detailed schedule coming soon.
 
 <b><a href="https://2024.eacl.org/program/invited/">Keynotes:</a></b> <br>
 Hinrich Schütze: Tuesday 19/03, 09:00 - 10:00 <br>
-Mirella Lapata: Wednesday 20/03, 14:00 - 15:00
+Mirella Lapata: Wednesday 20/03, 14:45 - 15:45
 
 <b><a href="https://2024.eacl.org/program/invited/">Karen Spärck Jones Award Lecture:</a></b> <br>
-Hongning Wang: Monday 18/03, 09:00 - 10:00 
+Hongning Wang: Monday 18/03, 09:30 - 10:30 
 
 <b>Panels:</b> TBA
 <b><a href="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> <br>
