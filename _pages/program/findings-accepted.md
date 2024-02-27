@@ -142,7 +142,7 @@ toc_icon: "cog"
 <b>Exploring hybrid approaches to readability: experiments on the complementarity between linguistic features and transformers</b><br />Rodrigo Wilkens, Patrick Watrin, Rémi Cardon, Alice Pintard, Isabelle Gribomont and Thomas François<br /><br />
 <b>HierarchyNet: Learning to Summarize Source Code with Heterogeneous Representations</b><br />Minh Huynh Nguyen, Nghi D. Q. Bui, Truong Son Hy, Long Tran-thanh and Tien N Nguyen<br /><br />
 <b>NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries</b><br />M202073277@hust.edu.cn, Zhitao Hou, Siyuan Wu, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui and Haidong Zhang<br /><br />
-<b>Towards Context-Based Violence Detection: A Korean Crime Dialogue Dataset</b><br />Minju Kim, Heuiyeen Yeen, Myoung-Wan Koo<br /><br />
+<b>Towards Context-Based Violence Detection: A Korean Crime Dialogue Dataset</b><br />Minju Kim, Heuiyeen Yeen and Myoung-Wan Koo<br /><br />
 </p>
 
 
@@ -183,5 +183,5 @@ toc_icon: "cog"
 <b>Establishing degrees of closeness between audio recordings along different dimensions using large-scale cross-lingual models</b><br />Maxime Fily, Guillaume Wisniewski, Severine Guillaume, Gilles Adda and Alexis Michaud<br /><br />
 <b>How Coherent is Factual Knowledge in Pre-trained Language Models?</b><br />Paul Youssef, Jörg Schlötterer and Christin Seifert<br /><br />
 <b>Understanding the effects of language-specific class-imbalance in multilingual fine-tuning</b><br />Vincent Jung and Lonneke Van Der Plas<br /><br />
-<b>Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation</b><br />Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, Chanjun Park, Jaehyung Seo, Heuiseok Lim<br /><br />
+<b>Generative Interpretation: Toward Human-Like Evaluation for Educational Question-Answer Pair Generation</b><br />Hyeonseok Moon, Jaewook Lee, Sugyeong Eo, Chanjun Park, Jaehyung Seo and Heuiseok Lim<br /><br />
 </p>
