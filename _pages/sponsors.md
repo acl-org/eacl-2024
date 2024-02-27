@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 <h2><b>Platinum</b></h2>
 <a href="https://megagon.ai/">
-   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:500px;">
+   <img src="/assets/images/logos/megagon.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a>
 
 <b><h2>Gold</h2></b>
