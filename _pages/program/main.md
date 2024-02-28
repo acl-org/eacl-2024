@@ -14,7 +14,7 @@ toc_icon: "cog"
 
 <h1>EACL 2024 Program of Events</h1>
 
-Please find more details in the [EACL 2024 Handbook](./assets/downloads/handbook.pdf) (will be updated with the full program once it is finalized).
+Please find more details in the [EACL 2024 Handbook](./downloads/handbook.pdf) (will be updated with the full program once it is finalized).
 
 <table>
   <tr>
