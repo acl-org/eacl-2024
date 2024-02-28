@@ -85,7 +85,7 @@ Mirella Lapata: Wednesday 20/03, 14:45 - 15:45
 <b><a href="https://2024.eacl.org/program/invited/">Karen Spärck Jones Award Lecture:</a></b> <br>
 Hongning Wang: Monday 18/03, 09:30 - 10:30 
 
-<b>Panel:</b> Wednesday, 20/03<br>
+<b>Panel:</b> Wednesday, March 20, 14:00<br>
 Coordination initiatives among National CL Associations in EMEA
 
 <b><a href="https://2024.eacl.org/program/tutorials/">Tutorials:</a></b> <br>
