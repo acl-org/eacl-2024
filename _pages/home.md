@@ -12,28 +12,28 @@ excerpt: "<br/><br/>"
 [EACL 2024 Handbook](assets/downloads/handbook.pdf)
 
 <div class="notice--info" markdown="1">
-  <h2 id="handbook">Handbook-published</h2>
-  **February 28, 2024**. The handbook of EACL 2024 is now available at [this link](assets/downloads/handbook.pdf). It will be updated once the full program is finalized.
+  <h2 id="handbook">Handbook Published</h2>
+  **February 28, 2024**. The handbook of EACL 2024 is now available at [this link](./assets/downloads/handbook.pdf). It will be updated once the full program is finalized.
 </div>
 
 
 <div class="notice--info" markdown="1">
-  <h2 id="early-reg-ends-soon">Early registration ending soon</h2>
+  <h2 id="early-reg-ends-soon">Early Registration Ending Soon</h2>
   **February 21, 2024**. Early bird registration ends this Friday, February 23, 2024, 11:59 PM (EDT). Also, there are still a few rooms available at the Radisson.
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2 id="invited-talks">Exciting news</h2>
+  <h2 id="invited-talks">Exciting News</h2>
   **February 12, 2024**. Mirella Lapata (U Edinburgh), Hinrich Schütze (LMU Munich) will give keynote talks at EACL 2024! Furthermore, the Karen Spärck Jones Award Lecture will be given by Hongning Wang (Tsinghua University)! 
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2 id="invitation-letter">Invitation letters</h2>
+  <h2 id="invitation-letter">Invitation Letters</h2>
   **February 11, 2024**. Invitation letters for visa applications would be automatically issued when you complete the conference registration process.
 </div>
 
 <div class="notice--info" markdown="1">
-  <h2 id="rooms-still-available">Discounted rooms still available at the Radisson</h2>
+  <h2 id="rooms-still-available">Discounted Rooms Still Available at the Radisson</h2>
   **February 7, 2024**. There are still rooms available at the Radisson and blocked for EACL. The accomodation includes breakfast (unlike other offers which may appear cheaper at first sight). You only have to click on <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-malta-st-julians">this link</a> and enter the promocode "EACL" to get the conference rate.
 </div>
 
