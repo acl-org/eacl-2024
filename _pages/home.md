@@ -9,6 +9,14 @@ excerpt: "<br/><br/>"
 ---
 ## News
 
+[EACL 2024 Handbook](assets/downloads/handbook.pdf)
+
+<div class="notice--info" markdown="1">
+  <h2 id="handbook">Handbook-published</h2>
+  **February 28, 2024**. The handbook of EACL 2024 is now available at [this link](assets/downloads/handbook.pdf). It will be updated once the full program is finalized.
+</div>
+
+
 <div class="notice--info" markdown="1">
   <h2 id="early-reg-ends-soon">Early registration ending soon</h2>
   **February 21, 2024**. Early bird registration ends this Friday, February 23, 2024, 11:59 PM (EDT). Also, there are still a few rooms available at the Radisson.
