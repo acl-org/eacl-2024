@@ -20,13 +20,17 @@ toc_icon: "cog"
 <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">
    <img src="/assets/images/logos/bloomberg.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a> 
- 
+
+<a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">
+   <img src="/assets/images/logos/snowflake.png" alt="Clickable Megagon Logo" style="width:400px;">
+</a> 
+
 ## Bronze Sponsor
 <a href="https://research.adobe.com/">
    <img src="/assets/images/logos/adobe.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a> 
 
-<a href="https://babelscape.com/">
+<a href="https://www.snowflake.com/">
    <img src="/assets/images/logos/babelscape.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a> 
 
