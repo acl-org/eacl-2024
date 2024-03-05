@@ -26,7 +26,7 @@ toc_icon: "cog"
 <b>LLM Comparative Assessment: Zero-shot NLG Evaluation through Pairwise Comparisons using Large Language Models</b><br />Adian Liusie, Potsawee Manakul and Mark Gales<br /><br />
 <b>Parameter-Efficient Conversational Recommender System as a Language Processing Task</b><br />Mathieu Ravaut, Hao Zhang, Lu Xu, Aixin Sun and Yong Liu<br /><br />
 <b>OpenPI2.0: An Improved Dataset for Entity Tracking in Texts</b><br />Li Zhang, Hainiu Xu, Abhinav Kommula, Chris Callison-burch and Niket Tandon<br /><br />
-<b>A Comparative Multidimensional Analysis of Empathetic Systems</b><br />Andrew Lee, Jonathan K. Kummerfeld, Lcan@umich.edu and Rada Mihalcea<br /><br />
+<b>A Comparative Multidimensional Analysis of Empathetic Systems</b><br />Andrew Lee, Jonathan K. Kummerfeld, Larry Ann and Rada Mihalcea<br /><br />
 <b>Few-Shot Data Synthesis for Open Domain Multi-Hop Question Answering</b><br />Mingda Chen, Xilun Chen and Wen-tau Yih<br /><br />
 <b>Language Models as Inductive Reasoners</b><br />Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao and Furu Wei<br /><br />
 <b>FTC-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects</b><br />David Ifeoluwa Adelani, Hannah Liu, Xiaoyu Shen, Nikita Vassilyev, Jesujoba Oluwadara Alabi, Yanke Mao, Haonan Gao and En-shiun Annie Lee<br /><br />
@@ -45,7 +45,7 @@ toc_icon: "cog"
 <b>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</b><br />Erik Arakelyan, Zhaoqi Liu and Isabelle Augenstein<br /><br />
 <b>Exploring the Robustness of Task-oriented Dialogue Systems for Colloquial German Varieties</b><br />Katya Artemova, Verena Blaschke and Barbara Plank<br /><br />
 <b>PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents</b><br />Simeng Sun, Yang Liu, Shuohang Wang, Dan Iter, Chenguang Zhu and Mohit Iyyer<br /><br />
-<b>LAraBench: Benchmarking Arabic AI with Large Language Models</b><br />Ahmed Abdelali, Hamdy Mubarak, Shammur Absar Chowdhury, Maram Hasanain, Basel Mousi, Sabri Boughorbel, Samir Abdaljalil, Yassine El Kheir, Daniel Izham, Fahim Dalvi, Majd Hawasly, Nizi Nazar, Youssef Ibrahim Elshahawy, Ahmed Ali, Nadir Durrani, Nmilicfrayling@hbku.edu.qa and Firoj Alam<br /><br />
+<b>LAraBench: Benchmarking Arabic AI with Large Language Models</b><br />Ahmed Abdelali, Hamdy Mubarak, Shammur Absar Chowdhury, Maram Hasanain, Basel Mousi, Sabri Boughorbel, Samir Abdaljalil, Yassine El Kheir, Daniel Izham, Fahim Dalvi, Majd Hawasly, Nizi Nazar, Youssef Ibrahim Elshahawy, Ahmed Ali, Nadir Durrani, Natasa Milic-Frayling and Firoj Alam<br /><br />
 <b>SentenceLDA: Discriminative and Robust Document Representation with Sentence Level Topic Model</b><br />Taehun Cha and Donghun Lee<br /><br />
 <b>AdaPT: A Set of Guidelines for Hyperbolic Multimodal Multilingual NLP</b><br />Ramit Sawhney, Megh Thakkar, Vishwa Shah, Shrey Pandit and Shafiq Joty<br /><br />
 <b>Towards Hierarchical Spoken Language Disfluency Modeling</b><br />Jiachen Lian and Gopala Anumanchipalli<br /><br />
@@ -62,12 +62,12 @@ toc_icon: "cog"
 <b>A* shortest string decoding for non-idempotent semirings</b><br />Kyle Gorman and Cyril Allauzen<br /><br />
 <b>Importance-Aware Data Augmentation for Document-Level Neural Machine Translation</b><br />Minghao Wu, Yufei Wang, George Foster, Lizhen Qu and Gholamreza Haffari<br /><br />
 <b>Lost in Translationese? Reducing Translation Effect Using Abstract Meaning Representation</b><br />Shira Wein and Nathan Schneider<br /><br />
-<b>Comparing Template-based and Template-free Language Model Probing</b><br />Sagi Shaier, Kevbennett@mhs.net, Lawrence Hunter and Katharina Von Der Wense<br /><br />
+<b>Comparing Template-based and Template-free Language Model Probing</b><br />Sagi Shaier, Kevin Bennett, Lawrence Hunter and Katharina Von Der Wense<br /><br />
 <b>Desiderata For The Context Use Of Question Answering Systems</b><br />Sagi Shaier, Lawrence Hunter and Katharina Von Der Wense<br /><br />
 <b>Scaled-up Discovery of Latent Concepts in Deep NLP Models</b><br />Majd Hawasly, Fahim Dalvi and Nadir Durrani<br /><br />
 <b>AnthroScore: A Computational Linguistic Measure of Anthropomorphism</b><br />Myra Cheng, Kristina Gligoric, Tiziano Piccardi and Dan Jurafsky<br /><br />
-<b>Centering the Speech Community</b><br />Steven Bird and Deanyibarbuk@warddeken.org.au<br /><br />
-<b>Beyond Automated Evaluation Metrics: Evaluating Topic Models On Practical Social Science Content Analysis Tasks</b><br />Zongxia Li, Andrew Mao, Daniel Kofi Stephens, Pranav Goel, Emily.walpole@nist.gov, Alden Dima, Juan Francisco Fung and Jordan Lee Boyd-graber<br /><br />
+<b>Centering the Speech Community</b><br />Steven Bird and Dean Yibarbuk<br /><br />
+<b>Beyond Automated Evaluation Metrics: Evaluating Topic Models On Practical Social Science Content Analysis Tasks</b><br />Zongxia Li, Andrew Mao, Daniel Kofi Stephens, Pranav Goel, Emily Walpole, Alden Dima, Juan Francisco Fung and Jordan Lee Boyd-graber<br /><br />
 <b>Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora</b><br />Surangika Ranathunga, Nisansa De Silva, Charitha S.m. Rathnayake, Aloka Fernando and Velayuthan Menan<br /><br />
 <b>VOLTAGE: A Versatile contrastive learning based OCR methodology for ultra Low-resource scripts Through Auto Glyph feature Extraction</b><br />Prawaal Sharma, Poonam Goyal, Vidisha Sharma and Navneet Goyal<br /><br />
 <b>Unsupervised Contrast-Consistent Ranking with Language Models</b><br />Niklas Stoehr, Pengxiang Cheng, Jing Wang, Daniel Preotiuc-pietro and Rajarshi Bhowmik<br /><br />
@@ -91,7 +91,7 @@ toc_icon: "cog"
 <b>Text-to-Code Generation with Modality-relative Pre-training</b><br />Fenia Christopoulou, Guchun Zhang and Gerasimos Lampouras<br /><br />
 <b>No Error Left Behind: Multilingual Grammatical Error Correction with Pre-trained Translation Models</b><br />Agnes Luhtaru, Elizaveta Korotkova and Mark Fishel<br /><br />
 <b>Quantifying Stereotypes in Language</b><br />Yang Liu<br /><br />
-<b>Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model</b><br />Andrew Brown, Jiading Zhu, Mohamed Abdelwahab, Alec Dong, Cin.wang@mail.utoronto.ca and Jonathan Rose<br /><br />
+<b>Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model</b><br />Andrew Brown, Jiading Zhu, Mohamed Abdelwahab, Alec Dong, Cindy Wang and Jonathan Rose<br /><br />
 <b>Multi-Reference Benchmarks for Russian Grammatical Error Correction</b><br />Frank Palma Gomez and Alla Rozovskaya<br /><br />
 <b>Plan-Grounded Large Language Models for Dual Goal Conversational Settings</b><br />Diogo Glória-silva, Rafael Ferreira, Diogo Tavares, David Semedo and Joao Magalhaes<br /><br />
 <b>“Define Your Terms” : Enhancing Efficient Offensive Speech Classification with Definition</b><br />Huy Nghiem, Umang Gupta and Fred Morstatter<br /><br />
