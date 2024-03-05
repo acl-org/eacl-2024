@@ -45,7 +45,6 @@ toc_icon: "cog"
 <b>Learning to Compare Financial Reports for Financial Forecasting</b><br />Ross Koval, Nicholas Andrews and Xifeng Yan<br /><br />
 <b>Arukikata Travelogue Dataset with Geographic Entity Mention, Coreference, and Link Annotation</b><br />Shohei Higashiyama, Hiroki Ouchi, Hiroki Teranishi, Hiroyuki Otomo, Yusuke Ide, Aitaro Yamamoto, Hiroyuki Shindo, Yuki Matsuda, Shoko Wakamiya, Naoya Inoue, Ikuya Yamada and Taro Watanabe<br /><br />
 <b>Knowledge Generation for Zero-shot Knowledge-based VQA</b><br />Rui Cao and Jing Jiang<br /><br />
-<b>Teaching-Assistant-in-the-Loop: Improving Knowledge Distillation from Imperfect Teacher models in Low-Budget Scenarios</b><br />Yuhang Zhou, Yuguang Yue, Giannis Karamanolakis, Mayank Kulkarni, Wei Ai and Jianhua Lu<br /><br />
 <b>Personalized Abstractive Summarization by Tri-agent Generation Pipeline</b><br />Wen Xiao, Yujia Xie, Giuseppe Carenini and Pengcheng He<br /><br />
 <b>Reward Engineering for Generating Semi-structured Explanation</b><br />Jiuzhou Han, Wray Buntine and Ehsan Shareghi<br /><br />
 <b>Capturing the Relationship Between Sentence Triplets for LLM and Human-Generated Texts to Enhance Sentence Embeddings</b><br />Na Min An, Sania Waheed and James Thorne<br /><br />
