@@ -22,7 +22,7 @@ toc_icon: "cog"
 <b>Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing</b><br />Chanjun Park, Jaehyung Seo, Seolhwa Lee, Junyoung Son, Hyeonseok Moon, Sugyeong Eo, Chanhee Lee and Heuiseok Lim<br /><br />
 <b>ParrotTTS: Text-to-speech synthesis exploiting disentangled self-supervised representations</b><br />Neil Shah, Saiteja Kosgi, Vishal Tambrahalli, Neha S, Anil Kumar Nelakanti and Vineet Gandhi<br /><br />
 <b>NavHint: Vision and Language Navigation Agent with a Hint Generator</b><br />Yue Zhang, Quan Guo and Parisa Kordjamshidi<br /><br />
-<b>Text or Image? What is More Important in Cross-Domain Generalization Capabilities of Hate Meme Detection Models?</b><br />Piush Aggarwal, Jawar Mehrabanian, Weigang.huang@stud.uni-due.de, Özge Alacam and Torsten Zesch<br /><br />
+<b>Text or Image? What is More Important in Cross-Domain Generalization Capabilities of Hate Meme Detection Models?</b><br />Piush Aggarwal, Jawar Mehrabanian, Weigang Huang, Özge Alacam and Torsten Zesch<br /><br />
 <b>A Methodology for Generative Spelling Correction via Natural Spelling Errors Emulation across Multiple Domains and Languages</b><br />Nikita Martynov, Mark Baushenko, Anastasia Kozlova, Katerina Kolomeytseva, Aleksandr Abramov and Alena Fenogenova<br /><br />
 <b>Large Language Models for Psycholinguistic Plausibility Pretesting</b><br />Samuel Joseph Amouyal, Aya Meltzer-asscher and Jonathan Berant<br /><br />
 <b>Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation</b><br />Heng Yang and Ke Li<br /><br />
@@ -33,7 +33,7 @@ toc_icon: "cog"
 <b>PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation</b><br />Nadav Benedek and Lior Wolf<br /><br />
 <b>Revamping Multilingual Agreement Bidirectionally via Switched Back-translation for Multilingual Neural Machine Translation</b><br />Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Furu Wei and Wai Lam<br /><br />
 <b>mPLM-Sim: Better Cross-Lingual Similarity and Transfer in Multilingual Pretrained Language Models</b><br />Peiqin Lin, Chengzhi Hu, Zheyu Zhang, Andre Martins and Hinrich Schuetze<br /><br />
-<b>OYXOY: A Modern NLP Test Suite for Modern Greek</b><br />Konstantinos Kogkalidis, Stergios Chatzikyriakidis, Eirini Chrysovalantou Giannikouri, Philp0929@philology.uoc.gr, Christina Klironomou, Philp0960@philology.uoc.gr, Philp0961@philology.uoc.gr, Thelka Pasparaki, Philp0883@philology.uoc.gr, Philp0962@philology.uoc.gr and Charikleia Soupiona<br /><br />
+<b>OYXOY: A Modern NLP Test Suite for Modern Greek</b><br />Konstantinos Kogkalidis, Stergios Chatzikyriakidis, Eirini Chrysovalantou Giannikouri, Vasiliki Katsouli, Christina Klironomou, Christina Koula, Dimitris Papadakis, Thelka Pasparaki, Erofili Psaltaki, Efthymia Sakellariou and Charikleia Soupiona<br /><br />
 <b>Multi-Domain Dialogue State Tracking via Dual Dynamic Graph with Hierarchical Slot Selector</b><br />Yeseul Gong, Heeseon Kim, Seokju Hwang, Donghyun Kim and Kyong-ho Lee<br /><br />
 <b>A Comprehensive Evaluation of Inductive Reasoning Capabilities and Problem Solving in Large Language Models</b><br />Chen Bowen, Rune Sætre and Yusuke Miyao<br /><br />
 <b>Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition</b><br />Tu Nguyen, Nedim Šrndić and Alexander Neth<br /><br />
@@ -85,7 +85,7 @@ toc_icon: "cog"
 <b>Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning</b><br />Lifu Tu, Jin Qu, Semih Yavuz, Shafiq Joty, Wenhao Liu, Caiming Xiong and Yingbo Zhou<br /><br />
 <b>Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback</b><br />Nikhil Mehta, Milagro Teruel, Xin Deng, Sergio Patricio Figueroa Sanz, Ahmed Hassan Awadallah and Julia Kiseleva<br /><br />
 <b>Goodhart’s Law Applies to NLP’s Explanation Benchmarks</b><br />Jennifer Hsia, Danish Pruthi, Aarti Singh and Zachary Chase Lipton<br /><br />
-<b>Syllable-level lyrics generation from melody exploiting character-level language model</b><br />Zhe Zhang, Karolasocki@gmail.com, Yi Yu and Takasu@nii.ac.jp<br /><br />
+<b>Syllable-level lyrics generation from melody exploiting character-level language model</b><br />Zhe Zhang, Karol Lasocki, Yi Yu and Atsuhiro Takasu<br /><br />
 <b>Prompt Perturbation Consistency Learning for Robust Language Models</b><br />Yao Qiang, Subhrangshu Nandi, Ninareh Mehrabi, Greg Ver Steeg, Anoop Kumar, Anna Rumshisky and Aram Galstyan<br /><br />
 <b>Minimal Distillation Schedule for Extreme Language Model Compression</b><br />Chen Zhang, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu and Dawei Song<br /><br />
 <b>Event Semantic Classification in Context</b><br />Haoyu Wang, Hongming Zhang, Kaiqiang Song, Dong Yu and Dan Roth<br /><br />
@@ -108,7 +108,7 @@ toc_icon: "cog"
 <b>On Measuring Context Utilization in Document-Level MT Systems</b><br />Wafaa Mohammed and Vlad Niculae<br /><br />
 <b>Solving NLP Problems through Human-System Collaboration: A Discussion-based Approach</b><br />Masahiro Kaneko, Graham Neubig and Naoaki Okazaki<br /><br />
 <b>Morphology Aware Source Term Masking for Terminology-Constrained NMT</b><br />Ander Corral and Xabier Saralegi<br /><br />
-<b>SENSE-LM : A Synergy of Language Models and Sensorimotor Representations for Sensory Information Extraction</b><br />Cédric Boscher, Christine Largeron, Veronique.eglin@insa-lyon.fr and Elöd Egyed-zsigmond<br /><br />
+<b>SENSE-LM : A Synergy of Language Models and Sensorimotor Representations for Sensory Information Extraction</b><br />Cédric Boscher, Christine Largeron, Véronique Eglin and Elöd Egyed-zsigmond<br /><br />
 <b>In-Contextual Gender Bias Suppression for Large Language Models</b><br />Daisuke Oba, Masahiro Kaneko and Danushka Bollegala<br /><br />
 <b>Parameter-Efficient Fine-Tuning: Is There An Optimal Subset of Parameters to Tune?</b><br />Max Ploner and Alan Akbik<br /><br />
 <b>Contextualized Topic Coherence Metrics</b><br />Hamed Rahimi, Bernd Amann, David Mimno, Jacob Louis Hoover, Hubert Naacke and Camelia Constantin<br /><br />
@@ -123,9 +123,9 @@ toc_icon: "cog"
 <b>Natural Language is All a Graph Needs</b><br />Ruosong Ye, Caiqi Zhang, Runhui Wang, Shuyuan Xu and Yongfeng Zhang<br /><br />
 <b>Unraveling the Dynamics of Semi-Supervised Hate Speech Detection: The Impact of Unlabeled Data Characteristics and Pseudo-Labeling Strategies</b><br />Florian Ludwig, Klara Dolos, Ana Alves-pinto and Torsten Zesch<br /><br />
 <b>When do Generative Query and Document Expansions Fail? A Comprehensive Study Across Methods, Retrievers, and Datasets</b><br />Orion Weller, Kyle Lo, David Wadden, Dawn Lawrie, Benjamin Van Durme, Arman Cohan and Luca Soldaini<br /><br />
-<b>Can Large Language Models Understand Context?</b><br />Yilun Zhu, Joel Ruben Antony Moniz, Shruti Bhargava, Jiarui Lu, Dhivya Piraviperumal, Site Li, Yzhang73@apple.com, Hong Yu and Bo-hsiang Tseng<br /><br />
+<b>Can Large Language Models Understand Context?</b><br />Yilun Zhu, Joel Ruben Antony Moniz, Shruti Bhargava, Jiarui Lu, Dhivya Piraviperumal, Site Li, Yuan Zhang, Hong Yu and Bo-hsiang Tseng<br /><br />
 <b>Let's Negotiate! A Survey of Negotiation Dialogue Systems</b><br />Haolan Zhan, Yufei Wang, Zhuang Li, Tao Feng, Yuncheng Hua, Suraj Sharma, Lizhen Qu, Zhaleh Semnani Azad and Reza Haf<br /><br />
-<b>Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models</b><br />Younghun Lee, Dan Goldwasser and Lschwabr@purdue.edu<br /><br />
+<b>Towards Understanding Counseling Conversations: Domain Knowledge and Large Language Models</b><br />Younghun Lee, Dan Goldwasser and Laura Schwab Reese<br /><br />
 <b>Better Explain Transformers by Illuminating Important Information</b><br />Linxin Song, Yan Cui, Ao Luo, Freddy Lecue and Irene Li<br /><br />
 <b>Testing the Depth of ChatGPT's Comprehension via Cross-Modal Tasks Based on ASCII-Art: GPT3.5's Abilities in Regard to Recognizing and Generating ASCII-Art Are Not Totally Lacking</b><br />David Bayani<br /><br />
 <b>Cross-lingual Editing in Multilingual Language Models</b><br />Himanshu Beniwal, Kowsik Nandagopan D and Mayank Singh<br /><br />
@@ -140,7 +140,7 @@ toc_icon: "cog"
 <b>DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI</b><br />Jianguo Zhang, Kun Qian, Zhiwei Liu, Shelby Heinecke, Rui Meng, Ye Liu, Zhou Yu, Huan Wang, Silvio Savarese and Caiming Xiong<br /><br />
 <b>Exploring hybrid approaches to readability: experiments on the complementarity between linguistic features and transformers</b><br />Rodrigo Wilkens, Patrick Watrin, Rémi Cardon, Alice Pintard, Isabelle Gribomont and Thomas François<br /><br />
 <b>HierarchyNet: Learning to Summarize Source Code with Heterogeneous Representations</b><br />Minh Huynh Nguyen, Nghi D. Q. Bui, Truong Son Hy, Long Tran-thanh and Tien N Nguyen<br /><br />
-<b>NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries</b><br />M202073277@hust.edu.cn, Zhitao Hou, Siyuan Wu, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui and Haidong Zhang<br /><br />
+<b>NL2Formula: Generating Spreadsheet Formulas from Natural Language Queries</b><br />Wei Zhao, Zhitao Hou, Siyuan Wu, Yan Gao, Haoyu Dong, Yao Wan, Hongyu Zhang, Yulei Sui and Haidong Zhang<br /><br />
 <b>Towards Context-Based Violence Detection: A Korean Crime Dialogue Dataset</b><br />Minju Kim, Heuiyeen Yeen and Myoung-Wan Koo<br /><br />
 </p>
 
@@ -168,7 +168,7 @@ toc_icon: "cog"
 <b>Random Smooth-based Certified Defense against Text Adversarial Attack</b><br />Zeliang Zhang, Wei Yao, Susan Liang and Chenliang Xu<br /><br />
 <b>Correcting Language Model Outputs by Editing Salient Layers</b><br />Kshitij Mishra, Tamer Soliman, Anil Ramakrishna, Aram Galstyan and Anoop Kumar<br /><br />
 <b>Monolingual or Multilingual Instruction Tuning: Which Makes a Better Alpaca</b><br />Pinzhen Chen, Shaoxiong Ji, Nikolay Bogoychev, Andrey Kutuzov, Barry Haddow and Kenneth Heafield<br /><br />
-<b>Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning</b><br />B08902138@ntu.edu.tw, Chung-chi Chen, Hen-hsen Huang and Hsin-hsi Chen<br /><br />
+<b>Enhancing Society-Undermining Disinformation Detection through Fine-Grained Sentiment Analysis Pre-Finetuning</b><br />Tsung-Hsuan Pan, Chung-chi Chen, Hen-hsen Huang and Hsin-hsi Chen<br /><br />
 <b>High-quality Data-to-Text Generation for Severely Under-Resourced Languages with Out-of-the-box Large Language Models</b><br />Michela Lorandi and Anya Belz<br /><br />
 <b>Assessing the Portability of Parameter Matrices Trained by Parameter-Efficient Finetuning Methods</b><br />Mohammed Sabry Mohammed and Anya Belz<br /><br />
 <b>GrounDial: Human-norm Grounded Safe Dialog Response Generation</b><br />Siwon Kim, Shuyang Dai, Mohammad Kachuee, Shayan Ray, Tara Taghavi and Sungroh Yoon<br /><br />
