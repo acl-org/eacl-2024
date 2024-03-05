@@ -21,7 +21,7 @@ toc_icon: "cog"
    <img src="/assets/images/logos/bloomberg.jpg" alt="Clickable Megagon Logo" style="width:400px;">
 </a> 
 
-<a href="https://www.snowflake.com/">
+<a href="https://careers.snowflake.com/us/en/blogarticle/hearts-full-of-ml-brains-full-of-knowledge-the-snowflake-cognitive-services-team">
    <img src="/assets/images/logos/snowflake.png" alt="Clickable Snowflake Logo" style="width:400px;">
 </a> 
 
