@@ -152,7 +152,7 @@ toc_icon: "cog"
 <b>Exploring Data Augmentation in Neural DRS-to-Text Generation</b><br />Muhammad Saad Amin, Alessandro Mazzei and Luca Anselma<br /><br />
 <b>Think Twice: Measuring the Efficiency of Eliminating Prediction Shortcuts of Question Answering Models</b><br />Lukáš Mikula, Michal Štefánik, Marek Petrovič and Petr Sojka<br /><br />
 <b>Improving Contrastive Learning in Emotion Recognition in Conversation via Data Augmentation and Decoupled Neutral Emotion</b><br />Yujin Kang and Yoon-sik Cho<br /><br />
-<b>Neuralign: A Context-Aware, Cross-Lingual and Fully-Neural Sentence Alignment System for Long Texts</b><br />Francesco Maria Molfese, Andrei Stefan Bejgu, Simone Tedeschi, Simone Conia and Roberto Navigli<br /><br />
+<b>CroCoAlign: A Cross-Lingual, Context-Aware and Fully-Neural Sentence Alignment System for Long Texts</b><br />Francesco Maria Molfese, Andrei Stefan Bejgu, Simone Tedeschi, Simone Conia and Roberto Navigli<br /><br />
 <b>Explaining Speech Classification Models via Word-Level Audio Segments and Paralinguistic Features</b><br />Eliana Pastor, Alkis Koudounas, Giuseppe Attanasio, Dirk Hovy and Elena Baralis<br /><br />
 <b>Zero-Shot End-to-End Spoken Language Understanding via Cross-Modal Selective Self-Training</b><br />Jianfeng He, Julian Salazar, Kaisheng Yao, Haoqi Li and Jason Cai<br /><br />
 <b>Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models</b><br />Natalie Shapira, Mosh Levy, Seyed Hossein Alavi, Xuhui Zhou, Yejin Choi, Yoav Goldberg, Maarten Sap and Vered Shwartz<br /><br />
