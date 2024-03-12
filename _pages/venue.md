@@ -104,6 +104,19 @@ Electrical sockets in Malta are designed to use the british style of plug (shown
 </center>
 
 
+Below are the details for the poster printing. Direct link to place order - <a href = "https://www.printingmalta.com.mt/en/get-a-quote/1073">this link</a>
+
+- Cost - 30 Euro
+- A0 Portrait for presenting 
+
+Please note hours of operation:
+- M-F 07:00 - 15:30 
+- Closed Saturday and Sunday. 
+- Please note 24 hour turn around and hours of operation. 
+- Tuesday 3/19 is a public holiday so no service or deliveries. 
+- All orders placed by Thursday 3/14 end of day will be ready on site for pick up on Monday Morning. 
+- All orders placed by Saturday 3/15 will be delivered Monday end of day. 
+
 <!-- [**Hotel Radisson Blu**](https://www.radissonhotels.com/en-us/booking/room-display?checkInDate=2024-03-17&checkOutDate=2024-03-18&adults%5B%5D=2&children%5B%5D=0&searchType=lowest&promotionCode=&voucher=&brandFirst=rdb&hotelCode=MTMLASTJ)
  -->
 <!--€129.79 Double Rate includes accommodations and tax. St Julian's STJ 3391, Malta. Reception: +356 2137 4894 -->
