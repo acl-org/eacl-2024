@@ -10,6 +10,11 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
+  <h2 id="handbook">Notice</h2>
+  **16 March, 2024**. Please note that Malta uses UK sockets and driving is on the left.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="handbook">Handbook Published</h2>
   **February 28, 2024**. The handbook of EACL 2024 is now available at [this link](./downloads/handbook.pdf). It will be updated once the full program is finalized.
 </div>
