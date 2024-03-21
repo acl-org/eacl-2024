@@ -16,7 +16,7 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="handbook">Best Papers</h2>
-  **21 March, 2024**. The best papers and awards are available to see at [this link](https://2024.eacl.org/program/best-paper/)
+  **21 March, 2024**. The best papers and awards are available to see at [this link](https://2024.eacl.org/program/best-paper/).
 </div>
 
 <div class="notice--info" markdown="1">
