@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
-  <h2 id="handbook">Best Papers</h2>
+  <h2 id="handbook">Proceedings</h2>
   **21 March, 2024**. The proceedings of the main conference, Findings, workshops, tutorials, system demonstrations, and the student research workshop are accessible through the ACL Anthology.
 </div>
 
@@ -18,8 +18,6 @@ excerpt: "<br/><br/>"
   <h2 id="handbook">Best Papers</h2>
   **21 March, 2024**. The best papers and awards are available to see at [this link](https://2024.eacl.org/program/best-paper/)
 </div>
-
- the best papers & awards
 
 <div class="notice--info" markdown="1">
   <h2 id="handbook">Notice</h2>
