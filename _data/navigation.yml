@@ -29,8 +29,8 @@ program:
         url: /program/main-accepted/
       - title: "Findings Accepted Papers"
         url: /program/findings-accepted/
-     
-
+      - title: "Best Paper Awards"
+        url: /program/best-paper/
 
 registration:
   - title: Registration
