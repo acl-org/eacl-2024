@@ -27,7 +27,7 @@ The following papers have been given awards.
 
 - **[MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks](https://aclanthology.org/2024.eacl-long.179/).**<br/> Lei Zhang, Yuge Zhang, Kan Ren, Dongsheng Li, Yuqing Yang.
 
-- **[Karde\c{s}-NLU: Transfer to Low-Resource Languages with Big Brother's Help -- A Benchmark and Evaluation for Turkic Languages](https://aclanthology.org/2024.eacl-long.100/).**<br/> Lütfi Kerem Senel, Benedikt Ebing, Konul Baghirova, Hinrich Schuetze, Goran Glavaš.
+- **[Kardeş-NLU: Transfer to Low-Resource Languages with Big Brother's Help -- A Benchmark and Evaluation for Turkic Languages](https://aclanthology.org/2024.eacl-long.100/).**<br/> Lütfi Kerem Senel, Benedikt Ebing, Konul Baghirova, Hinrich Schuetze, Goran Glavaš.
 
 - **[Centering the Speech Community](https://aclanthology.org/2024.eacl-long.50/).**<br/> Steven Bird, Dean Yibarbuk.
 
