@@ -11,7 +11,7 @@ excerpt: "<br/><br/>"
 
 <div class="notice--info" markdown="1">
   <h2 id="handbook">Proceedings</h2>
-  **21 March, 2024**. The proceedings of the main conference, Findings, workshops, tutorials, system demonstrations, and the student research workshop are accessible through the ACL Anthology.
+  **21 March, 2024**. The proceedings of the [main conference](https://aclanthology.org/events/eacl-2024/), [Findings](https://aclanthology.org/events/findings-2024/), [workshops](https://aclanthology.org/events/eacl-2024/), [tutorials](https://aclanthology.org/events/eacl-2024/#2024eacl-tutorials), [system demonstrations](https://aclanthology.org/events/eacl-2024/#2024eacl-demo), and the [student research workshop](https://aclanthology.org/events/eacl-2024/#2024eacl-srw) are accessible through the ACL Anthology.
 </div>
 
 <div class="notice--info" markdown="1">
